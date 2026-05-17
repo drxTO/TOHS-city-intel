@@ -17654,7 +17654,4941 @@
       "desc": "Plumbing - Proposed interior alterations."
     }
   ],
-  "str": [],
-  "mth": [],
-  "pdn": []
+  "str": [
+    {
+      "num": "31",
+      "street": "IRVINGTON",
+      "type": "CRES",
+      "dir": "",
+      "unit": "UL RM 1&2",
+      "reg": "STR-2009-GVCHBH"
+    },
+    {
+      "num": "105",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "unit": "601",
+      "reg": "STR-2011-HLHDVK"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4701",
+      "reg": "STR-2011-GVWKVH"
+    },
+    {
+      "num": "92",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2011-JDVDVM"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3910",
+      "reg": "STR-2011-HHJKVJ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "632",
+      "reg": "STR-2012-GBLXVD"
+    },
+    {
+      "num": "63",
+      "street": "INNES",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2012-JDKRVM"
+    },
+    {
+      "num": "37",
+      "street": "INDIAN",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2012-GMMBHG"
+    },
+    {
+      "num": "209",
+      "street": "INDIAN ROAD",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2012-HHHHHJ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2102",
+      "reg": "STR-2211-FGLVHP"
+    },
+    {
+      "num": "174",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "Upper",
+      "reg": "STR-2211-JCJHHZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2610",
+      "reg": "STR-2211-GTRPHV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2707",
+      "reg": "STR-2212-GRVBHT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2601",
+      "reg": "STR-2301-FPCKVQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "933",
+      "reg": "STR-2302-HTQKVY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "829",
+      "reg": "STR-2302-FSLXVQ"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3206",
+      "reg": "STR-2303-HBPDVW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3707",
+      "reg": "STR-2303-HKCPHX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3001",
+      "reg": "STR-2304-FHJPHP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4106",
+      "reg": "STR-2304-HDHHHW"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3702",
+      "reg": "STR-2304-GGGBHS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1712",
+      "reg": "STR-2305-GZJPHV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1915",
+      "reg": "STR-2210-GGDKVF"
+    },
+    {
+      "num": "616",
+      "street": "INDIAN",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2210-HDYRVJ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3015",
+      "reg": "STR-2405-FXTXVR"
+    },
+    {
+      "num": "696",
+      "street": "INDIAN",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2405-HVXKVY"
+    },
+    {
+      "num": "65",
+      "street": "INNISWOOD",
+      "type": "DR",
+      "dir": "",
+      "unit": "A",
+      "reg": "STR-2108-FXVPHD"
+    },
+    {
+      "num": "19",
+      "street": "IVY LEA",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2111-HWHRVL"
+    },
+    {
+      "num": "1222",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2111-HHTKVJ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "931",
+      "reg": "STR-2112-FSZKVC"
+    },
+    {
+      "num": "2835",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "unit": "708",
+      "reg": "STR-2201-JDVRVM"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3105",
+      "reg": "STR-2204-HSKBHL"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1209",
+      "reg": "STR-2204-FJMPHB"
+    },
+    {
+      "num": "682",
+      "street": "INDIAN",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2204-FWSHHD"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4511",
+      "reg": "STR-2205-HQBVHK"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4009",
+      "reg": "STR-2206-GHDDVF"
+    },
+    {
+      "num": "176",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "2",
+      "reg": "STR-2206-HRBXVK"
+    },
+    {
+      "num": "1531",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2207-HQZVHK"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1709",
+      "reg": "STR-2208-GVGVHH"
+    },
+    {
+      "num": "33",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "G19",
+      "reg": "STR-2208-HDTVHJ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "825",
+      "reg": "STR-2208-FWSPHD"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "723",
+      "reg": "STR-2209-HYJDVL"
+    },
+    {
+      "num": "27",
+      "street": "IRVINGTON",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2210-GLLRVG"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2502",
+      "reg": "STR-2210-GDWDVF"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2507",
+      "reg": "STR-2106-FTXXVC"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2803",
+      "reg": "STR-2106-JBBPHM"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3202",
+      "reg": "STR-2107-HZMHHM"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2203",
+      "reg": "STR-2107-GVCVHH"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1615",
+      "reg": "STR-2306-FRHKVQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4615",
+      "reg": "STR-2306-GZBKVV"
+    },
+    {
+      "num": "350",
+      "street": "INDIAN ROAD",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2306-GFMDVS"
+    },
+    {
+      "num": "256",
+      "street": "INDIAN ROAD",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2306-FXZDVR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "726",
+      "reg": "STR-2306-GHMDVS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1501",
+      "reg": "STR-2307-GMBPHT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "531",
+      "reg": "STR-2307-GFLBHS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "532",
+      "reg": "STR-2307-GHJVHS"
+    },
+    {
+      "num": "115",
+      "street": "ISAAC DEVINS",
+      "type": "BLVD",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2307-GDYBHS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3301",
+      "reg": "STR-2308-FDPRVP"
+    },
+    {
+      "num": "25",
+      "street": "INDIAN TRL",
+      "type": "",
+      "dir": "",
+      "unit": "Lower",
+      "reg": "STR-2309-GMTKVT"
+    },
+    {
+      "num": "1161",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2309-JCTKVZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3701",
+      "reg": "STR-2310-FGYDVP"
+    },
+    {
+      "num": "27",
+      "street": "ISLAND",
+      "type": "RD",
+      "dir": "",
+      "unit": "18",
+      "reg": "STR-2310-FDSHHP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2612",
+      "reg": "STR-2310-GLYHHT"
+    },
+    {
+      "num": "23",
+      "street": "IDYLLWOOD",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2311-HLMPHX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4715",
+      "reg": "STR-2311-HHKBHW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4811",
+      "reg": "STR-2312-JFVXVZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2712",
+      "reg": "STR-2312-HRRDVY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1115",
+      "reg": "STR-2401-FDTRVP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4603",
+      "reg": "STR-2401-HRDDVX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2111",
+      "reg": "STR-2401-GMSKVT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "626",
+      "reg": "STR-2402-FMYKVQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4111",
+      "reg": "STR-2402-JFDDVZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1605",
+      "reg": "STR-2403-FRCBHQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "PH06",
+      "reg": "STR-2403-FWMVHR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "222",
+      "reg": "STR-2403-HGSPHW"
+    },
+    {
+      "num": "1535",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2403-JGDHHZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3111",
+      "reg": "STR-2403-GGWBHS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4508",
+      "reg": "STR-2404-GPQBHT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3309",
+      "reg": "STR-2404-GVRHHV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3603",
+      "reg": "STR-2404-HVRHHY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2501",
+      "reg": "STR-2405-HXWDVY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3112",
+      "reg": "STR-2405-FPZXVQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1707",
+      "reg": "STR-2405-JGTXVZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2210",
+      "reg": "STR-2405-GXZXVV"
+    },
+    {
+      "num": "590",
+      "street": "INDIAN GROVE",
+      "type": "",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2405-HYRKVY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4206",
+      "reg": "STR-2405-HWWDVY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3708",
+      "reg": "STR-2406-FWXKVR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2701",
+      "reg": "STR-2406-GJGXVS"
+    },
+    {
+      "num": "231",
+      "street": "INDIAN",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2406-GPRPPT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3302",
+      "reg": "STR-2406-HDBBPW"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2315",
+      "reg": "STR-2406-JDBBPZ"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2801",
+      "reg": "STR-2406-HSYVPY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4912",
+      "reg": "STR-2407-GBYVPR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4306",
+      "reg": "STR-2407-GZVBPV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3901",
+      "reg": "STR-2407-HRLVPX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "326",
+      "reg": "STR-2407-FHBFBP"
+    },
+    {
+      "num": "174R",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2408-GQHFBT"
+    },
+    {
+      "num": "588",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2408-FFJLBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2806",
+      "reg": "STR-2408-FMQLBQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4003",
+      "reg": "STR-2408-HPWLBX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1711",
+      "reg": "STR-2409-GFQLBS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2012",
+      "reg": "STR-2409-HSBFBY"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3710",
+      "reg": "STR-2409-JCFYBZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3307",
+      "reg": "STR-2409-GPQLBT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1715",
+      "reg": "STR-2404-GCZXVS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3209",
+      "reg": "STR-2404-FWZXVR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3108",
+      "reg": "STR-2404-GMMXVT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1",
+      "reg": "STR-2404-FYGXVR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "15",
+      "reg": "STR-2409-HLDVPX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2706",
+      "reg": "STR-2410-GFHHPS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4708",
+      "reg": "STR-2410-GFZBPS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4001",
+      "reg": "STR-2411-GMJPPT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3007",
+      "reg": "STR-2411-HRQSBY"
+    },
+    {
+      "num": "20",
+      "street": "INN THE PARK",
+      "type": "DR",
+      "dir": "",
+      "unit": "2132",
+      "reg": "STR-2411-GPTFBT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4002",
+      "reg": "STR-2411-JDQSBZ"
+    },
+    {
+      "num": "37",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2412-HJMFBX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "232",
+      "reg": "STR-2412-FFMFBP"
+    },
+    {
+      "num": "130",
+      "street": "IVY",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2501-GVPLBV"
+    },
+    {
+      "num": "1367",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2501-FKJSBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2511",
+      "reg": "STR-2501-FMHLBQ"
+    },
+    {
+      "num": "1343",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2501-GWVLBV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1809",
+      "reg": "STR-2501-GSBLBT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2103",
+      "reg": "STR-2501-HMZFBX"
+    },
+    {
+      "num": "158",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "Unit 1",
+      "reg": "STR-2501-FSTFBQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4703",
+      "reg": "STR-2502-HGZFBW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4115",
+      "reg": "STR-2502-FDQVPP"
+    },
+    {
+      "num": "158",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "B1",
+      "reg": "STR-2502-FPCVPQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1206",
+      "reg": "STR-2502-FYGHPR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1609",
+      "reg": "STR-2503-FHVPPP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4510",
+      "reg": "STR-2503-HXBPPY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2608",
+      "reg": "STR-2503-JFJVPZ"
+    },
+    {
+      "num": "158",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "UNIT B2",
+      "reg": "STR-2503-GKCVPS"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4001",
+      "reg": "STR-2504-GQPPPT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2107",
+      "reg": "STR-2504-GTCVPV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2009",
+      "reg": "STR-2504-GRGHPT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1602",
+      "reg": "STR-2504-GBZHPR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3315",
+      "reg": "STR-2504-GGFBPS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "926",
+      "reg": "STR-2505-HJTHPX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4108",
+      "reg": "STR-2505-HRZHPY"
+    },
+    {
+      "num": "2101",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "unit": "312",
+      "reg": "STR-2505-GMYBPT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1106",
+      "reg": "STR-2505-HFSBPW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "826",
+      "reg": "STR-2505-HYSBPY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "633",
+      "reg": "STR-2506-HTJVPY"
+    },
+    {
+      "num": "174",
+      "street": "ISLAND",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2506-FQGHPQ"
+    },
+    {
+      "num": "715",
+      "street": "INDIAN",
+      "type": "RD",
+      "dir": "",
+      "unit": "Lower",
+      "reg": "STR-2506-GGZHPS"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2309",
+      "reg": "STR-2506-GCGHPR"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1616",
+      "reg": "STR-2506-FQHSBQ"
+    },
+    {
+      "num": "33",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "unit": "2701",
+      "reg": "STR-2506-JCHSBZ"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3907",
+      "reg": "STR-2506-HZMLBZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4812",
+      "reg": "STR-2506-FFWYBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4512",
+      "reg": "STR-2506-FSGLBQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "831",
+      "reg": "STR-2506-FTMLBQ"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2515",
+      "reg": "STR-2507-GTPSBV"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3808",
+      "reg": "STR-2507-HDSFBW"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2202",
+      "reg": "STR-2507-GKBSBS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "529",
+      "reg": "STR-2507-GJMLBS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3902",
+      "reg": "STR-2507-HXTLBY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4209",
+      "reg": "STR-2507-FGBSBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "923",
+      "reg": "STR-2507-GGBSBS"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2701",
+      "reg": "STR-2508-JCQYBZ"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2116",
+      "reg": "STR-2508-GPZLBT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4210",
+      "reg": "STR-2508-JDGLBZ"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2912",
+      "reg": "STR-2508-FZCYBR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2807",
+      "reg": "STR-2508-FSMLBQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2512",
+      "reg": "STR-2508-GJQYBS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3807",
+      "reg": "STR-2508-JGCYBZ"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4015",
+      "reg": "STR-2508-GKGLBS"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3308",
+      "reg": "STR-2508-HYMLBY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4807",
+      "reg": "STR-2508-HPLFBX"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3807",
+      "reg": "STR-2508-HHLFBW"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1511",
+      "reg": "STR-2508-GKZLBT"
+    },
+    {
+      "num": "807",
+      "street": "INDIAN",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2508-GQCYBT"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3606",
+      "reg": "STR-2508-HWCYBY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4010",
+      "reg": "STR-2508-FVPSBR"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1509",
+      "reg": "STR-2509-GFBSBS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3511",
+      "reg": "STR-2509-HLTLBX"
+    },
+    {
+      "num": "158",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "2",
+      "reg": "STR-2509-FZZLBR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1710",
+      "reg": "STR-2509-HZLHPZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "PH08",
+      "reg": "STR-2510-HYFHPY"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4311",
+      "reg": "STR-2510-GBDBPR"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "735",
+      "reg": "STR-2510-HQKBPX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2208",
+      "reg": "STR-2510-HXBVPY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1107",
+      "reg": "STR-2510-GJLHPS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1111",
+      "reg": "STR-2510-GKBVPS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4506",
+      "reg": "STR-2510-HKTPPX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4012",
+      "reg": "STR-2510-GFKBPS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4706",
+      "reg": "STR-2510-HDDBPW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1027",
+      "reg": "STR-2510-GXDBPV"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "640",
+      "reg": "STR-2510-GYZPPV"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1112",
+      "reg": "STR-2510-JBYHPZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2606",
+      "reg": "STR-2511-GRVVPT"
+    },
+    {
+      "num": "54",
+      "street": "INDIAN ROAD",
+      "type": "CRES",
+      "dir": "",
+      "unit": "1",
+      "reg": "STR-2511-HDGPPW"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "536",
+      "reg": "STR-2511-GWRBPV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3906",
+      "reg": "STR-2511-HPZPPX"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "337",
+      "reg": "STR-2511-HCBVPW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2001",
+      "reg": "STR-2511-JBLHPZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "827",
+      "reg": "STR-2511-HWBVPY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1202",
+      "reg": "STR-2511-HGFHPW"
+    },
+    {
+      "num": "170",
+      "street": "INDIAN ROAD",
+      "type": "CRES",
+      "dir": "",
+      "unit": "1",
+      "reg": "STR-2511-JDYHPZ"
+    },
+    {
+      "num": "5",
+      "street": "IVY GREEN",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2511-GJBVPS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "530",
+      "reg": "STR-2511-GJDBPS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3101",
+      "reg": "STR-2511-HQTPPX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2115",
+      "reg": "STR-2511-JGGPPZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "PH02",
+      "reg": "STR-2511-HRKBPX"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3112",
+      "reg": "STR-2511-FPPVPQ"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "741",
+      "reg": "STR-2512-GZYHPV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1808",
+      "reg": "STR-2512-GWXBPV"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "539",
+      "reg": "STR-2512-HVRBPY"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3102",
+      "reg": "STR-2512-FJXBPP"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "938",
+      "reg": "STR-2512-FSTPPQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3203",
+      "reg": "STR-2512-HHRBPW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3312",
+      "reg": "STR-2512-FWHYBR"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4210",
+      "reg": "STR-2512-GMLLBT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "327",
+      "reg": "STR-2512-FJHYBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "832",
+      "reg": "STR-2512-HGLLBW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4709",
+      "reg": "STR-2512-GRPYBT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1506",
+      "reg": "STR-2512-HQYLBX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "533",
+      "reg": "STR-2512-HYFLBY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4103",
+      "reg": "STR-2512-FLXFBQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3306",
+      "reg": "STR-2512-GCKFBS"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "636",
+      "reg": "STR-2512-GCZSBS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4303",
+      "reg": "STR-2512-FWKFBR"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "233",
+      "reg": "STR-2512-HCKFBW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4710",
+      "reg": "STR-2512-HTMSBY"
+    },
+    {
+      "num": "105",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "unit": "709",
+      "reg": "STR-2512-HVDFBY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2602",
+      "reg": "STR-2601-GXRFBV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1212",
+      "reg": "STR-2601-FPVYBQ"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "242C",
+      "reg": "STR-2601-FHVYBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4502",
+      "reg": "STR-2602-HTBYBY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "330",
+      "reg": "STR-2602-JBYLBZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2201",
+      "reg": "STR-2602-GYLLBV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3103",
+      "reg": "STR-2602-FFMSBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3706",
+      "reg": "STR-2602-FGDFBP"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1915",
+      "reg": "STR-2602-JFMSBZ"
+    },
+    {
+      "num": "17",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2602-GLRFBT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2306",
+      "reg": "STR-2602-FQTSBQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1703",
+      "reg": "STR-2603-HCVYBW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3710",
+      "reg": "STR-2603-FJVYBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4809",
+      "reg": "STR-2603-HLTSBX"
+    },
+    {
+      "num": "367",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2603-FHRFBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1907",
+      "reg": "STR-2603-GXMSBV"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1806",
+      "reg": "STR-2603-FLTSBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4711",
+      "reg": "STR-2603-JGZSBZ"
+    },
+    {
+      "num": "370",
+      "street": "INDIAN GRV",
+      "type": "",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2603-HJYPPX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4802",
+      "reg": "STR-2603-HDCBPW"
+    },
+    {
+      "num": "18A",
+      "street": "INDIAN ROAD",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2603-HVFPPY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4102",
+      "reg": "STR-2603-FKCBPP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2907",
+      "reg": "STR-2603-HBGVPW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4515",
+      "reg": "STR-2603-HKTVPX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4110",
+      "reg": "STR-2603-HLZVPX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2609",
+      "reg": "STR-2603-HVGVPY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4006",
+      "reg": "STR-2603-FZRHPR"
+    },
+    {
+      "num": "233",
+      "street": "INDIAN",
+      "type": "RD",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2603-GKDHPS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "822",
+      "reg": "STR-2603-GKWBPT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1902",
+      "reg": "STR-2603-HRWBPY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4801",
+      "reg": "STR-2603-FFLPPP"
+    },
+    {
+      "num": "15",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "235",
+      "reg": "STR-2603-HKFPPX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1502",
+      "reg": "STR-2603-JBJBPZ"
+    },
+    {
+      "num": "66",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "unit": "1716",
+      "reg": "STR-2604-JFLPPZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3512",
+      "reg": "STR-2604-GLMVPT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2007",
+      "reg": "STR-2604-HDXHPW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4803",
+      "reg": "STR-2604-GCTVPS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1025",
+      "reg": "STR-2604-JDZVPZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "225",
+      "reg": "STR-2604-GZGVPV"
+    },
+    {
+      "num": "3",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "G15",
+      "reg": "STR-2604-HHMVPW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1810",
+      "reg": "STR-2604-HJDHPW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2809",
+      "reg": "STR-2604-GTZVPV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2209",
+      "reg": "STR-2604-HKMVPX"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "625",
+      "reg": "STR-2604-FWXHPR"
+    },
+    {
+      "num": "27",
+      "street": "INVERLEIGH",
+      "type": "DR",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2604-GSTVPT"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3503",
+      "reg": "STR-2604-FPSSBQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2315",
+      "reg": "STR-2604-FQYSBQ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1507",
+      "reg": "STR-2604-HHTYBW"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2207",
+      "reg": "STR-2605-HRSSBY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4203",
+      "reg": "STR-2605-FFJFBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3107",
+      "reg": "STR-2605-FVWFBR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2211",
+      "reg": "STR-2605-GVFSBV"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3802",
+      "reg": "STR-2605-FYYSBR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "322",
+      "reg": "STR-2605-GDDLBS"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2708",
+      "reg": "STR-2605-FYKLBR"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "329",
+      "reg": "STR-2605-GHGYBS"
+    },
+    {
+      "num": "83",
+      "street": "INNISWOOD",
+      "type": "DR",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2605-HTSSBY"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "4610",
+      "reg": "STR-2605-FGTYBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "3010",
+      "reg": "STR-2605-JBZYBZ"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "1508",
+      "reg": "STR-2605-FHZYBP"
+    },
+    {
+      "num": "21",
+      "street": "ICEBOAT TER",
+      "type": "",
+      "dir": "",
+      "unit": "2911",
+      "reg": "STR-2605-FSMYBQ"
+    }
+  ],
+  "mth": [
+    {
+      "num": "127",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "status": "In Progress"
+    },
+    {
+      "num": "168",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "status": "In Progress"
+    }
+  ],
+  "pdn": [
+    {
+      "num": "48",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=2JPmqbzXYMcpJBp1qRI%2FQg%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendment for a 69-storey residential apartment building and will contain a total of 814 dwelling units, including 84 rental replacement units."
+    },
+    {
+      "num": "24",
+      "street": "IMPERIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TwbrO216A7a6DAmqqCZ%2BZw%3D%3D",
+      "desc": "Zoning By-law Amendment application for a proposed 9-storey residential building containing 30 residential dwelling units and approximately 3636.4 square metres of residential floor area. Two levels of underground parking are proposed."
+    },
+    {
+      "num": "26",
+      "street": "IMPERIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TwbrO216A7a6DAmqqCZ%2BZw%3D%3D",
+      "desc": "Zoning By-law Amendment application for a proposed 9-storey residential building containing 30 residential dwelling units and approximately 3636.4 square metres of residential floor area. Two levels of underground parking are proposed."
+    },
+    {
+      "num": "2968",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "This application proposes to permit the vacant lands at 2968 Islington Avenue to be developed for commercial uses to provide for a two-storey, 628 square metre addition to the existing commercial plaza on the abutting lands to the north at 2972-2974 Islington Avenue."
+    },
+    {
+      "num": "2972",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "This application proposes to permit the vacant lands at 2968 Islington Avenue to be developed for commercial uses to provide for a two-storey, 628 square metre addition to the existing commercial plaza on the abutting lands to the north at 2972-2974 Islington Avenue."
+    },
+    {
+      "num": "2974",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "This application proposes to permit the vacant lands at 2968 Islington Avenue to be developed for commercial uses to provide for a two-storey, 628 square metre addition to the existing commercial plaza on the abutting lands to the north at 2972-2974 Islington Avenue."
+    },
+    {
+      "num": "3000",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Application to legalize a place of worship and create new exterior vestibules and an accessory addition for garbage and storage rooms."
+    },
+    {
+      "num": "30",
+      "street": "IRONSIDE",
+      "type": "CRES",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=73qDvK%2F1lfKz9evpoquFtQ%3D%3D",
+      "desc": "Draft Plan of Condominium for Phase 2 and Phase 3, to facilitate the development of 8 standard commercial condominium units in Phase 2, and 19 units in Phase 3."
+    },
+    {
+      "num": "18",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "19",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "20",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "75",
+      "street": "IANNUZZI",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Lifting of the 'H' for Block 6S.(Fleet Street Lands)"
+    },
+    {
+      "num": "1040",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Redevelopment of site to include approximately 250 townhouse units and a 5,252 sq. meter industrial building.  Exisitng TD bank will remain."
+    },
+    {
+      "num": "1144",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed amendments to the Official Plan to permit the development of eleven townhouses (condominium) within two blocks"
+    },
+    {
+      "num": "94",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=3PeSQn8u%2F0XlNBmfzi15%2FA%3D%3D",
+      "desc": "This application proposes to amend the Zoning By-law to permit a residential building with a height of 228.1 metres (69 storeys, inclusive of the mechanical penthouse), reflecting changes to the built from the original application (File No. 22-153992)."
+    },
+    {
+      "num": "92",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=3PeSQn8u%2F0XlNBmfzi15%2FA%3D%3D",
+      "desc": "This application proposes to amend the Zoning By-law to permit a residential building with a height of 228.1 metres (69 storeys, inclusive of the mechanical penthouse), reflecting changes to the built from the original application (File No. 22-153992)."
+    },
+    {
+      "num": "90",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=3PeSQn8u%2F0XlNBmfzi15%2FA%3D%3D",
+      "desc": "This application proposes to amend the Zoning By-law to permit a residential building with a height of 228.1 metres (69 storeys, inclusive of the mechanical penthouse), reflecting changes to the built from the original application (File No. 22-153992)."
+    },
+    {
+      "num": "21",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "22",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "23",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "24",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "25",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "26",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "27",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "28",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "2",
+      "street": "INTERNATIONAL",
+      "type": "BLVD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3982844&isCofASearch=false",
+      "desc": "To construct a 2-storey, 6,945 m2 office building.  The existing 2-storey office building will be demolished."
+    },
+    {
+      "num": "1144",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed amendments to the Etobicoke Zoning Code to permit the development of eleven townhouses (condominium) within two blocks"
+    },
+    {
+      "num": "1144",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed development of eleven townhouses (condominium) within two blocks"
+    },
+    {
+      "num": "26",
+      "street": "IVOR",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed two storey  dwelling with integral garage (544m2 total GFA)"
+    },
+    {
+      "num": "53",
+      "street": "INDIAN",
+      "type": "GRV",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposal for multiple projects to existing 2 1/2 storey SFD-detached dwelling.  Scope of work includes  the construction of a 3 storey addition at the rear, interior alterations to all floors, new basement walkout, reconstruction of front porch, new rear deck, and a new third floor deck."
+    },
+    {
+      "num": "4 A",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Automotive dealership and repair shop proposed for a portion of the Del Equipment site at Laird Drive and Industrial Street."
+    },
+    {
+      "num": "4 F",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Automotive dealership and repair shop proposed for a portion of the Del Equipment site at Laird Drive and Industrial Street."
+    },
+    {
+      "num": "6",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Automotive dealership and repair shop proposed for a portion of the Del Equipment site at Laird Drive and Industrial Street."
+    },
+    {
+      "num": "8",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Automotive dealership and repair shop proposed for a portion of the Del Equipment site at Laird Drive and Industrial Street."
+    },
+    {
+      "num": "1040",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Creation of blocks and public roads to facilitate the redevelopment of site to include 176 townhouse units, and  industrial building containing 25 condominium units and three new public roads."
+    },
+    {
+      "num": "94",
+      "street": "INGLEWOOD",
+      "type": "DR",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Site plan approval for new three-storey dwelling (517m2 ) complete with a detached two-car garage at the front of the property. Property located within Ravine Protection Bylaw areas and TRCA limit. Revised Landscape Plan and Basement Plans submitted for review."
+    },
+    {
+      "num": "2422",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Construction of a newTim Horton's restaurant with drive-thru stacking lane."
+    },
+    {
+      "num": "8",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "9",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "10",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "11",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "12",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "14",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "15",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "16",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "17",
+      "street": "INEZ",
+      "type": "CRT",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ekBdJviXRGDN3sN9GUw4nA%3D%3D",
+      "desc": "Revised submission implements modifications to the applications that were endorsed in principle by City Council during the spring and summer of 2014 in settlement of an outstanding Ontario Municipal Board (now Ontario Land Tribunal) appeals. The revised submission proposes two towers of 10 and 32-storeys connected via a 2-storey podium with a total of 551 residential units. A total of 672 parking spaces are proposed to be accommodated within a four-level underground parking garage.  Vehicular access to the site is proposed via the future Beecroft Road extension.  A 7,535.4 square metre public park is also proposed on the west side of the future public road."
+    },
+    {
+      "num": "66",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "The application to amend the Zoning By-law proposes to permit a 23-storey addition to the east side of the existing 26-storey residential apartment building.  The total height of the proposed building addition including the mechanical penthouse is 73 metres.  The proposed addition steps down  to a 4-storey podium along Church Street.  It contains 211 dwelling units including 199 residential rental units as well as 12 residential condominium units located on the top two floors.   The applicant is proposing to reduce the amount of underground parking from 183 parking spaces to 166 parking spaces to accommodate the new elevator and stair core."
+    },
+    {
+      "num": "70",
+      "street": "IANNUZZI",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "CONVENIENCE ADDRESS FOR 50 BRUYERES MEWS (BLOCK 4) - revised Aug 2 - Site Plan approval application  to construct new 15 storey residential building - 249 residential units - 4 levels below grade parking - 215 parking spaces 240 Bicycle parking spaces. - See 12 116214 ZPR for existing PPR."
+    },
+    {
+      "num": "66",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "The application to amend the Zoning By-law proposes to permit a 23-storey addition to the east side of the existing 26-storey residential apartment building.  The total height of the proposed building addition including the mechanical penthouse is 72.73 metres.  The proposed addition steps down  to a 4-storey podium along Church Street.  It contains 211 dwelling units including 199 residential rental units as well as 12 residential condominium units located on the top two floors.   The applicant is proposing to reduce the amount of underground parking from 183 parking spaces to 166 parking spaces to accommodate the new elevator and stair core."
+    },
+    {
+      "num": "1030",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Creation of blocks and public roads to facilitate the redevelopment of site to include 176 townhouse units, and  industrial building containing 25 condominium units and three new public roads."
+    },
+    {
+      "num": "1030",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Redevelopment of site to include approximately 250 townhouse units and a 5,252 sq. meter industrial building.  Exisitng TD bank will remain."
+    },
+    {
+      "num": "17",
+      "street": "ISLAND",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "A Zoning By-law Amendment and Site Plan Control Application to permit 50, 3-storey stacked condominium townhouse units in two blocks. OMB appeal PL131192 approved May 14, 2014 in principle, final order issued March 25, 2015"
+    },
+    {
+      "num": "95",
+      "street": "IANNUZZI",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Site plan approval for new 15 storey mixed use building with 6 storey podium containing ground floor retail and 199 residential dwelling units above complete with three levels of below grade parking and bicycle parking."
+    },
+    {
+      "num": "75",
+      "street": "IANNUZZI",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Site plan approval for new 15 storey mixed use building with 6 storey podium containing ground floor retail and 199 residential dwelling units above complete with three levels of below grade parking and bicycle parking."
+    },
+    {
+      "num": "35",
+      "street": "IANNUZZI",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Site plan approval for new 15 storey mixed use building with 6 storey podium containing ground floor retail and 199 residential dwelling units above complete with three levels of below grade parking and bicycle parking."
+    },
+    {
+      "num": "2670",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "To permit the conversion of the existing detached residential dwelling to professional office use."
+    },
+    {
+      "num": "30",
+      "street": "IRONSIDE",
+      "type": "CRES",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Site plan approval for commercial development"
+    },
+    {
+      "num": "1",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Application referred to the OMB.  Rezoning application to permit a mixed-use development consisting of a 46-storey building, including a 4-storey base building, with a total gross floor area of 27364 sq.m.  The proposal includes 354 residential units within the tower portion and 577 sq.m. of retail space within the base building portion."
+    },
+    {
+      "num": "3",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Application referred to the OMB.  Rezoning application to permit a mixed-use development consisting of a 46-storey building, including a 4-storey base building, with a total gross floor area of 27364 sq.m.  The proposal includes 354 residential units within the tower portion and 577 sq.m. of retail space within the base building portion."
+    },
+    {
+      "num": "30",
+      "street": "IRONSIDE",
+      "type": "CRES",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed Phased  Commercial Condominium with 42 UNITS. See 10 238555 ESC 42 SA for Site Plan Application."
+    },
+    {
+      "num": "5",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Application referred to the OMB.  Rezoning application to permit a mixed-use development consisting of a 46-storey building, including a 4-storey base building, with a total gross floor area of 27364 sq.m.  The proposal includes 354 residential units within the tower portion and 577 sq.m. of retail space within the base building portion."
+    },
+    {
+      "num": "7",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Application referred to the OMB.  Rezoning application to permit a mixed-use development consisting of a 46-storey building, including a 4-storey base building, with a total gross floor area of 27364 sq.m.  The proposal includes 354 residential units within the tower portion and 577 sq.m. of retail space within the base building portion."
+    },
+    {
+      "num": "9",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Application referred to the OMB.  Rezoning application to permit a mixed-use development consisting of a 46-storey building, including a 4-storey base building, with a total gross floor area of 27364 sq.m.  The proposal includes 354 residential units within the tower portion and 577 sq.m. of retail space within the base building portion."
+    },
+    {
+      "num": "2670",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "To convert an existing 2 storey single detached dwelling to a professional office use."
+    },
+    {
+      "num": "19",
+      "street": "INNES",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=grgl%2B%2FgBCBfFn0Eis1RZlA%3D%3D",
+      "desc": "Part Lot Control Exemption application to create a total of 41 lots: 14 lots fronting Caledonia Rd (semi-detached dwellings), 14 lots fronting McRoberts Ave (semi-detached dwellings), and 13 lots fronting Innes Ave (10 semi-detached dwellings and 3 row houses). Common Element Condominium application 21 180098 STE 09 CD has been submitted and will be reviewed concurrently."
+    },
+    {
+      "num": "136",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposal for the demolition of a 2-storey office building and development of a 4-storey office buildingApproved by Community Council, August 17, 2010. Revised submission on April 8, 2010."
+    },
+    {
+      "num": "2968",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "This application proposes to permit the vacant lands at 2968 Islington Avenue to be developed for commercial uses to provide for a two-storey, 646 square metre addition to the existing commercial plaza on the abutting lands to the north at 2972-2974 Islington Avenue."
+    },
+    {
+      "num": "2200",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=HP4eTqAfyqDWToTJtA3J2g%3D%3D",
+      "desc": "The Development of 18 new low-rise commercial buildings and a gas bar supported by surface parking."
+    },
+    {
+      "num": "43",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3321886&isCofASearch=false",
+      "desc": "The applicant proposes to construct one two-storey and one one-storey industrial building, containing of  thirteen (13) industrial condominium units.  Block \"A\" would consist of five (5) units, Block \"B\" would consist of eight (8), in conjunction with a garbage enclosure."
+    },
+    {
+      "num": "1030",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed development of a 4 024 m2, 25-unit industrial building on the westerly 2.6 acres of the subject lands and a 176 residential townhouse units on the remaining 9.9 acres of the subject lands."
+    },
+    {
+      "num": "19",
+      "street": "INNES",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "This application at 177 Caledonia Road and 19 Innes Avenue proposes to redevelop the former Hughes Public School site with 14 semi-detached dwellings fronting Caledonia Road, 14 semi-detached dwellings fronting McRoberts Avenue, and 10 semi-detached and 3 row house dwellings fronting Innes Avenue, for a total of 41 dwellings.  The dwellings are also proposed to include permission for a second suite in each at the time of construction."
+    },
+    {
+      "num": "75",
+      "street": "IANNUZZI",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Revised Site Plan Drawings Submitted on August 15, 2011 - Building 6S - 410 residential units - 28 stories - 385 parking spaces - 5 levels below grade parking - Commercial space 467.5 m2."
+    },
+    {
+      "num": "75",
+      "street": "IANNUZZI",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Application for a standard condominium which will be comprised of 410 residential units atop 5 underground garage levels.  There are 385 parking spaces."
+    },
+    {
+      "num": "1040",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed development of a 4 024 m2, 25-unit industrial building on the westerly 2.6 acres of the subject lands and a 176 residential townhouse units on the remaining 9.9 acres of the subject lands."
+    },
+    {
+      "num": "1030",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed amendments to the Etobicoke Zoning Code and new City-wide Zoning By-law to permit a   industrial building on the westerly 2.6 acres of the subject lands and a 176 unit townhouse development on the remaining 9.9 acres of the subject lands.  Three new municipal roads would be constructed in connection with the development proposal."
+    },
+    {
+      "num": "2849",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3332393&isCofASearch=false",
+      "desc": "Proposed 5 storey apartment building containing 111 residential units."
+    },
+    {
+      "num": "2851",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3332393&isCofASearch=false",
+      "desc": "Proposed 5 storey apartment building containing 111 residential units."
+    },
+    {
+      "num": "2853",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3332393&isCofASearch=false",
+      "desc": "Proposed 5 storey apartment building containing 111 residential units."
+    },
+    {
+      "num": "2855",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3332393&isCofASearch=false",
+      "desc": "Proposed 5 storey apartment building containing 111 residential units."
+    },
+    {
+      "num": "2857",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3332393&isCofASearch=false",
+      "desc": "Proposed 5 storey apartment building containing 111 residential units."
+    },
+    {
+      "num": "2849",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3332429&isCofASearch=false",
+      "desc": "Proposed development of a 5-storey residential building containing 111 residential units."
+    },
+    {
+      "num": "2851",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3332429&isCofASearch=false",
+      "desc": "Proposed development of a 5-storey residential building containing 111 residential units."
+    },
+    {
+      "num": "2853",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3332429&isCofASearch=false",
+      "desc": "Proposed development of a 5-storey residential building containing 111 residential units."
+    },
+    {
+      "num": "2855",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3332429&isCofASearch=false",
+      "desc": "Proposed development of a 5-storey residential building containing 111 residential units."
+    },
+    {
+      "num": "2857",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3332429&isCofASearch=false",
+      "desc": "Proposed development of a 5-storey residential building containing 111 residential units."
+    },
+    {
+      "num": "1040",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed amendments to the Etobicoke Zoning Code and new City-wide Zoning By-law to permit a   industrial building on the westerly 2.6 acres of the subject lands and a 176 unit townhouse development on the remaining 9.9 acres of the subject lands.  Three new municipal roads would be constructed in connection with the development proposal."
+    },
+    {
+      "num": "119",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "To obtain Site Plan Approval for the construction of an expanded facility for Casey House, a treatment centre for people with HIV and AIDS. The site is located on the SW corner of Jarvis and Isabella St directly east of the current Casey House at 9 Huntley St.  The site currently houses a Heritage building at 571 Jarvis St  and a coach house at 119 Isabella St.  The proposed construction would incorporate the existing heritage building at 571 Jarvis St.  The heritage listed coach house at 119 Isabella St would be demolished. The proposed construction of a new Healthcare facility will be have a total GFA of 3707 m2 all of which is non-residential.   The proposed Height will be 19.35 m  (4 storeys) and will have 15 institutional parking spaces in a below grade parking structure.  One Type B loading space will be provided."
+    },
+    {
+      "num": "1144",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Condominium Approval for common elements related to 11 residentail toemhouse units"
+    },
+    {
+      "num": "25",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "INACTIVE Application to permit 5,574.20 square metre fitness centre."
+    },
+    {
+      "num": "119",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Revised circulation February 27, 2012. Official Plan and Rezoning Application to permit the erection of a three storey addition that incorporates the existing heritage building on the premises located at 571 Jarvis Street for hospice purposes Casey House. The existing heritage Coach House on the premises would be demolished."
+    },
+    {
+      "num": "17",
+      "street": "ISLAND",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Plan of condominium application 15 180229 CDFinal Approval Plans for registration  - letter dated July 17, 2017"
+    },
+    {
+      "num": "11-19",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "INACTIVE Application to permit 5,574.20 square metre fitness centre."
+    },
+    {
+      "num": "19",
+      "street": "INNES",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=crpWznAQdngdx%2B2frYdXTA%3D%3D",
+      "desc": "Draft Plan of Common Element Condominium application for a private laneway (shown as Part 44 on Draft Plan of Condominium) to provide vehicular access to 41 lots. A pedestrian walkway is proposed between the Park Block and Parcel C, and will also form the common elements for the development. Part Lot Control Exemption application 13 281015 000 00 PL will be reviewed concurrently."
+    },
+    {
+      "num": "70",
+      "street": "IANNUZZI",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Application for a Standard Condominium which will be comprised of 249 Residential Units atop 4 underground garage levels. There are 217 parking spaces. The address is confirmed.Site Plan Approval is in folder: 2012 133566 STE 19 SA."
+    },
+    {
+      "num": "3002",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZTmNNAartvF1yqjMZyjBSw%3D%3D",
+      "desc": "This application proposes an Official Plan and Zoning By-law Amendment to permit three (3) development blocks including sic (6) townhouse blocks for a total of forty-six (46) residential units on a new public road via Muir Avenue."
+    },
+    {
+      "num": "3002",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0%2BLr2RrAGF%2F1XWD9SezMmA%3D%3D",
+      "desc": "This application proposes an Official Plan and Zoning By-law Amendment to permit three (3) development blocks including sic (6) townhouse blocks for a total of forty-six (46) residential units on a new public road via Muir Avenue."
+    },
+    {
+      "num": "98",
+      "street": "INDEX",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=uvZVhj4RnbU1dm1SuBgRig%3D%3D",
+      "desc": "Proposed installation of retofitted shipping containers in parking lot of an existing commercial plaza for use by customers picking up on-line purchases [shipping containers are referred to by applicant as Building 'H' - Penguin Pick-Up (PPU)]"
+    },
+    {
+      "num": "1128",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=uvOHfCbX647cdkYDBYx2Cg%3D%3D",
+      "desc": "Proposal for 14 four storey townhouse units (Block 1) oriented to Islington Avenue and two semi - detached dwellings (Block 2) oriented to Chauncey Avenue."
+    },
+    {
+      "num": "1130",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=uvOHfCbX647cdkYDBYx2Cg%3D%3D",
+      "desc": "Proposal for 14 four storey townhouse units (Block 1) oriented to Islington Avenue and two semi - detached dwellings (Block 2) oriented to Chauncey Avenue."
+    },
+    {
+      "num": "3002",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=GKre4hawJO%2FoksP%2FNmvoiw%3D%3D",
+      "desc": "This application proposes an Official Plan and Zoning By-law Amendment to permit three (3) development blocks including sic (6) townhouse blocks for a total of forty-six (46) residential units on a new public road via Muir Avenue."
+    },
+    {
+      "num": "1124",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=uvOHfCbX647cdkYDBYx2Cg%3D%3D",
+      "desc": "Proposal for 14 four storey townhouse units (Block 1) oriented to Islington Avenue and two semi - detached dwellings (Block 2) oriented to Chauncey Avenue."
+    },
+    {
+      "num": "1040",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=UuxFk5ZuE8uYYguxySFmzg%3D%3D",
+      "desc": "Draft Plan of Condominium Application for the residential portion. Blocks 2 and 3 and parts of Blocks 3 and 5"
+    },
+    {
+      "num": "1040",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=4149579&isCofASearch=false",
+      "desc": "Application for approval of Draft Plan of Condominium."
+    },
+    {
+      "num": "1030",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=UuxFk5ZuE8uYYguxySFmzg%3D%3D",
+      "desc": "Draft Plan of Condominium Application for the residential portion. Blocks 2 and 3 and parts of Blocks 3 and 5"
+    },
+    {
+      "num": "1128",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=rqcfIt8XzdQrHqXLfJhF5A%3D%3D",
+      "desc": "Proposal for 12 four storey townhouse units (Block 1) oriented to Islington Avenue and two semi - detached dwellings (Block 2) oriented to Chauncey Avenue."
+    },
+    {
+      "num": "1130",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=rqcfIt8XzdQrHqXLfJhF5A%3D%3D",
+      "desc": "Proposal for 12 four storey townhouse units (Block 1) oriented to Islington Avenue and two semi - detached dwellings (Block 2) oriented to Chauncey Avenue."
+    },
+    {
+      "num": "1243",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=4234239&isCofASearch=false",
+      "desc": "This application proposes to amend the former City of Etobicoke Zoning Code, as amended by site specific Zoning By-law No. 1088-2002 to change the required non-residential parking standards for certain uses such as office, laboratory, medical office/medical clinic, retail, and restaurant for the existing 12-storey office building at 1243 Islington Avenue.  The purpose of the amendment is to acknowledge and legalize the existing number and dimension of parking spaces on site, while providing flexibility for future tenant occupancy. The existing office building has a gross floor area of 10,323 m² and contains 132 parking spaces, of which 108 parking spaces could accommodate  a standard size car (as shown on the applicant's submitted plans). The exisitng parking spaces on the site would be maintained as shown on the surface level and within a  three level underground parking garage. No exterior or interior alterations to the existing building are proposed."
+    },
+    {
+      "num": "1144 A",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed amendments to the Etobicoke Zoning Code to permit the development of eleven townhouses (condominium) within two blocks"
+    },
+    {
+      "num": "1144 B",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed amendments to the Etobicoke Zoning Code to permit the development of eleven townhouses (condominium) within two blocks"
+    },
+    {
+      "num": "1146 B",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed amendments to the Etobicoke Zoning Code to permit the development of eleven townhouses (condominium) within two blocks"
+    },
+    {
+      "num": "1146 A",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed amendments to the Etobicoke Zoning Code to permit the development of eleven townhouses (condominium) within two blocks"
+    },
+    {
+      "num": "1142 A",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed amendments to the Etobicoke Zoning Code to permit the development of eleven townhouses (condominium) within two blocks"
+    },
+    {
+      "num": "1140",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed amendments to the Etobicoke Zoning Code to permit the development of eleven townhouses (condominium) within two blocks"
+    },
+    {
+      "num": "1142 B",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed amendments to the Etobicoke Zoning Code to permit the development of eleven townhouses (condominium) within two blocks"
+    },
+    {
+      "num": "11-19",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Tt2sRVpjLfdlH2dt%2BIlKTw%3D%3D",
+      "desc": "The application proposes to expand the existing Leaside Village shopping centre with three newcommercial buildings, one two-storeys in height and the other two one-storey in height, with 7,031.9 square metres of gross floor area. There are106 vehicle parking spaces, 32 bicycle parking spaces, and 3 loading spaces proposed on the site."
+    },
+    {
+      "num": "1124",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=rqcfIt8XzdQrHqXLfJhF5A%3D%3D",
+      "desc": "Proposal for 12 four storey townhouse units (Block 1) oriented to Islington Avenue and two semi - detached dwellings (Block 2) oriented to Chauncey Avenue."
+    },
+    {
+      "num": "1",
+      "street": "IBMS OLD WARD 20",
+      "type": "",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=6TlUTKP4OEzQFnHBI%2Fd4sQ%3D%3D",
+      "desc": "The proposal is to develop a rail corridor overbuild (deck) over the existing active rail corridor to accommodate development, while maintaining the rail activities. The ORCA Project proposes a mixed-use and open space development, consisting of 10 buildings with a combined gross floor area (GFA) of 366,500 m2. The proposal includes the portion of the Rail Corridor bounded by Front Street West between Spadina and Bathurst; Blue Jays Way; Ice Boat Terrace; and Bathurst Street."
+    },
+    {
+      "num": "25",
+      "street": "INTERNATIONAL",
+      "type": "BLVD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=4237338&isCofASearch=false",
+      "desc": "Proposed amendments to the former City of Etobicoke Zoning Code and City of Toronto Zoning By-law 569-2013 to permit a 7-storey, 120 room hotel."
+    },
+    {
+      "num": "25",
+      "street": "INTERNATIONAL",
+      "type": "BLVD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CDxgaHiBR6MDqOS%2BXZDWTw%3D%3D",
+      "desc": "To permit a 7-storey hotel.  This Site Plan Control application is being reviewed concurrently with the Zoning By-law Amendment application under File Number 17 225532 WET 02 OZ.  Also refer to the decision of Committee of Adjustment under File Number B28/12EYK."
+    },
+    {
+      "num": "25",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Tt2sRVpjLfdlH2dt%2BIlKTw%3D%3D",
+      "desc": "The application proposes to expand the existing Leaside Village shopping centre with three newcommercial buildings, one two-storeys in height and the other two one-storey in height, with 7,031.9 square metres of gross floor area. There are106 vehicle parking spaces, 32 bicycle parking spaces, and 3 loading spaces proposed on the site."
+    },
+    {
+      "num": "11-19",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=z3tB8%2BDpipefzsUd0IUcUQ%3D%3D",
+      "desc": "The application proposes to expand the existing Leaside Village shopping centre with three new commercial buildings, one two-storeys in height and the other two one-storey in height with 7,031.9 square metres of gross floor area. There is also 103 additional parking spaces proposed on the site."
+    },
+    {
+      "num": "25",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=z3tB8%2BDpipefzsUd0IUcUQ%3D%3D",
+      "desc": "The application proposes to expand the existing Leaside Village shopping centre with three new commercial buildings, one two-storeys in height and the other two one-storey in height with 7,031.9 square metres of gross floor area. There is also 103 additional parking spaces proposed on the site."
+    },
+    {
+      "num": "11",
+      "street": "ISLAND",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "A Zoning By-law Amendment and Site Plan Control Application to permit 50, 3-storey stacked condominium townhouse units in two blocks."
+    },
+    {
+      "num": "17",
+      "street": "ISLAND",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "A Zoning By-law Amendment and Site Plan Control Application to permit 50, 3-storey stacked condominium townhouse units in two blocks."
+    },
+    {
+      "num": "33",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Uq%2BybnELmQPxQ0LWBxrPSg%3D%3D",
+      "desc": "A proposed Zoning By-law Amendment application to develop a 4-storey (20.65 metres, including mechanical penthouse) infill residential building with office space at-grade."
+    },
+    {
+      "num": "530",
+      "street": "INDIAN",
+      "type": "GRV",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Redevelopment of the existing vacant lands for the purposes of a new mixed use development consisting of a mid rise 7 storey building containing 104 dwellings complete with retail at grade and 96 vehicle parking spaces in a three level below grade parking facility."
+    },
+    {
+      "num": "41",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=HEJCEG8pZ4%2FblxwwE%2BGZFg%3D%3D",
+      "desc": "Draft Plan of Standard Condominium to permit a two-storey building with 16 units and a one-storey building with 5 units for a total of 21 industrial/office units on site. 10 integral parking spaces, 8 loading spaces and 49 surface parking spaces will be provided. Site previously known as 43 Industrial Street. Associated applications include site plan application 13 139757 NNY 26 SA; minor variance applications A0170/17NY and A0889/17NY; and TLAB file 17 273448 S45 26 TLAB."
+    },
+    {
+      "num": "260",
+      "street": "INGLETON",
+      "type": "BLVD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0TjDGObWI8Zc6O9Lmw1qKg%3D%3D",
+      "desc": "Proposal to redevelop the existing place of worship with a new 2-storey building with 2460.35 square metres in gross floor area, and 95 parking spaces."
+    },
+    {
+      "num": "66",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "The application to amend the Zoning By-law proposes to permit a 23-storey addition to the east side of the existing 26-storey residential apartment building.  The total height of the proposed building addition including the mechanical penthouse is 73 metres.  The proposed addition steps down  to a 4-storey podium along Church Street.  It contains 211 dwelling units including 199 residential rental units as well as 12 residential condominium units located on the top two floors.   The applicant is proposing to reduce the amount of underground parking from 183 parking spaces to 166 parking spaces to accommodate the new elevator and stair core."
+    },
+    {
+      "num": "2200",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=IcLQorCxjjrl5YIyIAdK8w%3D%3D",
+      "desc": "The development of new 1 to 2 storey commercial buildings and a gas bar supported by a two level parking structure for a portion of the site and surface level parking for the eastern portion of the site. There are three POPS along Rexdale Blvd. The proposal includes new streets and is tied to the Intersection realignment of Rexdale Blvd and Islington Ave. The warehouse buildings on the south portion of the property are to remain,"
+    },
+    {
+      "num": "41",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/DevelopmentApplications/associatedApplicationsList.do?action=init&folderRsn=3321886&isCofASearch=false",
+      "desc": "The applicant proposes to construct one two-storey and one one-storey industrial building, containing of  thirteen (13) industrial condominium units.  Block \"A\" would consist of five (5) units, Block \"B\" would consist of eight (8), in conjunction with a garbage enclosure."
+    },
+    {
+      "num": "0",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TZU%2BIh8FXMfD23GDBqqS6g%3D%3D",
+      "desc": "Draft Plan of Condominium application to create a Common Elements Condominium (twelve 4-storey townhouses and two semi-detached homes. 14 residential parking spaces and 4 visitor parking spaces)."
+    },
+    {
+      "num": "1128",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TZU%2BIh8FXMfD23GDBqqS6g%3D%3D",
+      "desc": "Draft Plan of Condominium application to create a Common Elements Condominium (twelve 4-storey townhouses and two semi-detached homes. 14 residential parking spaces and 4 visitor parking spaces)."
+    },
+    {
+      "num": "1130",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TZU%2BIh8FXMfD23GDBqqS6g%3D%3D",
+      "desc": "Draft Plan of Condominium application to create a Common Elements Condominium (twelve 4-storey townhouses and two semi-detached homes. 14 residential parking spaces and 4 visitor parking spaces)."
+    },
+    {
+      "num": "2200",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=avYeArP21ecS9KYvIfSwHg%3D%3D",
+      "desc": "To amend the Zoning By-law  to lift the Holding provision (H) from a portion of the site as identified on Schedule B of Zoning By-law No. 808-2018."
+    },
+    {
+      "num": "956",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CBoBrrWnOcqUz2wBZtw15A%3D%3D",
+      "desc": "Three sites are being combined. Demolish existing 1 storey school and childcare at 65 Jutland Rd and replace with 6696 sqm, 2-storey school and childcare. Demolish Candy Factory at 956 Islington and redevelop into sports fields, playgrounds and new school bus drop-off. 962 Islington previously had a single family home, was demolished, and currently houses portable classes used by the school. It will house south-east end of new school, and playgrounds."
+    },
+    {
+      "num": "962",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CBoBrrWnOcqUz2wBZtw15A%3D%3D",
+      "desc": "Three sites are being combined. Demolish existing 1 storey school and childcare at 65 Jutland Rd and replace with 6696 sqm, 2-storey school and childcare. Demolish Candy Factory at 956 Islington and redevelop into sports fields, playgrounds and new school bus drop-off. 962 Islington previously had a single family home, was demolished, and currently houses portable classes used by the school. It will house south-east end of new school, and playgrounds."
+    },
+    {
+      "num": "7-11",
+      "street": "INGRAM",
+      "type": "DR",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dUbnd0EVdrneRGAZOO%2FA4w%3D%3D",
+      "desc": "Site Plan Control application to permit the development of a 4-storey self-storage building on the southeast portion of the site. The proposed 4-storey self-storage building would have a total gross floor area of 5,488.96 m2. The existing office building and the existing self-storage building is proposed to be retained. The site would have a combined gross floor area of 16,087.10 m2."
+    },
+    {
+      "num": "74",
+      "street": "INDUSTRY",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=YZGNNdakIpwdVtV2KovqAQ%3D%3D",
+      "desc": "INACTIVE Proposal for a 3 storey addition above the existing one storey office building. The existing basement is to be converted into a parking level and the existing roof is to be enclosed to create a mechanical level with three additional storey's above to be used as office space, resulting in a total of 5 storeys (21.6 m including 3rd floor mechanical level) and GFA of 4,624.2 square metres."
+    },
+    {
+      "num": "43",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=HEJCEG8pZ4%2FblxwwE%2BGZFg%3D%3D",
+      "desc": "Draft Plan of Standard Condominium to permit a two-storey building with 16 units and a one-storey building with 5 units for a total of 21 industrial/office units on site. 10 integral parking spaces, 8 loading spaces and 49 surface parking spaces will be provided. Site previously known as 43 Industrial Street. Associated applications include site plan application 13 139757 NNY 26 SA; minor variance applications A0170/17NY and A0889/17NY; and TLAB file 17 273448 S45 26 TLAB."
+    },
+    {
+      "num": "1124",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TZU%2BIh8FXMfD23GDBqqS6g%3D%3D",
+      "desc": "Draft Plan of Condominium application to create a Common Elements Condominium (twelve 4-storey townhouses and two semi-detached homes. 14 residential parking spaces and 4 visitor parking spaces)."
+    },
+    {
+      "num": "121",
+      "street": "INDUSTRY",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WFSjKsrYFNhYPy62tiE4Tw%3D%3D",
+      "desc": "The Site Plan application is to permit the construction of a new employee parking lot at the TTC Mount Dennis Bus Garage."
+    },
+    {
+      "num": "3002",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0%2BLr2RrAGF%2F1XWD9SezMmA%3D%3D",
+      "desc": "This application proposes an Official Plan and Zoning By-law Amendment to permit three (3) development blocks including sic (6) townhouse blocks for a total of forty-six (46) residential units on a new public road via Muir Avenue."
+    },
+    {
+      "num": "3014",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0%2BLr2RrAGF%2F1XWD9SezMmA%3D%3D",
+      "desc": "This application proposes an Official Plan and Zoning By-law Amendment to permit three (3) development blocks including sic (6) townhouse blocks for a total of forty-six (46) residential units on a new public road via Muir Avenue."
+    },
+    {
+      "num": "3002",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=6cumX9%2FlG9CcFAq58jsTMQ%3D%3D",
+      "desc": "Draft Plan of Common Element Condominium with respect to 32 residential townhouse units."
+    },
+    {
+      "num": "3006",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=6cumX9%2FlG9CcFAq58jsTMQ%3D%3D",
+      "desc": "Draft Plan of Common Element Condominium with respect to 32 residential townhouse units."
+    },
+    {
+      "num": "3010",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=6cumX9%2FlG9CcFAq58jsTMQ%3D%3D",
+      "desc": "Draft Plan of Common Element Condominium with respect to 32 residential townhouse units."
+    },
+    {
+      "num": "3014",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=6cumX9%2FlG9CcFAq58jsTMQ%3D%3D",
+      "desc": "Draft Plan of Common Element Condominium with respect to 32 residential townhouse units."
+    },
+    {
+      "num": "3004",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=6cumX9%2FlG9CcFAq58jsTMQ%3D%3D",
+      "desc": "Draft Plan of Common Element Condominium with respect to 32 residential townhouse units."
+    },
+    {
+      "num": "25",
+      "street": "IMPERIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5npuYynma2oKYV%2BvSDsS3A%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit a 19-storey residential building with 194 residential units. No vehicular parking proposed."
+    },
+    {
+      "num": "1226",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TX8cDMmqN0uhdYKRsr9SGg%3D%3D",
+      "desc": "Redevelopment of Islington subway station to accommodate a new bus terminal and entrance building on the north portion of the lot."
+    },
+    {
+      "num": "20",
+      "street": "INN ON THE PARK",
+      "type": "DR",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=yi9unzX8LdCR9yqSRclZjg%3D%3D",
+      "desc": "The is an application for Site Plan Control related to two residential towers located on Leslie Street, north of Eglinton Avenue East.  The larger project includes a third mixed use tower, which is being processed under a separate application for Site Plan Control (19 137676 NNY 16 SA), as well as a new public street and new public park.  The towers associated with this application are approved with heights of 29 storeys (Building B) and 45 storeys (Building C), and a combined 642 units. Parking is provided for in a connected underground garage providing 491 vehicle parking spaces and 782 bicycle parking spaces."
+    },
+    {
+      "num": "30",
+      "street": "INN ON THE PARK",
+      "type": "DR",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=yi9unzX8LdCR9yqSRclZjg%3D%3D",
+      "desc": "The is an application for Site Plan Control related to two residential towers located on Leslie Street, north of Eglinton Avenue East.  The larger project includes a third mixed use tower, which is being processed under a separate application for Site Plan Control (19 137676 NNY 16 SA), as well as a new public street and new public park.  The towers associated with this application are approved with heights of 29 storeys (Building B) and 45 storeys (Building C), and a combined 642 units. Parking is provided for in a connected underground garage providing 491 vehicle parking spaces and 782 bicycle parking spaces."
+    },
+    {
+      "num": "10",
+      "street": "INN ON THE PARK",
+      "type": "DR",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=FQCoFlxhhwNOkGkZ0nFZ6w%3D%3D",
+      "desc": "Tower A is a 33 storey (133m) residential building containing 251 dwelling units and a gross floor area of approximately 33,252 sqm.  A total of 312 parking spaces are proposed to be located below grade.  A total of 303 bicycle parking spaces are provided for visitor and resident use located on the main floor.  The building provides a 5 storey podium with indoor and outdoor amenities located on the 5th floor."
+    },
+    {
+      "num": "25",
+      "street": "IMPERIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CfnB1WEEr0wwidkzvVETNQ%3D%3D",
+      "desc": "Site Plan Application for a 19-storey mixed-use building containing 228 residential dwelling units and 52 square metres of ground floor retail space. Two ground level units will have expanded home occupation (live/work) permissions."
+    },
+    {
+      "num": "3002",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "(Encrypted)",
+      "desc": "Part Lot Control Exemption application to create 32 parcels of tied land associated with a common element condominium, as well as 14 freehold townhouse units."
+    },
+    {
+      "num": "3004",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "(Encrypted)",
+      "desc": "Part Lot Control Exemption application to create 32 parcels of tied land associated with a common element condominium, as well as 14 freehold townhouse units."
+    },
+    {
+      "num": "3006",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "(Encrypted)",
+      "desc": "Part Lot Control Exemption application to create 32 parcels of tied land associated with a common element condominium, as well as 14 freehold townhouse units."
+    },
+    {
+      "num": "3010",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "(Encrypted)",
+      "desc": "Part Lot Control Exemption application to create 32 parcels of tied land associated with a common element condominium, as well as 14 freehold townhouse units."
+    },
+    {
+      "num": "3014",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "(Encrypted)",
+      "desc": "Part Lot Control Exemption application to create 32 parcels of tied land associated with a common element condominium, as well as 14 freehold townhouse units."
+    },
+    {
+      "num": "1040",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=m2L3XAEO4gOM2%2FhAHrXFvA%3D%3D",
+      "desc": "Site Plan Approval - The proposal contemplates a 10-storey building containing 175 dwelling units. The proposal contains a total gross floor area (GFA) of 12,517m2. It also contains 350m2 of indoor and 356m2 of outdoor amenity space, which will be provided on the ground floor. In addition, the proposal includes 2-level underground parking."
+    },
+    {
+      "num": "1048",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=m2L3XAEO4gOM2%2FhAHrXFvA%3D%3D",
+      "desc": "Site Plan Approval - The proposal contemplates a 10-storey building containing 175 dwelling units. The proposal contains a total gross floor area (GFA) of 12,517m2. It also contains 350m2 of indoor and 356m2 of outdoor amenity space, which will be provided on the ground floor. In addition, the proposal includes 2-level underground parking."
+    },
+    {
+      "num": "1040",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dRyuBhjQuISTrzs%2FRQXL4g%3D%3D",
+      "desc": "The proposal contemplates a 10-storey building containing 175 dwelling units. The proposal contains a total gross floor area (GFA) of 12,517m2. It also contains 350m2 of indoor and 356m2 of outdoor amenity space, which will be provided on the ground floor. In addition, the proposal includes 2-level underground parking."
+    },
+    {
+      "num": "1048",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dRyuBhjQuISTrzs%2FRQXL4g%3D%3D",
+      "desc": "The proposal contemplates a 10-storey building containing 175 dwelling units. The proposal contains a total gross floor area (GFA) of 12,517m2. It also contains 350m2 of indoor and 356m2 of outdoor amenity space, which will be provided on the ground floor. In addition, the proposal includes 2-level underground parking."
+    },
+    {
+      "num": "38",
+      "street": "IANNUZZI",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "An official plan amendment and rezoning applicant for  a new 32 storey condo tower with 459 residential units and 4 levels of underground parking (total of  420 parking spaces)"
+    },
+    {
+      "num": "9",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=KiJ1%2BjNGWtUa2HoiQxAHiQ%3D%3D",
+      "desc": "Site Plan Approval for a 57-storey mixed-use building having a non-residential gross floor area of 3133.48 square metres and a residential gross floor area of 46,114.38 square metres.  606 residential dwelling units are proposed."
+    },
+    {
+      "num": "1",
+      "street": "IBMS WARD 10",
+      "type": "",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DrdfJIhXMtB%2F0yd9Gl8FYA%3D%3D",
+      "desc": "Official Plan and Zoning By-law Amendment application to permit development above the Union Station rail corridor between Blue Jays Way and Bathurst Street. The revised proposal includes 9 mixed-use towers ranging in height from 36 to 72-storeys, a new City park and publicly accessible open spaces. The proposed gross floor area (GFA) equals approximately 531,130 m2 of which 494,133 m2 would be residential GFA, comprised of 7,986 residential units and 37,000 m2 would be non-residential GFA, including retail, office, hotel and childcare uses."
+    },
+    {
+      "num": "90",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AIlRg3vPcQfqeHPsE0lFwA%3D%3D",
+      "desc": "Site Plan Approval for proposed for a 69-storey mixed-use building having a gross floor area of 52,797 square metres  and 837 dwelling units."
+    },
+    {
+      "num": "2200",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=yqtdgU5E5dL4qoZEw8jPUg%3D%3D",
+      "desc": "Draft Plan of Subdivision to accomodate a proposed 'U' shape public road. Proposed road would provide access to the proposed four commercial blocks throughout the site."
+    },
+    {
+      "num": "55",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=g%2BaVlonCRutOr5mlfm7Mew%3D%3D",
+      "desc": "Proposed 75-storey building (239 metres excluding mechanical penthouse) tower containing 843 dwelling units. The proposal contains a total gross floor area of 54,004.60 m2 of residential and 1156.5m2 of non-residential, yielding a floor space index of 26. It also contains 1,517 m2 of indoor and1,012 m2 of outdoor amenity space, which will be provided on multiple floors and locations."
+    },
+    {
+      "num": "2422",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9M9Wey8AVENW9gmaXqZ3dw%3D%3D",
+      "desc": "Official Plan and Zoning By-law Amendment application to facilitate the development of an 11-storey residential building and two rows of stacked townhouses at the northwest corner of Islington Avenue and Elmhurst Drive."
+    },
+    {
+      "num": "2428",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9M9Wey8AVENW9gmaXqZ3dw%3D%3D",
+      "desc": "Official Plan and Zoning By-law Amendment application to facilitate the development of an 11-storey residential building and two rows of stacked townhouses at the northwest corner of Islington Avenue and Elmhurst Drive."
+    },
+    {
+      "num": "2434",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9M9Wey8AVENW9gmaXqZ3dw%3D%3D",
+      "desc": "Official Plan and Zoning By-law Amendment application to facilitate the development of an 11-storey residential building and two rows of stacked townhouses at the northwest corner of Islington Avenue and Elmhurst Drive."
+    },
+    {
+      "num": "9",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qX5mvnZvs5zj%2BVFisayXaQ%3D%3D",
+      "desc": "Draft Plan of Subdivision for 2 blocks."
+    },
+    {
+      "num": "1",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qX5mvnZvs5zj%2BVFisayXaQ%3D%3D",
+      "desc": "Draft Plan of Subdivision for 2 blocks."
+    },
+    {
+      "num": "3",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qX5mvnZvs5zj%2BVFisayXaQ%3D%3D",
+      "desc": "Draft Plan of Subdivision for 2 blocks."
+    },
+    {
+      "num": "5",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qX5mvnZvs5zj%2BVFisayXaQ%3D%3D",
+      "desc": "Draft Plan of Subdivision for 2 blocks."
+    },
+    {
+      "num": "7",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qX5mvnZvs5zj%2BVFisayXaQ%3D%3D",
+      "desc": "Draft Plan of Subdivision for 2 blocks."
+    },
+    {
+      "num": "9",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=OaVpnIjTouEMoTJJbbVS5g%3D%3D",
+      "desc": "Official Plan and Zoning by-law amendment to facilitate the redevelopment of the site for a 57-storey mixed-use building having a non-residential gross floor area of 3133.48 square metres, and a residential gross floor area of 46114.38 square metres.  A total of 606 dwelling units are proposed."
+    },
+    {
+      "num": "1",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=OaVpnIjTouEMoTJJbbVS5g%3D%3D",
+      "desc": "Official Plan and Zoning by-law amendment to facilitate the redevelopment of the site for a 57-storey mixed-use building having a non-residential gross floor area of 3133.48 square metres, and a residential gross floor area of 46114.38 square metres.  A total of 606 dwelling units are proposed."
+    },
+    {
+      "num": "3",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=OaVpnIjTouEMoTJJbbVS5g%3D%3D",
+      "desc": "Official Plan and Zoning by-law amendment to facilitate the redevelopment of the site for a 57-storey mixed-use building having a non-residential gross floor area of 3133.48 square metres, and a residential gross floor area of 46114.38 square metres.  A total of 606 dwelling units are proposed."
+    },
+    {
+      "num": "5",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=OaVpnIjTouEMoTJJbbVS5g%3D%3D",
+      "desc": "Official Plan and Zoning by-law amendment to facilitate the redevelopment of the site for a 57-storey mixed-use building having a non-residential gross floor area of 3133.48 square metres, and a residential gross floor area of 46114.38 square metres.  A total of 606 dwelling units are proposed."
+    },
+    {
+      "num": "1226",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=lZIwLlt73sApkZgR9PfdBw%3D%3D",
+      "desc": "Bloor Islington Housing Now project is a City-initiated Zoning By-law Amendment to permit four towers on this mixed use block with heights between 32 to 55 storeys, consisting of 1,415 residential units (including affordable housing units) and 9,946 square metres of non-residential space. Zoning permissions will also be established for the proposed TTC Bus Terminal. The associated Draft Plan of Subdivision application is proposing to create a public road to service the proposed Housing Now development. This item is scheduled to be considered at the April 5, 2024 Planning and Housing Committee held in person at City Hall and virtually. An online version of the Public Meeting Notice is available at: https://secure.toronto.ca/nm/api/individual/notice/5008.do."
+    },
+    {
+      "num": "1226",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1UhUYYz%2BdqkgtAk6flsx7w%3D%3D",
+      "desc": "Bloor Kipling Housing Now: Draft Plan of Subdivision to create two mixed-use development blocks and a new public road connecting Green Lanes and Aberfoyle Crescent."
+    },
+    {
+      "num": "88",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ALWCgqHFunGgF9eKrjl4kA%3D%3D",
+      "desc": "Site Plan Control application for a 50-storey residential development containing 508 units, of which 82 are rental replacement units."
+    },
+    {
+      "num": "88",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5QMDRsOlQd01IPtF0vG5rg%3D%3D",
+      "desc": "Zoning By-law Amendment application to facilitate the redevelopment of the site for a 62-storey residential building having a gross floor area of 45,324 square metres. 751 residential dwelling units are proposed, of which, 82 are rental replacement units."
+    },
+    {
+      "num": "100",
+      "street": "INDUSTRY",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=FoEWT1yB%2FwRo%2B2UHjmceXA%3D%3D",
+      "desc": "Site Plan Application proposes an expansion of 2429 sq.m to an existing industrial building with a ground floor area of 6290 sq.m. The total area of the industrial building would be 8719 sq.m."
+    },
+    {
+      "num": "7",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=OaVpnIjTouEMoTJJbbVS5g%3D%3D",
+      "desc": "Official Plan and Zoning by-law amendment to facilitate the redevelopment of the site for a 57-storey mixed-use building having a non-residential gross floor area of 3133.48 square metres, and a residential gross floor area of 46114.38 square metres.  A total of 606 dwelling units are proposed."
+    },
+    {
+      "num": "16",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=eNj7Kdt9CxUtHDREZgIe7A%3D%3D",
+      "desc": "Site Plan approval application for a 66-storey mixed-use building."
+    },
+    {
+      "num": "16",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AtlTohqwSNT7UycyBTCWBA%3D%3D",
+      "desc": "Zoning By-law amendment application for a 66-storey mixed-use building having a non-residential gross floor area of 165 square metres and a residential gross floor area of 42,329 square metres.  610 residential dwelling units are proposed."
+    },
+    {
+      "num": "11",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Tt2sRVpjLfdlH2dt%2BIlKTw%3D%3D",
+      "desc": "The application proposes to expand the existing Leaside Village shopping centre with three newcommercial buildings, one two-storeys in height and the other two one-storey in height, with 7,031.9 square metres of gross floor area. There are106 vehicle parking spaces, 32 bicycle parking spaces, and 3 loading spaces proposed on the site."
+    },
+    {
+      "num": "21",
+      "street": "IMPERIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5npuYynma2oKYV%2BvSDsS3A%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit a 19-storey residential building with 194 residential units. No vehicular parking proposed."
+    },
+    {
+      "num": "1276",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=4EGuRS0HXjlLZCQnPNryEw%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit a 35-storey residential building at 1276 Islington Avenue. The existing 12-storey apartment buildings on the lands is proposed to be retained. The development proposes 363 additional residential units (25,082 square metres of gross floor area)."
+    },
+    {
+      "num": "1122",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=XAaj%2BxE8ROhhSVlwirBrZg%3D%3D",
+      "desc": "Proposal to construct a four storey high townhouse block consisting of seven units."
+    },
+    {
+      "num": "135",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dvlQbx5U3dDpNL40ZLBwhw%3D%3D",
+      "desc": "Proposal for a 69-storey building with 814 dwelling units, including the replacement of 80 existing rental units.  Note - recirculation updated with notations and comments per Solid Waste Comments"
+    },
+    {
+      "num": "2",
+      "street": "IRWIN",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9PpC2aIix91TjdMA7byKrA%3D%3D",
+      "desc": "Site Plan Approval for a 75-storey mixed-use building that contains a total of 548 dwelling units and a total gross floor area (GFA) of approximately 44,565 square metres, including approximately 44,065 squares metres of residential space and approximately 500 square metres of retail/commercial space, resulting in an overall density of 33.0 FSI."
+    },
+    {
+      "num": "4",
+      "street": "IRWIN",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9PpC2aIix91TjdMA7byKrA%3D%3D",
+      "desc": "Site Plan Approval for a 75-storey mixed-use building that contains a total of 548 dwelling units and a total gross floor area (GFA) of approximately 44,565 square metres, including approximately 44,065 squares metres of residential space and approximately 500 square metres of retail/commercial space, resulting in an overall density of 33.0 FSI."
+    },
+    {
+      "num": "2",
+      "street": "IRWIN",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AvAlnW0VGqufibTh6xwtuA%3D%3D",
+      "desc": "Zoning By-law Amendment for a 75-storey mixed-use building that contains a total of 548 dwelling units and a total gross floor area (GFA) of approximately 44,565 square metres, including approximately 44,065 squares metres of residential space and approximately 500 square metres of retail/commercial space, resulting in an overall density of 33.0 FSI."
+    },
+    {
+      "num": "4",
+      "street": "IRWIN",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AvAlnW0VGqufibTh6xwtuA%3D%3D",
+      "desc": "Zoning By-law Amendment for a 75-storey mixed-use building that contains a total of 548 dwelling units and a total gross floor area (GFA) of approximately 44,565 square metres, including approximately 44,065 squares metres of residential space and approximately 500 square metres of retail/commercial space, resulting in an overall density of 33.0 FSI."
+    },
+    {
+      "num": "2260",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=IcLQorCxjjrl5YIyIAdK8w%3D%3D",
+      "desc": "The development of new 1 to 2 storey commercial buildings and a gas bar supported by a two level parking structure for a portion of the site and surface level parking for the eastern portion of the site. There are three POPS along Rexdale Blvd. The proposal includes new streets and is tied to the Intersection realignment of Rexdale Blvd and Islington Ave. The warehouse buildings on the south portion of the property are to remain,"
+    },
+    {
+      "num": "14",
+      "street": "INN ON THE PARK",
+      "type": "DR",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=yi9unzX8LdCR9yqSRclZjg%3D%3D",
+      "desc": "The is an application for Site Plan Control related to two residential towers located on Leslie Street, north of Eglinton Avenue East.  The larger project includes a third mixed use tower, which is being processed under a separate application for Site Plan Control (19 137676 NNY 16 SA), as well as a new public street and new public park.  The towers associated with this application are approved with heights of 29 storeys (Building B) and 45 storeys (Building C), and a combined 642 units. Parking is provided for in a connected underground garage providing 491 vehicle parking spaces and 782 bicycle parking spaces."
+    },
+    {
+      "num": "21",
+      "street": "IMPERIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CfnB1WEEr0wwidkzvVETNQ%3D%3D",
+      "desc": "Site Plan Application for a 19-storey mixed-use building containing 228 residential dwelling units and 52 square metres of ground floor retail space. Two ground level units will have expanded home occupation (live/work) permissions."
+    },
+    {
+      "num": "90",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=fBDw2Byltp4Vq%2FOgtWBAEw%3D%3D",
+      "desc": "Rezoning for proposed for a 69-storey mixed-use building having a gross floor area of 52,989 square metres  and 837 dwelling units."
+    },
+    {
+      "num": "45",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5uRpsYriFL2ignpKqLCRtQ%3D%3D",
+      "desc": "Site Plan Control Application proposes a 1-storey industrial building containing 7 units. A paved access from Industrial Street will be provided, leading to surface parking, providing a total of 13 parking spaces; as well as 9 bicycle parking spaces. The proposed development provides a total GFA of 1311.01 square metres and a FSI of 0.15 not including existing buildings on the lot.."
+    },
+    {
+      "num": "1276",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=tMfRHo7xWJ3lN7in%2Bgdj9A%3D%3D",
+      "desc": "Proposed infill development of a 35-storey, 25,700.63 square-metre, purpose-built rental building containing 375 residential units, and 262 parking spaces provided between four levels of underground parking. The existing 12-storey residential building will be retained. The site will have a total gross floor area (GFA) of 43,570.63 square metres."
+    },
+    {
+      "num": "118",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ldHwRHNOmqyeBU3FBU03AA%3D%3D",
+      "desc": "To permit two buildings, 56 and 60 storeys, with approximately 1,362 purpose-built rental units, including 32 rental replacement units. The project retains portions of the existing listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "120",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ldHwRHNOmqyeBU3FBU03AA%3D%3D",
+      "desc": "To permit two buildings, 56 and 60 storeys, with approximately 1,362 purpose-built rental units, including 32 rental replacement units. The project retains portions of the existing listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "122",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ldHwRHNOmqyeBU3FBU03AA%3D%3D",
+      "desc": "To permit two buildings, 56 and 60 storeys, with approximately 1,362 purpose-built rental units, including 32 rental replacement units. The project retains portions of the existing listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "124",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ldHwRHNOmqyeBU3FBU03AA%3D%3D",
+      "desc": "To permit two buildings, 56 and 60 storeys, with approximately 1,362 purpose-built rental units, including 32 rental replacement units. The project retains portions of the existing listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "1243",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AfAKlB9uCND20%2BMjx5ngng%3D%3D",
+      "desc": "Application to amend the Zoning By-law at 1243 Islington Avenue to permit a 61 storey (191-metre, excluding mechanical penthouse), comprising 702 dwelling units and 90 square metres of non-residential gross floor area at grade. A 170 square metre Privately Owned Publicly Accessible Space (POPS) is proposed at the southwest corner of the site, and a pedestrian mid-block connection is proposed along the east side of the site."
+    },
+    {
+      "num": "122",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZcyOReA6A%2BT%2Fsn9nVwYGsA%3D%3D",
+      "desc": "To permit the construction of two buildings, with building heights of 56 and 60 storeys and approximately 1,362 dwelling units, and a POPS. The project retains portions of the existing heritage listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "124",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZcyOReA6A%2BT%2Fsn9nVwYGsA%3D%3D",
+      "desc": "To permit the construction of two buildings, with building heights of 56 and 60 storeys and approximately 1,362 dwelling units, and a POPS. The project retains portions of the existing heritage listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "112",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ldHwRHNOmqyeBU3FBU03AA%3D%3D",
+      "desc": "To permit two buildings, 56 and 60 storeys, with approximately 1,362 purpose-built rental units, including 32 rental replacement units. The project retains portions of the existing listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "114",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ldHwRHNOmqyeBU3FBU03AA%3D%3D",
+      "desc": "To permit two buildings, 56 and 60 storeys, with approximately 1,362 purpose-built rental units, including 32 rental replacement units. The project retains portions of the existing listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "116",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ldHwRHNOmqyeBU3FBU03AA%3D%3D",
+      "desc": "To permit two buildings, 56 and 60 storeys, with approximately 1,362 purpose-built rental units, including 32 rental replacement units. The project retains portions of the existing listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "81",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ixUp1d3D1RVt7E2bNdW%2BBw%3D%3D",
+      "desc": "Zoning By-law Amendment for a 69-storey residential building, containing 647 dwelling units, including 48 replacement rental dwelling units."
+    },
+    {
+      "num": "159",
+      "street": "INDIAN ROAD",
+      "type": "CRES",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=NSWxPeKPfhszJ%2FlaMwFnFg%3D%3D",
+      "desc": "Draft Plan of Condominium for 4 residentail dwelling units within a Triplex and associated Garden Suite"
+    },
+    {
+      "num": "92",
+      "street": "ISLAND",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=rfHVy%2B6MmaTJSD0Mf46QrA%3D%3D",
+      "desc": "Site Plan Application for the demolition of the existing building and redevelopment of a new long-term care home building, consisting of an 8-storey element in the southwest corner, and a 10-storey building element located in the northwest corner. The new building would include 448 beds, and the total gross floor area is approximately 24,983 square metres, resulting in 1.51 FSI."
+    },
+    {
+      "num": "166",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2FfelwHv6cpgvItn5LeIKXA%3D%3D",
+      "desc": "The proposed development contemplates a 69-storey residential building containing 648 units, ranging in size from studio to three-bedrooms. A total of 2,666 square metres amenity space is proposed, including 320 square metres of outdoor amenity space and 2,345 square metres of indoor amenity space. A total of 4 vehicle parking spaces are provided, in addition to 374 bicycle parking spaces, of which 76 will be short-term and 298 are long-term."
+    },
+    {
+      "num": "168",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2FfelwHv6cpgvItn5LeIKXA%3D%3D",
+      "desc": "The proposed development contemplates a 69-storey residential building containing 648 units, ranging in size from studio to three-bedrooms. A total of 2,666 square metres amenity space is proposed, including 320 square metres of outdoor amenity space and 2,345 square metres of indoor amenity space. A total of 4 vehicle parking spaces are provided, in addition to 374 bicycle parking spaces, of which 76 will be short-term and 298 are long-term."
+    },
+    {
+      "num": "110",
+      "street": "INDUSTRY",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=IHBwV4uYgYgHOiaEupDxrw%3D%3D",
+      "desc": "Proposal  to permit the outdoor storage of building materials on the property for three (3) years."
+    },
+    {
+      "num": "164",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2FfelwHv6cpgvItn5LeIKXA%3D%3D",
+      "desc": "The proposed development contemplates a 69-storey residential building containing 648 units, ranging in size from studio to three-bedrooms. A total of 2,666 square metres amenity space is proposed, including 320 square metres of outdoor amenity space and 2,345 square metres of indoor amenity space. A total of 4 vehicle parking spaces are provided, in addition to 374 bicycle parking spaces, of which 76 will be short-term and 298 are long-term."
+    },
+    {
+      "num": "112",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZcyOReA6A%2BT%2Fsn9nVwYGsA%3D%3D",
+      "desc": "To permit the construction of two buildings, with building heights of 56 and 60 storeys and approximately 1,362 dwelling units, and a POPS. The project retains portions of the existing heritage listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "114",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZcyOReA6A%2BT%2Fsn9nVwYGsA%3D%3D",
+      "desc": "To permit the construction of two buildings, with building heights of 56 and 60 storeys and approximately 1,362 dwelling units, and a POPS. The project retains portions of the existing heritage listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "116",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZcyOReA6A%2BT%2Fsn9nVwYGsA%3D%3D",
+      "desc": "To permit the construction of two buildings, with building heights of 56 and 60 storeys and approximately 1,362 dwelling units, and a POPS. The project retains portions of the existing heritage listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "118",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZcyOReA6A%2BT%2Fsn9nVwYGsA%3D%3D",
+      "desc": "To permit the construction of two buildings, with building heights of 56 and 60 storeys and approximately 1,362 dwelling units, and a POPS. The project retains portions of the existing heritage listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "120",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZcyOReA6A%2BT%2Fsn9nVwYGsA%3D%3D",
+      "desc": "To permit the construction of two buildings, with building heights of 56 and 60 storeys and approximately 1,362 dwelling units, and a POPS. The project retains portions of the existing heritage listed buildings at 122-124 Isabella Street, 30-32 Huntley Street, and 38-40 Huntley Street."
+    },
+    {
+      "num": "100",
+      "street": "INGLEWOOD",
+      "type": "DR",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=XX6RMD2WZLrojeHOzvcFwA%3D%3D",
+      "desc": "Proposal to permit three (3) apartment-style condominium units within the existing  3-storey, triplex dwelling"
+    },
+    {
+      "num": "210",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=vjC6381trpkrM9f6buKJOw%3D%3D",
+      "desc": "The proposed development consists of a 26-storey mixed use building, containing 352 dwelling units with retail uses at-grade. The proposed net density is 8.83 times the area of the lot. The total building height is 80.47 metres, exclusive of the 5-metre-high mechanical penthouse. 147 vehicular parking spaces are proposed in underground parking levels and 265 bicylcle parkings spaces are proposed on ground level and the first underground level. Pre-Application Consultation was held on February 16, 2023 (File No. 23 101113 WET 03 PAC)."
+    },
+    {
+      "num": "137",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=psDhgZay4VwaQMa2RPS2Gw%3D%3D",
+      "desc": "Zoning By-law Amendment for a 69-storey residential building containing 823 dwelling units. The existing 7-storey apartment building and 3-storey single detached dwelling on the site would be demolished. The 61 demolished rental units would be replaced in the new proposal. The proposed redevelopment consists of a total of 50,463.1 sq. m of gross floor area (GFA)."
+    },
+    {
+      "num": "2260",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=HP4eTqAfyqDWToTJtA3J2g%3D%3D",
+      "desc": "The Development of 18 new low-rise commercial buildings and a gas bar supported by surface parking."
+    },
+    {
+      "num": "141",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=psDhgZay4VwaQMa2RPS2Gw%3D%3D",
+      "desc": "Zoning By-law Amendment for a 69-storey residential building containing 823 dwelling units. The existing 7-storey apartment building and 3-storey single detached dwelling on the site would be demolished. The 61 demolished rental units would be replaced in the new proposal. The proposed redevelopment consists of a total of 50,463.1 sq. m of gross floor area (GFA)."
+    },
+    {
+      "num": "135",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2FVdoqGjFEDn5OXawMv2joQ%3D%3D",
+      "desc": "Proposed 69 storey residential building with 770 units."
+    },
+    {
+      "num": "45",
+      "street": "INDUSTRIAL",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=8FzqZsVgxenVsP%2Fr6tQNjw%3D%3D",
+      "desc": "Draft Plan of Phased Condominium to permit 36 indutrial units (4685.91 square metres of industrial use), inlusive of 57 parking spaces and 3 loading spaces. A future phase is proposed on the eastern portion of the property."
+    },
+    {
+      "num": "90",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AIlRg3vPcQfqeHPsE0lFwA%3D%3D",
+      "desc": "Site Plan Approval for proposed for a 69-storey mixed-use building having a gross floor area of 52,797 square metres  and 837 dwelling units."
+    },
+    {
+      "num": "130",
+      "street": "IAN MACDONALD",
+      "type": "BLVD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=fJnMncvnBIl9aQ1FXSRHuw%3D%3D",
+      "desc": "City of Vaughan SIte Plan Control application for 2300 STEELES AVENUES WEST (DA.08.051). Proposal for 5 office buildings having a total gross floor area of 90, 419 square metres and a 5,349 square metre neighbourhood park block. The development will consist of two 8-storey office buildings fronting onto Steeles Avenue (Phase 2 and 3), 8 and 6 storey office buildings (Phases 4 and 5) fronting onto the future east-west road (Street \"X\"), and a future one-storey 1,263 square metre expansion (Phase 5) to the existing 4-storey office building located at the northwest corner of Steeles Avenue and Keele Street."
+    },
+    {
+      "num": "92",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=fBDw2Byltp4Vq%2FOgtWBAEw%3D%3D",
+      "desc": "Rezoning for proposed for a 69-storey mixed-use building having a gross floor area of 52,989 square metres  and 837 dwelling units."
+    },
+    {
+      "num": "94",
+      "street": "ISABELLA",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=fBDw2Byltp4Vq%2FOgtWBAEw%3D%3D",
+      "desc": "Rezoning for proposed for a 69-storey mixed-use building having a gross floor area of 52,989 square metres  and 837 dwelling units."
+    },
+    {
+      "num": "1138",
+      "street": "ISLINGTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0o4zrsqtxpAP8xpxKL88og%3D%3D",
+      "desc": "The proposed development consists of a 6 storey residential building containing 37 total units and a GFA of 2,049.00m2. The site will contain indoor and outdoor amenity spaces, 28 bicycle parking spaces and 2 visitor parking spaces."
+    }
+  ]
 }
