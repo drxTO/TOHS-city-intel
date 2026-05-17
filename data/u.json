@@ -12384,7 +12384,689 @@
       "desc": "HVAC - Proposal for interior alterations to existing office space."
     }
   ],
-  "str": [],
-  "mth": [],
-  "pdn": []
+  "str": [
+    {
+      "num": "47",
+      "street": "UXBRIDGE",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2009-HZKPBM"
+    },
+    {
+      "num": "128",
+      "street": "ULSTER",
+      "type": "ST",
+      "dir": "",
+      "unit": "1",
+      "reg": "STR-2211-GKVBHT"
+    },
+    {
+      "num": "102",
+      "street": "ULSTER",
+      "type": "ST",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2310-FHSHHP"
+    },
+    {
+      "num": "98",
+      "street": "UPPER",
+      "type": "DR",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2312-FDRDVP"
+    },
+    {
+      "num": "195",
+      "street": "UPPER",
+      "type": "DR",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2507-FMQYBQ"
+    },
+    {
+      "num": "104",
+      "street": "ULSTER",
+      "type": "ST",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2603-FVSPPR"
+    },
+    {
+      "num": "15",
+      "street": "UPMINSTER",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2604-GVZVPV"
+    }
+  ],
+  "mth": [
+    {
+      "num": "18",
+      "street": "ULSTER",
+      "type": "ST",
+      "dir": "",
+      "status": "Active"
+    }
+  ],
+  "pdn": [
+    {
+      "num": "84",
+      "street": "ULSTER",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=fFCTKaUyjelOouX8M1DlFA%3D%3D",
+      "desc": "Draft Plan of Standard Condo for 5 residential units."
+    },
+    {
+      "num": "522",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aXuxbWrz2yACLM6ae2phvg%3D%3D",
+      "desc": "Site Plan Control application to permit a 64-storey mixed-use building, comprised of a 51-storey residential tower atop a 15-storey office podium. The proposal consists of a total of approximately 54,983 square metres of gross floor area, of which 33,570 square metres would be dedicated to residential uses, 21,202 square metres to office uses, and 2111 square metres to retail uses, resulting in a density of 22.8 FSI. The proposed building will contain a total of 579 dwelling units in a range of unit types."
+    },
+    {
+      "num": "250",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=YpWryXVnW%2B63f5xFiNRoSw%3D%3D",
+      "desc": "Zoning By-law Amendment to facilitate redevelopment on the lands municipally known as 250 University Avenue for a 54-storey mixed-use building. The project consists of a mix of 495 residential units, 669 sq. m. of retail space, 12,463 sq. m of office space, and 36,337 sq. m of residential area. This results in a total gross floor area of 49,469 sq. metres."
+    },
+    {
+      "num": "426",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Site Plan Approval for a proposed 42-storey (135 metre) mixed use building containing a private club (RCMI) at floors one to six and 312 residential units above with no parking proposed to be provided.  Maintenance of the existing heritage facade, in conjunction witht the existing Royal Canadian Military Institute is proposed."
+    },
+    {
+      "num": "426",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Zoning By Law Amendment for a proposed 42-storey (135 metre) mixed use building containing a private club (RCMI) at floors one to six and 312 residential units above with no parking proposed to be provided.  Maintenance of the existing heritage facade, in conjunction witht the existing Royal Canadian Military Institute is proposed."
+    },
+    {
+      "num": "43",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "An application to amend the Official Plan to permit the removal from 'Schedule 2: The Designation of Planned but Unbuilt Roads' the extension of Sinnott Road from Upton Road to Hymus Road."
+    },
+    {
+      "num": "50",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "An application to amend the Official Plan to permit the removal from 'Schedule 2: The Designation of Planned but Unbuilt Roads' the extension of Sinnott Road from Upton Road to Hymus Road."
+    },
+    {
+      "num": "480",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Rezoning application for a 55-storey building (total).  Proposes to maintain 18-storey office building and build 37-storeys of residential above. - 453 Residential units - 3 additional levels of underground parking -158 parking spaces."
+    },
+    {
+      "num": "426",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Condominium Application for a 42 storey mixed-use building consisting of 318 units. Refer to related Re-zoning folder 08-163452 and Site Plan Approval 08-163490."
+    },
+    {
+      "num": "50",
+      "street": "UPPER ROUGE",
+      "type": "TRL",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed new 6 224 m2 TDSB elementary school"
+    },
+    {
+      "num": "480",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposal to add 37 stories to existing 18 storey building with below grade parking. This proposal will add 38,714.88m2 of residential space to the existing 25,816.63m2 of office and 490.00m2 of retail."
+    },
+    {
+      "num": "43",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "An application to amend the Official Plan to permit the removal from 'Schedule 2: The Designation of Planned but Unbuilt Roads' the extension of Sinnott Road from Upton Road to Hymus Road."
+    },
+    {
+      "num": "50",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "An application to amend the Official Plan to permit the removal from 'Schedule 2: The Designation of Planned but Unbuilt Roads' the extension of Sinnott Road from Upton Road to Hymus Road."
+    },
+    {
+      "num": "43",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "An application to amend the Official Plan to permit the removal from 'Schedule 2: The Designation of Planned but Unbuilt Roads' the extension of Sinnott Road from Upton Road to Hymus Road."
+    },
+    {
+      "num": "50",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "An application to amend the Official Plan to permit the removal from 'Schedule 2: The Designation of Planned but Unbuilt Roads' the extension of Sinnott Road from Upton Road to Hymus Road."
+    },
+    {
+      "num": "481",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Rezoning application to permit the re-development of the lands for the purposes of a new mixed use building, 55 stories in height complete with 50,439m2 (748 units) of residential space, 3,055m2 of retail space and 22,488m2 of office space. This proposal includes a total of 378 parking spaces all of which are below grade."
+    },
+    {
+      "num": "28",
+      "street": "UNDERWRITERS",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Proposed warehouse, office, truck depot and concrete batching facility."
+    },
+    {
+      "num": "43",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "This application proposes to delete permissions for both heavy industrial uses and sensitive uses from the Zoning By-laws for the lands at 43 Upton Road."
+    },
+    {
+      "num": "488",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Rezoning application for a 55-storey building (total).  Proposes to maintain 18-storey office building and build 37-storeys of residential above. - 453 Residential units - 3 additional levels of underground parking -158 parking spaces."
+    },
+    {
+      "num": "43",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "This application proposes to delete permissions for both heavy industrial uses and sensitive uses from the Zoning By-laws for the lands at 43 Upton Road."
+    },
+    {
+      "num": "43",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "This application proposes to delete permissions for both heavy industrial uses and sensitive uses from the Zoning By-laws for the lands at 43 Upton Road."
+    },
+    {
+      "num": "480",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=HS15u%2Fxs9kzYIX0eA7k%2Bdw%3D%3D",
+      "desc": "447 dwelling units condo development."
+    },
+    {
+      "num": "488",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=HS15u%2Fxs9kzYIX0eA7k%2Bdw%3D%3D",
+      "desc": "447 dwelling units condo development."
+    },
+    {
+      "num": "481",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=JEKUaQGKvYGsTDVeSSs8Ug%3D%3D",
+      "desc": "Site Plan Control Application to facilitate the addition of a 52-storey (178.4 metres) mixed use building containing 20,782 square metres of office space, 3,605 square metres of retail space, and 709 residential dwelling units. A new interior entrance to St. Patrick subway station is proposed as part of the development. Portions of the existing buildings at 481 University Avenue and 210 Dundas Street West would be retained as part of the development. A total of 191 below grade parking spaces and 654 bicycle parking spaces are proposed."
+    },
+    {
+      "num": "465",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=JEKUaQGKvYGsTDVeSSs8Ug%3D%3D",
+      "desc": "Site Plan Control Application to facilitate the addition of a 52-storey (178.4 metres) mixed use building containing 20,782 square metres of office space, 3,605 square metres of retail space, and 709 residential dwelling units. A new interior entrance to St. Patrick subway station is proposed as part of the development. Portions of the existing buildings at 481 University Avenue and 210 Dundas Street West would be retained as part of the development. A total of 191 below grade parking spaces and 654 bicycle parking spaces are proposed."
+    },
+    {
+      "num": "43",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AATpdU6FCDmZdKHQNk9vBQ%3D%3D",
+      "desc": "The applicant had NOAC issued, however, it was not executed and the NOAC expired as the owner sold the business. The new Owner started a new SPA file with a new proposal (2021 250985 ESC 20 SA). This new owner also sold the business in the middle of the review of the above SPA file. The current new owner now wants to reactivate the original expired NOAC (2019 202364 ESC 20 SA) and close the previous Owner's file (2021 250985 ESC 20 SA). A new NOAC is required and the new applicant has resubmitted all materials for review.The application proposes to redevelop the site by replacing the existing building with a new industrial building comprising of a 1-storey (with a mezzanine) office component and a warehouse having a gross floor area of 522 and 5,110 square metres respectively. A total of 68 vehicular parking spaces and 1 loading space will be provided."
+    },
+    {
+      "num": "700",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=tjSUQ%2Fm4sAWQupWn67rj0w%3D%3D",
+      "desc": "Proposal for a 4-storey addition above the existing 19-storey office tower, and a 61-storey rental residential tower.  The proposal consists of a total of 167127 square metres of gross floor area, including 226882 square metres of office space, 7751 square metres of retail space and 459 new purpose built rental units, resulting in an overall proposed density of 27.98 FSI."
+    },
+    {
+      "num": "475",
+      "street": "UNWIN",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=tlETUIXOjZRBhahCnl4%2B6g%3D%3D",
+      "desc": "Site Plan Approval for a proposed rowing facility comprised of 876 square metres of non-residential gross floor area."
+    },
+    {
+      "num": "460",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Rezoning application for a 55-storey building (total).  Proposes to maintain 18-storey office building and build 37-storeys of residential above. - 453 Residential units - 3 additional levels of underground parking -158 parking spaces."
+    },
+    {
+      "num": "480",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "",
+      "desc": "Rezoning application for a 55-storey building (total).  Proposes to maintain 18-storey office building and build 37-storeys of residential above. - 453 Residential units - 3 additional levels of underground parking -158 parking spaces."
+    },
+    {
+      "num": "77",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=C9%2BY8fcbRabLIbU66TbpIw%3D%3D",
+      "desc": "Official Plan and Zoning By-law amendment application to facilitate the redevelopment on the site for a 39-storey mixed-use building having a non-residential gross floor area of 8467 square metres, and a residential gross floor area of 127,228 square metres.  1951 residential dwelling units are proposed."
+    },
+    {
+      "num": "32",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=f%2BRGKFn2ecYvXIoRIonFLQ%3D%3D",
+      "desc": "Site Plan Approval for a proposed addition to the northwest of the existing building.  The proposed addition has a gross floor area of 98.5 square metres, and a height of 7.39 metres."
+    },
+    {
+      "num": "80",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Zqcsd2uP80kc9Goy%2FHW%2Bhw%3D%3D",
+      "desc": "The Official Plan and Zoning By-law Amendment application proposes the redevelopment of the site to permit three buildings ranging in height between 39 and 49-storeys. The application proposes 97,921 square metres of gross floor area (GFA), including 91,425 square metres of residential GFA, 6,009 square metres of office space, and 487 square metres of retail space. A total of 1,364 residential units are proposed."
+    },
+    {
+      "num": "80",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CHC5dprM6gUrcZvtQwCoFw%3D%3D",
+      "desc": "3 blocks"
+    },
+    {
+      "num": "77",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=kiZloZ7Qge0xEQPO9dJ%2BOg%3D%3D",
+      "desc": "Proposal for approximately 135,696 square metres of gross floor area, comprised of approximately 127,228 square metres of residential space, 8,467 square metres of non-residential space. In terms of dwelling units, the proposal will contribute 1,951 units, including a minimum of 10% three-bedroom units."
+    },
+    {
+      "num": "250",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2FqEK2%2F5ae0tN9urYrqBwNA%3D%3D",
+      "desc": "Draft Plan of Subdivision to create three blocks."
+    },
+    {
+      "num": "77",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=D5PKJl210U1%2FW0xcx3SaXA%3D%3D",
+      "desc": "Draft Plan of Subdivision for 5 lots."
+    },
+    {
+      "num": "2",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Zqcsd2uP80kc9Goy%2FHW%2Bhw%3D%3D",
+      "desc": "The Official Plan and Zoning By-law Amendment application proposes the redevelopment of the site to permit three buildings ranging in height between 39 and 49-storeys. The application proposes 97,921 square metres of gross floor area (GFA), including 91,425 square metres of residential GFA, 6,009 square metres of office space, and 487 square metres of retail space. A total of 1,364 residential units are proposed."
+    },
+    {
+      "num": "2",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CHC5dprM6gUrcZvtQwCoFw%3D%3D",
+      "desc": "3 blocks"
+    },
+    {
+      "num": "43 R",
+      "street": "UPTON",
+      "type": "RD",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AATpdU6FCDmZdKHQNk9vBQ%3D%3D",
+      "desc": "The applicant had NOAC issued, however, it was not executed and the NOAC expired as the owner sold the business. The new Owner started a new SPA file with a new proposal (2021 250985 ESC 20 SA). This new owner also sold the business in the middle of the review of the above SPA file. The current new owner now wants to reactivate the original expired NOAC (2019 202364 ESC 20 SA) and close the previous Owner's file (2021 250985 ESC 20 SA). A new NOAC is required and the new applicant has resubmitted all materials for review.The application proposes to redevelop the site by replacing the existing building with a new industrial building comprising of a 1-storey (with a mezzanine) office component and a warehouse having a gross floor area of 522 and 5,110 square metres respectively. A total of 68 vehicular parking spaces and 1 loading space will be provided."
+    },
+    {
+      "num": "700",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=uTp8OpAP4DipUCvJDgd2jA%3D%3D",
+      "desc": "Proposal for a 4-storey addition above the existing 19-storey office tower, and a 61-storey rental residential tower.  The proposal consists of a total of 170712 square metres of gross floor area, including 114161 square metres of office space, 17006 square metres of retail space and 475 new purpose built rental units, resulting in an overall proposed density of 17.44 FSI."
+    },
+    {
+      "num": "440",
+      "street": "UNWIN",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ORVfzIh9Hfk2K4%2B%2FPq2vKw%3D%3D",
+      "desc": "Official Plan Amendment proposing redevelopment of the Hearn Power Generating Station. The site is subject to the Port Lands Area Specific Policies of the City's Central Waterfront Secondary Plan, which envisions the Hearn as a catalytic destination for cultural, sport, entertainment, recreational and institutional uses within a revitalized iconic heritage building. The Hearn is surrounded by power generation and distribution infrastructure, port and heavy industrial uses and natural areas. Residential uses are not currently permitted. The application proposes 739,567 square metres of Gross Floor Area (GFA) including adaptive reuse of the existing power station building and development of seven new buildings with tower elements across the site.  A mix of retail, commercial and other non-residential uses are proposed, together with 8,400 residential units and 2,522 vehicle parking spaces."
+    },
+    {
+      "num": "2",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=N4pq%2BIzoz3XYlC0zP28zVw%3D%3D",
+      "desc": "Proposed St. Clair - Old Weston SmartTrack (GO) station. Two new station entrance buildings with below grade connections to station platforms within the Metrolinx rail corridor and a new TTC bus loop with 7 bus bays that can accomodate 3 articulated buses, 3 standard buses and 1 Wheel-Trans bus.Proposed rezoning is intended to provide site-specific standards for building setbacks, parking and bike parking."
+    },
+    {
+      "num": "126",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=6xNY%2FDS75dk%2F6HlpHKtC3w%3D%3D",
+      "desc": "The proposal is for two towers of 20 and 34 storeys, connected by a 6 storey based podium, aligning with the existing and new public streets with active retail space at grade.  Also contemplates the Gunns Road extension as well as new parkland."
+    },
+    {
+      "num": "100",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=HsOxlb%2BFcf9zI28XfrfTlg%3D%3D",
+      "desc": "The proposal contemplates the development of the subject site with two mixed-use buildings consisting of commercial, retail and residential uses framing the street edge and providing room for a parkland conveyance that will serve as an expansion to the parkland planned to the south. The proposal will incorporate two towers of 23 and 37 storeys, each with 6 storey podiums, aligning the Union Street public street with active retail space at grade."
+    },
+    {
+      "num": "522",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=J92NxUv5cgNF2c1v9LAA3g%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit a 64-storey mixed-use building, containing 579 dwelling units, 21,138 square metres to office and 354 square metres to retail gross floor area."
+    },
+    {
+      "num": "200",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CRw4iUudH66q%2Bi6yn2vJkg%3D%3D",
+      "desc": "Proposed to facilitate redevelopment at 200 University Avenue for a 35-storey addition above the existing 16-storey building for an overall height of 51-storeys. The proposal consists of 35,316 square metres of residential gross floor area containing 478 residential units, 204 square metres of retail space, and 13,052 square metres of office space, with 98 vehicular parking spaces and 548 bicycle spaces."
+    },
+    {
+      "num": "200",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=eMpV%2Bsnst2OsGu9VW%2BerwA%3D%3D",
+      "desc": "Official Plan and Zoning By-law Amendment applications to facilitate redevelopment at 200 University Avenue for a 35-storey addition above the existing 16-storey building for an overall height of 51-storeys. The proposal consists of 35,316 square metres of residential gross floor area containing 478 residential units, 204 square metres of retail space, and 13,052 square metres of office space, with 98 vehicular parking spaces and 548 bicycle spaces."
+    },
+    {
+      "num": "505",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AkqNCTeGYdJ3GG8rqBEjBA%3D%3D",
+      "desc": "Official Plan Amendment application to permit a 64-storey mixed-use building, containing 704 dwelling units, 25,100 square metres of office and 600 square metres of retail gross floor area. A concurrent Zoning Amendment application for the same development has also previously been submitted and is under Appeal."
+    },
+    {
+      "num": "402",
+      "street": "UNWIN",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ORVfzIh9Hfk2K4%2B%2FPq2vKw%3D%3D",
+      "desc": "Official Plan Amendment proposing redevelopment of the Hearn Power Generating Station. The site is subject to the Port Lands Area Specific Policies of the City's Central Waterfront Secondary Plan, which envisions the Hearn as a catalytic destination for cultural, sport, entertainment, recreational and institutional uses within a revitalized iconic heritage building. The Hearn is surrounded by power generation and distribution infrastructure, port and heavy industrial uses and natural areas. Residential uses are not currently permitted. The application proposes 739,567 square metres of Gross Floor Area (GFA) including adaptive reuse of the existing power station building and development of seven new buildings with tower elements across the site.  A mix of retail, commercial and other non-residential uses are proposed, together with 8,400 residential units and 2,522 vehicle parking spaces."
+    },
+    {
+      "num": "555",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Bvegl1oaa2Oa%2Bb07AKwdSg%3D%3D",
+      "desc": "Official Plan Amendment to establish a framework to guide future development at SickKids, including a new 32-storey Patient Care Centre with approximately 241,500 square metres of institutional healthcare space and public realm improvements, and allow future development to be partially visible behind the silhouette view of City Hall, which is protected in the City's Official Plan view policies."
+    },
+    {
+      "num": "100",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=eBRwK6jRUBdnhtMC0tGWSg%3D%3D",
+      "desc": "The proposal is for two towers of 23 and 37 storeys, each with 6 storey podiums, with commercial, retail and residential uses framing the street edge and a park, expanding parkland planned to the south."
+    },
+    {
+      "num": "126",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=kYL3eFfLtJdaP020Ut%2FyAA%3D%3D",
+      "desc": "The proposal contemplates the development of the subject site with a mixed-use building consisting of retail and residential uses central to the property and allowing sufficient land to be conveyed for the Gunns Road extension as well as new parkland. The building will incorporate two towers of 20 and 34 storeys, connected by a 6 storey based podium, aligning with the existing and new public streets with active retail space at grade."
+    },
+    {
+      "num": "505",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=N23Edaw%2B64Xg%2BwobNh3%2BcQ%3D%3D",
+      "desc": "The redevelopment proposes a 64-storey mixed-use building with a 12-storey office podium and is inclusive of four levels of below-grade parking with a total of 171 parking spaces. The redevelopment proposes 704 dwelling units, resulting in a total residential gross floor area (GFA) of 46,683 sq. m., a total of 24,919 sq. m. of office GFA, and a total of 460 sq. m of retail GFA which results in a total Floor Space Index (FSI) of 21.65, pursuant to GFA calculations under By-law 569-2013."
+    },
+    {
+      "num": "505",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=8NxSJLx4baygv5k7gKL1Aw%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit a 64-storey mixed-use building, containing 704 dwelling units, 25,100 square metres of office and 600 square metres of retail gross floor area."
+    },
+    {
+      "num": "2",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=LBku9FysC%2BUBsEnr%2B3gPtQ%3D%3D",
+      "desc": "Proposed St. Clair - Old Weston GO station (Smart Track) by Metrolinx. Proposal comprises:- 3 entrance buildings: main entrance located at south end of site adjacent to Union St. Seconary entrance at north end of sit adjacent to Union St. Third entrance located on west side of rail corridor near planned extension of Gunns Rd.- Increase from three tracks to four mainline tracks- Three platforms to serve all four Metrolinx tracks, with canopies over at least 85% of the platformlength, enclosures at the top of stairs and elevators, passenger shelters, and all amenities such aslighting, public address, digital and static signage, and snowmelt.- Two tunnels to connect each of the platforms to a station building on the east side of the rail corridor.- Corridor station facilities including six-bay bus loop to accommodate TTC vehicle and Wheel Trans, aplaza, sidewalk, MUP and circulation space to accommodate all pedestrian and cycling activity,secure and covered cycling facilities, as well as landscaping, street furniture and plantings."
+    }
+  ]
 }
