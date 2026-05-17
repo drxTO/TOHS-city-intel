@@ -1,6 +1,16 @@
 {
   "rentsafe": [],
-  "abp": [],
+  "abp": [
+    {
+      "num": "150",
+      "street": "150 BAMBURGH",
+      "type": "CRCL",
+      "dir": "",
+      "permit": "16 185053 DEM",
+      "status": "Application On Hold",
+      "desc": ""
+    }
+  ],
   "str": [],
   "mth": [],
   "pdn": []
