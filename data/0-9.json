@@ -11,7 +11,55 @@
       "desc": ""
     }
   ],
-  "str": [],
-  "mth": [],
+  "str": [
+    {
+      "num": "119",
+      "street": "1/2 MAPLEWOOD",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2111-HYVRVM"
+    },
+    {
+      "num": "2",
+      "street": "1/2 PALMERSTON",
+      "type": "AVE",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2405-JGDKVZ"
+    },
+    {
+      "num": "349",
+      "street": "1/2 CRAWFORD",
+      "type": "ST",
+      "dir": "",
+      "unit": "Lower",
+      "reg": "STR-2411-FVMBPR"
+    },
+    {
+      "num": "5",
+      "street": "1/2 MACKENZIE",
+      "type": "CRES",
+      "dir": "",
+      "unit": "",
+      "reg": "STR-2605-GZRLBV"
+    }
+  ],
+  "mth": [
+    {
+      "num": "283",
+      "street": "1/2 GEORGE",
+      "type": "ST",
+      "dir": "",
+      "status": "Active"
+    },
+    {
+      "num": "536",
+      "street": "1/2 PARLIAMENT",
+      "type": "ST",
+      "dir": "",
+      "status": "Active"
+    }
+  ],
   "pdn": []
 }
