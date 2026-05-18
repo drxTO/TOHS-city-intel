@@ -55471,6 +55471,7 @@
       "street": "KILDONAN",
       "type": "DR",
       "dir": "",
+      "postal": "M1N",
       "unit": "",
       "reg": "STR-2009-GJYXPF"
     },
@@ -55479,6 +55480,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M1J",
       "unit": "",
       "reg": "STR-2009-GLJKPG"
     },
@@ -55487,6 +55489,7 @@
       "street": "KITCHENER",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2010-FFPDPB"
     },
@@ -55495,6 +55498,7 @@
       "street": "KENILWORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "1",
       "reg": "STR-2010-GJRRPF"
     },
@@ -55503,6 +55507,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "641",
       "reg": "STR-2010-GLFXVG"
     },
@@ -55511,6 +55516,7 @@
       "street": "KINGS PARK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2011-HHWKVJ"
     },
@@ -55519,6 +55525,7 @@
       "street": "KINGSDOWN",
       "type": "DR",
       "dir": "",
+      "postal": "M1K",
       "unit": "",
       "reg": "STR-2012-HVBHHL"
     },
@@ -55527,6 +55534,7 @@
       "street": "KENILWORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2012-HYXVHM"
     },
@@ -55535,6 +55543,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2",
       "reg": "STR-2012-HTGBHL"
     },
@@ -55543,6 +55552,7 @@
       "street": "KEELE",
       "type": "ST",
       "dir": "",
+      "postal": "M6L",
       "unit": "BSMT",
       "reg": "STR-2012-HTXVHL"
     },
@@ -55551,6 +55561,7 @@
       "street": "KINTYRE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2101-GBQPHD"
     },
@@ -55559,6 +55570,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "1",
       "reg": "STR-2211-GWXKVH"
     },
@@ -55567,6 +55579,7 @@
       "street": "KEELE",
       "type": "ST",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2211-HBRPHW"
     },
@@ -55575,6 +55588,7 @@
       "street": "KENNEDY",
       "type": "RD",
       "dir": "",
+      "postal": "M1K",
       "unit": "",
       "reg": "STR-2211-GGLVHS"
     },
@@ -55583,6 +55597,7 @@
       "street": "KENT",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2212-GZBBHV"
     },
@@ -55591,6 +55606,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "107",
       "reg": "STR-2212-HVJHHY"
     },
@@ -55599,6 +55615,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "407",
       "reg": "STR-2301-HLFXVX"
     },
@@ -55607,6 +55624,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "",
       "reg": "STR-2301-HHCKVW"
     },
@@ -55615,6 +55633,7 @@
       "street": "KATIE",
       "type": "CRT",
       "dir": "",
+      "postal": "M6L",
       "unit": "Basement",
       "reg": "STR-2302-GTQKVV"
     },
@@ -55623,6 +55642,7 @@
       "street": "KENWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M6C",
       "unit": "",
       "reg": "STR-2302-HKVDVX"
     },
@@ -55631,6 +55651,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "",
       "reg": "STR-2303-FHCPHP"
     },
@@ -55639,6 +55660,7 @@
       "street": "KIPLING",
       "type": "AVE",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2303-FSWPHQ"
     },
@@ -55647,6 +55669,7 @@
       "street": "KAREN",
       "type": "RD",
       "dir": "",
+      "postal": "M3A",
       "unit": "basement",
       "reg": "STR-2304-HRVHHY"
     },
@@ -55655,6 +55678,7 @@
       "street": "KILLAMARSH",
       "type": "DR",
       "dir": "",
+      "postal": "M3J",
       "unit": "",
       "reg": "STR-2304-GBHHHR"
     },
@@ -55663,6 +55687,7 @@
       "street": "KENNEDY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2304-JFMBHZ"
     },
@@ -55671,6 +55696,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "404",
       "reg": "STR-2304-JBMBHZ"
     },
@@ -55679,6 +55705,7 @@
       "street": "KIMBARK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5N",
       "unit": "",
       "reg": "STR-2210-GBLRVD"
     },
@@ -55687,6 +55714,7 @@
       "street": "KINGSDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2210-HQTXVK"
     },
@@ -55695,6 +55723,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "309",
       "reg": "STR-2405-HFKKVW"
     },
@@ -55703,6 +55732,7 @@
       "street": "KEARNEY",
       "type": "DR",
       "dir": "",
+      "postal": "M9W",
       "unit": "",
       "reg": "STR-2109-GVJVHH"
     },
@@ -55711,6 +55741,7 @@
       "street": "KENSINGTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M5T",
       "unit": "Floor 2",
       "reg": "STR-2111-HBSDVJ"
     },
@@ -55719,6 +55750,7 @@
       "street": "KIDBROOKE",
       "type": "CRES",
       "dir": "",
+      "postal": "M1M",
       "unit": "",
       "reg": "STR-2203-GKPVHG"
     },
@@ -55727,6 +55759,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2201",
       "reg": "STR-2203-HLGPHK"
     },
@@ -55735,6 +55768,7 @@
       "street": "KENNALEY",
       "type": "CRES",
       "dir": "",
+      "postal": "M1V",
       "unit": "",
       "reg": "STR-2204-JDBVHM"
     },
@@ -55743,6 +55777,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M1N",
       "unit": "Unit B",
       "reg": "STR-2204-FDVVHB"
     },
@@ -55751,6 +55786,7 @@
       "street": "KENDAL",
       "type": "AVE",
       "dir": "",
+      "postal": "M5R",
       "unit": "",
       "reg": "STR-2204-FGSHHB"
     },
@@ -55759,6 +55795,7 @@
       "street": "KENNEDY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2205-FVPVHD"
     },
@@ -55767,6 +55804,7 @@
       "street": "KILBARRY",
       "type": "RD",
       "dir": "",
+      "postal": "M5P",
       "unit": "",
       "reg": "STR-2206-GCSKVF"
     },
@@ -55775,6 +55813,7 @@
       "street": "KATIE",
       "type": "CRT",
       "dir": "",
+      "postal": "M6L",
       "unit": "Main",
       "reg": "STR-2206-FKHXVB"
     },
@@ -55783,6 +55822,7 @@
       "street": "KENNETH",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2209-GQKKVG"
     },
@@ -55791,6 +55831,7 @@
       "street": "KENT",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2104-GRXXVG"
     },
@@ -55799,6 +55840,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M4E",
       "unit": "basement",
       "reg": "STR-2106-HSVPHL"
     },
@@ -55807,6 +55849,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "403",
       "reg": "STR-2305-HDDXVW"
     },
@@ -55815,6 +55858,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "3A",
       "reg": "STR-2306-FVSBHR"
     },
@@ -55823,6 +55867,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "2A",
       "reg": "STR-2307-JDVPHZ"
     },
@@ -55831,6 +55876,7 @@
       "street": "KNOLLVIEW",
       "type": "CRES",
       "dir": "",
+      "postal": "M2K",
       "unit": "",
       "reg": "STR-2308-JGYBHZ"
     },
@@ -55839,6 +55885,7 @@
       "street": "KENNETH",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "1",
       "reg": "STR-2308-FLWXVQ"
     },
@@ -55847,6 +55894,7 @@
       "street": "KILCHURN CASTLE",
       "type": "DR",
       "dir": "",
+      "postal": "M1T",
       "unit": "",
       "reg": "STR-2310-FQFDVQ"
     },
@@ -55855,6 +55903,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "201",
       "reg": "STR-2310-GHBVHS"
     },
@@ -55863,6 +55912,7 @@
       "street": "KINTYRE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2310-FWLHHR"
     },
@@ -55871,6 +55921,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2310-GJLHHS"
     },
@@ -55879,6 +55930,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2311-FDYHHP"
     },
@@ -55887,6 +55939,7 @@
       "street": "KENSINGTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M5T",
       "unit": "1",
       "reg": "STR-2401-GDZRVS"
     },
@@ -55895,6 +55948,7 @@
       "street": "KING EDWARD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2402-HMKDVX"
     },
@@ -55903,6 +55957,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2402-FSFPHQ"
     },
@@ -55911,6 +55966,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "1021",
       "reg": "STR-2403-FHFPHP"
     },
@@ -55919,6 +55975,7 @@
       "street": "KAMES",
       "type": "AVE",
       "dir": "",
+      "postal": "M9N",
       "unit": "B",
       "reg": "STR-2403-GKTVHT"
     },
@@ -55927,6 +55984,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "2",
       "reg": "STR-2403-HGRHHW"
     },
@@ -55935,6 +55993,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "A",
       "reg": "STR-2403-HFLPHW"
     },
@@ -55943,6 +56002,7 @@
       "street": "KINNIE",
       "type": "CRT",
       "dir": "",
+      "postal": "M3N",
       "unit": "",
       "reg": "STR-2406-FTZXVQ"
     },
@@ -55951,6 +56011,7 @@
       "street": "KEEGAN",
       "type": "CRES",
       "dir": "",
+      "postal": "M3J",
       "unit": "",
       "reg": "STR-2406-HFDPPW"
     },
@@ -55959,6 +56020,7 @@
       "street": "KIRKDALE",
       "type": "CRES",
       "dir": "",
+      "postal": "M3B",
       "unit": "",
       "reg": "STR-2406-HHBBPW"
     },
@@ -55967,6 +56029,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2406-HHCHPW"
     },
@@ -55975,6 +56038,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "634",
       "reg": "STR-2406-HXBBPY"
     },
@@ -55983,6 +56047,7 @@
       "street": "KIMBERLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2407-HTHBPY"
     },
@@ -55991,6 +56056,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "617",
       "reg": "STR-2407-GVBFBV"
     },
@@ -55999,6 +56065,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "217",
       "reg": "STR-2408-GVJLBV"
     },
@@ -56007,6 +56074,7 @@
       "street": "KENNEDY",
       "type": "RD",
       "dir": "",
+      "postal": "M1K",
       "unit": "45",
       "reg": "STR-2408-GRFYBT"
     },
@@ -56015,6 +56083,7 @@
       "street": "KIPLING GROVE",
       "type": "CRT",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2409-HTYYBY"
     },
@@ -56023,6 +56092,7 @@
       "street": "KINGLAND",
       "type": "CRES",
       "dir": "",
+      "postal": "M2J",
       "unit": "",
       "reg": "STR-2404-HVTXVY"
     },
@@ -56031,6 +56101,7 @@
       "street": "KIPLING",
       "type": "AVE",
       "dir": "",
+      "postal": "M9W",
       "unit": "",
       "reg": "STR-2410-GJBHPS"
     },
@@ -56039,6 +56110,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5H",
       "unit": "825",
       "reg": "STR-2411-GSPHPT"
     },
@@ -56047,6 +56119,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "2",
       "reg": "STR-2411-HPPHPX"
     },
@@ -56055,6 +56128,7 @@
       "street": "KENNEDY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2411-HFVLBW"
     },
@@ -56063,6 +56137,7 @@
       "street": "KENSINGTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M5T",
       "unit": "",
       "reg": "STR-2411-HJKYBX"
     },
@@ -56071,6 +56146,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "109",
       "reg": "STR-2501-FQWSBQ"
     },
@@ -56079,6 +56155,7 @@
       "street": "KENSCOTT",
       "type": "RD",
       "dir": "",
+      "postal": "M1B",
       "unit": "Upper floor",
       "reg": "STR-2502-GDPPPS"
     },
@@ -56087,6 +56164,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "10",
       "reg": "STR-2502-HJZHPX"
     },
@@ -56095,6 +56173,7 @@
       "street": "KEELE",
       "type": "ST",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2503-JDQVPZ"
     },
@@ -56103,6 +56182,7 @@
       "street": "KELLEN",
       "type": "ST",
       "dir": "",
+      "postal": "M1T",
       "unit": "",
       "reg": "STR-2503-GDTHPS"
     },
@@ -56111,6 +56191,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "B420",
       "reg": "STR-2504-GHYBPS"
     },
@@ -56119,6 +56200,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M1E",
       "unit": "",
       "reg": "STR-2505-HJCVPW"
     },
@@ -56127,6 +56209,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "841",
       "reg": "STR-2505-HKLBPX"
     },
@@ -56135,6 +56218,7 @@
       "street": "KINGSDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2505-HHPPPW"
     },
@@ -56143,6 +56227,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "203",
       "reg": "STR-2506-GVTLBV"
     },
@@ -56151,6 +56236,7 @@
       "street": "KENNETH",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2506-GWJYBV"
     },
@@ -56159,6 +56245,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M1E",
       "unit": "1",
       "reg": "STR-2506-FYWYBR"
     },
@@ -56167,6 +56254,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "917",
       "reg": "STR-2507-GJLFBS"
     },
@@ -56175,6 +56263,7 @@
       "street": "KENSCOTT",
       "type": "RD",
       "dir": "",
+      "postal": "M1B",
       "unit": "",
       "reg": "STR-2507-JCMLBZ"
     },
@@ -56183,6 +56272,7 @@
       "street": "KINGSVIEW",
       "type": "BLVD",
       "dir": "",
+      "postal": "M9R",
       "unit": "",
       "reg": "STR-2507-HVWYBY"
     },
@@ -56191,6 +56281,7 @@
       "street": "KENNEDY",
       "type": "RD",
       "dir": "",
+      "postal": "M1N",
       "unit": "",
       "reg": "STR-2507-HYJYBY"
     },
@@ -56199,6 +56290,7 @@
       "street": "KITCHENER",
       "type": "RD",
       "dir": "",
+      "postal": "M1E",
       "unit": "1",
       "reg": "STR-2508-GYMLBV"
     },
@@ -56207,6 +56299,7 @@
       "street": "KING EDWARD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2508-HPZLBX"
     },
@@ -56215,6 +56308,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1809",
       "reg": "STR-2508-GZCYBV"
     },
@@ -56223,6 +56317,7 @@
       "street": "KENSINGTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M5T",
       "unit": "",
       "reg": "STR-2508-FPLFBQ"
     },
@@ -56231,6 +56326,7 @@
       "street": "KILPATRICK",
       "type": "PL",
       "dir": "",
+      "postal": "M1R",
       "unit": "",
       "reg": "STR-2508-FKYFBP"
     },
@@ -56239,6 +56335,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "",
+      "postal": "M9N",
       "unit": "1104",
       "reg": "STR-2508-GZWYBV"
     },
@@ -56247,6 +56344,7 @@
       "street": "KEON",
       "type": "PL",
       "dir": "",
+      "postal": "M1B",
       "unit": "A",
       "reg": "STR-2509-HSBSBY"
     },
@@ -56255,6 +56353,7 @@
       "street": "KECALA",
       "type": "RD",
       "dir": "",
+      "postal": "M1P",
       "unit": "Garden Suite",
       "reg": "STR-2509-HDLFBW"
     },
@@ -56263,6 +56362,7 @@
       "street": "KITCHENER",
       "type": "RD",
       "dir": "",
+      "postal": "M1E",
       "unit": "",
       "reg": "STR-2509-HDMLBW"
     },
@@ -56271,6 +56371,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M1C",
       "unit": "",
       "reg": "STR-2509-FTJYBQ"
     },
@@ -56279,6 +56380,7 @@
       "street": "KIMBERLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2509-GZJYBV"
     },
@@ -56287,6 +56389,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "808",
       "reg": "STR-2509-FPSHPQ"
     },
@@ -56295,6 +56398,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "6",
       "reg": "STR-2509-JBSHPZ"
     },
@@ -56303,6 +56407,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5H",
       "unit": "1301",
       "reg": "STR-2509-HMLHPX"
     },
@@ -56311,6 +56416,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "1",
       "reg": "STR-2510-GLXBPT"
     },
@@ -56319,6 +56425,7 @@
       "street": "KINGSVIEW",
       "type": "BLVD",
       "dir": "",
+      "postal": "M9R",
       "unit": "",
       "reg": "STR-2510-GLHVPT"
     },
@@ -56327,6 +56434,7 @@
       "street": "KYLE LOWRY",
       "type": "RD",
       "dir": "",
+      "postal": "M3C",
       "unit": "202",
       "reg": "STR-2510-GVFHPV"
     },
@@ -56335,6 +56443,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "212",
       "reg": "STR-2511-HFLHPW"
     },
@@ -56343,6 +56452,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "416",
       "reg": "STR-2511-GHHVPS"
     },
@@ -56351,6 +56461,7 @@
       "street": "KISKADEE",
       "type": "DR",
       "dir": "",
+      "postal": "M9V",
       "unit": "",
       "reg": "STR-2511-HQPVPX"
     },
@@ -56359,6 +56470,7 @@
       "street": "KENNEDY",
       "type": "RD",
       "dir": "",
+      "postal": "M1K",
       "unit": "A",
       "reg": "STR-2511-HSMPPY"
     },
@@ -56367,6 +56479,7 @@
       "street": "KINGSLAKE",
       "type": "RD",
       "dir": "",
+      "postal": "M2J",
       "unit": "",
       "reg": "STR-2511-JBKBPZ"
     },
@@ -56375,6 +56488,7 @@
       "street": "KEELE",
       "type": "ST",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2511-HVZPPY"
     },
@@ -56383,6 +56497,7 @@
       "street": "KENNEDY",
       "type": "RD",
       "dir": "",
+      "postal": "M1K",
       "unit": "105",
       "reg": "STR-2511-GHZPPS"
     },
@@ -56391,6 +56506,7 @@
       "street": "KING EDWARD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2511-GLRBPT"
     },
@@ -56399,6 +56515,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1001",
       "reg": "STR-2511-FTXBPQ"
     },
@@ -56407,6 +56524,7 @@
       "street": "KING EDWARD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2512-GXLHPV"
     },
@@ -56415,6 +56533,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "3",
       "reg": "STR-2512-HJFHPW"
     },
@@ -56423,6 +56542,7 @@
       "street": "KEEWATIN",
       "type": "AVE",
       "dir": "",
+      "postal": "M4P",
       "unit": "",
       "reg": "STR-2512-HCGPPW"
     },
@@ -56431,6 +56551,7 @@
       "street": "KIRTLING",
       "type": "PL",
       "dir": "",
+      "postal": "M2L",
       "unit": "",
       "reg": "STR-2512-FPRBPQ"
     },
@@ -56439,6 +56560,7 @@
       "street": "KINGSDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2512-FPDFBQ"
     },
@@ -56447,6 +56569,7 @@
       "street": "KILDONAN",
       "type": "DR",
       "dir": "",
+      "postal": "M1N",
       "unit": "",
       "reg": "STR-2601-GHTSBS"
     },
@@ -56455,6 +56578,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "2",
       "reg": "STR-2602-FHZSBP"
     },
@@ -56463,6 +56587,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "1",
       "reg": "STR-2601-HYYLBZ"
     },
@@ -56471,6 +56596,7 @@
       "street": "KALMAR AVENUE",
       "type": "",
       "dir": "",
+      "postal": "M1N",
       "unit": "",
       "reg": "STR-2601-FSYLBQ"
     },
@@ -56479,6 +56605,7 @@
       "street": "KEANE",
       "type": "AVE",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2601-FJMSBP"
     },
@@ -56487,6 +56614,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2602-HYKFBY"
     },
@@ -56495,6 +56623,7 @@
       "street": "KYLE LOWRY",
       "type": "RD",
       "dir": "",
+      "postal": "M3C",
       "unit": "202",
       "reg": "STR-2602-GJPYBS"
     },
@@ -56503,6 +56632,7 @@
       "street": "KINGSTON",
       "type": "RD",
       "dir": "",
+      "postal": "M1N",
       "unit": "306",
       "reg": "STR-2602-GZBYBV"
     },
@@ -56511,6 +56641,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "228",
       "reg": "STR-2602-GFMSBS"
     },
@@ -56519,6 +56650,7 @@
       "street": "KENNEDY",
       "type": "RD",
       "dir": "",
+      "postal": "M1K",
       "unit": "",
       "reg": "STR-2602-HBLLBW"
     },
@@ -56527,6 +56659,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1002",
       "reg": "STR-2602-FXHYBR"
     },
@@ -56535,6 +56668,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "412",
       "reg": "STR-2602-GYPYBV"
     },
@@ -56543,6 +56677,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "AP3",
       "reg": "STR-2602-FGGSBP"
     },
@@ -56551,6 +56686,7 @@
       "street": "KEMPSELL",
       "type": "CRES",
       "dir": "",
+      "postal": "M2J",
       "unit": "",
       "reg": "STR-2602-FZGSBR"
     },
@@ -56559,6 +56695,7 @@
       "street": "KENWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M6C",
       "unit": "",
       "reg": "STR-2603-HGYLBW"
     },
@@ -56567,6 +56704,7 @@
       "street": "KITCHENER",
       "type": "RD",
       "dir": "",
+      "postal": "M1E",
       "unit": "BSMT",
       "reg": "STR-2603-GWXFBV"
     },
@@ -56575,6 +56713,7 @@
       "street": "KENSINGTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M5T",
       "unit": "3",
       "reg": "STR-2603-FTLPPQ"
     },
@@ -56583,6 +56722,7 @@
       "street": "KINGSTON ROAD",
       "type": "",
       "dir": "",
+      "postal": "M1B",
       "unit": "513",
       "reg": "STR-2603-GDRHPS"
     },
@@ -56591,6 +56731,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "404",
       "reg": "STR-2603-FQKHPQ"
     },
@@ -56599,6 +56740,7 @@
       "street": "KENRAE",
       "type": "RD",
       "dir": "",
+      "postal": "M4G",
       "unit": "",
       "reg": "STR-2603-GJZVPS"
     },
@@ -56607,6 +56749,7 @@
       "street": "KIRK BRADDEN",
       "type": "RD",
       "dir": "E",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2603-FMQBPQ"
     },
@@ -56615,6 +56758,7 @@
       "street": "KENNEDY",
       "type": "RD",
       "dir": "",
+      "postal": "M1N",
       "unit": "",
       "reg": "STR-2603-FQLPPQ"
     },
@@ -56623,6 +56767,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1110",
       "reg": "STR-2603-GPFPPT"
     },
@@ -56631,6 +56776,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "1016",
       "reg": "STR-2603-HWMVPY"
     },
@@ -56639,6 +56785,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "640",
       "reg": "STR-2604-GDJBPS"
     },
@@ -56647,6 +56794,7 @@
       "street": "KENWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M6C",
       "unit": "",
       "reg": "STR-2604-FDZVPP"
     },
@@ -56655,6 +56803,7 @@
       "street": "KIPLING",
       "type": "AVE",
       "dir": "",
+      "postal": "M9R",
       "unit": "Lower",
       "reg": "STR-2604-FZGVPR"
     },
@@ -56663,6 +56812,7 @@
       "street": "KENILWORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2604-FZYPPR"
     },
@@ -56671,6 +56821,7 @@
       "street": "KITTIWAKE",
       "type": "AVE",
       "dir": "",
+      "postal": "M9V",
       "unit": "",
       "reg": "STR-2604-GZYPPV"
     },
@@ -56679,6 +56830,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2605-HDDLBW"
     },
@@ -56687,6 +56839,7 @@
       "street": "KENNEDY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2605-HRDLBX"
     },
@@ -56695,6 +56848,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3309",
       "reg": "STR-2605-FMCFBQ"
     },
@@ -56703,6 +56857,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "212",
       "reg": "STR-2605-GQQFBT"
     },
@@ -56711,6 +56866,7 @@
       "street": "KING",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "404",
       "reg": "STR-2605-GXWFBV"
     },
@@ -56719,6 +56875,7 @@
       "street": "KNOWLTON",
       "type": "DR",
       "dir": "",
+      "postal": "M1M",
       "unit": "",
       "reg": "STR-2605-GBYSBR"
     }
