@@ -68536,6 +68536,7 @@
       "street": "ROSE VALLEY",
       "type": "CRES",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2205-FGMRVB"
     },
@@ -68544,6 +68545,7 @@
       "street": "RANKIN",
       "type": "CRES",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2009-GLHDPG"
     },
@@ -68552,6 +68554,7 @@
       "street": "RHODES",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2010-GLQKPG"
     },
@@ -68560,6 +68563,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2010-JFBDPM"
     },
@@ -68568,6 +68572,7 @@
       "street": "RATHBURN",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "Upper",
       "reg": "STR-2010-FWFXPD"
     },
@@ -68576,6 +68581,7 @@
       "street": "RIPPLETON",
       "type": "RD",
       "dir": "",
+      "postal": "M3B",
       "unit": "",
       "reg": "STR-2010-JGKRVM"
     },
@@ -68584,6 +68590,7 @@
       "street": "RUSHTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2011-HHCKVJ"
     },
@@ -68592,6 +68599,7 @@
       "street": "RUSHOLME",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2011-GYXRVH"
     },
@@ -68600,6 +68608,7 @@
       "street": "ROXTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2011-HZRRVM"
     },
@@ -68608,6 +68617,7 @@
       "street": "RIVERCREST",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2012-FFRRVB"
     },
@@ -68616,6 +68626,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "910",
       "reg": "STR-2012-GZYXVH"
     },
@@ -68624,6 +68635,7 @@
       "street": "RUSHOLME",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2012-JBBHHM"
     },
@@ -68632,6 +68644,7 @@
       "street": "RANDOLPH",
       "type": "RD",
       "dir": "",
+      "postal": "M4G",
       "unit": "",
       "reg": "STR-2012-FXHHHD"
     },
@@ -68640,6 +68653,7 @@
       "street": "RIVERDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "Main",
       "reg": "STR-2012-GBKVHD"
     },
@@ -68648,6 +68662,7 @@
       "street": "RYERSON",
       "type": "AVE",
       "dir": "",
+      "postal": "M5T",
       "unit": "2",
       "reg": "STR-2211-FZKKVD"
     },
@@ -68656,6 +68671,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "E",
+      "postal": "M5C",
       "unit": "406",
       "reg": "STR-2211-GDQHHS"
     },
@@ -68664,6 +68680,7 @@
       "street": "RANEE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6A",
       "unit": "Basement",
       "reg": "STR-2211-GLWHHT"
     },
@@ -68672,6 +68689,7 @@
       "street": "ROBINSON",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "A",
       "reg": "STR-2301-FMJHHQ"
     },
@@ -68680,6 +68698,7 @@
       "street": "RAINSFORD",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2301-JDLVHZ"
     },
@@ -68688,6 +68707,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2301-GBCKVR"
     },
@@ -68696,6 +68716,7 @@
       "street": "ROBERT",
       "type": "ST",
       "dir": "",
+      "postal": "M9N",
       "unit": "",
       "reg": "STR-2302-GDVDVS"
     },
@@ -68704,6 +68725,7 @@
       "street": "ROSEBANK",
       "type": "DR",
       "dir": "",
+      "postal": "M1B",
       "unit": "1701",
       "reg": "STR-2302-HDJKVW"
     },
@@ -68712,6 +68734,7 @@
       "street": "ROXTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2302-FSQKVQ"
     },
@@ -68720,6 +68743,7 @@
       "street": "ROYAL YORK",
       "type": "RD",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2303-HZYXVZ"
     },
@@ -68728,6 +68752,7 @@
       "street": "RATHBURN",
       "type": "RD",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2303-GVBHHV"
     },
@@ -68736,6 +68761,7 @@
       "street": "ROLYAT",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "A",
       "reg": "STR-2303-HRRVHY"
     },
@@ -68744,6 +68770,7 @@
       "street": "ROBINA",
       "type": "AVE",
       "dir": "",
+      "postal": "M6C",
       "unit": "",
       "reg": "STR-2304-HMTBHX"
     },
@@ -68752,6 +68779,7 @@
       "street": "RHODES",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2304-HGDVHW"
     },
@@ -68760,6 +68788,7 @@
       "street": "ROSEMARY",
       "type": "RD",
       "dir": "",
+      "postal": "M5P",
       "unit": "",
       "reg": "STR-2304-HKJPHX"
     },
@@ -68768,6 +68797,7 @@
       "street": "RUSSELL",
       "type": "ST",
       "dir": "",
+      "postal": "M5S",
       "unit": "",
       "reg": "STR-2304-GRJPHT"
     },
@@ -68776,6 +68806,7 @@
       "street": "ROBERT HICKS",
       "type": "DR",
       "dir": "",
+      "postal": "M2R",
       "unit": "BACKSIDE",
       "reg": "STR-2304-GLBHHT"
     },
@@ -68784,6 +68815,7 @@
       "street": "REDNOR",
       "type": "RD",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2305-HTXVHY"
     },
@@ -68792,6 +68824,7 @@
       "street": "RORY",
       "type": "RD",
       "dir": "",
+      "postal": "M6L",
       "unit": "Basement",
       "reg": "STR-2305-HFTBHW"
     },
@@ -68800,6 +68833,7 @@
       "street": "RIVERDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2305-GSTBHT"
     },
@@ -68808,6 +68842,7 @@
       "street": "RANKIN",
       "type": "CRES",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2305-HJHKVX"
     },
@@ -68816,6 +68851,7 @@
       "street": "RUSSETT",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "2",
       "reg": "STR-2305-HSWRVY"
     },
@@ -68824,6 +68860,7 @@
       "street": "ROSETHORN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2305-HPTDVX"
     },
@@ -68832,6 +68869,7 @@
       "street": "RENFORTH",
       "type": "DR",
       "dir": "",
+      "postal": "M9C",
       "unit": "",
       "reg": "STR-2210-GMDKVG"
     },
@@ -68840,6 +68878,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "507",
       "reg": "STR-2210-HTXKVL"
     },
@@ -68848,6 +68887,7 @@
       "street": "RUTHMAR",
       "type": "CRES",
       "dir": "",
+      "postal": "M3N",
       "unit": "",
       "reg": "STR-2210-FFSRVB"
     },
@@ -68856,6 +68896,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5H",
       "unit": "PH4",
       "reg": "STR-2405-HDTXVW"
     },
@@ -68864,6 +68905,7 @@
       "street": "RHODES",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2405-JGRKVZ"
     },
@@ -68872,6 +68914,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "301",
       "reg": "STR-2405-FGCDVP"
     },
@@ -68880,6 +68923,7 @@
       "street": "RAVENWOOD",
       "type": "PL",
       "dir": "",
+      "postal": "M4B",
       "unit": "",
       "reg": "STR-2108-GHWVHF"
     },
@@ -68888,6 +68932,7 @@
       "street": "ROBINA",
       "type": "AVE",
       "dir": "",
+      "postal": "M6C",
       "unit": "",
       "reg": "STR-2111-HWZKVL"
     },
@@ -68896,6 +68941,7 @@
       "street": "ROSS",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "201",
       "reg": "STR-2112-HPVRVK"
     },
@@ -68904,6 +68950,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "1",
       "reg": "STR-2112-FJMKVB"
     },
@@ -68912,6 +68959,7 @@
       "street": "RON ATTWELL",
       "type": "ST",
       "dir": "",
+      "postal": "M9M",
       "unit": "",
       "reg": "STR-2201-HMSDVK"
     },
@@ -68920,6 +68968,7 @@
       "street": "RHODES",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2202-FWFDVD"
     },
@@ -68928,6 +68977,7 @@
       "street": "ROSEVEAR",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "A",
       "reg": "STR-2202-FTYDVC"
     },
@@ -68936,6 +68986,7 @@
       "street": "ROXTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2203-HJGKVJ"
     },
@@ -68944,6 +68995,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "709",
       "reg": "STR-2204-HPGPHK"
     },
@@ -68952,6 +69004,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "763",
       "reg": "STR-2204-GSKBHG"
     },
@@ -68960,6 +69013,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "720",
       "reg": "STR-2204-GZRBHH"
     },
@@ -68968,6 +69022,7 @@
       "street": "ROXTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2204-FRVVHC"
     },
@@ -68976,6 +69031,7 @@
       "street": "ROBERT",
       "type": "ST",
       "dir": "",
+      "postal": "M5S",
       "unit": "Upper",
       "reg": "STR-2204-GVKBHH"
     },
@@ -68984,6 +69040,7 @@
       "street": "RHODES",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2205-FJDBHB"
     },
@@ -68992,6 +69049,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5H",
       "unit": "L05",
       "reg": "STR-2205-HVPVHL"
     },
@@ -69000,6 +69058,7 @@
       "street": "RIVERLEA",
       "type": "DR",
       "dir": "",
+      "postal": "M9P",
       "unit": "Upper Unit",
       "reg": "STR-2205-HQFHHK"
     },
@@ -69008,6 +69067,7 @@
       "street": "ROSEMOUNT",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2206-HYZRVM"
     },
@@ -69016,6 +69076,7 @@
       "street": "ROSEWELL",
       "type": "AVE",
       "dir": "",
+      "postal": "M4R",
       "unit": "",
       "reg": "STR-2206-HWPXVL"
     },
@@ -69024,6 +69085,7 @@
       "street": "RAINIER SQ",
       "type": "",
       "dir": "",
+      "postal": "M1T",
       "unit": "",
       "reg": "STR-2207-HSTRVL"
     },
@@ -69032,6 +69094,7 @@
       "street": "ROXTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "2",
       "reg": "STR-2207-HJKHHK"
     },
@@ -69040,6 +69103,7 @@
       "street": "ROYAL YORK",
       "type": "RD",
       "dir": "",
+      "postal": "M8V",
       "unit": "211",
       "reg": "STR-2207-JBFPHM"
     },
@@ -69048,6 +69112,7 @@
       "street": "ROSEMOUNT",
       "type": "AVE",
       "dir": "",
+      "postal": "M9N",
       "unit": "",
       "reg": "STR-2208-GKFPHF"
     },
@@ -69056,6 +69121,7 @@
       "street": "ROLYAT",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "C",
       "reg": "STR-2208-GRJBHG"
     },
@@ -69064,6 +69130,7 @@
       "street": "ROBINSON",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "A",
       "reg": "STR-2209-GPRHHG"
     },
@@ -69072,6 +69139,7 @@
       "street": "ROSEHEATH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2209-HVRHHL"
     },
@@ -69080,6 +69148,7 @@
       "street": "RANGOON",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "",
       "reg": "STR-2209-GLWDVG"
     },
@@ -69088,6 +69157,7 @@
       "street": "ROBBINS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "BSMT",
       "reg": "STR-2210-HCQDVJ"
     },
@@ -69096,6 +69166,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "201",
       "reg": "STR-2104-HWBKVL"
     },
@@ -69104,6 +69175,7 @@
       "street": "RHODES",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2105-FRKXVC"
     },
@@ -69112,6 +69184,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "401",
       "reg": "STR-2105-FJVKVB"
     },
@@ -69120,6 +69193,7 @@
       "street": "ROSEHEATH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2106-FJWRVB"
     },
@@ -69128,6 +69202,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "601",
       "reg": "STR-2106-GYCRVH"
     },
@@ -69136,6 +69211,7 @@
       "street": "ROXTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2107-JBVPHM"
     },
@@ -69144,6 +69220,7 @@
       "street": "RONCESVALLES",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "3",
       "reg": "STR-2305-HYHKVY"
     },
@@ -69152,6 +69229,7 @@
       "street": "ROYWOOD",
       "type": "DR",
       "dir": "",
+      "postal": "M3A",
       "unit": "",
       "reg": "STR-2305-HXCRVY"
     },
@@ -69160,6 +69238,7 @@
       "street": "REINER",
       "type": "RD",
       "dir": "",
+      "postal": "M3H",
       "unit": "",
       "reg": "STR-2306-HVJRVY"
     },
@@ -69168,6 +69247,7 @@
       "street": "RIDELLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2306-HLRXVX"
     },
@@ -69176,6 +69256,7 @@
       "street": "REXFORD",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2307-FPVPHQ"
     },
@@ -69184,6 +69265,7 @@
       "street": "RIVER",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "B3",
       "reg": "STR-2307-GHVPHS"
     },
@@ -69192,6 +69274,7 @@
       "street": "RIVERCREST",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2307-FMBPHQ"
     },
@@ -69200,6 +69283,7 @@
       "street": "ROYAL YORK",
       "type": "RD",
       "dir": "",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2307-HKHPHX"
     },
@@ -69208,6 +69292,7 @@
       "street": "ROLYAT",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "A",
       "reg": "STR-2308-FRYBHQ"
     },
@@ -69216,6 +69301,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2308-HBMHHW"
     },
@@ -69224,6 +69310,7 @@
       "street": "RIDLEY GDNS",
       "type": "",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2308-HZHPHZ"
     },
@@ -69232,6 +69319,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "503",
       "reg": "STR-2308-JBBRVZ"
     },
@@ -69240,6 +69328,7 @@
       "street": "RAYSIDE",
       "type": "DR",
       "dir": "",
+      "postal": "M9C",
       "unit": "",
       "reg": "STR-2308-GTMKVV"
     },
@@ -69248,6 +69337,7 @@
       "street": "RHODES",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2308-HYGKVY"
     },
@@ -69256,6 +69346,7 @@
       "street": "REGENT",
       "type": "ST",
       "dir": "",
+      "postal": "M6N",
       "unit": "Unit BSMT",
       "reg": "STR-2309-HXVRVY"
     },
@@ -69264,6 +69355,7 @@
       "street": "ROSEMOUNT",
       "type": "AVE",
       "dir": "",
+      "postal": "M9N",
       "unit": "",
       "reg": "STR-2309-FYPRVR"
     },
@@ -69272,6 +69364,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "basement",
       "reg": "STR-2309-JFPRVZ"
     },
@@ -69280,6 +69373,7 @@
       "street": "RIVERDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2310-FMYDVQ"
     },
@@ -69288,6 +69382,7 @@
       "street": "RENFORTH",
       "type": "DR",
       "dir": "",
+      "postal": "M9C",
       "unit": "",
       "reg": "STR-2310-JFCXVZ"
     },
@@ -69296,6 +69391,7 @@
       "street": "RIVERDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2310-HWKBHY"
     },
@@ -69304,6 +69400,7 @@
       "street": "ROSEDALE VALLEY",
       "type": "RD",
       "dir": "",
+      "postal": "M4W",
       "unit": "801",
       "reg": "STR-2311-JBKBHZ"
     },
@@ -69312,6 +69409,7 @@
       "street": "ROSEMOUNT",
       "type": "DR",
       "dir": "",
+      "postal": "M1K",
       "unit": "2",
       "reg": "STR-2311-GKZPHT"
     },
@@ -69320,6 +69418,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "303",
       "reg": "STR-2311-GRZPHT"
     },
@@ -69328,6 +69427,7 @@
       "street": "RUSHOLME",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2401-HXBXVY"
     },
@@ -69336,6 +69436,7 @@
       "street": "RAINSFORD",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2401-GCMRVS"
     },
@@ -69344,6 +69445,7 @@
       "street": "ROSEWELL",
       "type": "AVE",
       "dir": "",
+      "postal": "M4R",
       "unit": "A",
       "reg": "STR-2401-FGFKVP"
     },
@@ -69352,6 +69454,7 @@
       "street": "ROBINSON",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2401-FPLKVQ"
     },
@@ -69360,6 +69463,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "313",
       "reg": "STR-2402-FQGRVQ"
     },
@@ -69368,6 +69472,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "219",
       "reg": "STR-2402-GKMRVS"
     },
@@ -69376,6 +69481,7 @@
       "street": "RANLEIGH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4N",
       "unit": "3",
       "reg": "STR-2403-HDSPHW"
     },
@@ -69384,6 +69490,7 @@
       "street": "RESOLUTION",
       "type": "CRES",
       "dir": "",
+      "postal": "M2H",
       "unit": "A",
       "reg": "STR-2403-HPWBHX"
     },
@@ -69392,6 +69499,7 @@
       "street": "RUSSELL",
       "type": "ST",
       "dir": "",
+      "postal": "M5S",
       "unit": "",
       "reg": "STR-2403-FZFPHR"
     },
@@ -69400,6 +69508,7 @@
       "street": "ROLYAT",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2403-JDYPHZ"
     },
@@ -69408,6 +69517,7 @@
       "street": "RODEN PLACE",
       "type": "",
       "dir": "",
+      "postal": "M5R",
       "unit": "",
       "reg": "STR-2404-FZYPHR"
     },
@@ -69416,6 +69526,7 @@
       "street": "REDWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "A",
       "reg": "STR-2404-FMKHHQ"
     },
@@ -69424,6 +69535,7 @@
       "street": "RANKIN",
       "type": "CRES",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2404-JBRHHZ"
     },
@@ -69432,6 +69544,7 @@
       "street": "RUSHOLME PARK",
       "type": "CRES",
       "dir": "",
+      "postal": "M6J",
       "unit": "Unit B",
       "reg": "STR-2404-GJXHHS"
     },
@@ -69440,6 +69553,7 @@
       "street": "REVCOE",
       "type": "DR",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2405-GHYRVS"
     },
@@ -69448,6 +69562,7 @@
       "street": "RHODES",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2405-HXYRVY"
     },
@@ -69456,6 +69571,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "502",
       "reg": "STR-2406-GVRKVV"
     },
@@ -69464,6 +69580,7 @@
       "street": "RUSHOLME",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "509",
       "reg": "STR-2406-FJGXVP"
     },
@@ -69472,6 +69589,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2406-GRMXVT"
     },
@@ -69480,6 +69598,7 @@
       "street": "RUTHERFORD",
       "type": "AVE",
       "dir": "",
+      "postal": "M6M",
       "unit": "BSMT",
       "reg": "STR-2406-GCKPPS"
     },
@@ -69488,6 +69607,7 @@
       "street": "RYERSON",
       "type": "AVE",
       "dir": "",
+      "postal": "M5T",
       "unit": "",
       "reg": "STR-2406-HFJHPW"
     },
@@ -69496,6 +69616,7 @@
       "street": "RAMEAU",
       "type": "DR",
       "dir": "",
+      "postal": "M2H",
       "unit": "",
       "reg": "STR-2406-FDVBPP"
     },
@@ -69504,6 +69625,7 @@
       "street": "RAINSFORD",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2406-GLKPPT"
     },
@@ -69512,6 +69634,7 @@
       "street": "REXDALE",
       "type": "BLVD",
       "dir": "",
+      "postal": "M9W",
       "unit": "3",
       "reg": "STR-2407-GXDPPV"
     },
@@ -69520,6 +69643,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5H",
       "unit": "309",
       "reg": "STR-2407-GSKPPT"
     },
@@ -69528,6 +69652,7 @@
       "street": "ROWLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M4P",
       "unit": "",
       "reg": "STR-2407-GVYVPV"
     },
@@ -69536,6 +69661,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "808",
       "reg": "STR-2407-HDHBPW"
     },
@@ -69544,6 +69670,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "Lower",
       "reg": "STR-2407-GTHBPV"
     },
@@ -69552,6 +69679,7 @@
       "street": "RIDWARE",
       "type": "CRES",
       "dir": "",
+      "postal": "M1C",
       "unit": "",
       "reg": "STR-2407-HMYVPX"
     },
@@ -69560,6 +69688,7 @@
       "street": "RAEBURN",
       "type": "AVE",
       "dir": "",
+      "postal": "M3H",
       "unit": "",
       "reg": "STR-2408-GTQLBV"
     },
@@ -69568,6 +69697,7 @@
       "street": "REDWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2408-FHXSBP"
     },
@@ -69576,6 +69706,7 @@
       "street": "ROBERT",
       "type": "ST",
       "dir": "",
+      "postal": "M5S",
       "unit": "",
       "reg": "STR-2408-FRFYBQ"
     },
@@ -69584,6 +69715,7 @@
       "street": "RIVERDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2408-GHYYBS"
     },
@@ -69592,6 +69724,7 @@
       "street": "RAVENROCK",
       "type": "CRT",
       "dir": "",
+      "postal": "M3A",
       "unit": "",
       "reg": "STR-2409-JBKSBZ"
     },
@@ -69600,6 +69733,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "722",
       "reg": "STR-2409-HSPFBY"
     },
@@ -69608,6 +69742,7 @@
       "street": "RENFORTH",
       "type": "DR",
       "dir": "",
+      "postal": "M9C",
       "unit": "",
       "reg": "STR-2409-HWBFBY"
     },
@@ -69616,6 +69751,7 @@
       "street": "RHODES",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2409-HJBFBW"
     },
@@ -69624,6 +69760,7 @@
       "street": "ROXBOROUGH",
       "type": "ST",
       "dir": "W",
+      "postal": "M5R",
       "unit": "",
       "reg": "STR-2409-FQSYBQ"
     },
@@ -69632,6 +69769,7 @@
       "street": "ROYAL YORK",
       "type": "RD",
       "dir": "",
+      "postal": "M9A",
       "unit": "",
       "reg": "STR-2409-GGFYBS"
     },
@@ -69640,6 +69778,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "509",
       "reg": "STR-2409-JCVFBZ"
     },
@@ -69648,6 +69787,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2404",
       "reg": "STR-2409-HHPFBW"
     },
@@ -69656,6 +69796,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "767",
       "reg": "STR-2404-GJKKVS"
     },
@@ -69664,6 +69805,7 @@
       "street": "ROBERT",
       "type": "ST",
       "dir": "",
+      "postal": "M5S",
       "unit": "Upper",
       "reg": "STR-2409-HYSYBY"
     },
@@ -69672,6 +69814,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "E",
+      "postal": "M5C",
       "unit": "701",
       "reg": "STR-2410-HLZBPX"
     },
@@ -69680,6 +69823,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "322",
       "reg": "STR-2410-FHKVPP"
     },
@@ -69688,6 +69832,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "602",
       "reg": "STR-2411-HJXYBX"
     },
@@ -69696,6 +69841,7 @@
       "street": "REIGATE",
       "type": "RD",
       "dir": "",
+      "postal": "M9A",
       "unit": "",
       "reg": "STR-2411-HQJSBX"
     },
@@ -69704,6 +69850,7 @@
       "street": "RUSHLEY",
       "type": "DR",
       "dir": "",
+      "postal": "M1P",
       "unit": "BSMT",
       "reg": "STR-2412-HBWSBW"
     },
@@ -69712,6 +69859,7 @@
       "street": "RUSHOLME",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2412-GPXYBT"
     },
@@ -69720,6 +69868,7 @@
       "street": "RATHBURN",
       "type": "RD",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2412-GCQSBS"
     },
@@ -69728,6 +69877,7 @@
       "street": "RIVERDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "2",
       "reg": "STR-2501-FGXYBP"
     },
@@ -69736,6 +69886,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1006",
       "reg": "STR-2501-GJVLBS"
     },
@@ -69744,6 +69895,7 @@
       "street": "RUSHLEY",
       "type": "DR",
       "dir": "",
+      "postal": "M1P",
       "unit": "",
       "reg": "STR-2502-GSWVPV"
     },
@@ -69752,6 +69904,7 @@
       "street": "ROBINA",
       "type": "AVE",
       "dir": "",
+      "postal": "M6C",
       "unit": "APT",
       "reg": "STR-2503-JGMHPZ"
     },
@@ -69760,6 +69913,7 @@
       "street": "RIVERDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "Lower",
       "reg": "STR-2503-FHFBPP"
     },
@@ -69768,6 +69922,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "217",
       "reg": "STR-2503-FJLBPP"
     },
@@ -69776,6 +69931,7 @@
       "street": "ROYAL YORK",
       "type": "RD",
       "dir": "",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2503-GHFBPS"
     },
@@ -69784,6 +69940,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2503-GZPPPV"
     },
@@ -69792,6 +69949,7 @@
       "street": "RANKIN",
       "type": "CRES",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2503-FTQVPQ"
     },
@@ -69800,6 +69958,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "337",
       "reg": "STR-2504-GGBPPS"
     },
@@ -69808,6 +69967,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "1",
       "reg": "STR-2504-HWPPPY"
     },
@@ -69816,6 +69976,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2504-HRYBPY"
     },
@@ -69824,6 +69985,7 @@
       "street": "ROSEMARY",
       "type": "RD",
       "dir": "",
+      "postal": "M5P",
       "unit": "",
       "reg": "STR-2505-JGFBPZ"
     },
@@ -69832,6 +69994,7 @@
       "street": "RIVER",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "",
       "reg": "STR-2505-HVMHPY"
     },
@@ -69840,6 +70003,7 @@
       "street": "ROYAL YORK",
       "type": "RD",
       "dir": "",
+      "postal": "M9A",
       "unit": "",
       "reg": "STR-2505-GYSBPV"
     },
@@ -69848,6 +70012,7 @@
       "street": "RODDA",
       "type": "BLVD",
       "dir": "",
+      "postal": "M1E",
       "unit": "",
       "reg": "STR-2506-JBQVPZ"
     },
@@ -69856,6 +70021,7 @@
       "street": "RUTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2506-GFTHPS"
     },
@@ -69864,6 +70030,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2208",
       "reg": "STR-2506-FHQVPP"
     },
@@ -69872,6 +70039,7 @@
       "street": "RED ROBINWAY",
       "type": "",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2506-JBBSBZ"
     },
@@ -69880,6 +70048,7 @@
       "street": "ROSEBANK",
       "type": "DR",
       "dir": "",
+      "postal": "M1B",
       "unit": "1605",
       "reg": "STR-2506-GJYFBS"
     },
@@ -69888,6 +70057,7 @@
       "street": "REDDINS",
       "type": "RD",
       "dir": "",
+      "postal": "M1R",
       "unit": "",
       "reg": "STR-2506-HRQYBY"
     },
@@ -69896,6 +70066,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2507-JGMLBZ"
     },
@@ -69904,6 +70075,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "601",
       "reg": "STR-2507-JBHSBZ"
     },
@@ -69912,6 +70084,7 @@
       "street": "RAINBOW RIDGE",
       "type": "AVE",
       "dir": "",
+      "postal": "M1B",
       "unit": "A",
       "reg": "STR-2507-HXVSBY"
     },
@@ -69920,6 +70093,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2403",
       "reg": "STR-2508-GTTLBV"
     },
@@ -69928,6 +70102,7 @@
       "street": "RICHARDSON",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "324",
       "reg": "STR-2508-FPZLBQ"
     },
@@ -69936,6 +70111,7 @@
       "street": "RAJAH",
       "type": "ST",
       "dir": "",
+      "postal": "M6A",
       "unit": "6",
       "reg": "STR-2508-FLMLBP"
     },
@@ -69944,6 +70120,7 @@
       "street": "REGINA",
       "type": "AVE",
       "dir": "",
+      "postal": "M6A",
       "unit": "A",
       "reg": "STR-2508-FFPSBP"
     },
@@ -69952,6 +70129,7 @@
       "street": "RIDGEWOOD",
       "type": "RD",
       "dir": "",
+      "postal": "M1C",
       "unit": "",
       "reg": "STR-2508-HTWYBY"
     },
@@ -69960,6 +70138,7 @@
       "street": "ROTARY",
       "type": "DR",
       "dir": "",
+      "postal": "M1B",
       "unit": "Upper",
       "reg": "STR-2509-HMYFBX"
     },
@@ -69968,6 +70147,7 @@
       "street": "RUTTAN",
       "type": "ST",
       "dir": "",
+      "postal": "M6P",
       "unit": "141",
       "reg": "STR-2509-HYBSBY"
     },
@@ -69976,6 +70156,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "554",
       "reg": "STR-2509-GZYFBV"
     },
@@ -69984,6 +70165,7 @@
       "street": "RIVERDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "Main",
       "reg": "STR-2509-JFCYBZ"
     },
@@ -69992,6 +70174,7 @@
       "street": "ROBINA",
       "type": "AVE",
       "dir": "",
+      "postal": "M6C",
       "unit": "",
       "reg": "STR-2509-JDPVPZ"
     },
@@ -70000,6 +70183,7 @@
       "street": "RAINSFORD",
       "type": "RD",
       "dir": "N",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2509-GQYHPT"
     },
@@ -70008,6 +70192,7 @@
       "street": "RAVINE PARK",
       "type": "CRES",
       "dir": "",
+      "postal": "M1C",
       "unit": "",
       "reg": "STR-2510-GKRBPT"
     },
@@ -70016,6 +70201,7 @@
       "street": "ROSELAWN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2510-GPTPPT"
     },
@@ -70024,6 +70210,7 @@
       "street": "RIVERVIEW HTS",
       "type": "",
       "dir": "",
+      "postal": "M9P",
       "unit": "",
       "reg": "STR-2510-GQKBPT"
     },
@@ -70032,6 +70219,7 @@
       "street": "ROBINGROVE",
       "type": "RD",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2510-GBTPPR"
     },
@@ -70040,6 +70228,7 @@
       "street": "RUSHOLME",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "2",
       "reg": "STR-2510-FXBVPR"
     },
@@ -70048,6 +70237,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2510-HMPVPX"
     },
@@ -70056,6 +70246,7 @@
       "street": "RUTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2510-FXTPPR"
     },
@@ -70064,6 +70255,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "B",
       "reg": "STR-2510-GYYHPV"
     },
@@ -70072,6 +70264,7 @@
       "street": "REINER",
       "type": "RD",
       "dir": "",
+      "postal": "M3H",
       "unit": "",
       "reg": "STR-2510-HHFHPW"
     },
@@ -70080,6 +70273,7 @@
       "street": "RUSHOLME PARK",
       "type": "CRES",
       "dir": "",
+      "postal": "M6J",
       "unit": "A",
       "reg": "STR-2510-HQLHPX"
     },
@@ -70088,6 +70282,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "608",
       "reg": "STR-2510-HTRBPY"
     },
@@ -70096,6 +70291,7 @@
       "street": "ROEBUCK",
       "type": "DR",
       "dir": "",
+      "postal": "M1K",
       "unit": "",
       "reg": "STR-2510-FYKBPR"
     },
@@ -70104,6 +70300,7 @@
       "street": "ROBINSON",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "B",
       "reg": "STR-2510-GSKBPT"
     },
@@ -70112,6 +70309,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2510-HHXBPW"
     },
@@ -70120,6 +70318,7 @@
       "street": "RENSBURG",
       "type": "DR",
       "dir": "",
+      "postal": "M1K",
       "unit": "",
       "reg": "STR-2511-JGSHPZ"
     },
@@ -70128,6 +70327,7 @@
       "street": "RONCESVALLES",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "1",
       "reg": "STR-2511-FFMPPP"
     },
@@ -70136,6 +70336,7 @@
       "street": "REGENT",
       "type": "RD",
       "dir": "",
+      "postal": "M3K",
       "unit": "",
       "reg": "STR-2511-HXGPPY"
     },
@@ -70144,6 +70345,7 @@
       "street": "ROBINSON",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2511-GQBVPT"
     },
@@ -70152,6 +70354,7 @@
       "street": "ROXTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "2",
       "reg": "STR-2511-FKZPPP"
     },
@@ -70160,6 +70363,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "518",
       "reg": "STR-2511-HXZPPY"
     },
@@ -70168,6 +70372,7 @@
       "street": "ROEHAMPTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4P",
       "unit": "",
       "reg": "STR-2511-FVPVPR"
     },
@@ -70176,6 +70381,7 @@
       "street": "RISEBROUGH",
       "type": "AVE",
       "dir": "",
+      "postal": "M2M",
       "unit": "Main",
       "reg": "STR-2512-JDLHPZ"
     },
@@ -70184,6 +70390,7 @@
       "street": "ROSEBANK",
       "type": "DR",
       "dir": "",
+      "postal": "M1B",
       "unit": "LPH-G",
       "reg": "STR-2512-FKLHPP"
     },
@@ -70192,6 +70399,7 @@
       "street": "RAINSFORD",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2512-GBPVPR"
     },
@@ -70200,6 +70408,7 @@
       "street": "RIVERSIDE",
       "type": "DR",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2512-JGYHPZ"
     },
@@ -70208,6 +70417,7 @@
       "street": "RAJAH",
       "type": "ST",
       "dir": "",
+      "postal": "M6A",
       "unit": "1",
       "reg": "STR-2512-GTKBPV"
     },
@@ -70216,6 +70426,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "Main",
       "reg": "STR-2512-FGZPPP"
     },
@@ -70224,6 +70435,7 @@
       "street": "ROLYAT",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "1",
       "reg": "STR-2512-GHRBPS"
     },
@@ -70232,6 +70444,7 @@
       "street": "RUSTY CRESTWAY",
       "type": "",
       "dir": "",
+      "postal": "M2J",
       "unit": "",
       "reg": "STR-2512-GRMPPT"
     },
@@ -70240,6 +70453,7 @@
       "street": "RHYL",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2604-HTDHPY"
     },
@@ -70248,6 +70462,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2603",
       "reg": "STR-2512-FFVYBP"
     },
@@ -70256,6 +70471,7 @@
       "street": "RUSHOLME PARK",
       "type": "CRES",
       "dir": "",
+      "postal": "M6J",
       "unit": "3",
       "reg": "STR-2512-JBBYBZ"
     },
@@ -70264,6 +70480,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2506",
       "reg": "STR-2512-FLFLBP"
     },
@@ -70272,6 +70489,7 @@
       "street": "RUSCICA",
       "type": "DR",
       "dir": "",
+      "postal": "M4A",
       "unit": "",
       "reg": "STR-2601-HYGSBY"
     },
@@ -70280,6 +70498,7 @@
       "street": "REINER",
       "type": "RD",
       "dir": "",
+      "postal": "M3H",
       "unit": "1",
       "reg": "STR-2601-GDTSBS"
     },
@@ -70288,6 +70507,7 @@
       "street": "RUSHOLME PARK",
       "type": "CRES",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2601-FXDFBR"
     },
@@ -70296,6 +70516,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "S",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2601-HLZSBX"
     },
@@ -70304,6 +70525,7 @@
       "street": "ROYWOOD",
       "type": "DR",
       "dir": "",
+      "postal": "M3A",
       "unit": "",
       "reg": "STR-2601-HFKFBW"
     },
@@ -70312,6 +70534,7 @@
       "street": "ROCHMAN",
       "type": "BLVD",
       "dir": "",
+      "postal": "M1H",
       "unit": "",
       "reg": "STR-2601-GQMSBT"
     },
@@ -70320,6 +70543,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2009",
       "reg": "STR-2602-HQMSBX"
     },
@@ -70328,6 +70552,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "Basement",
       "reg": "STR-2602-FSLLBQ"
     },
@@ -70336,6 +70561,7 @@
       "street": "RENOAK",
       "type": "DR",
       "dir": "",
+      "postal": "M2R",
       "unit": "UN4",
       "reg": "STR-2602-FTSLBQ"
     },
@@ -70344,6 +70570,7 @@
       "street": "RUSSETT",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "1",
       "reg": "STR-2602-FZDFBR"
     },
@@ -70352,6 +70579,7 @@
       "street": "ROSELAWN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2602-HPKFBX"
     },
@@ -70360,6 +70588,7 @@
       "street": "ROXTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2602-GYMSBV"
     },
@@ -70368,6 +70597,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2602-FGFLBP"
     },
@@ -70376,6 +70606,7 @@
       "street": "RIVERDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "Upper",
       "reg": "STR-2602-HVLLBY"
     },
@@ -70384,6 +70615,7 @@
       "street": "ROXTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2602-HFPYBW"
     },
@@ -70392,6 +70624,7 @@
       "street": "RUBY LANG",
       "type": "LANE",
       "dir": "",
+      "postal": "M8Z",
       "unit": "",
       "reg": "STR-2602-HWBYBY"
     },
@@ -70400,6 +70633,7 @@
       "street": "ROSEVEAR",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2602-HJTSBX"
     },
@@ -70408,6 +70642,7 @@
       "street": "RIVERHEAD",
       "type": "DR",
       "dir": "",
+      "postal": "M9W",
       "unit": "",
       "reg": "STR-2602-HSRFBY"
     },
@@ -70416,6 +70651,7 @@
       "street": "ROBINGLADE",
       "type": "DR",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2603-GYRFBV"
     },
@@ -70424,6 +70660,7 @@
       "street": "ROGERS",
       "type": "RD",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2603-FFBYBP"
     },
@@ -70432,6 +70669,7 @@
       "street": "ROBINGLADE",
       "type": "DR",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2603-GFSLBS"
     },
@@ -70440,6 +70678,7 @@
       "street": "REID MANOR",
       "type": "",
       "dir": "",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2603-GWVYBV"
     },
@@ -70448,6 +70687,7 @@
       "street": "RIVER",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "23",
       "reg": "STR-2603-GVRFBV"
     },
@@ -70456,6 +70696,7 @@
       "street": "ROYAL YORK",
       "type": "RD",
       "dir": "",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2603-GQXFBT"
     },
@@ -70464,6 +70705,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1501",
       "reg": "STR-2603-GSWBPV"
     },
@@ -70472,6 +70714,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2603-GVSPPV"
     },
@@ -70480,6 +70723,7 @@
       "street": "RANEE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6A",
       "unit": "",
       "reg": "STR-2603-FXQBPR"
     },
@@ -70488,6 +70732,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2603-GQYPPT"
     },
@@ -70496,6 +70741,7 @@
       "street": "ROSELM",
       "type": "RD",
       "dir": "",
+      "postal": "M1R",
       "unit": "",
       "reg": "STR-2603-FJZVPP"
     },
@@ -70504,6 +70750,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1201",
       "reg": "STR-2603-FYYPPR"
     },
@@ -70512,6 +70759,7 @@
       "street": "ROSEGLOR",
       "type": "CRES",
       "dir": "",
+      "postal": "M1P",
       "unit": "2ND FL",
       "reg": "STR-2603-GXSPPV"
     },
@@ -70520,6 +70768,7 @@
       "street": "ROBINSON",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2603-GLKHPT"
     },
@@ -70528,6 +70777,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3103",
       "reg": "STR-2603-FWMVPR"
     },
@@ -70536,6 +70786,7 @@
       "street": "ROBBINS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2603-GPGVPT"
     },
@@ -70544,6 +70795,7 @@
       "street": "RANKIN",
       "type": "CRES",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2603-GHGVPS"
     },
@@ -70552,6 +70804,7 @@
       "street": "ROBINTER",
       "type": "DR",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2603-HYKHPY"
     },
@@ -70560,6 +70813,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "1209",
       "reg": "STR-2603-FVYPPR"
     },
@@ -70568,6 +70822,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "306",
       "reg": "STR-2603-HDWBPW"
     },
@@ -70576,6 +70831,7 @@
       "street": "RUSSELL",
       "type": "ST",
       "dir": "",
+      "postal": "M5S",
       "unit": "1",
       "reg": "STR-2603-HMSPPX"
     },
@@ -70584,6 +70840,7 @@
       "street": "RITCHIE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2603-JDFPPZ"
     },
@@ -70592,6 +70849,7 @@
       "street": "ROSEMEADE",
       "type": "AVE",
       "dir": "",
+      "postal": "M8Y",
       "unit": "B",
       "reg": "STR-2604-GZSPPV"
     },
@@ -70600,6 +70858,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "761",
       "reg": "STR-2604-HBKHPW"
     },
@@ -70608,6 +70867,7 @@
       "street": "ROYAL YORK",
       "type": "RD",
       "dir": "",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2604-HBZVPW"
     },
@@ -70616,6 +70876,7 @@
       "street": "RIDLEY GDNS",
       "type": "",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2604-HLMVPX"
     },
@@ -70624,6 +70885,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "201",
       "reg": "STR-2604-JDGVPZ"
     },
@@ -70632,6 +70894,7 @@
       "street": "ROXTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2604-FSMVPQ"
     },
@@ -70640,6 +70903,7 @@
       "street": "ROBINA",
       "type": "AVE",
       "dir": "",
+      "postal": "M6C",
       "unit": "BSMT",
       "reg": "STR-2604-HSQBPY"
     },
@@ -70648,6 +70912,7 @@
       "street": "RONCESVALLES",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "1",
       "reg": "STR-2604-HWCBPY"
     },
@@ -70656,6 +70921,7 @@
       "street": "ROXTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2604-GYQBPV"
     },
@@ -70664,6 +70930,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "716",
       "reg": "STR-2604-JFQBPZ"
     },
@@ -70672,6 +70939,7 @@
       "street": "REDGRAVE",
       "type": "DR",
       "dir": "",
+      "postal": "M9R",
       "unit": "",
       "reg": "STR-2604-JGFPPZ"
     },
@@ -70680,6 +70948,7 @@
       "street": "RUSHTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2604-GPMVPT"
     },
@@ -70688,6 +70957,7 @@
       "street": "RUSHOLME",
       "type": "DR",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2604-FMYPPQ"
     },
@@ -70696,6 +70966,7 @@
       "street": "RHODES",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2604-FWFPPR"
     },
@@ -70704,6 +70975,7 @@
       "street": "RUSKIN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "401",
       "reg": "STR-2604-GFCBPS"
     },
@@ -70712,6 +70984,7 @@
       "street": "REDCAR",
       "type": "AVE",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2604-HLSPPX"
     },
@@ -70720,6 +70993,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "1410",
       "reg": "STR-2604-FJFPPP"
     },
@@ -70728,6 +71002,7 @@
       "street": "RATHBURN",
       "type": "RD",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2604-FTYPPQ"
     },
@@ -70736,6 +71011,7 @@
       "street": "RUNNYMEDE",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "2",
       "reg": "STR-2604-FMKHPQ"
     },
@@ -70744,6 +71020,7 @@
       "street": "RUSKIN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2604-GQXHPT"
     },
@@ -70752,6 +71029,7 @@
       "street": "ROSSBURN",
       "type": "DR",
       "dir": "",
+      "postal": "M9C",
       "unit": "",
       "reg": "STR-2604-GZZVPV"
     },
@@ -70760,6 +71038,7 @@
       "street": "ROSEBANK",
       "type": "DR",
       "dir": "",
+      "postal": "M1B",
       "unit": "206",
       "reg": "STR-2604-FWJFBR"
     },
@@ -70768,6 +71047,7 @@
       "street": "RICHMOND",
       "type": "ST",
       "dir": "E",
+      "postal": "M5C",
       "unit": "509",
       "reg": "STR-2604-GPCFBT"
     },
@@ -70776,6 +71056,7 @@
       "street": "ROSELAWN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2604-GHCFBS"
     },
@@ -70784,6 +71065,7 @@
       "street": "RYDING",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2604-FKQFBP"
     },
@@ -70792,6 +71074,7 @@
       "street": "RIVERDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2604-GJYSBS"
     },
@@ -70800,6 +71083,7 @@
       "street": "ROLLINGWOOD",
       "type": "DR",
       "dir": "",
+      "postal": "M2H",
       "unit": "",
       "reg": "STR-2604-FHDLBP"
     },
@@ -70808,6 +71092,7 @@
       "street": "ROSETHORN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2604-GPTYBT"
     },
@@ -70816,6 +71101,7 @@
       "street": "ROSE PARK",
       "type": "DR",
       "dir": "",
+      "postal": "M4T",
       "unit": "",
       "reg": "STR-2604-GSGYBT"
     },
@@ -70824,6 +71110,7 @@
       "street": "REGENT",
       "type": "RD",
       "dir": "",
+      "postal": "M3K",
       "unit": "",
       "reg": "STR-2605-GQLSBT"
     },
@@ -70832,6 +71119,7 @@
       "street": "RENFORTH",
       "type": "DR",
       "dir": "",
+      "postal": "M9C",
       "unit": "",
       "reg": "STR-2605-GHWFBS"
     },
@@ -70840,6 +71128,7 @@
       "street": "ROYAL YORK",
       "type": "RD",
       "dir": "",
+      "postal": "M8Y",
       "unit": "2R",
       "reg": "STR-2605-HBGYBW"
     },
@@ -70848,6 +71137,7 @@
       "street": "RANDOLPH",
       "type": "RD",
       "dir": "",
+      "postal": "M4G",
       "unit": "",
       "reg": "STR-2605-HFZYBW"
     },
@@ -70856,6 +71146,7 @@
       "street": "RIDLEY GDNS",
       "type": "",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2605-FVYSBR"
     },
@@ -70864,6 +71155,7 @@
       "street": "REDCAR",
       "type": "AVE",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2605-JDFSBZ"
     },
@@ -70872,6 +71164,7 @@
       "street": "RIVER",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "401",
       "reg": "STR-2605-HCRLBW"
     },
@@ -70880,6 +71173,7 @@
       "street": "ROYAL YORK",
       "type": "RD",
       "dir": "",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2605-JBKLBZ"
     }
