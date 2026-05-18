@@ -53664,6 +53664,7 @@
       "street": "TRACY",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "",
       "reg": "STR-2010-GGCKPF"
     },
@@ -53672,6 +53673,7 @@
       "street": "THREADNEEDLE",
       "type": "CRES",
       "dir": "",
+      "postal": "M2H",
       "unit": "",
       "reg": "STR-2010-GMKRVG"
     },
@@ -53680,6 +53682,7 @@
       "street": "TAMWORTH",
       "type": "RD",
       "dir": "",
+      "postal": "M2N",
       "unit": "1",
       "reg": "STR-2011-GGRRVF"
     },
@@ -53688,6 +53691,7 @@
       "street": "THYRA",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "Upper Unit",
       "reg": "STR-2012-HKYXVK"
     },
@@ -53696,6 +53700,7 @@
       "street": "TREFANN",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "",
       "reg": "STR-2012-GKTBHG"
     },
@@ -53704,6 +53709,7 @@
       "street": "TOURAINE",
       "type": "AVE",
       "dir": "",
+      "postal": "M3H",
       "unit": "BSMNT",
       "reg": "STR-2012-HZXVHM"
     },
@@ -53712,6 +53718,7 @@
       "street": "TRETHEWEY",
       "type": "DR",
       "dir": "",
+      "postal": "M6M",
       "unit": "Main",
       "reg": "STR-2103-FMCRVC"
     },
@@ -53720,6 +53727,7 @@
       "street": "TYNDALL",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "311",
       "reg": "STR-2211-HKPBHX"
     },
@@ -53728,6 +53736,7 @@
       "street": "TORRENS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2211-HXPBHY"
     },
@@ -53736,6 +53745,7 @@
       "street": "TEMPLAR",
       "type": "DR",
       "dir": "",
+      "postal": "M9R",
       "unit": "1",
       "reg": "STR-2301-HQYXVX"
     },
@@ -53744,6 +53754,7 @@
       "street": "THIRTY FIRST",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2301-HVDRVY"
     },
@@ -53752,6 +53763,7 @@
       "street": "TEMPLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "B",
       "reg": "STR-2303-GGYXVS"
     },
@@ -53760,6 +53772,7 @@
       "street": "TAMBROOK",
       "type": "DR",
       "dir": "",
+      "postal": "M1W",
       "unit": "Basement",
       "reg": "STR-2305-GXPKVV"
     },
@@ -53768,6 +53781,7 @@
       "street": "TANGREEN",
       "type": "CRT",
       "dir": "",
+      "postal": "M2M",
       "unit": "1401",
       "reg": "STR-2204-JBVVHM"
     },
@@ -53776,6 +53790,7 @@
       "street": "THURSFIELD",
       "type": "CRES",
       "dir": "",
+      "postal": "M4G",
       "unit": "",
       "reg": "STR-2204-HWRBHL"
     },
@@ -53784,6 +53799,7 @@
       "street": "TURNTABLE",
       "type": "CRES",
       "dir": "",
+      "postal": "M6H",
       "unit": "92",
       "reg": "STR-2206-GTGRVH"
     },
@@ -53792,6 +53808,7 @@
       "street": "TRUE DAVIDSON",
       "type": "DR",
       "dir": "",
+      "postal": "M4W",
       "unit": "",
       "reg": "STR-2207-FFTRVB"
     },
@@ -53800,6 +53817,7 @@
       "street": "TORRESDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2208-GQQBHG"
     },
@@ -53808,6 +53826,7 @@
       "street": "TRENTON TER",
       "type": "",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2208-HJDHHJ"
     },
@@ -53816,6 +53835,7 @@
       "street": "TECUMSETH",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "B",
       "reg": "STR-2106-HYRXVL"
     },
@@ -53824,6 +53844,7 @@
       "street": "TONON",
       "type": "DR",
       "dir": "",
+      "postal": "M3N",
       "unit": "",
       "reg": "STR-2306-GFRXVS"
     },
@@ -53832,6 +53853,7 @@
       "street": "TEIGNMOUTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2306-FMZDVQ"
     },
@@ -53840,6 +53862,7 @@
       "street": "TANGMERE",
       "type": "RD",
       "dir": "",
+      "postal": "M3B",
       "unit": "",
       "reg": "STR-2306-FZZDVR"
     },
@@ -53848,6 +53871,7 @@
       "street": "THE EAST MALL",
       "type": "",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2306-HVBPHY"
     },
@@ -53856,6 +53880,7 @@
       "street": "TIAGO",
       "type": "AVE",
       "dir": "",
+      "postal": "M4B",
       "unit": "",
       "reg": "STR-2308-FXZHHR"
     },
@@ -53864,6 +53889,7 @@
       "street": "TREFANN",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "E",
       "reg": "STR-2308-FHPPHP"
     },
@@ -53872,6 +53898,7 @@
       "street": "TRUDELLE",
       "type": "ST",
       "dir": "",
+      "postal": "M1J",
       "unit": "Upper",
       "reg": "STR-2309-FVGKVR"
     },
@@ -53880,6 +53907,7 @@
       "street": "TRENT",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2309-HLMKVX"
     },
@@ -53888,6 +53916,7 @@
       "street": "TRILLER",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2310-FQHVHQ"
     },
@@ -53896,6 +53925,7 @@
       "street": "TECUMSETH",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "Main Floor",
       "reg": "STR-2311-FYZPHR"
     },
@@ -53904,6 +53934,7 @@
       "street": "THIRTY FIRST",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2311-GHGPHS"
     },
@@ -53912,6 +53943,7 @@
       "street": "TOWER",
       "type": "DR",
       "dir": "",
+      "postal": "M1R",
       "unit": "",
       "reg": "STR-2311-HVKBHY"
     },
@@ -53920,6 +53952,7 @@
       "street": "TWEEDROCK",
       "type": "CRES",
       "dir": "",
+      "postal": "M1E",
       "unit": "",
       "reg": "STR-2311-GPMPHT"
     },
@@ -53928,6 +53961,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "526",
       "reg": "STR-2312-FHPVHP"
     },
@@ -53936,6 +53970,7 @@
       "street": "TAMWORTH",
       "type": "RD",
       "dir": "",
+      "postal": "M2N",
       "unit": "1",
       "reg": "STR-2312-GYXDVV"
     },
@@ -53944,6 +53979,7 @@
       "street": "THIRTIETH",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2402-JCFKVZ"
     },
@@ -53952,6 +53988,7 @@
       "street": "TYNDALL",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "809",
       "reg": "STR-2402-FYDDVR"
     },
@@ -53960,6 +53997,7 @@
       "street": "THE WESTWAY",
       "type": "",
       "dir": "",
+      "postal": "M9P",
       "unit": "",
       "reg": "STR-2402-HYWBHZ"
     },
@@ -53968,6 +54006,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2402-JDQBHZ"
     },
@@ -53976,6 +54015,7 @@
       "street": "TOM WELLS",
       "type": "CRES",
       "dir": "",
+      "postal": "M1V",
       "unit": "",
       "reg": "STR-2402-HJKHHX"
     },
@@ -53984,6 +54024,7 @@
       "street": "TAUNTON",
       "type": "RD",
       "dir": "",
+      "postal": "M4S",
       "unit": "BSMT",
       "reg": "STR-2405-GJTXVS"
     },
@@ -53992,6 +54033,7 @@
       "street": "TORBARRIE",
       "type": "RD",
       "dir": "",
+      "postal": "M3L",
       "unit": "",
       "reg": "STR-2405-GZYRVV"
     },
@@ -54000,6 +54042,7 @@
       "street": "TYNDALL",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2406-HZKPPZ"
     },
@@ -54008,6 +54051,7 @@
       "street": "THE ESPLANADE",
       "type": "",
       "dir": "",
+      "postal": "M5A",
       "unit": "925",
       "reg": "STR-2406-FYWHPR"
     },
@@ -54016,6 +54060,7 @@
       "street": "THIRTY FIFTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2406-GTQHPV"
     },
@@ -54024,6 +54069,7 @@
       "street": "TYNEVALE",
       "type": "DR",
       "dir": "",
+      "postal": "M9R",
       "unit": "",
       "reg": "STR-2407-JGDPPZ"
     },
@@ -54032,6 +54078,7 @@
       "street": "TORRESDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2407-FKJHPP"
     },
@@ -54040,6 +54087,7 @@
       "street": "THE ESPLANADE",
       "type": "",
       "dir": "",
+      "postal": "M5A",
       "unit": "202",
       "reg": "STR-2407-HYBBPY"
     },
@@ -54048,6 +54096,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "317",
       "reg": "STR-2408-FKDSBP"
     },
@@ -54056,6 +54105,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Y",
       "unit": "A",
       "reg": "STR-2408-FZCLBR"
     },
@@ -54064,6 +54114,7 @@
       "street": "TECUMSETH",
       "type": "ST",
       "dir": "",
+      "postal": "M5V",
       "unit": "805",
       "reg": "STR-2404-GPFRVT"
     },
@@ -54072,6 +54123,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Y",
       "unit": "6",
       "reg": "STR-2409-HSDVPY"
     },
@@ -54080,6 +54132,7 @@
       "street": "TIDWORTH SQ",
       "type": "",
       "dir": "",
+      "postal": "M1S",
       "unit": "",
       "reg": "STR-2409-FWZBPR"
     },
@@ -54088,6 +54141,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "A",
       "reg": "STR-2410-HPVHPX"
     },
@@ -54096,6 +54150,7 @@
       "street": "TORRENS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2410-GTQPPV"
     },
@@ -54104,6 +54159,7 @@
       "street": "TRIANGLE VILLAS",
       "type": "DR",
       "dir": "",
+      "postal": "M1W",
       "unit": "",
       "reg": "STR-2410-JCQPPZ"
     },
@@ -54112,6 +54168,7 @@
       "street": "TECUMSETH",
       "type": "ST",
       "dir": "",
+      "postal": "M5V",
       "unit": "2",
       "reg": "STR-2411-FRJPPQ"
     },
@@ -54120,6 +54177,7 @@
       "street": "TED ROGERS",
       "type": "WAY",
       "dir": "",
+      "postal": "M4Y",
       "unit": "1509",
       "reg": "STR-2412-GZVLBV"
     },
@@ -54128,6 +54186,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2501-FMZFBQ"
     },
@@ -54136,6 +54195,7 @@
       "street": "THORNBECK",
       "type": "DR",
       "dir": "",
+      "postal": "M1G",
       "unit": "",
       "reg": "STR-2502-FHCVPP"
     },
@@ -54144,6 +54204,7 @@
       "street": "TEMPLAR",
       "type": "DR",
       "dir": "",
+      "postal": "M9R",
       "unit": "2",
       "reg": "STR-2503-HBVPPW"
     },
@@ -54152,6 +54213,7 @@
       "street": "TURTLE ISLAND",
       "type": "RD",
       "dir": "",
+      "postal": "M6A",
       "unit": "",
       "reg": "STR-2503-HDBPPW"
     },
@@ -54160,6 +54222,7 @@
       "street": "TEMPLE BAR",
       "type": "CRES",
       "dir": "",
+      "postal": "M1W",
       "unit": "",
       "reg": "STR-2503-FYZHPR"
     },
@@ -54168,6 +54231,7 @@
       "street": "THE WESTWAY",
       "type": "",
       "dir": "",
+      "postal": "M9P",
       "unit": "unit A",
       "reg": "STR-2504-GDGHPS"
     },
@@ -54176,6 +54240,7 @@
       "street": "TRILLER",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "1611",
       "reg": "STR-2504-JCBPPZ"
     },
@@ -54184,6 +54249,7 @@
       "street": "TECUMSETH",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2505-FWCVPR"
     },
@@ -54192,6 +54258,7 @@
       "street": "TORRENS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2505-FXLBPR"
     },
@@ -54200,6 +54267,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "516",
       "reg": "STR-2505-GWVPPV"
     },
@@ -54208,6 +54276,7 @@
       "street": "TRETHEWEY",
       "type": "DR",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2505-FRLBPQ"
     },
@@ -54216,6 +54285,7 @@
       "street": "TREVERTON",
       "type": "DR",
       "dir": "",
+      "postal": "M1K",
       "unit": "",
       "reg": "STR-2506-GSVSBV"
     },
@@ -54224,6 +54294,7 @@
       "street": "TIMES",
       "type": "RD",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2506-HFVSBW"
     },
@@ -54232,6 +54303,7 @@
       "street": "THIRTIETH",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "Upper",
       "reg": "STR-2507-FPVSBQ"
     },
@@ -54240,6 +54312,7 @@
       "street": "TOTTERIDGE",
       "type": "RD",
       "dir": "",
+      "postal": "M9A",
       "unit": "",
       "reg": "STR-2507-GMPSBT"
     },
@@ -54248,6 +54321,7 @@
       "street": "TURTLEDOVE GRV",
       "type": "",
       "dir": "",
+      "postal": "M1X",
       "unit": "",
       "reg": "STR-2507-FHFFBP"
     },
@@ -54256,6 +54330,7 @@
       "street": "TWENTY FOURTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "Main",
       "reg": "STR-2507-JDFFBZ"
     },
@@ -54264,6 +54339,7 @@
       "street": "TORDALE",
       "type": "CRES",
       "dir": "",
+      "postal": "M1P",
       "unit": "",
       "reg": "STR-2507-FRVSBQ"
     },
@@ -54272,6 +54348,7 @@
       "street": "TROPHY",
       "type": "DR",
       "dir": "",
+      "postal": "M4A",
       "unit": "",
       "reg": "STR-2508-HHYFBW"
     },
@@ -54280,6 +54357,7 @@
       "street": "TAMERLANE",
       "type": "CRT",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2508-JCSFBZ"
     },
@@ -54288,6 +54366,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "303",
       "reg": "STR-2508-HQBSBX"
     },
@@ -54296,6 +54375,7 @@
       "street": "TED WRAY CRCL",
       "type": "",
       "dir": "",
+      "postal": "M3L",
       "unit": "",
       "reg": "STR-2508-FTFFBQ"
     },
@@ -54304,6 +54384,7 @@
       "street": "TRILLER",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "2308",
       "reg": "STR-2508-GQTLBT"
     },
@@ -54312,6 +54393,7 @@
       "street": "TROUTBROOKE",
       "type": "DR",
       "dir": "",
+      "postal": "M3M",
       "unit": "B",
       "reg": "STR-2509-GLSFBT"
     },
@@ -54320,6 +54402,7 @@
       "street": "TORRENS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2509-GTLHPV"
     },
@@ -54328,6 +54411,7 @@
       "street": "THIRD",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2509-FMJYBQ"
     },
@@ -54336,6 +54420,7 @@
       "street": "TRETHEWEY",
       "type": "DR",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2509-FGZLBP"
     },
@@ -54344,6 +54429,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "418",
       "reg": "STR-2509-JGJYBZ"
     },
@@ -54352,6 +54438,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "604",
       "reg": "STR-2510-FLXBPQ"
     },
@@ -54360,6 +54447,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "1001",
       "reg": "STR-2510-FVDBPR"
     },
@@ -54368,6 +54456,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "111",
       "reg": "STR-2510-GCKBPS"
     },
@@ -54376,6 +54465,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "701",
       "reg": "STR-2510-GVTPPV"
     },
@@ -54384,6 +54474,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Y",
       "unit": "Unit 2",
       "reg": "STR-2510-GXRBPV"
     },
@@ -54392,6 +54483,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "320",
       "reg": "STR-2510-GRRBPT"
     },
@@ -54400,6 +54492,7 @@
       "street": "TORRENS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "B",
       "reg": "STR-2510-GFHVPS"
     },
@@ -54408,6 +54501,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "720",
       "reg": "STR-2510-FHFHPP"
     },
@@ -54416,6 +54510,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "307",
       "reg": "STR-2510-GLKBPT"
     },
@@ -54424,6 +54519,7 @@
       "street": "TREELAWN PKWY",
       "type": "",
       "dir": "",
+      "postal": "M6L",
       "unit": "",
       "reg": "STR-2510-GRDBPT"
     },
@@ -54432,6 +54528,7 @@
       "street": "TREELAND",
       "type": "WAY",
       "dir": "",
+      "postal": "M3M",
       "unit": "",
       "reg": "STR-2510-GTSHPV"
     },
@@ -54440,6 +54537,7 @@
       "street": "TWENTY FOURTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2510-FWPVPR"
     },
@@ -54448,6 +54546,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "217",
       "reg": "STR-2510-HTSHPY"
     },
@@ -54456,6 +54555,7 @@
       "street": "TILLPLAIN",
       "type": "RD",
       "dir": "",
+      "postal": "M3H",
       "unit": "",
       "reg": "STR-2511-GJRBPS"
     },
@@ -54464,6 +54564,7 @@
       "street": "THE DONWAY",
       "type": "",
       "dir": "W",
+      "postal": "M3C",
       "unit": "613",
       "reg": "STR-2511-HRZPPY"
     },
@@ -54472,6 +54573,7 @@
       "street": "TRILLER",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "2",
       "reg": "STR-2511-HZXBPZ"
     },
@@ -54480,6 +54582,7 @@
       "street": "THOMPSON",
       "type": "AVE",
       "dir": "",
+      "postal": "M8Z",
       "unit": "",
       "reg": "STR-2512-GGYHPS"
     },
@@ -54488,6 +54591,7 @@
       "street": "THORNBECK",
       "type": "DR",
       "dir": "",
+      "postal": "M1G",
       "unit": "",
       "reg": "STR-2512-HRLHPX"
     },
@@ -54496,6 +54600,7 @@
       "street": "TRILLER",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "205",
       "reg": "STR-2512-HFTPPW"
     },
@@ -54504,6 +54609,7 @@
       "street": "TRILLER",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "6",
       "reg": "STR-2512-JFDBPZ"
     },
@@ -54512,6 +54618,7 @@
       "street": "TYRE",
       "type": "AVE",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2512-HSVYBY"
     },
@@ -54520,6 +54627,7 @@
       "street": "THE ESPLANADE",
       "type": "",
       "dir": "",
+      "postal": "M5A",
       "unit": "1212",
       "reg": "STR-2512-FYFLBR"
     },
@@ -54528,6 +54636,7 @@
       "street": "TENNIS",
       "type": "CRES",
       "dir": "",
+      "postal": "M4K",
       "unit": "2",
       "reg": "STR-2512-HXPYBY"
     },
@@ -54536,6 +54645,7 @@
       "street": "TECUMSETH",
       "type": "ST",
       "dir": "",
+      "postal": "M5V",
       "unit": "1003",
       "reg": "STR-2601-GSYLBV"
     },
@@ -54544,6 +54654,7 @@
       "street": "TOM LONGBOAT LN",
       "type": "",
       "dir": "",
+      "postal": "M5A",
       "unit": "",
       "reg": "STR-2601-HRSLBY"
     },
@@ -54552,6 +54663,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "812",
       "reg": "STR-2601-FWLLBR"
     },
@@ -54560,6 +54672,7 @@
       "street": "TILDEN",
       "type": "CRES",
       "dir": "",
+      "postal": "M9P",
       "unit": "",
       "reg": "STR-2601-GMPYBT"
     },
@@ -54568,6 +54681,7 @@
       "street": "TARRAGONA",
       "type": "BLVD",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2601-GWLLBV"
     },
@@ -54576,6 +54690,7 @@
       "street": "THELMERE",
       "type": "PL",
       "dir": "",
+      "postal": "M9R",
       "unit": "",
       "reg": "STR-2601-FYHYBR"
     },
@@ -54584,6 +54699,7 @@
       "street": "TED WRAY CRCL",
       "type": "",
       "dir": "",
+      "postal": "M3L",
       "unit": "",
       "reg": "STR-2601-FFKFBP"
     },
@@ -54592,6 +54708,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "416",
       "reg": "STR-2601-GHGSBS"
     },
@@ -54600,6 +54717,7 @@
       "street": "THIRTY FIRST",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2602-FKDFBP"
     },
@@ -54608,6 +54726,7 @@
       "street": "THIRTY FIFTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2602-GPYLBT"
     },
@@ -54616,6 +54735,7 @@
       "street": "TROYER",
       "type": "AVE",
       "dir": "",
+      "postal": "M3J",
       "unit": "",
       "reg": "STR-2602-GKYLBT"
     },
@@ -54624,6 +54744,7 @@
       "street": "THE QUEENSWAY",
       "type": "",
       "dir": "",
+      "postal": "M8Z",
       "unit": "702",
       "reg": "STR-2602-JGFLBZ"
     },
@@ -54632,6 +54753,7 @@
       "street": "TANIS",
       "type": "CRES",
       "dir": "",
+      "postal": "M1C",
       "unit": "",
       "reg": "STR-2603-HPPYBX"
     },
@@ -54640,6 +54762,7 @@
       "street": "TROPHY",
       "type": "DR",
       "dir": "",
+      "postal": "M4A",
       "unit": "",
       "reg": "STR-2603-HXLLBY"
     },
@@ -54648,6 +54771,7 @@
       "street": "TURPIN",
       "type": "AVE",
       "dir": "",
+      "postal": "M9W",
       "unit": "",
       "reg": "STR-2603-JGHYBZ"
     },
@@ -54656,6 +54780,7 @@
       "street": "TORRENS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2603-GDMSBS"
     },
@@ -54664,6 +54789,7 @@
       "street": "TIMBERBANK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M1W",
       "unit": "",
       "reg": "STR-2603-HWJBPY"
     },
@@ -54672,6 +54798,7 @@
       "street": "TWENTY FOURTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2603-JDQBPZ"
     },
@@ -54680,6 +54807,7 @@
       "street": "THE WEST MALL",
       "type": "",
       "dir": "",
+      "postal": "M9C",
       "unit": "912",
       "reg": "STR-2603-HHCBPW"
     },
@@ -54688,6 +54816,7 @@
       "street": "THIRD",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2603-GLGVPT"
     },
@@ -54696,6 +54825,7 @@
       "street": "TECUMSETH",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "2",
       "reg": "STR-2603-HSXHPY"
     },
@@ -54704,6 +54834,7 @@
       "street": "TROUTBROOKE",
       "type": "DR",
       "dir": "",
+      "postal": "M3M",
       "unit": "A",
       "reg": "STR-2603-GTRHPV"
     },
@@ -54712,6 +54843,7 @@
       "street": "TYNDALL",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "301",
       "reg": "STR-2603-GCQBPS"
     },
@@ -54720,6 +54852,7 @@
       "street": "TIDESWELL",
       "type": "BLVD",
       "dir": "",
+      "postal": "M1B",
       "unit": "",
       "reg": "STR-2603-HKWBPX"
     },
@@ -54728,6 +54861,7 @@
       "street": "THIRTIETH",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2603-GFLPPS"
     },
@@ -54736,6 +54870,7 @@
       "street": "TREEVIEW",
       "type": "DR",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2604-FXXHPR"
     },
@@ -54744,6 +54879,7 @@
       "street": "TREVERTON",
       "type": "DR",
       "dir": "",
+      "postal": "M1K",
       "unit": "",
       "reg": "STR-2604-HYQBPY"
     },
@@ -54752,6 +54888,7 @@
       "street": "THE ESPLANADE",
       "type": "",
       "dir": "",
+      "postal": "M5A",
       "unit": "807",
       "reg": "STR-2604-HFRHPW"
     },
@@ -54760,6 +54897,7 @@
       "street": "THE ESPLANADE",
       "type": "",
       "dir": "",
+      "postal": "M5E",
       "unit": "3805",
       "reg": "STR-2604-FPQBPQ"
     },
@@ -54768,6 +54906,7 @@
       "street": "TURNTABLE",
       "type": "CRES",
       "dir": "",
+      "postal": "M6H",
       "unit": "28",
       "reg": "STR-2604-HYSPPY"
     },
@@ -54776,6 +54915,7 @@
       "street": "TYNDALL",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "720",
       "reg": "STR-2604-JBCFBZ"
     },
@@ -54784,6 +54924,7 @@
       "street": "TROMLEY",
       "type": "DR",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2604-FFGYBP"
     },
@@ -54792,6 +54933,7 @@
       "street": "THIRTIETH",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2604-HKRLBX"
     },
@@ -54800,6 +54942,7 @@
       "street": "TRANBY",
       "type": "AVE",
       "dir": "",
+      "postal": "M5R",
       "unit": "",
       "reg": "STR-2604-GMMYBT"
     },
@@ -54808,6 +54951,7 @@
       "street": "TECUMSETH",
       "type": "ST",
       "dir": "",
+      "postal": "M5V",
       "unit": "111",
       "reg": "STR-2605-FQLSBQ"
     },
@@ -54816,6 +54960,7 @@
       "street": "TWENTY SECOND",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2605-GFLSBS"
     },
@@ -54824,6 +54969,7 @@
       "street": "TEIGNMOUTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2605-FSLSBQ"
     },
@@ -54832,6 +54978,7 @@
       "street": "TURNTABLE",
       "type": "CRES",
       "dir": "",
+      "postal": "M6H",
       "unit": "44",
       "reg": "STR-2605-HTDLBY"
     }
