@@ -17,6 +17,7 @@
       "street": "1/2 MAPLEWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M6C",
       "unit": "",
       "reg": "STR-2111-HYVRVM"
     },
@@ -25,6 +26,7 @@
       "street": "1/2 PALMERSTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2405-JGDKVZ"
     },
@@ -33,6 +35,7 @@
       "street": "1/2 CRAWFORD",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "Lower",
       "reg": "STR-2411-FVMBPR"
     },
@@ -41,6 +44,7 @@
       "street": "1/2 MACKENZIE",
       "type": "CRES",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2605-GZRLBV"
     }
