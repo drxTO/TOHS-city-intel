@@ -12399,6 +12399,7 @@
       "street": "UXBRIDGE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2009-HZKPBM"
     },
@@ -12407,6 +12408,7 @@
       "street": "ULSTER",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "1",
       "reg": "STR-2211-GKVBHT"
     },
@@ -12415,6 +12417,7 @@
       "street": "ULSTER",
       "type": "ST",
       "dir": "",
+      "postal": "M5S",
       "unit": "",
       "reg": "STR-2310-FHSHHP"
     },
@@ -12423,6 +12426,7 @@
       "street": "UPPER",
       "type": "DR",
       "dir": "",
+      "postal": "M2P",
       "unit": "",
       "reg": "STR-2312-FDRDVP"
     },
@@ -12431,6 +12435,7 @@
       "street": "UPPER",
       "type": "DR",
       "dir": "",
+      "postal": "M2P",
       "unit": "",
       "reg": "STR-2507-FMQYBQ"
     },
@@ -12439,6 +12444,7 @@
       "street": "ULSTER",
       "type": "ST",
       "dir": "",
+      "postal": "M5S",
       "unit": "",
       "reg": "STR-2603-FVSPPR"
     },
@@ -12447,6 +12453,7 @@
       "street": "UPMINSTER",
       "type": "CRES",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2604-GVZVPV"
     }
