@@ -53046,6 +53046,7 @@
       "street": "FLAMBOROUGH",
       "type": "DR",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2009-GBCKPD"
     },
@@ -53054,6 +53055,7 @@
       "street": "FAYWOOD",
       "type": "BLVD",
       "dir": "",
+      "postal": "M3H",
       "unit": "BSMT",
       "reg": "STR-2010-FSYXPC"
     },
@@ -53062,6 +53064,7 @@
       "street": "FAIRHOLME",
       "type": "AVE",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2010-FHKRPB"
     },
@@ -53070,6 +53073,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "608",
       "reg": "STR-2010-JDYXPM"
     },
@@ -53078,6 +53082,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "903",
       "reg": "STR-2010-FDQKVB"
     },
@@ -53086,6 +53091,7 @@
       "street": "FERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2011-JCYXVM"
     },
@@ -53094,6 +53100,7 @@
       "street": "FERMANAGH",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2011-HCKRVJ"
     },
@@ -53102,6 +53109,7 @@
       "street": "FERMANAGH",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2011-GWKRVH"
     },
@@ -53110,6 +53118,7 @@
       "street": "FLORIST",
       "type": "LANE",
       "dir": "",
+      "postal": "M1E",
       "unit": "",
       "reg": "STR-2011-JFHDVM"
     },
@@ -53118,6 +53127,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4106",
       "reg": "STR-2011-FJLXVB"
     },
@@ -53126,6 +53136,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "606",
       "reg": "STR-2011-FGRRVB"
     },
@@ -53134,6 +53145,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1806",
       "reg": "STR-2011-GMRRVG"
     },
@@ -53142,6 +53154,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2407",
       "reg": "STR-2011-HTVDVL"
     },
@@ -53150,6 +53163,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2106",
       "reg": "STR-2012-HVLXVL"
     },
@@ -53158,6 +53172,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2104",
       "reg": "STR-2012-FTHDVC"
     },
@@ -53166,6 +53181,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "716",
       "reg": "STR-2012-GHQKVF"
     },
@@ -53174,6 +53190,7 @@
       "street": "FAIRLAWN",
       "type": "AVE",
       "dir": "",
+      "postal": "M5M",
       "unit": "B",
       "reg": "STR-2012-HTKVHL"
     },
@@ -53182,6 +53199,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "355",
       "reg": "STR-2012-GPRVHG"
     },
@@ -53190,6 +53208,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "528",
       "reg": "STR-2012-GHBHHF"
     },
@@ -53198,6 +53217,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2706",
       "reg": "STR-2012-FYGBHD"
     },
@@ -53206,6 +53226,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2509",
       "reg": "STR-2012-GPVHHG"
     },
@@ -53214,6 +53235,7 @@
       "street": "FENWICK",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2012-FKRVHB"
     },
@@ -53222,6 +53244,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3205",
       "reg": "STR-2012-GVWPHH"
     },
@@ -53230,6 +53253,7 @@
       "street": "FOURTH",
       "type": "ST",
       "dir": "",
+      "postal": "M5J",
       "unit": "",
       "reg": "STR-2101-GQGBHG"
     },
@@ -53238,6 +53262,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "307",
       "reg": "STR-2101-FZJPHD"
     },
@@ -53246,6 +53271,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1602",
       "reg": "STR-2101-FZZBHD"
     },
@@ -53254,6 +53280,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1106",
       "reg": "STR-2101-GBBKVD"
     },
@@ -53262,6 +53289,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3209",
       "reg": "STR-2101-HWKXVL"
     },
@@ -53270,6 +53298,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3711",
       "reg": "STR-2101-GYHKVH"
     },
@@ -53278,6 +53307,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1803",
       "reg": "STR-2102-HVWRVL"
     },
@@ -53286,6 +53316,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2107",
       "reg": "STR-2102-FRTDVC"
     },
@@ -53294,6 +53325,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "632",
       "reg": "STR-2103-GRDXVG"
     },
@@ -53302,6 +53334,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4003",
       "reg": "STR-2211-GZYRVH"
     },
@@ -53310,6 +53343,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "413",
       "reg": "STR-2211-GKPBHT"
     },
@@ -53318,6 +53352,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "958",
       "reg": "STR-2211-HSWHHY"
     },
@@ -53326,6 +53361,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "921",
       "reg": "STR-2211-HHCHHW"
     },
@@ -53334,6 +53370,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "532",
       "reg": "STR-2211-HGPBHW"
     },
@@ -53342,6 +53379,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "176",
       "reg": "STR-2211-FLHBHP"
     },
@@ -53350,6 +53388,7 @@
       "street": "FOREST MANOR",
       "type": "RD",
       "dir": "",
+      "postal": "M2J",
       "unit": "3010",
       "reg": "STR-2212-GDVBHS"
     },
@@ -53358,6 +53397,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3102",
       "reg": "STR-2212-HJRPHX"
     },
@@ -53366,6 +53406,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "310",
       "reg": "STR-2301-GFFXVS"
     },
@@ -53374,6 +53415,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "505",
       "reg": "STR-2301-FTLXVQ"
     },
@@ -53382,6 +53424,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "PH3",
       "reg": "STR-2301-GQKRVT"
     },
@@ -53390,6 +53433,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1005",
       "reg": "STR-2302-HDDRVW"
     },
@@ -53398,6 +53442,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1808",
       "reg": "STR-2302-JDDRVZ"
     },
@@ -53406,6 +53451,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "518",
       "reg": "STR-2302-FKDRVP"
     },
@@ -53414,6 +53460,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "808",
       "reg": "STR-2302-HTSXVY"
     },
@@ -53422,6 +53469,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1262",
       "reg": "STR-2302-GHKRVS"
     },
@@ -53430,6 +53478,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "111",
       "reg": "STR-2302-JGDRVZ"
     },
@@ -53438,6 +53487,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "904",
       "reg": "STR-2302-FFQKVP"
     },
@@ -53446,6 +53496,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "302",
       "reg": "STR-2303-HKKRVX"
     },
@@ -53454,6 +53505,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1909",
       "reg": "STR-2303-FJWKVP"
     },
@@ -53462,6 +53514,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1113",
       "reg": "STR-2303-FVBHHR"
     },
@@ -53470,6 +53523,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "523",
       "reg": "STR-2303-HCJPHW"
     },
@@ -53478,6 +53532,7 @@
       "street": "FAYWOOD",
       "type": "BLVD",
       "dir": "",
+      "postal": "M3H",
       "unit": "",
       "reg": "STR-2304-HQMBHX"
     },
@@ -53486,6 +53541,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "714",
       "reg": "STR-2304-GJMBHS"
     },
@@ -53494,6 +53550,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2109",
       "reg": "STR-2304-GGTBHS"
     },
@@ -53502,6 +53559,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "W",
+      "postal": "M2N",
       "unit": "7",
       "reg": "STR-2304-FPKVHQ"
     },
@@ -53510,6 +53568,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4401",
       "reg": "STR-2304-GXXVHV"
     },
@@ -53518,6 +53577,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "611",
       "reg": "STR-2304-HWCPHY"
     },
@@ -53526,6 +53586,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3813",
       "reg": "STR-2304-GKJPHS"
     },
@@ -53534,6 +53595,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "211",
       "reg": "STR-2305-HLRVHX"
     },
@@ -53542,6 +53604,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1104",
       "reg": "STR-2305-FYBHHR"
     },
@@ -53550,6 +53613,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "869",
       "reg": "STR-2305-GSBHHT"
     },
@@ -53558,6 +53622,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1609",
       "reg": "STR-2305-HQGBHX"
     },
@@ -53566,6 +53631,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2906",
       "reg": "STR-2305-HYVKVZ"
     },
@@ -53574,6 +53640,7 @@
       "street": "FULTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2305-GQZDVT"
     },
@@ -53582,6 +53649,7 @@
       "street": "FOURTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2210-GRFRVG"
     },
@@ -53590,6 +53658,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2506",
       "reg": "STR-2210-HRJDVK"
     },
@@ -53598,6 +53667,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4502",
       "reg": "STR-2210-HRZXVL"
     },
@@ -53606,6 +53676,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1713",
       "reg": "STR-2210-GXZXVH"
     },
@@ -53614,6 +53685,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "6",
       "reg": "STR-2405-GDDKVS"
     },
@@ -53622,6 +53694,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3211",
       "reg": "STR-2405-GDFRVS"
     },
@@ -53630,6 +53703,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "802",
       "reg": "STR-2112-HKBRVK"
     },
@@ -53638,6 +53712,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "E",
+      "postal": "M2N",
       "unit": "Main",
       "reg": "STR-2112-HHVRVJ"
     },
@@ -53646,6 +53721,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "505",
       "reg": "STR-2112-HCMKVJ"
     },
@@ -53654,6 +53730,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2105",
       "reg": "STR-2201-JCSDVM"
     },
@@ -53662,6 +53739,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2503",
       "reg": "STR-2201-HFPRVJ"
     },
@@ -53670,6 +53748,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1012",
       "reg": "STR-2202-GWTKVH"
     },
@@ -53678,6 +53757,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1402",
       "reg": "STR-2202-HMGKVK"
     },
@@ -53686,6 +53766,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1111",
       "reg": "STR-2203-GGZKVF"
     },
@@ -53694,6 +53775,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3302",
       "reg": "STR-2203-HQGKVK"
     },
@@ -53702,6 +53784,7 @@
       "street": "FULLER",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2203-FDRBHB"
     },
@@ -53710,6 +53793,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2510",
       "reg": "STR-2203-GMMPHG"
     },
@@ -53718,6 +53802,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1710",
       "reg": "STR-2203-GPTPHG"
     },
@@ -53726,6 +53811,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "334",
       "reg": "STR-2203-GBTPHD"
     },
@@ -53734,6 +53820,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2812",
       "reg": "STR-2204-HTRBHL"
     },
@@ -53742,6 +53829,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1008",
       "reg": "STR-2204-FVHVHD"
     },
@@ -53750,6 +53838,7 @@
       "street": "FERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2204-FMVVHC"
     },
@@ -53758,6 +53847,7 @@
       "street": "FENWICK",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2205-FKZPHB"
     },
@@ -53766,6 +53856,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "810",
       "reg": "STR-2205-GQFHHG"
     },
@@ -53774,6 +53865,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "316",
       "reg": "STR-2205-GSSHHG"
     },
@@ -53782,6 +53874,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "604",
       "reg": "STR-2205-FFTPHB"
     },
@@ -53790,6 +53883,7 @@
       "street": "FERNALROY",
       "type": "BLVD",
       "dir": "",
+      "postal": "M8Z",
       "unit": "",
       "reg": "STR-2205-GSTPHG"
     },
@@ -53798,6 +53892,7 @@
       "street": "FERRIER",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2205-FPSKVC"
     },
@@ -53806,6 +53901,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2012",
       "reg": "STR-2205-FTLKVC"
     },
@@ -53814,6 +53910,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "E",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2206-HVVXVL"
     },
@@ -53822,6 +53919,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3012",
       "reg": "STR-2206-JBXDVM"
     },
@@ -53830,6 +53928,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1702",
       "reg": "STR-2206-HXTRVL"
     },
@@ -53838,6 +53937,7 @@
       "street": "FORD",
       "type": "ST",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2206-JDVXVM"
     },
@@ -53846,6 +53946,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1502",
       "reg": "STR-2206-FTFKVC"
     },
@@ -53854,6 +53955,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1602",
       "reg": "STR-2207-FTXDVC"
     },
@@ -53862,6 +53964,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3203",
       "reg": "STR-2207-FHPXVB"
     },
@@ -53870,6 +53973,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "606",
       "reg": "STR-2207-HMYKVK"
     },
@@ -53878,6 +53982,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4002",
       "reg": "STR-2207-GCFKVD"
     },
@@ -53886,6 +53991,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2108",
       "reg": "STR-2207-GSWBHH"
     },
@@ -53894,6 +54000,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "803",
       "reg": "STR-2207-FPCBHC"
     },
@@ -53902,6 +54009,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "957",
       "reg": "STR-2207-GKSPHG"
     },
@@ -53910,6 +54018,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "310",
       "reg": "STR-2207-JCLPHM"
     },
@@ -53918,6 +54027,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "407",
       "reg": "STR-2208-FLJBHB"
     },
@@ -53926,6 +54036,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3404",
       "reg": "STR-2208-GFMVHF"
     },
@@ -53934,6 +54045,7 @@
       "street": "FERNDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4T",
       "unit": "",
       "reg": "STR-2208-JFMVHM"
     },
@@ -53942,6 +54054,7 @@
       "street": "FRATER",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "Lower",
       "reg": "STR-2208-HRGVHK"
     },
@@ -53950,6 +54063,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2612",
       "reg": "STR-2208-HTGVHL"
     },
@@ -53958,6 +54072,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1907",
       "reg": "STR-2209-GYDHHH"
     },
@@ -53966,6 +54081,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3806",
       "reg": "STR-2209-GMMXVG"
     },
@@ -53974,6 +54090,7 @@
       "street": "FALSTAFF",
       "type": "AVE",
       "dir": "",
+      "postal": "M6L",
       "unit": "",
       "reg": "STR-2209-GRRKVG"
     },
@@ -53982,6 +54099,7 @@
       "street": "FOXBAR",
       "type": "RD",
       "dir": "",
+      "postal": "M4V",
       "unit": "",
       "reg": "STR-2209-FLGXVB"
     },
@@ -53990,6 +54108,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3502",
       "reg": "STR-2210-GKTXVG"
     },
@@ -53998,6 +54117,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2010",
       "reg": "STR-2210-GMRKVG"
     },
@@ -54006,6 +54126,7 @@
       "street": "FLAGLER",
       "type": "ST",
       "dir": "",
+      "postal": "M4X",
       "unit": "",
       "reg": "STR-2210-HLZXVK"
     },
@@ -54014,6 +54135,7 @@
       "street": "FELICITY",
       "type": "DR",
       "dir": "",
+      "postal": "M1H",
       "unit": "",
       "reg": "STR-2210-FVYRVD"
     },
@@ -54022,6 +54144,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2309",
       "reg": "STR-2210-GWQDVH"
     },
@@ -54030,6 +54153,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3902",
       "reg": "STR-2103-JBZDVM"
     },
@@ -54038,6 +54162,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "706",
       "reg": "STR-2103-GGTDVF"
     },
@@ -54046,6 +54171,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "903",
       "reg": "STR-2104-FZDXVD"
     },
@@ -54054,6 +54180,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3408",
       "reg": "STR-2106-FMZDVC"
     },
@@ -54062,6 +54189,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2412",
       "reg": "STR-2106-GGZDVF"
     },
@@ -54070,6 +54198,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3906",
       "reg": "STR-2106-GQWRVG"
     },
@@ -54078,6 +54207,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3606",
       "reg": "STR-2106-HGJRVJ"
     },
@@ -54086,6 +54216,7 @@
       "street": "FORD",
       "type": "ST",
       "dir": "",
+      "postal": "M6N",
       "unit": "Upper",
       "reg": "STR-2107-HDQVHJ"
     },
@@ -54094,6 +54225,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "708",
       "reg": "STR-2107-FQLBHC"
     },
@@ -54102,6 +54234,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2714",
       "reg": "STR-2305-HBXXVW"
     },
@@ -54110,6 +54243,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3005",
       "reg": "STR-2305-GQKXVT"
     },
@@ -54118,6 +54252,7 @@
       "street": "FALAISE",
       "type": "RD",
       "dir": "",
+      "postal": "M1E",
       "unit": "214",
       "reg": "STR-2305-GYHKVV"
     },
@@ -54126,6 +54261,7 @@
       "street": "FENNINGS",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2305-JFXXVZ"
     },
@@ -54134,6 +54270,7 @@
       "street": "FERMANAGH",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2305-HRTDVY"
     },
@@ -54142,6 +54279,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3013",
       "reg": "STR-2305-GDCRVS"
     },
@@ -54150,6 +54288,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "932",
       "reg": "STR-2305-HSJRVY"
     },
@@ -54158,6 +54297,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2910",
       "reg": "STR-2305-FHGDVP"
     },
@@ -54166,6 +54306,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "214",
       "reg": "STR-2305-GPWRVT"
     },
@@ -54174,6 +54315,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "26",
       "reg": "STR-2306-FQQRVQ"
     },
@@ -54182,6 +54324,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "415",
       "reg": "STR-2306-GSMDVT"
     },
@@ -54190,6 +54333,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1709",
       "reg": "STR-2306-GTVKVV"
     },
@@ -54198,6 +54342,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "121",
       "reg": "STR-2306-GYPKVV"
     },
@@ -54206,6 +54351,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "876",
       "reg": "STR-2306-HMHKVX"
     },
@@ -54214,6 +54360,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "W",
+      "postal": "M2N",
       "unit": "4",
       "reg": "STR-2306-JFBKVZ"
     },
@@ -54222,6 +54369,7 @@
       "street": "FARNINGHAM",
       "type": "CRES",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2306-GZXXVV"
     },
@@ -54230,6 +54378,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "873",
       "reg": "STR-2306-FYTDVR"
     },
@@ -54238,6 +54387,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "809",
       "reg": "STR-2307-HFGHHW"
     },
@@ -54246,6 +54396,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2501",
       "reg": "STR-2307-GJZHHS"
     },
@@ -54254,6 +54405,7 @@
       "street": "FAIRLAWN",
       "type": "AVE",
       "dir": "",
+      "postal": "M5M",
       "unit": "",
       "reg": "STR-2307-FVFBHR"
     },
@@ -54262,6 +54414,7 @@
       "street": "FAIRMOUNT",
       "type": "CRES",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2307-GLMHHT"
     },
@@ -54270,6 +54423,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2104",
       "reg": "STR-2308-GTHPHV"
     },
@@ -54278,6 +54432,7 @@
       "street": "FRATER",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2308-HLSBHX"
     },
@@ -54286,6 +54441,7 @@
       "street": "FIRST",
       "type": "AVE",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2308-GZYBHV"
     },
@@ -54294,6 +54450,7 @@
       "street": "FIFESHIRE",
       "type": "RD",
       "dir": "",
+      "postal": "M2L",
       "unit": "",
       "reg": "STR-2308-GQWVHT"
     },
@@ -54302,6 +54459,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3411",
       "reg": "STR-2308-GKPRVT"
     },
@@ -54310,6 +54468,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3811",
       "reg": "STR-2308-FHSDVP"
     },
@@ -54318,6 +54477,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2506",
       "reg": "STR-2308-GPSDVT"
     },
@@ -54326,6 +54486,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4504",
       "reg": "STR-2308-GYVRVV"
     },
@@ -54334,6 +54495,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1304",
       "reg": "STR-2309-FKSDVP"
     },
@@ -54342,6 +54504,7 @@
       "street": "FLAX FIELD LN",
       "type": "",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2309-FRHRVQ"
     },
@@ -54350,6 +54513,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2901",
       "reg": "STR-2309-JDJXVZ"
     },
@@ -54358,6 +54522,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "312",
       "reg": "STR-2310-GRZKVT"
     },
@@ -54366,6 +54531,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3613",
       "reg": "STR-2310-HHMKVW"
     },
@@ -54374,6 +54540,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3009",
       "reg": "STR-2310-HRJXVX"
     },
@@ -54382,6 +54549,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4506",
       "reg": "STR-2310-GVPRVV"
     },
@@ -54390,6 +54558,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3003",
       "reg": "STR-2310-GDMKVS"
     },
@@ -54398,6 +54567,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "314",
       "reg": "STR-2310-HYCXVY"
     },
@@ -54406,6 +54576,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1001",
       "reg": "STR-2310-HBBVHW"
     },
@@ -54414,6 +54585,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3512",
       "reg": "STR-2310-HSVVHY"
     },
@@ -54422,6 +54594,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "614",
       "reg": "STR-2310-HJKBHX"
     },
@@ -54430,6 +54603,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2902",
       "reg": "STR-2310-FMMPHQ"
     },
@@ -54438,6 +54612,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "304",
       "reg": "STR-2310-GJKBHS"
     },
@@ -54446,6 +54621,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2309",
       "reg": "STR-2310-FXSHHR"
     },
@@ -54454,6 +54630,7 @@
       "street": "FROST",
       "type": "ST",
       "dir": "",
+      "postal": "M9W",
       "unit": "",
       "reg": "STR-2310-FRSHHQ"
     },
@@ -54462,6 +54639,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1302",
       "reg": "STR-2311-FQPVHQ"
     },
@@ -54470,6 +54648,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2403",
       "reg": "STR-2311-HDGPHW"
     },
@@ -54478,6 +54657,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "602",
       "reg": "STR-2311-JDGPHZ"
     },
@@ -54486,6 +54666,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "364",
       "reg": "STR-2311-HSPVHY"
     },
@@ -54494,6 +54675,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "506",
       "reg": "STR-2311-GQBVHT"
     },
@@ -54502,6 +54684,7 @@
       "street": "FOREST GROVE",
       "type": "DR",
       "dir": "",
+      "postal": "M2K",
       "unit": "",
       "reg": "STR-2311-HWDBHY"
     },
@@ -54510,6 +54693,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2601",
       "reg": "STR-2312-FTYHHQ"
     },
@@ -54518,6 +54702,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3206",
       "reg": "STR-2312-HKMPHX"
     },
@@ -54526,6 +54711,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1912",
       "reg": "STR-2312-GPRBHT"
     },
@@ -54534,6 +54720,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3310",
       "reg": "STR-2312-HFDBHW"
     },
@@ -54542,6 +54729,7 @@
       "street": "FENNINGS",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2401-FFKDVP"
     },
@@ -54550,6 +54738,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "711",
       "reg": "STR-2401-HQPXVX"
     },
@@ -54558,6 +54747,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2502",
       "reg": "STR-2401-GSLKVT"
     },
@@ -54566,6 +54756,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4202",
       "reg": "STR-2401-GZSKVV"
     },
@@ -54574,6 +54765,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2205",
       "reg": "STR-2401-HVKDVY"
     },
@@ -54582,6 +54774,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2203",
       "reg": "STR-2401-GPZRVT"
     },
@@ -54590,6 +54783,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3907",
       "reg": "STR-2402-GGXDVS"
     },
@@ -54598,6 +54792,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "610",
       "reg": "STR-2402-GCVXVS"
     },
@@ -54606,6 +54801,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1606",
       "reg": "STR-2402-HSDDVY"
     },
@@ -54614,6 +54810,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1272",
       "reg": "STR-2402-GFDDVS"
     },
@@ -54622,6 +54819,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4204",
       "reg": "STR-2402-HLDDVX"
     },
@@ -54630,6 +54828,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3905",
       "reg": "STR-2402-GSDDVT"
     },
@@ -54638,6 +54837,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1708",
       "reg": "STR-2402-HGLPHW"
     },
@@ -54646,6 +54846,7 @@
       "street": "FREDERICK TISDALE",
       "type": "DR",
       "dir": "",
+      "postal": "M3K",
       "unit": "",
       "reg": "STR-2402-GCKHHS"
     },
@@ -54654,6 +54855,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4111",
       "reg": "STR-2402-FWZVHR"
     },
@@ -54662,6 +54864,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1101",
       "reg": "STR-2402-GMMVHT"
     },
@@ -54670,6 +54873,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "719",
       "reg": "STR-2403-FHWBHP"
     },
@@ -54678,6 +54882,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "",
       "reg": "STR-2403-HPXHHX"
     },
@@ -54686,6 +54891,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3310",
       "reg": "STR-2403-FHJBHP"
     },
@@ -54694,6 +54900,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2314",
       "reg": "STR-2403-FGDHHP"
     },
@@ -54702,6 +54909,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2205",
       "reg": "STR-2403-FWRHHR"
     },
@@ -54710,6 +54918,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2814",
       "reg": "STR-2403-HWSPHY"
     },
@@ -54718,6 +54927,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4313",
       "reg": "STR-2404-GGXHHS"
     },
@@ -54726,6 +54936,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3107",
       "reg": "STR-2404-HWDHHY"
     },
@@ -54734,6 +54945,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1022",
       "reg": "STR-2404-FWFPHR"
     },
@@ -54742,6 +54954,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "721",
       "reg": "STR-2404-FJWBHP"
     },
@@ -54750,6 +54963,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "224",
       "reg": "STR-2404-GYSPHV"
     },
@@ -54758,6 +54972,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "504",
       "reg": "STR-2404-GJWBHS"
     },
@@ -54766,6 +54981,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3903",
       "reg": "STR-2404-GWXHHV"
     },
@@ -54774,6 +54990,7 @@
       "street": "FERNCLIFF",
       "type": "CRT",
       "dir": "",
+      "postal": "M4B",
       "unit": "",
       "reg": "STR-2404-GXMVHV"
     },
@@ -54782,6 +54999,7 @@
       "street": "FERNBANK",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2404-HWGVHY"
     },
@@ -54790,6 +55008,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2806",
       "reg": "STR-2404-FZKHHR"
     },
@@ -54798,6 +55017,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3808",
       "reg": "STR-2404-GCGVHR"
     },
@@ -54806,6 +55026,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1914",
       "reg": "STR-2404-GVSRVV"
     },
@@ -54814,6 +55035,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "420",
       "reg": "STR-2405-FZCDVR"
     },
@@ -54822,6 +55044,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2713",
       "reg": "STR-2405-GJQDVS"
     },
@@ -54830,6 +55053,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2209",
       "reg": "STR-2405-HZTXVZ"
     },
@@ -54838,6 +55062,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "882",
       "reg": "STR-2405-JDGXVZ"
     },
@@ -54846,6 +55071,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4008",
       "reg": "STR-2405-FKXKVP"
     },
@@ -54854,6 +55080,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "605",
       "reg": "STR-2405-GZTXVV"
     },
@@ -54862,6 +55089,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3607",
       "reg": "STR-2405-HTWDVY"
     },
@@ -54870,6 +55098,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "513",
       "reg": "STR-2405-JDYRVZ"
     },
@@ -54878,6 +55107,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "179",
       "reg": "STR-2405-FRKKVQ"
     },
@@ -54886,6 +55116,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1608",
       "reg": "STR-2405-HJWDVX"
     },
@@ -54894,6 +55125,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "517",
       "reg": "STR-2405-FJWDVP"
     },
@@ -54902,6 +55134,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2804",
       "reg": "STR-2405-HPQDVX"
     },
@@ -54910,6 +55143,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4210",
       "reg": "STR-2405-FZYRVR"
     },
@@ -54918,6 +55152,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2102",
       "reg": "STR-2406-GLDKVT"
     },
@@ -54926,6 +55161,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1303",
       "reg": "STR-2406-FYDKVR"
     },
@@ -54934,6 +55170,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1364",
       "reg": "STR-2406-HGKKVW"
     },
@@ -54942,6 +55179,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3603",
       "reg": "STR-2406-JFTXVZ"
     },
@@ -54950,6 +55188,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "206",
       "reg": "STR-2406-FPSVPQ"
     },
@@ -54958,6 +55197,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "209",
       "reg": "STR-2406-GHCHPS"
     },
@@ -54966,6 +55206,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3305",
       "reg": "STR-2406-GRQHPT"
     },
@@ -54974,6 +55215,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2313",
       "reg": "STR-2406-FVVBPR"
     },
@@ -54982,6 +55224,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "321",
       "reg": "STR-2406-HBVBPW"
     },
@@ -54990,6 +55233,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "702",
       "reg": "STR-2406-GXBBPV"
     },
@@ -54998,6 +55242,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4606",
       "reg": "STR-2406-FHWHPP"
     },
@@ -55006,6 +55251,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2702",
       "reg": "STR-2406-GXCHPV"
     },
@@ -55014,6 +55260,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "771",
       "reg": "STR-2406-GYYVPV"
     },
@@ -55022,6 +55269,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3510",
       "reg": "STR-2406-GCPBPS"
     },
@@ -55030,6 +55278,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "775",
       "reg": "STR-2406-GTRPPV"
     },
@@ -55038,6 +55287,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3407",
       "reg": "STR-2406-FPXPPQ"
     },
@@ -55046,6 +55296,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "431",
       "reg": "STR-2407-JGCHPZ"
     },
@@ -55054,6 +55305,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2311",
       "reg": "STR-2407-GZSVPV"
     },
@@ -55062,6 +55314,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1130",
       "reg": "STR-2407-GQBBPT"
     },
@@ -55070,6 +55323,7 @@
       "street": "FOXLEY",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2407-FTDPPQ"
     },
@@ -55078,6 +55332,7 @@
       "street": "FAIRVIEW",
       "type": "BLVD",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2407-HLQHPX"
     },
@@ -55086,6 +55341,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "209",
       "reg": "STR-2407-GDKPPS"
     },
@@ -55094,6 +55350,7 @@
       "street": "FARNINGHAM",
       "type": "CRES",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2408-FMLYBQ"
     },
@@ -55102,6 +55359,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3507",
       "reg": "STR-2407-GYSVPV"
     },
@@ -55110,6 +55368,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3613",
       "reg": "STR-2407-GBQHPR"
     },
@@ -55118,6 +55377,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3802",
       "reg": "STR-2407-JGJHPZ"
     },
@@ -55126,6 +55386,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2211",
       "reg": "STR-2408-JBSYBZ"
     },
@@ -55134,6 +55395,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3608",
       "reg": "STR-2408-FQYYBQ"
     },
@@ -55142,6 +55404,7 @@
       "street": "FINCHURST",
       "type": "DR",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2408-GXQLBV"
     },
@@ -55150,6 +55413,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "510",
       "reg": "STR-2408-GHSYBS"
     },
@@ -55158,6 +55422,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2406",
       "reg": "STR-2408-GXBFBV"
     },
@@ -55166,6 +55431,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "663",
       "reg": "STR-2408-JDRSBZ"
     },
@@ -55174,6 +55440,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "629",
       "reg": "STR-2408-GJKSBS"
     },
@@ -55182,6 +55449,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3207",
       "reg": "STR-2408-JCLYBZ"
     },
@@ -55190,6 +55458,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "G01",
       "reg": "STR-2408-GGQLBS"
     },
@@ -55198,6 +55467,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2711",
       "reg": "STR-2408-GYJLBV"
     },
@@ -55206,6 +55476,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2706",
       "reg": "STR-2408-FLJLBP"
     },
@@ -55214,6 +55485,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4302",
       "reg": "STR-2408-HBXSBW"
     },
@@ -55222,6 +55494,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1410",
       "reg": "STR-2408-GVXSBV"
     },
@@ -55230,6 +55503,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "578",
       "reg": "STR-2408-HTRSBY"
     },
@@ -55238,6 +55512,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "PH 24",
       "reg": "STR-2408-HWPFBY"
     },
@@ -55246,6 +55521,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2201",
       "reg": "STR-2408-HHXSBW"
     },
@@ -55254,6 +55530,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "513",
       "reg": "STR-2408-FVJLBR"
     },
@@ -55262,6 +55539,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "165",
       "reg": "STR-2408-JBJLBZ"
     },
@@ -55270,6 +55548,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3307",
       "reg": "STR-2408-GRWLBT"
     },
@@ -55278,6 +55557,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "614",
       "reg": "STR-2408-FMDSBQ"
     },
@@ -55286,6 +55566,7 @@
       "street": "FAIRLAWN",
       "type": "AVE",
       "dir": "",
+      "postal": "M5M",
       "unit": "",
       "reg": "STR-2409-GLPFBT"
     },
@@ -55294,6 +55575,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2307",
       "reg": "STR-2409-HKHFBX"
     },
@@ -55302,6 +55584,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3208",
       "reg": "STR-2409-GCBFBR"
     },
@@ -55310,6 +55593,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2809",
       "reg": "STR-2409-FXYYBR"
     },
@@ -55318,6 +55602,7 @@
       "street": "FAIRVIEW",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2409-GWSYBV"
     },
@@ -55326,6 +55611,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "201",
       "reg": "STR-2409-GQCLBT"
     },
@@ -55334,6 +55620,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1808",
       "reg": "STR-2409-GFBFBS"
     },
@@ -55342,6 +55629,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1265",
       "reg": "STR-2409-HQDSBX"
     },
@@ -55350,6 +55638,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2211",
       "reg": "STR-2409-FTXSBQ"
     },
@@ -55358,6 +55647,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "703",
       "reg": "STR-2409-GSRSBT"
     },
@@ -55366,6 +55656,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2614",
       "reg": "STR-2409-JGXSBZ"
     },
@@ -55374,6 +55665,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1258",
       "reg": "STR-2409-GMJLBT"
     },
@@ -55382,6 +55674,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1705",
       "reg": "STR-2409-HFSYBW"
     },
@@ -55390,6 +55683,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "807",
       "reg": "STR-2409-HGJLBW"
     },
@@ -55398,6 +55692,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "536",
       "reg": "STR-2404-GHDKVS"
     },
@@ -55406,6 +55701,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "603",
       "reg": "STR-2404-GJZXVS"
     },
@@ -55414,6 +55710,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2914",
       "reg": "STR-2404-FVFRVR"
     },
@@ -55422,6 +55719,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "516",
       "reg": "STR-2404-HZQDVZ"
     },
@@ -55430,6 +55728,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4009",
       "reg": "STR-2404-FHFRVP"
     },
@@ -55438,6 +55737,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3302",
       "reg": "STR-2404-FJLRVP"
     },
@@ -55446,6 +55746,7 @@
       "street": "FERRIS",
       "type": "RD",
       "dir": "",
+      "postal": "M4B",
       "unit": "",
       "reg": "STR-2409-GKPHPT"
     },
@@ -55454,6 +55755,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1468",
       "reg": "STR-2409-FRPHPQ"
     },
@@ -55462,6 +55764,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2109",
       "reg": "STR-2409-GLWPPT"
     },
@@ -55470,6 +55773,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2601",
       "reg": "STR-2410-GCKVPS"
     },
@@ -55478,6 +55782,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2610",
       "reg": "STR-2410-GXBHPV"
     },
@@ -55486,6 +55791,7 @@
       "street": "FOREST HILL",
       "type": "RD",
       "dir": "",
+      "postal": "M5P",
       "unit": "",
       "reg": "STR-2410-HVVHPY"
     },
@@ -55494,6 +55800,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3411",
       "reg": "STR-2410-GBDVPR"
     },
@@ -55502,6 +55809,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1110",
       "reg": "STR-2410-JFXVPZ"
     },
@@ -55510,6 +55818,7 @@
       "street": "FLORENCE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "Suite 2",
       "reg": "STR-2410-FPHHPQ"
     },
@@ -55518,6 +55827,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2406",
       "reg": "STR-2410-GTCPPV"
     },
@@ -55526,6 +55836,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "602",
       "reg": "STR-2410-GVJPPV"
     },
@@ -55534,6 +55845,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1913",
       "reg": "STR-2411-FLPHPP"
     },
@@ -55542,6 +55854,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3810",
       "reg": "STR-2410-FZVHPR"
     },
@@ -55550,6 +55863,7 @@
       "street": "FAIRBANK",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "1",
       "reg": "STR-2411-GJRVPS"
     },
@@ -55558,6 +55872,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "169",
       "reg": "STR-2411-GLQPPT"
     },
@@ -55566,6 +55881,7 @@
       "street": "FAIRVIEW",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2411-GDZBPS"
     },
@@ -55574,6 +55890,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2111",
       "reg": "STR-2411-HGHHPW"
     },
@@ -55582,6 +55899,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "812",
       "reg": "STR-2411-HSTBPY"
     },
@@ -55590,6 +55908,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3413",
       "reg": "STR-2411-FSTBPQ"
     },
@@ -55598,6 +55917,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1305",
       "reg": "STR-2411-FWHLBR"
     },
@@ -55606,6 +55926,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2904",
       "reg": "STR-2411-HLDYBX"
     },
@@ -55614,6 +55935,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3508",
       "reg": "STR-2411-FPCSBQ"
     },
@@ -55622,6 +55944,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2202",
       "reg": "STR-2411-FQZFBQ"
     },
@@ -55630,6 +55953,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "608",
       "reg": "STR-2412-FSHLBQ"
     },
@@ -55638,6 +55962,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1019",
       "reg": "STR-2412-GMBLBT"
     },
@@ -55646,6 +55971,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3503",
       "reg": "STR-2412-FPZFBQ"
     },
@@ -55654,6 +55980,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2708",
       "reg": "STR-2412-GVZFBV"
     },
@@ -55662,6 +55989,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2908",
       "reg": "STR-2412-HWQSBY"
     },
@@ -55670,6 +55998,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3912",
       "reg": "STR-2412-GRGFBT"
     },
@@ -55678,6 +56007,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "278",
       "reg": "STR-2412-JBMFBZ"
     },
@@ -55686,6 +56016,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1169",
       "reg": "STR-2412-GMWSBT"
     },
@@ -55694,6 +56025,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2607",
       "reg": "STR-2501-HXZFBY"
     },
@@ -55702,6 +56034,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2703",
       "reg": "STR-2501-GTXYBV"
     },
@@ -55710,6 +56043,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3401",
       "reg": "STR-2501-HKKYBX"
     },
@@ -55718,6 +56052,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1026",
       "reg": "STR-2501-FQDYBQ"
     },
@@ -55726,6 +56061,7 @@
       "street": "FREDERICK TISDALE",
       "type": "DR",
       "dir": "",
+      "postal": "M3K",
       "unit": "1",
       "reg": "STR-2501-FYBLBR"
     },
@@ -55734,6 +56070,7 @@
       "street": "FREDERICK TISDALE",
       "type": "DR",
       "dir": "",
+      "postal": "M3K",
       "unit": "",
       "reg": "STR-2501-HWVLBY"
     },
@@ -55742,6 +56079,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "827",
       "reg": "STR-2501-JGHLBZ"
     },
@@ -55750,6 +56088,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1367",
       "reg": "STR-2501-GKKYBS"
     },
@@ -55758,6 +56097,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1611",
       "reg": "STR-2501-GDMFBS"
     },
@@ -55766,6 +56106,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "",
       "reg": "STR-2501-FPQSBQ"
     },
@@ -55774,6 +56115,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4112",
       "reg": "STR-2501-HLCSBX"
     },
@@ -55782,6 +56124,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "414",
       "reg": "STR-2502-HJYBPX"
     },
@@ -55790,6 +56133,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4102",
       "reg": "STR-2502-GFFBPS"
     },
@@ -55798,6 +56142,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1657",
       "reg": "STR-2502-HLFBPX"
     },
@@ -55806,6 +56151,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3611",
       "reg": "STR-2502-GGLBPS"
     },
@@ -55814,6 +56160,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1004",
       "reg": "STR-2502-HYFBPY"
     },
@@ -55822,6 +56169,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "472",
       "reg": "STR-2502-FFGHPP"
     },
@@ -55830,6 +56178,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "577",
       "reg": "STR-2502-GCZHPS"
     },
@@ -55838,6 +56187,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "809",
       "reg": "STR-2502-GLWVPT"
     },
@@ -55846,6 +56196,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "556",
       "reg": "STR-2502-GVTHPV"
     },
@@ -55854,6 +56205,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3008",
       "reg": "STR-2502-FHTHPP"
     },
@@ -55862,6 +56214,7 @@
       "street": "FULLER",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2503-HBFBPW"
     },
@@ -55870,6 +56223,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3313",
       "reg": "STR-2503-GCMHPS"
     },
@@ -55878,6 +56232,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "762",
       "reg": "STR-2503-GDCVPS"
     },
@@ -55886,6 +56241,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2708",
       "reg": "STR-2503-GVGHPV"
     },
@@ -55894,6 +56250,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "901",
       "reg": "STR-2503-FYJVPR"
     },
@@ -55902,6 +56259,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3610",
       "reg": "STR-2503-FKCVPP"
     },
@@ -55910,6 +56268,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1362",
       "reg": "STR-2503-GHWVPS"
     },
@@ -55918,6 +56277,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "E",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2503-FDVPPP"
     },
@@ -55926,6 +56286,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4307",
       "reg": "STR-2503-FMBPPQ"
     },
@@ -55934,6 +56295,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "508",
       "reg": "STR-2504-HKFBPX"
     },
@@ -55942,6 +56304,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1660",
       "reg": "STR-2504-GXVPPV"
     },
@@ -55950,6 +56313,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1908",
       "reg": "STR-2504-HXFBPY"
     },
@@ -55958,6 +56322,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "G03",
       "reg": "STR-2504-GKWVPT"
     },
@@ -55966,6 +56331,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3302",
       "reg": "STR-2504-GDWVPS"
     },
@@ -55974,6 +56340,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2710",
       "reg": "STR-2504-GPZHPT"
     },
@@ -55982,6 +56349,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "502",
       "reg": "STR-2504-JDGHPZ"
     },
@@ -55990,6 +56358,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3003",
       "reg": "STR-2504-GZTHPV"
     },
@@ -55998,6 +56367,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2204",
       "reg": "STR-2504-FMFBPQ"
     },
@@ -56006,6 +56376,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2703",
       "reg": "STR-2504-HJSBPX"
     },
@@ -56014,6 +56385,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4004",
       "reg": "STR-2505-FYPPPR"
     },
@@ -56022,6 +56394,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2411",
       "reg": "STR-2505-GGVPPS"
     },
@@ -56030,6 +56403,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1260",
       "reg": "STR-2505-HWBPPY"
     },
@@ -56038,6 +56412,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "367",
       "reg": "STR-2505-GKHPPS"
     },
@@ -56046,6 +56421,7 @@
       "street": "FREDERICK TISDALE",
       "type": "DR",
       "dir": "",
+      "postal": "M3K",
       "unit": "",
       "reg": "STR-2505-HJBPPW"
     },
@@ -56054,6 +56430,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "808",
       "reg": "STR-2505-HSQVPY"
     },
@@ -56062,6 +56439,7 @@
       "street": "FOREST LANEWAY",
       "type": "",
       "dir": "",
+      "postal": "M2N",
       "unit": "410",
       "reg": "STR-2505-JFQVPZ"
     },
@@ -56070,6 +56448,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1355",
       "reg": "STR-2505-GKJVPS"
     },
@@ -56078,6 +56457,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2302",
       "reg": "STR-2505-GSQVPT"
     },
@@ -56086,6 +56466,7 @@
       "street": "FOUR WINDS",
       "type": "DR",
       "dir": "",
+      "postal": "M3J",
       "unit": "41",
       "reg": "STR-2505-GCVPPS"
     },
@@ -56094,6 +56475,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2913",
       "reg": "STR-2505-HSBPPY"
     },
@@ -56102,6 +56484,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3308",
       "reg": "STR-2505-HCFBPW"
     },
@@ -56110,6 +56493,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4603",
       "reg": "STR-2505-HZYBPZ"
     },
@@ -56118,6 +56502,7 @@
       "street": "FIFTEENTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2505-FQVPPQ"
     },
@@ -56126,6 +56511,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "311",
       "reg": "STR-2505-FJVPPP"
     },
@@ -56134,6 +56520,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3609",
       "reg": "STR-2505-FLBPPP"
     },
@@ -56142,6 +56529,7 @@
       "street": "FERRIER",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2505-FFTHPP"
     },
@@ -56150,6 +56538,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "PH2",
       "reg": "STR-2506-HTZHPY"
     },
@@ -56158,6 +56547,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "469",
       "reg": "STR-2506-FYCVPR"
     },
@@ -56166,6 +56556,7 @@
       "street": "FAYE",
       "type": "DR",
       "dir": "",
+      "postal": "M2J",
       "unit": "",
       "reg": "STR-2506-GGJVPS"
     },
@@ -56174,6 +56565,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "914",
       "reg": "STR-2506-GQWVPT"
     },
@@ -56182,6 +56574,7 @@
       "street": "FUTURA",
       "type": "DR",
       "dir": "",
+      "postal": "M3N",
       "unit": "",
       "reg": "STR-2506-JFCVPZ"
     },
@@ -56190,6 +56583,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "622",
       "reg": "STR-2506-FZZHPR"
     },
@@ -56198,6 +56592,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2305",
       "reg": "STR-2506-GYTHPV"
     },
@@ -56206,6 +56601,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2206",
       "reg": "STR-2506-JGZHPZ"
     },
@@ -56214,6 +56610,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2511",
       "reg": "STR-2506-FJYFBP"
     },
@@ -56222,6 +56619,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2508",
       "reg": "STR-2506-FKPSBP"
     },
@@ -56230,6 +56628,7 @@
       "street": "FREEBORN",
       "type": "CRES",
       "dir": "",
+      "postal": "M1P",
       "unit": "",
       "reg": "STR-2506-HQYFBX"
     },
@@ -56238,6 +56637,7 @@
       "street": "FLEMINGTON",
       "type": "RD",
       "dir": "",
+      "postal": "M6A",
       "unit": "708",
       "reg": "STR-2506-FPTLBQ"
     },
@@ -56246,6 +56646,7 @@
       "street": "FREY",
       "type": "CRES",
       "dir": "",
+      "postal": "M1R",
       "unit": "",
       "reg": "STR-2506-GJJYBS"
     },
@@ -56254,6 +56655,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2910",
       "reg": "STR-2507-HKBSBX"
     },
@@ -56262,6 +56664,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1010",
       "reg": "STR-2507-FJLFBP"
     },
@@ -56270,6 +56673,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4012",
       "reg": "STR-2507-FYYFBR"
     },
@@ -56278,6 +56682,7 @@
       "street": "FLORENCE",
       "type": "CRES",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2507-GHFFBS"
     },
@@ -56286,6 +56691,7 @@
       "street": "FOUR WINDS",
       "type": "DR",
       "dir": "",
+      "postal": "M3J",
       "unit": "85",
       "reg": "STR-2507-GCMLBS"
     },
@@ -56294,6 +56700,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "409",
       "reg": "STR-2507-HRTLBY"
     },
@@ -56302,6 +56709,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3708",
       "reg": "STR-2507-FFZLBP"
     },
@@ -56310,6 +56718,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "714",
       "reg": "STR-2507-FPGLBQ"
     },
@@ -56318,6 +56727,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1202",
       "reg": "STR-2507-FHGLBP"
     },
@@ -56326,6 +56736,7 @@
       "street": "FOREST HILL",
       "type": "RD",
       "dir": "",
+      "postal": "M4V",
       "unit": "703",
       "reg": "STR-2507-HLZLBX"
     },
@@ -56334,6 +56745,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1408",
       "reg": "STR-2507-HFJYBW"
     },
@@ -56342,6 +56754,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3105",
       "reg": "STR-2507-HMQYBX"
     },
@@ -56350,6 +56763,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2013",
       "reg": "STR-2507-FKCYBP"
     },
@@ -56358,6 +56772,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "912",
       "reg": "STR-2507-GYJYBV"
     },
@@ -56366,6 +56781,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "615",
       "reg": "STR-2507-HXCYBY"
     },
@@ -56374,6 +56790,7 @@
       "street": "FRANKLIN",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2507-FTQYBQ"
     },
@@ -56382,6 +56799,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3511",
       "reg": "STR-2507-FPHSBQ"
     },
@@ -56390,6 +56808,7 @@
       "street": "FLORENCE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2507-GRFFBT"
     },
@@ -56398,6 +56817,7 @@
       "street": "FLORENCE",
       "type": "CRES",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2507-GSLFBT"
     },
@@ -56406,6 +56826,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2402",
       "reg": "STR-2508-HYLFBY"
     },
@@ -56414,6 +56835,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2410",
       "reg": "STR-2508-HBJYBW"
     },
@@ -56422,6 +56844,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2704",
       "reg": "STR-2508-HKWYBX"
     },
@@ -56430,6 +56853,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "804",
       "reg": "STR-2508-FGTLBP"
     },
@@ -56438,6 +56862,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2703",
       "reg": "STR-2508-FQQYBQ"
     },
@@ -56446,6 +56871,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "220",
       "reg": "STR-2508-HDWYBW"
     },
@@ -56454,6 +56880,7 @@
       "street": "FRANCES",
       "type": "CRES",
       "dir": "",
+      "postal": "M1S",
       "unit": "",
       "reg": "STR-2508-FTCYBQ"
     },
@@ -56462,6 +56889,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2102",
       "reg": "STR-2508-GBZLBR"
     },
@@ -56470,6 +56898,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "112",
       "reg": "STR-2508-HJSFBX"
     },
@@ -56478,6 +56907,7 @@
       "street": "FERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "B",
       "reg": "STR-2508-HDHSBW"
     },
@@ -56486,6 +56916,7 @@
       "street": "FRANKLIN",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2508-GRHSBT"
     },
@@ -56494,6 +56925,7 @@
       "street": "FALMOUTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M1K",
       "unit": "",
       "reg": "STR-2508-GYPSBV"
     },
@@ -56502,6 +56934,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1903",
       "reg": "STR-2508-HJTLBX"
     },
@@ -56510,6 +56943,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4208",
       "reg": "STR-2508-FWCYBR"
     },
@@ -56518,6 +56952,7 @@
       "street": "FIRST",
       "type": "AVE",
       "dir": "",
+      "postal": "M4M",
       "unit": "R",
       "reg": "STR-2508-JDJYBZ"
     },
@@ -56526,6 +56961,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3812",
       "reg": "STR-2508-HHMLBW"
     },
@@ -56534,6 +56970,7 @@
       "street": "FALAISE",
       "type": "RD",
       "dir": "",
+      "postal": "M1E",
       "unit": "505",
       "reg": "STR-2508-FFBSBP"
     },
@@ -56542,6 +56979,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2311",
       "reg": "STR-2509-GCVSBS"
     },
@@ -56550,6 +56988,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "733",
       "reg": "STR-2509-HZHSBZ"
     },
@@ -56558,6 +56997,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "602",
       "reg": "STR-2509-HFSFBW"
     },
@@ -56566,6 +57006,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3203",
       "reg": "STR-2509-FSSFBQ"
     },
@@ -56574,6 +57015,7 @@
       "street": "FIFTEENTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2509-JFSFBZ"
     },
@@ -56582,6 +57024,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "164",
       "reg": "STR-2509-HYSFBY"
     },
@@ -56590,6 +57033,7 @@
       "street": "FALSTAFF",
       "type": "AVE",
       "dir": "",
+      "postal": "M6L",
       "unit": "",
       "reg": "STR-2509-FHQYBP"
     },
@@ -56598,6 +57042,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "205",
       "reg": "STR-2509-HMZLBX"
     },
@@ -56606,6 +57051,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1702",
       "reg": "STR-2509-GQWYBT"
     },
@@ -56614,6 +57060,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2108",
       "reg": "STR-2509-GZZLBV"
     },
@@ -56622,6 +57069,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "480",
       "reg": "STR-2509-HYTLBY"
     },
@@ -56630,6 +57078,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3709",
       "reg": "STR-2509-FVBVPR"
     },
@@ -56638,6 +57087,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1562",
       "reg": "STR-2509-HYVVPZ"
     },
@@ -56646,6 +57096,7 @@
       "street": "FLEET",
       "type": "ST",
       "dir": "",
+      "postal": "M5V",
       "unit": "2407",
       "reg": "STR-2509-GCYHPS"
     },
@@ -56654,6 +57105,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "406",
       "reg": "STR-2509-GHSHPS"
     },
@@ -56662,6 +57114,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2704",
       "reg": "STR-2510-FXRBPR"
     },
@@ -56670,6 +57123,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "E",
+      "postal": "M2N",
       "unit": "G2",
       "reg": "STR-2510-FQZPPQ"
     },
@@ -56678,6 +57132,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "707",
       "reg": "STR-2510-GYGPPV"
     },
@@ -56686,6 +57141,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1515",
       "reg": "STR-2510-GYXBPV"
     },
@@ -56694,6 +57150,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1614",
       "reg": "STR-2510-GTPVPV"
     },
@@ -56702,6 +57159,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "W",
+      "postal": "M2N",
       "unit": "17",
       "reg": "STR-2510-HKBVPX"
     },
@@ -56710,6 +57168,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "457",
       "reg": "STR-2510-HFHVPW"
     },
@@ -56718,6 +57177,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4113",
       "reg": "STR-2510-GXSHPV"
     },
@@ -56726,6 +57186,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2512",
       "reg": "STR-2510-GBVVPR"
     },
@@ -56734,6 +57195,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "412",
       "reg": "STR-2510-GTRBPV"
     },
@@ -56742,6 +57204,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2606",
       "reg": "STR-2510-FGRBPP"
     },
@@ -56750,6 +57213,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2908",
       "reg": "STR-2510-HVGPPY"
     },
@@ -56758,6 +57222,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1911",
       "reg": "STR-2510-FRDBPQ"
     },
@@ -56766,6 +57231,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1101",
       "reg": "STR-2510-GXTPPV"
     },
@@ -56774,6 +57240,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "E",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2510-FKDBPP"
     },
@@ -56782,6 +57249,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "304",
       "reg": "STR-2510-FSKBPQ"
     },
@@ -56790,6 +57258,7 @@
       "street": "FEDERAL",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "2",
       "reg": "STR-2510-GYKBPV"
     },
@@ -56798,6 +57267,7 @@
       "street": "FOXLEY",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2510-FLKBPP"
     },
@@ -56806,6 +57276,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "305",
       "reg": "STR-2510-GKVVPT"
     },
@@ -56814,6 +57285,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "727",
       "reg": "STR-2510-FHHVPP"
     },
@@ -56822,6 +57294,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1002",
       "reg": "STR-2511-GHYHPS"
     },
@@ -56830,6 +57303,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1510",
       "reg": "STR-2511-HXFHPY"
     },
@@ -56838,6 +57312,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1664",
       "reg": "STR-2511-FTBVPQ"
     },
@@ -56846,6 +57321,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1601",
       "reg": "STR-2511-GBHVPR"
     },
@@ -56854,6 +57330,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3910",
       "reg": "STR-2511-HHHVPW"
     },
@@ -56862,6 +57339,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1713",
       "reg": "STR-2511-JGBVPZ"
     },
@@ -56870,6 +57348,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4802",
       "reg": "STR-2511-HBKBPW"
     },
@@ -56878,6 +57357,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2603",
       "reg": "STR-2511-GMDBPT"
     },
@@ -56886,6 +57366,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3507",
       "reg": "STR-2511-HTTPPY"
     },
@@ -56894,6 +57375,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3103",
       "reg": "STR-2511-FHZPPP"
     },
@@ -56902,6 +57384,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2010",
       "reg": "STR-2511-FYMPPR"
     },
@@ -56910,6 +57393,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "612",
       "reg": "STR-2511-HWRBPY"
     },
@@ -56918,6 +57402,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1607",
       "reg": "STR-2511-HHKBPW"
     },
@@ -56926,6 +57411,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3002",
       "reg": "STR-2511-GSMPPT"
     },
@@ -56934,6 +57420,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1414",
       "reg": "STR-2511-GZTPPV"
     },
@@ -56942,6 +57429,7 @@
       "street": "FREDERICK TISDALE",
       "type": "DR",
       "dir": "",
+      "postal": "M3K",
       "unit": "",
       "reg": "STR-2511-HBLHPW"
     },
@@ -56950,6 +57438,7 @@
       "street": "FERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2511-JCBVPZ"
     },
@@ -56958,6 +57447,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3414",
       "reg": "STR-2511-HMFHPX"
     },
@@ -56966,6 +57456,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3901",
       "reg": "STR-2511-HVLHPY"
     },
@@ -56974,6 +57465,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1903",
       "reg": "STR-2511-FKHVPP"
     },
@@ -56982,6 +57474,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "115",
       "reg": "STR-2511-JFPVPZ"
     },
@@ -56990,6 +57483,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2305",
       "reg": "STR-2511-HBMPPW"
     },
@@ -56998,6 +57492,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "474",
       "reg": "STR-2511-HDKBPW"
     },
@@ -57006,6 +57501,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "901",
       "reg": "STR-2511-HTXBPY"
     },
@@ -57014,6 +57510,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3311",
       "reg": "STR-2511-FXZPPR"
     },
@@ -57022,6 +57519,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1310",
       "reg": "STR-2511-HPMPPX"
     },
@@ -57030,6 +57528,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1704",
       "reg": "STR-2511-FKKBPP"
     },
@@ -57038,6 +57537,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1407",
       "reg": "STR-2511-JGXBPZ"
     },
@@ -57046,6 +57546,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2207",
       "reg": "STR-2511-GCVVPS"
     },
@@ -57054,6 +57555,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2509",
       "reg": "STR-2511-HSSHPY"
     },
@@ -57062,6 +57564,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1516",
       "reg": "STR-2511-GFBVPS"
     },
@@ -57070,6 +57573,7 @@
       "street": "FOURTEENTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2512-HMHVPX"
     },
@@ -57078,6 +57582,7 @@
       "street": "FOURTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2512-GRLHPT"
     },
@@ -57086,6 +57591,7 @@
       "street": "FIELDWAY",
       "type": "RD",
       "dir": "",
+      "postal": "M8Z",
       "unit": "303",
       "reg": "STR-2512-FTHVPQ"
     },
@@ -57094,6 +57600,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "163",
       "reg": "STR-2512-HYSHPY"
     },
@@ -57102,6 +57609,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2803",
       "reg": "STR-2512-FVRBPR"
     },
@@ -57110,6 +57618,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1510",
       "reg": "STR-2512-HSTPPY"
     },
@@ -57118,6 +57627,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1123",
       "reg": "STR-2512-HZZPPZ"
     },
@@ -57126,6 +57636,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2001",
       "reg": "STR-2512-GFDBPS"
     },
@@ -57134,6 +57645,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "704",
       "reg": "STR-2512-FQGPPQ"
     },
@@ -57142,6 +57654,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "702",
       "reg": "STR-2512-JCXBPZ"
     },
@@ -57150,6 +57663,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "209",
       "reg": "STR-2512-FZZPPR"
     },
@@ -57158,6 +57672,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2801",
       "reg": "STR-2512-GJGPPS"
     },
@@ -57166,6 +57681,7 @@
       "street": "FERRIS",
       "type": "RD",
       "dir": "",
+      "postal": "M4B",
       "unit": "A",
       "reg": "STR-2512-HYVYBZ"
     },
@@ -57174,6 +57690,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "307",
       "reg": "STR-2512-FWYLBR"
     },
@@ -57182,6 +57699,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "761",
       "reg": "STR-2512-JCHYBZ"
     },
@@ -57190,6 +57708,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2510",
       "reg": "STR-2512-HVSLBY"
     },
@@ -57198,6 +57717,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "509",
       "reg": "STR-2512-JDPYBZ"
     },
@@ -57206,6 +57726,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2013",
       "reg": "STR-2512-GBBYBR"
     },
@@ -57214,6 +57735,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1703",
       "reg": "STR-2512-GYVYBV"
     },
@@ -57222,6 +57744,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3703",
       "reg": "STR-2512-JGLLBZ"
     },
@@ -57230,6 +57753,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1401",
       "reg": "STR-2512-GKRFBT"
     },
@@ -57238,6 +57762,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "910",
       "reg": "STR-2512-FMMSBQ"
     },
@@ -57246,6 +57771,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "862",
       "reg": "STR-2512-FVTSBR"
     },
@@ -57254,6 +57780,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "315",
       "reg": "STR-2512-GLXFBT"
     },
@@ -57262,6 +57789,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1201",
       "reg": "STR-2512-FHDFBP"
     },
@@ -57270,6 +57798,7 @@
       "street": "FOUNDRY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "231",
       "reg": "STR-2512-GWKFBV"
     },
@@ -57278,6 +57807,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "671",
       "reg": "STR-2512-JCKFBZ"
     },
@@ -57286,6 +57816,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1659",
       "reg": "STR-2601-GYXFBV"
     },
@@ -57294,6 +57825,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1211",
       "reg": "STR-2601-FFYLBP"
     },
@@ -57302,6 +57834,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1018",
       "reg": "STR-2601-GLYLBT"
     },
@@ -57310,6 +57843,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3605",
       "reg": "STR-2601-GFHYBS"
     },
@@ -57318,6 +57852,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "975",
       "reg": "STR-2601-GFYLBS"
     },
@@ -57326,6 +57861,7 @@
       "street": "FORTY FIRST",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2601-GYHYBV"
     },
@@ -57334,6 +57870,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3309",
       "reg": "STR-2601-HHVYBW"
     },
@@ -57342,6 +57879,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "507",
       "reg": "STR-2601-FVGSBR"
     },
@@ -57350,6 +57888,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2812",
       "reg": "STR-2601-HTRFBY"
     },
@@ -57358,6 +57897,7 @@
       "street": "FENELON",
       "type": "DR",
       "dir": "",
+      "postal": "M3A",
       "unit": "UNIT Ground",
       "reg": "STR-2601-GPGSBT"
     },
@@ -57366,6 +57906,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4305",
       "reg": "STR-2602-FZRFBR"
     },
@@ -57374,6 +57915,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "409",
       "reg": "STR-2602-GYKFBV"
     },
@@ -57382,6 +57924,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3014",
       "reg": "STR-2602-GRTSBT"
     },
@@ -57390,6 +57933,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2513",
       "reg": "STR-2602-FFLLBP"
     },
@@ -57398,6 +57942,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1606",
       "reg": "STR-2602-GLLLBT"
     },
@@ -57406,6 +57951,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "470",
       "reg": "STR-2602-FGBYBP"
     },
@@ -57414,6 +57960,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1811",
       "reg": "STR-2602-HCPYBW"
     },
@@ -57422,6 +57969,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2804",
       "reg": "STR-2602-FGSLBP"
     },
@@ -57430,6 +57978,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2302",
       "reg": "STR-2602-FPYLBQ"
     },
@@ -57438,6 +57987,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1011",
       "reg": "STR-2602-HDVYBW"
     },
@@ -57446,6 +57996,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "419",
       "reg": "STR-2602-FHYLBP"
     },
@@ -57454,6 +58005,7 @@
       "street": "FENNINGS",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "Main",
       "reg": "STR-2602-FRFLBQ"
     },
@@ -57462,6 +58014,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3402",
       "reg": "STR-2602-JDFLBZ"
     },
@@ -57470,6 +58023,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1608",
       "reg": "STR-2602-FZBYBR"
     },
@@ -57478,6 +58032,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3301",
       "reg": "STR-2602-GQPYBT"
     },
@@ -57486,6 +58041,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2905",
       "reg": "STR-2602-HGBYBW"
     },
@@ -57494,6 +58050,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1303",
       "reg": "STR-2602-HPHYBX"
     },
@@ -57502,6 +58059,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1906",
       "reg": "STR-2602-HGSLBW"
     },
@@ -57510,6 +58068,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1172",
       "reg": "STR-2602-JFLLBZ"
     },
@@ -57518,6 +58077,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2507",
       "reg": "STR-2602-HQPYBX"
     },
@@ -57526,6 +58086,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3407",
       "reg": "STR-2602-HXVYBY"
     },
@@ -57534,6 +58095,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3211",
       "reg": "STR-2602-GKXFBT"
     },
@@ -57542,6 +58104,7 @@
       "street": "FULTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2602-GTTSBV"
     },
@@ -57550,6 +58113,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3005",
       "reg": "STR-2602-FPZSBQ"
     },
@@ -57558,6 +58122,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1311",
       "reg": "STR-2602-HFMSBW"
     },
@@ -57566,6 +58131,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "378",
       "reg": "STR-2602-HMTSBX"
     },
@@ -57574,6 +58140,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3911",
       "reg": "STR-2602-FJRFBP"
     },
@@ -57582,6 +58149,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "919",
       "reg": "STR-2602-FLMSBP"
     },
@@ -57590,6 +58158,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "508",
       "reg": "STR-2602-JGTSBZ"
     },
@@ -57598,6 +58167,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2603",
       "reg": "STR-2602-FDYLBP"
     },
@@ -57606,6 +58176,7 @@
       "street": "FLORA",
       "type": "DR",
       "dir": "",
+      "postal": "M1P",
       "unit": "",
       "reg": "STR-2602-GDHYBS"
     },
@@ -57614,6 +58185,7 @@
       "street": "FLORENCE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2602-GLPYBT"
     },
@@ -57622,6 +58194,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "907",
       "reg": "STR-2602-JBLLBZ"
     },
@@ -57630,6 +58203,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "931",
       "reg": "STR-2602-HDHYBW"
     },
@@ -57638,6 +58212,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1803",
       "reg": "STR-2602-HLPYBX"
     },
@@ -57646,6 +58221,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1603",
       "reg": "STR-2602-FQSLBQ"
     },
@@ -57654,6 +58230,7 @@
       "street": "FLEET",
       "type": "ST",
       "dir": "",
+      "postal": "M5V",
       "unit": "2504",
       "reg": "STR-2602-GXHYBV"
     },
@@ -57662,6 +58239,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2304",
       "reg": "STR-2602-GQSLBT"
     },
@@ -57670,6 +58248,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "420",
       "reg": "STR-2602-GBLLBR"
     },
@@ -57678,6 +58257,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3604",
       "reg": "STR-2602-GRYLBT"
     },
@@ -57686,6 +58266,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "358",
       "reg": "STR-2602-GCBYBR"
     },
@@ -57694,6 +58275,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2505",
       "reg": "STR-2602-HYPYBY"
     },
@@ -57702,6 +58284,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "616",
       "reg": "STR-2602-FMGSBQ"
     },
@@ -57710,6 +58293,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3505",
       "reg": "STR-2602-HZGSBZ"
     },
@@ -57718,6 +58302,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2505",
       "reg": "STR-2602-GFRFBS"
     },
@@ -57726,6 +58311,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1706",
       "reg": "STR-2602-FXZSBR"
     },
@@ -57734,6 +58320,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "601",
       "reg": "STR-2602-HDZSBW"
     },
@@ -57742,6 +58329,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "W",
+      "postal": "M2N",
       "unit": "2",
       "reg": "STR-2602-GXKFBV"
     },
@@ -57750,6 +58338,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1456",
       "reg": "STR-2603-GBMSBR"
     },
@@ -57758,6 +58347,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "AP3412",
       "reg": "STR-2603-HRKFBX"
     },
@@ -57766,6 +58356,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "520",
       "reg": "STR-2603-FMHYBQ"
     },
@@ -57774,6 +58365,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3609",
       "reg": "STR-2603-FFSLBP"
     },
@@ -57782,6 +58374,7 @@
       "street": "FLORENCE",
       "type": "CRES",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2603-FPPYBQ"
     },
@@ -57790,6 +58383,7 @@
       "street": "FOLLIS",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2603-HTHYBY"
     },
@@ -57798,6 +58392,7 @@
       "street": "FLORENCE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2603-HQFLBX"
     },
@@ -57806,6 +58401,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "907",
       "reg": "STR-2603-GBPYBR"
     },
@@ -57814,6 +58410,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "321",
       "reg": "STR-2603-GSBYBT"
     },
@@ -57822,6 +58419,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4701",
       "reg": "STR-2603-HZZSBZ"
     },
@@ -57830,6 +58428,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2706",
       "reg": "STR-2603-FPRFBQ"
     },
@@ -57838,6 +58437,7 @@
       "street": "FRONT STREET",
       "type": "",
       "dir": "E",
+      "postal": "M5A",
       "unit": "915",
       "reg": "STR-2603-FRMSBQ"
     },
@@ -57846,6 +58446,7 @@
       "street": "FERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2603-FKMSBP"
     },
@@ -57854,6 +58455,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4403",
       "reg": "STR-2603-JFTSBZ"
     },
@@ -57862,6 +58464,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "772",
       "reg": "STR-2603-FLDFBP"
     },
@@ -57870,6 +58473,7 @@
       "street": "FORD",
       "type": "ST",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2603-GCGSBR"
     },
@@ -57878,6 +58482,7 @@
       "street": "FLEET",
       "type": "ST",
       "dir": "",
+      "postal": "M5V",
       "unit": "230",
       "reg": "STR-2603-FVCBPR"
     },
@@ -57886,6 +58491,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "730",
       "reg": "STR-2603-HLWBPX"
     },
@@ -57894,6 +58500,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1810",
       "reg": "STR-2603-HWYPPY"
     },
@@ -57902,6 +58509,7 @@
       "street": "FLEET",
       "type": "ST",
       "dir": "",
+      "postal": "M5V",
       "unit": "703",
       "reg": "STR-2603-JBTVPZ"
     },
@@ -57910,6 +58518,7 @@
       "street": "FORT ROUILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2603-GPDHPT"
     },
@@ -57918,6 +58527,7 @@
       "street": "FERRIER",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2603-GWKHPV"
     },
@@ -57926,6 +58536,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2403",
       "reg": "STR-2603-FQZVPQ"
     },
@@ -57934,6 +58545,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4108",
       "reg": "STR-2603-GPTVPT"
     },
@@ -57942,6 +58554,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3513",
       "reg": "STR-2603-HFGVPW"
     },
@@ -57950,6 +58563,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "174",
       "reg": "STR-2603-GSGVPT"
     },
@@ -57958,6 +58572,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "717",
       "reg": "STR-2603-FLYPPQ"
     },
@@ -57966,6 +58581,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "275",
       "reg": "STR-2603-HBWBPW"
     },
@@ -57974,6 +58590,7 @@
       "street": "FAIRSIDE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2603-FWLPPR"
     },
@@ -57982,6 +58599,7 @@
       "street": "FLORIDA",
       "type": "CRES",
       "dir": "",
+      "postal": "M9M",
       "unit": "",
       "reg": "STR-2603-GVWBPV"
     },
@@ -57990,6 +58608,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "324",
       "reg": "STR-2603-GFYPPS"
     },
@@ -57998,6 +58617,7 @@
       "street": "FAIRMOUNT",
       "type": "CRES",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2603-JCLPPZ"
     },
@@ -58006,6 +58626,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2307",
       "reg": "STR-2603-GHWBPS"
     },
@@ -58014,6 +58635,7 @@
       "street": "FERRIS",
       "type": "RD",
       "dir": "",
+      "postal": "M4B",
       "unit": "B",
       "reg": "STR-2603-GRCBPT"
     },
@@ -58022,6 +58644,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1909",
       "reg": "STR-2603-GJLPPS"
     },
@@ -58030,6 +58653,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "974",
       "reg": "STR-2603-JFYPPZ"
     },
@@ -58038,6 +58662,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "613",
       "reg": "STR-2603-FFKHPP"
     },
@@ -58046,6 +58671,7 @@
       "street": "FINDLAY",
       "type": "BLVD",
       "dir": "",
+      "postal": "M3H",
       "unit": "",
       "reg": "STR-2603-GVXHPV"
     },
@@ -58054,6 +58680,7 @@
       "street": "FARMCREST",
       "type": "DR",
       "dir": "",
+      "postal": "M1T",
       "unit": "BSMT",
       "reg": "STR-2603-GFZVPS"
     },
@@ -58062,6 +58689,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2910",
       "reg": "STR-2603-FRDHPQ"
     },
@@ -58070,6 +58698,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2903",
       "reg": "STR-2603-GRDHPT"
     },
@@ -58078,6 +58707,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "432",
       "reg": "STR-2603-GSKHPT"
     },
@@ -58086,6 +58716,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1165",
       "reg": "STR-2603-HHXHPW"
     },
@@ -58094,6 +58725,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "W",
+      "postal": "M2N",
       "unit": "204",
       "reg": "STR-2603-JGRHPZ"
     },
@@ -58102,6 +58734,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "105",
       "reg": "STR-2603-HBYPPW"
     },
@@ -58110,6 +58743,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2111",
       "reg": "STR-2603-FWQBPR"
     },
@@ -58118,6 +58752,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3204",
       "reg": "STR-2603-HTCBPY"
     },
@@ -58126,6 +58761,7 @@
       "street": "FUSILIER",
       "type": "DR",
       "dir": "",
+      "postal": "M1L",
       "unit": "",
       "reg": "STR-2603-GXWBPV"
     },
@@ -58134,6 +58770,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "820",
       "reg": "STR-2604-GRFPPT"
     },
@@ -58142,6 +58779,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1159",
       "reg": "STR-2604-HPYPPX"
     },
@@ -58150,6 +58788,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1707",
       "reg": "STR-2604-GBYPPR"
     },
@@ -58158,6 +58797,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "W",
+      "postal": "M2N",
       "unit": "6",
       "reg": "STR-2604-HRXHPY"
     },
@@ -58166,6 +58806,7 @@
       "street": "FENWICK",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2604-GPKHPT"
     },
@@ -58174,6 +58815,7 @@
       "street": "FREY",
       "type": "CRES",
       "dir": "",
+      "postal": "M1R",
       "unit": "",
       "reg": "STR-2604-GPZVPT"
     },
@@ -58182,6 +58824,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3104",
       "reg": "STR-2604-FJRHPP"
     },
@@ -58190,6 +58833,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "814",
       "reg": "STR-2604-FZDHPR"
     },
@@ -58198,6 +58842,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "530",
       "reg": "STR-2604-HPZVPX"
     },
@@ -58206,6 +58851,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1608",
       "reg": "STR-2604-FKXHPP"
     },
@@ -58214,6 +58860,7 @@
       "street": "FONTAINBLEAU",
       "type": "DR",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2604-HJSPPX"
     },
@@ -58222,6 +58869,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2301",
       "reg": "STR-2604-HCCBPW"
     },
@@ -58230,6 +58878,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "706",
       "reg": "STR-2604-GWCBPV"
     },
@@ -58238,6 +58887,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2206",
       "reg": "STR-2604-FKYPPP"
     },
@@ -58246,6 +58896,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3705",
       "reg": "STR-2604-JGWBPZ"
     },
@@ -58254,6 +58905,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2412",
       "reg": "STR-2604-FXKHPR"
     },
@@ -58262,6 +58914,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "G03",
       "reg": "STR-2604-HLRHPX"
     },
@@ -58270,6 +58923,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "620",
       "reg": "STR-2604-GGXHPS"
     },
@@ -58278,6 +58932,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1567",
       "reg": "STR-2604-GXKHPV"
     },
@@ -58286,6 +58941,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "607",
       "reg": "STR-2604-HWDHPY"
     },
@@ -58294,6 +58950,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2304",
       "reg": "STR-2604-GRZVPT"
     },
@@ -58302,6 +58959,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "912",
       "reg": "STR-2604-HJWBPX"
     },
@@ -58310,6 +58968,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "405",
       "reg": "STR-2604-HCFPPW"
     },
@@ -58318,6 +58977,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "210",
       "reg": "STR-2604-HCWBPW"
     },
@@ -58326,6 +58986,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "108",
       "reg": "STR-2604-FGYPPP"
     },
@@ -58334,6 +58995,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "922",
       "reg": "STR-2604-FQFPPQ"
     },
@@ -58342,6 +59004,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "420",
       "reg": "STR-2604-JCFPPZ"
     },
@@ -58350,6 +59013,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1503",
       "reg": "STR-2604-GGYPPS"
     },
@@ -58358,6 +59022,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "722",
       "reg": "STR-2604-GXLPPV"
     },
@@ -58366,6 +59031,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1913",
       "reg": "STR-2604-HGJBPW"
     },
@@ -58374,6 +59040,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "902",
       "reg": "STR-2604-FSSPPQ"
     },
@@ -58382,6 +59049,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "739",
       "reg": "STR-2604-GCXHPS"
     },
@@ -58390,6 +59058,7 @@
       "street": "FERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2604-HSDHPY"
     },
@@ -58398,6 +59067,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "909",
       "reg": "STR-2604-FPRHPQ"
     },
@@ -58406,6 +59076,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "681",
       "reg": "STR-2604-GFTVPS"
     },
@@ -58414,6 +59085,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2509",
       "reg": "STR-2604-HLTVPX"
     },
@@ -58422,6 +59094,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2112",
       "reg": "STR-2604-HVRHPY"
     },
@@ -58430,6 +59103,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2510",
       "reg": "STR-2604-FRMVPQ"
     },
@@ -58438,6 +59112,7 @@
       "street": "FONTAINBLEAU",
       "type": "DR",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2604-GQGVPT"
     },
@@ -58446,6 +59121,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "107",
       "reg": "STR-2604-GSDHPT"
     },
@@ -58454,6 +59130,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3209",
       "reg": "STR-2604-HHRHPW"
     },
@@ -58462,6 +59139,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4107",
       "reg": "STR-2604-HJJFBX"
     },
@@ -58470,6 +59148,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "280",
       "reg": "STR-2604-FQJFBQ"
     },
@@ -58478,6 +59157,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "W",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2604-HMLSBX"
     },
@@ -58486,6 +59166,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4013",
       "reg": "STR-2604-JCYSBZ"
     },
@@ -58494,6 +59175,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "270",
       "reg": "STR-2604-HWJFBY"
     },
@@ -58502,6 +59184,7 @@
       "street": "FOREST RIDGE",
       "type": "DR",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2604-HPSSBX"
     },
@@ -58510,6 +59193,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2901",
       "reg": "STR-2604-HXQFBY"
     },
@@ -58518,6 +59202,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1812",
       "reg": "STR-2604-GSFSBT"
     },
@@ -58526,6 +59211,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2607",
       "reg": "STR-2604-HHSSBW"
     },
@@ -58534,6 +59220,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2802",
       "reg": "STR-2604-GKRLBT"
     },
@@ -58542,6 +59229,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "4303",
       "reg": "STR-2604-HJKLBX"
     },
@@ -58550,6 +59238,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "160",
       "reg": "STR-2604-GLGYBT"
     },
@@ -58558,6 +59247,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1173",
       "reg": "STR-2604-GLXLBT"
     },
@@ -58566,6 +59256,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3012",
       "reg": "STR-2604-HCKLBW"
     },
@@ -58574,6 +59265,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3309",
       "reg": "STR-2604-GFXLBS"
     },
@@ -58582,6 +59274,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "969",
       "reg": "STR-2604-FYGYBR"
     },
@@ -58590,6 +59283,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "3408",
       "reg": "STR-2604-HFXLBW"
     },
@@ -58598,6 +59292,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2109",
       "reg": "STR-2604-GYXLBV"
     },
@@ -58606,6 +59301,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "232",
       "reg": "STR-2605-HSJFBY"
     },
@@ -58614,6 +59310,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2414",
       "reg": "STR-2605-FFYSBP"
     },
@@ -58622,6 +59319,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2712",
       "reg": "STR-2605-JCLSBZ"
     },
@@ -58630,6 +59328,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "821",
       "reg": "STR-2605-GXSSBV"
     },
@@ -58638,6 +59337,7 @@
       "street": "FOXWELL",
       "type": "ST",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2605-HXSSBY"
     },
@@ -58646,6 +59346,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1912",
       "reg": "STR-2605-GZQFBV"
     },
@@ -58654,6 +59355,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "2316",
       "reg": "STR-2605-GFKLBS"
     },
@@ -58662,6 +59364,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1203",
       "reg": "STR-2605-GGRLBS"
     },
@@ -58670,6 +59373,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "W",
+      "postal": "M9M",
       "unit": "2010",
       "reg": "STR-2605-GXTYBV"
     },
@@ -58678,6 +59382,7 @@
       "street": "FINCH",
       "type": "AVE",
       "dir": "W",
+      "postal": "M9M",
       "unit": "2003",
       "reg": "STR-2605-FSKLBQ"
     },
@@ -58686,6 +59391,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1906",
       "reg": "STR-2605-GHXLBS"
     },
@@ -58694,6 +59400,7 @@
       "street": "FERNCREST GT",
       "type": "",
       "dir": "",
+      "postal": "M1W",
       "unit": "",
       "reg": "STR-2605-GRDLBT"
     },
@@ -58702,6 +59409,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3214",
       "reg": "STR-2605-FTRLBQ"
     },
@@ -58710,6 +59418,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2204",
       "reg": "STR-2605-GKDLBS"
     },
@@ -58718,6 +59427,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2701",
       "reg": "STR-2605-HYKLBY"
     },
@@ -58726,6 +59436,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3509",
       "reg": "STR-2605-GCQFBS"
     },
@@ -58734,6 +59445,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2203",
       "reg": "STR-2605-GTSSBV"
     },
@@ -58742,6 +59454,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "605",
       "reg": "STR-2605-HKFSBX"
     },
@@ -58750,6 +59463,7 @@
       "street": "FARMCOTE",
       "type": "RD",
       "dir": "",
+      "postal": "M3B",
       "unit": "",
       "reg": "STR-2605-GMCFBT"
     },
@@ -58758,6 +59472,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3106",
       "reg": "STR-2605-HTCFBY"
     },
@@ -58766,6 +59481,7 @@
       "street": "FIFTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2605-GGCFBS"
     },
@@ -58774,6 +59490,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "1904",
       "reg": "STR-2605-GPJFBT"
     },
@@ -58782,6 +59499,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "511",
       "reg": "STR-2605-FZCFBR"
     },
@@ -58790,6 +59508,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "706",
       "reg": "STR-2605-HRXLBY"
     },
@@ -58798,6 +59517,7 @@
       "street": "FIRST",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2605-GLMYBT"
     },
@@ -58806,6 +59526,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "1711",
       "reg": "STR-2605-HFMYBW"
     },
@@ -58814,6 +59535,7 @@
       "street": "FORT YORK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M5V",
       "unit": "2004",
       "reg": "STR-2605-HPZYBX"
     },
@@ -58822,6 +59544,7 @@
       "street": "FRONT",
       "type": "ST",
       "dir": "W",
+      "postal": "M5V",
       "unit": "3704",
       "reg": "STR-2605-FLMYBP"
     }
