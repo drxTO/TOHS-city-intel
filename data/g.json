@@ -69939,6 +69939,7 @@
       "street": "GLEBE",
       "type": "RD",
       "dir": "E",
+      "postal": "M4S",
       "unit": "",
       "reg": "STR-2603-HPSPPX"
     },
@@ -69947,6 +69948,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1107",
       "reg": "STR-2009-GRQHBG"
     },
@@ -69955,6 +69957,7 @@
       "street": "GREENSIDES",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2009-FSWHBC"
     },
@@ -69963,6 +69966,7 @@
       "street": "GLENDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2009-GKRRPG"
     },
@@ -69971,6 +69975,7 @@
       "street": "GRIMTHORPE",
       "type": "RD",
       "dir": "",
+      "postal": "M6C",
       "unit": "",
       "reg": "STR-2009-FHDRPB"
     },
@@ -69979,6 +69984,7 @@
       "street": "GRANBY",
       "type": "ST",
       "dir": "",
+      "postal": "M5B",
       "unit": "",
       "reg": "STR-2010-HRWKPL"
     },
@@ -69987,6 +69993,7 @@
       "street": "GLOUCESTER",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "",
       "reg": "STR-2010-HGCKPJ"
     },
@@ -69995,6 +70002,7 @@
       "street": "GOLDEN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2010-GMDRPG"
     },
@@ -70003,6 +70011,7 @@
       "street": "GORDON",
       "type": "RD",
       "dir": "",
+      "postal": "M2P",
       "unit": "",
       "reg": "STR-2010-FSPDPC"
     },
@@ -70011,6 +70020,7 @@
       "street": "GRIGGSDEN",
       "type": "AVE",
       "dir": "",
+      "postal": "M9P",
       "unit": "",
       "reg": "STR-2010-GFCKPF"
     },
@@ -70019,6 +70029,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2010-HCXRVJ"
     },
@@ -70027,6 +70038,7 @@
       "street": "GORE VALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "Main Floor",
       "reg": "STR-2010-GTLXVH"
     },
@@ -70035,6 +70047,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "808",
       "reg": "STR-2012-GKPHHG"
     },
@@ -70043,6 +70056,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2012-FKBHHB"
     },
@@ -70051,6 +70065,7 @@
       "street": "GOLFVIEW",
       "type": "AVE",
       "dir": "",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2012-GYKVHH"
     },
@@ -70059,6 +70074,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "201",
       "reg": "STR-2012-GRWPHG"
     },
@@ -70067,6 +70083,7 @@
       "street": "GLENHOLME",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "Unit 1",
       "reg": "STR-2012-GTVHHH"
     },
@@ -70075,6 +70092,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "2",
       "reg": "STR-2012-FVPHHD"
     },
@@ -70083,6 +70101,7 @@
       "street": "GLENRIDGE",
       "type": "RD",
       "dir": "",
+      "postal": "M1M",
       "unit": "A",
       "reg": "STR-2211-FZYRVD"
     },
@@ -70091,6 +70110,7 @@
       "street": "GRAND",
       "type": "AVE",
       "dir": "",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2211-FJXPHP"
     },
@@ -70099,6 +70119,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "320",
       "reg": "STR-2211-FLDPHP"
     },
@@ -70107,6 +70128,7 @@
       "street": "GORE VALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2211-FYFVHR"
     },
@@ -70115,6 +70137,7 @@
       "street": "GUESTVILLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2211-GHVBHS"
     },
@@ -70123,6 +70146,7 @@
       "street": "GEOFFREY",
       "type": "ST",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2301-FLRPHP"
     },
@@ -70131,6 +70155,7 @@
       "street": "GREENSIDES",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2301-HBRRVW"
     },
@@ -70139,6 +70164,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "2",
       "reg": "STR-2301-GMPDVT"
     },
@@ -70147,6 +70173,7 @@
       "street": "GATESVIEW",
       "type": "AVE",
       "dir": "",
+      "postal": "M1J",
       "unit": "",
       "reg": "STR-2301-HCYXVW"
     },
@@ -70155,6 +70182,7 @@
       "street": "GLENGROVE",
       "type": "AVE",
       "dir": "",
+      "postal": "M5N",
       "unit": "",
       "reg": "STR-2301-FHDRVP"
     },
@@ -70163,6 +70191,7 @@
       "street": "GARNIER",
       "type": "CRT",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2302-FQQKVQ"
     },
@@ -70171,6 +70200,7 @@
       "street": "GRAND TRUNK",
       "type": "CRES",
       "dir": "",
+      "postal": "M5J",
       "unit": "2107",
       "reg": "STR-2303-HTXRVY"
     },
@@ -70179,6 +70209,7 @@
       "street": "GLASGOW",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "2",
       "reg": "STR-2303-GFSXVS"
     },
@@ -70187,6 +70218,7 @@
       "street": "GENEVA",
       "type": "AVE",
       "dir": "",
+      "postal": "M5A",
       "unit": "",
       "reg": "STR-2303-FFDVHP"
     },
@@ -70195,6 +70227,7 @@
       "street": "GREENCOAT",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "",
       "reg": "STR-2303-FSHHHQ"
     },
@@ -70203,6 +70236,7 @@
       "street": "GOULDEN",
       "type": "CRES",
       "dir": "",
+      "postal": "M1L",
       "unit": "",
       "reg": "STR-2303-GHVHHS"
     },
@@ -70211,6 +70245,7 @@
       "street": "GOUGH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2304-FJQPHP"
     },
@@ -70219,6 +70254,7 @@
       "street": "GLENSTROKE",
       "type": "DR",
       "dir": "",
+      "postal": "M1S",
       "unit": "",
       "reg": "STR-2304-HHJPHW"
     },
@@ -70227,6 +70263,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "2",
       "reg": "STR-2304-HGVHHW"
     },
@@ -70235,6 +70272,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "2",
       "reg": "STR-2304-GBKVHR"
     },
@@ -70243,6 +70281,7 @@
       "street": "GRENVIEW",
       "type": "BLVD",
       "dir": "S",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2304-GGWPHS"
     },
@@ -70251,6 +70290,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "1",
       "reg": "STR-2305-FHPHHP"
     },
@@ -70259,6 +70299,7 @@
       "street": "GEMSHAW",
       "type": "CRES",
       "dir": "",
+      "postal": "M1B",
       "unit": "",
       "reg": "STR-2305-GMZBHT"
     },
@@ -70267,6 +70308,7 @@
       "street": "GOUGH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2305-FWXXVR"
     },
@@ -70275,6 +70317,7 @@
       "street": "GLENCAIRN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2305-FJHKVP"
     },
@@ -70283,6 +70326,7 @@
       "street": "GILLESPIE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2305-GQXXVT"
     },
@@ -70291,6 +70335,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "4406",
       "reg": "STR-2210-HRXKVL"
     },
@@ -70299,6 +70344,7 @@
       "street": "GLENHOLME",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2210-FRGXVC"
     },
@@ -70307,6 +70353,7 @@
       "street": "GREENLAW",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2210-FKXKVB"
     },
@@ -70315,6 +70362,7 @@
       "street": "GREENLAW",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2210-HGWDVJ"
     },
@@ -70323,6 +70371,7 @@
       "street": "GAMBLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2210-JCDKVM"
     },
@@ -70331,6 +70380,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "4306",
       "reg": "STR-2405-GPGXVT"
     },
@@ -70339,6 +70389,7 @@
       "street": "GARNET",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "A",
       "reg": "STR-2405-HMRKVX"
     },
@@ -70347,6 +70398,7 @@
       "street": "GLEN AMES",
       "type": "",
       "dir": "",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2108-HKVPHK"
     },
@@ -70355,6 +70407,7 @@
       "street": "GLENGROVE",
       "type": "AVE",
       "dir": "E",
+      "postal": "M4N",
       "unit": "B",
       "reg": "STR-2108-HQPPHK"
     },
@@ -70363,6 +70416,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "604",
       "reg": "STR-2109-GBZHHD"
     },
@@ -70371,6 +70425,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "2013",
       "reg": "STR-2109-FDZHHB"
     },
@@ -70379,6 +70434,7 @@
       "street": "GATWICK",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "Main",
       "reg": "STR-2110-GVPPHH"
     },
@@ -70387,6 +70443,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "Upper Unit",
       "reg": "STR-2112-HFYDVJ"
     },
@@ -70395,6 +70452,7 @@
       "street": "GERALDTON",
       "type": "CRES",
       "dir": "",
+      "postal": "M2J",
       "unit": "",
       "reg": "STR-2201-GWQXVH"
     },
@@ -70403,6 +70461,7 @@
       "street": "GLENVALE",
       "type": "BLVD",
       "dir": "",
+      "postal": "M4G",
       "unit": "",
       "reg": "STR-2201-HDHRVJ"
     },
@@ -70411,6 +70470,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1710",
       "reg": "STR-2202-GTGKVH"
     },
@@ -70419,6 +70479,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "3rd floor",
       "reg": "STR-2202-HZYDVM"
     },
@@ -70427,6 +70488,7 @@
       "street": "GRENADIER",
       "type": "RD",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2202-HBQXVJ"
     },
@@ -70435,6 +70497,7 @@
       "street": "GLENADEN",
       "type": "AVE",
       "dir": "E",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2202-GTZKVH"
     },
@@ -70443,6 +70506,7 @@
       "street": "GALBRAITH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4B",
       "unit": "Upper",
       "reg": "STR-2204-FQPVHC"
     },
@@ -70451,6 +70515,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "3904",
       "reg": "STR-2205-FVRBHD"
     },
@@ -70459,6 +70524,7 @@
       "street": "GALLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "Garden",
       "reg": "STR-2205-GVDDVH"
     },
@@ -70467,6 +70533,7 @@
       "street": "GLEDHILL",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2206-FQZRVC"
     },
@@ -70475,6 +70542,7 @@
       "street": "GLEDHILL",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2206-HQZRVK"
     },
@@ -70483,6 +70551,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "706",
       "reg": "STR-2206-HXBXVL"
     },
@@ -70491,6 +70560,7 @@
       "street": "GILLESPIE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "1",
       "reg": "STR-2206-HZVXVM"
     },
@@ -70499,6 +70569,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2206-HLKDVK"
     },
@@ -70507,6 +70578,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1013",
       "reg": "STR-2206-FYZRVD"
     },
@@ -70515,6 +70587,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "2",
       "reg": "STR-2206-GZRDVH"
     },
@@ -70523,6 +70596,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "N305",
       "reg": "STR-2206-GPLKVG"
     },
@@ -70531,6 +70605,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2207-FWVXVD"
     },
@@ -70539,6 +70614,7 @@
       "street": "GLENAVY",
       "type": "AVE",
       "dir": "",
+      "postal": "M4P",
       "unit": "",
       "reg": "STR-2207-GGHXVF"
     },
@@ -70547,6 +70623,7 @@
       "street": "GILLESPIE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2207-HZKDVM"
     },
@@ -70555,6 +70632,7 @@
       "street": "GOWAN",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2207-HHTVHJ"
     },
@@ -70563,6 +70641,7 @@
       "street": "GEOFFREY",
       "type": "ST",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2208-GPXHHG"
     },
@@ -70571,6 +70650,7 @@
       "street": "GLENAVON",
       "type": "RD",
       "dir": "",
+      "postal": "M6K",
       "unit": "1",
       "reg": "STR-2208-FRXHHC"
     },
@@ -70579,6 +70659,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1505",
       "reg": "STR-2208-FQSPHC"
     },
@@ -70587,6 +70668,7 @@
       "street": "GRANDRAVINE",
       "type": "DR",
       "dir": "",
+      "postal": "M3J",
       "unit": "812",
       "reg": "STR-2208-FSQBHC"
     },
@@ -70595,6 +70677,7 @@
       "street": "GEOFFREY",
       "type": "ST",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2208-GMGVHG"
     },
@@ -70603,6 +70686,7 @@
       "street": "GEORGE ANDERSON",
       "type": "DR",
       "dir": "",
+      "postal": "M6M",
       "unit": "1",
       "reg": "STR-2209-JDMVHM"
     },
@@ -70611,6 +70695,7 @@
       "street": "GRIGGSDEN",
       "type": "AVE",
       "dir": "",
+      "postal": "M9P",
       "unit": "",
       "reg": "STR-2209-GYTVHH"
     },
@@ -70619,6 +70704,7 @@
       "street": "GWYNNE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "B",
       "reg": "STR-2209-HTLRVL"
     },
@@ -70627,6 +70713,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4L",
       "unit": "AP-B",
       "reg": "STR-2210-GVXKVH"
     },
@@ -70635,6 +70722,7 @@
       "street": "GLENGROVE",
       "type": "AVE",
       "dir": "E",
+      "postal": "M4N",
       "unit": "",
       "reg": "STR-2103-GXGDVH"
     },
@@ -70643,6 +70731,7 @@
       "street": "GLENALLAN",
       "type": "RD",
       "dir": "",
+      "postal": "M4N",
       "unit": "",
       "reg": "STR-2105-GJCRVF"
     },
@@ -70651,6 +70740,7 @@
       "street": "GOODWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2106-FQHPHC"
     },
@@ -70659,6 +70749,7 @@
       "street": "GAMBLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2107-HFVPHJ"
     },
@@ -70667,6 +70758,7 @@
       "street": "GLENMOUNT PARK",
       "type": "RD",
       "dir": "",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2107-FSGHHC"
     },
@@ -70675,6 +70767,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1414",
       "reg": "STR-2108-JFYBHM"
     },
@@ -70683,6 +70776,7 @@
       "street": "GEORGE WEBSTER",
       "type": "RD",
       "dir": "",
+      "postal": "M4B",
       "unit": "2",
       "reg": "STR-2108-HRBPHK"
     },
@@ -70691,6 +70785,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "3",
       "reg": "STR-2305-GDRXVS"
     },
@@ -70699,6 +70794,7 @@
       "street": "GLOUCESTER",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "718",
       "reg": "STR-2306-FKVKVP"
     },
@@ -70707,6 +70803,7 @@
       "street": "GLOUCESTER",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "",
       "reg": "STR-2305-FWPKVR"
     },
@@ -70715,6 +70812,7 @@
       "street": "GLENHOLME",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2306-GKDXVS"
     },
@@ -70723,6 +70821,7 @@
       "street": "GLOUCESTER",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "910",
       "reg": "STR-2306-HMCRVX"
     },
@@ -70731,6 +70830,7 @@
       "street": "GLEDHILL",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2306-HWQRVY"
     },
@@ -70739,6 +70839,7 @@
       "street": "GREENWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2306-FPKXVQ"
     },
@@ -70747,6 +70848,7 @@
       "street": "GROSVENOR",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "3205",
       "reg": "STR-2306-GBKXVR"
     },
@@ -70755,6 +70857,7 @@
       "street": "GOUGH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2306-GWTDVV"
     },
@@ -70763,6 +70866,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "2",
       "reg": "STR-2306-HVMDVY"
     },
@@ -70771,6 +70875,7 @@
       "street": "GALT",
       "type": "AVE",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2306-GKJRVS"
     },
@@ -70779,6 +70884,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1304",
       "reg": "STR-2306-GTXXVV"
     },
@@ -70787,6 +70893,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "434",
       "reg": "STR-2306-HQGDVX"
     },
@@ -70795,6 +70902,7 @@
       "street": "GLENN ARTHUR",
       "type": "DR",
       "dir": "",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2308-FSPPHQ"
     },
@@ -70803,6 +70911,7 @@
       "street": "GLENGARRY",
       "type": "AVE",
       "dir": "",
+      "postal": "M5M",
       "unit": "",
       "reg": "STR-2308-HZGHHZ"
     },
@@ -70811,6 +70920,7 @@
       "street": "GARDEN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2308-GHCXVS"
     },
@@ -70819,6 +70929,7 @@
       "street": "GOLDEN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2308-FMPRVQ"
     },
@@ -70827,6 +70938,7 @@
       "street": "GREENWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2309-GBWXVR"
     },
@@ -70835,6 +70947,7 @@
       "street": "GLEDHILL",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "Unit 1",
       "reg": "STR-2309-JGQXVZ"
     },
@@ -70843,6 +70956,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "702",
       "reg": "STR-2309-GLLDVT"
     },
@@ -70851,6 +70965,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "810",
       "reg": "STR-2309-GXFDVV"
     },
@@ -70859,6 +70974,7 @@
       "street": "GARNOCK",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2309-GVZKVV"
     },
@@ -70867,6 +70983,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2310-HYSDVY"
     },
@@ -70875,6 +70992,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "4408",
       "reg": "STR-2310-FZJXVR"
     },
@@ -70883,6 +71001,7 @@
       "street": "GLENDORA",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2310-GVSHHV"
     },
@@ -70891,6 +71010,7 @@
       "street": "GREENBROOK",
       "type": "DR",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2310-FHBVHP"
     },
@@ -70899,6 +71019,7 @@
       "street": "GOSSAMER",
       "type": "AVE",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2310-GWHVHV"
     },
@@ -70907,6 +71028,7 @@
       "street": "GLENCAIRN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2310-JFFHHZ"
     },
@@ -70915,6 +71037,7 @@
       "street": "GLENRIDGE",
       "type": "RD",
       "dir": "",
+      "postal": "M1M",
       "unit": "",
       "reg": "STR-2310-JDRBHZ"
     },
@@ -70923,6 +71046,7 @@
       "street": "GRANT",
       "type": "ST",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2310-HSKBHY"
     },
@@ -70931,6 +71055,7 @@
       "street": "GLEBEHOLME",
       "type": "BLVD",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2311-GGSHHS"
     },
@@ -70939,6 +71064,7 @@
       "street": "GALLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2311-FPZPHQ"
     },
@@ -70947,6 +71073,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "B",
       "reg": "STR-2311-HJSHHX"
     },
@@ -70955,6 +71082,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "2009",
       "reg": "STR-2401-FLLKVP"
     },
@@ -70963,6 +71091,7 @@
       "street": "GAMBLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2401-GDXDVS"
     },
@@ -70971,6 +71100,7 @@
       "street": "GILMOUR",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2401-JFPXVZ"
     },
@@ -70979,6 +71109,7 @@
       "street": "GLENWOOD",
       "type": "CRES",
       "dir": "",
+      "postal": "M4B",
       "unit": "",
       "reg": "STR-2401-HRZRVY"
     },
@@ -70987,6 +71118,7 @@
       "street": "GREYABBEY TRL",
       "type": "",
       "dir": "",
+      "postal": "M1E",
       "unit": "",
       "reg": "STR-2402-HSBXVY"
     },
@@ -70995,6 +71127,7 @@
       "street": "GAMBLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "611",
       "reg": "STR-2402-FMZRVQ"
     },
@@ -71003,6 +71136,7 @@
       "street": "GLAIVE",
       "type": "DR",
       "dir": "",
+      "postal": "M1P",
       "unit": "",
       "reg": "STR-2402-JCXDVZ"
     },
@@ -71011,6 +71145,7 @@
       "street": "GREENWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "Second Floor",
       "reg": "STR-2403-FWLPHR"
     },
@@ -71019,6 +71154,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "4008",
       "reg": "STR-2403-GXSPHV"
     },
@@ -71027,6 +71163,7 @@
       "street": "GOWAN",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2403-HDDHHW"
     },
@@ -71035,6 +71172,7 @@
       "street": "GRANBY",
       "type": "ST",
       "dir": "",
+      "postal": "M5B",
       "unit": "B",
       "reg": "STR-2403-HRWBHY"
     },
@@ -71043,6 +71181,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "103",
       "reg": "STR-2404-FGXHHP"
     },
@@ -71051,6 +71190,7 @@
       "street": "GALLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2404-HXZVHY"
     },
@@ -71059,6 +71199,7 @@
       "street": "GALLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "B",
       "reg": "STR-2404-GLTVHT"
     },
@@ -71067,6 +71208,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "Up 2",
       "reg": "STR-2404-JFDHHZ"
     },
@@ -71075,6 +71217,7 @@
       "street": "GAMBLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2404-FVSRVR"
     },
@@ -71083,6 +71226,7 @@
       "street": "GARNET",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2404-GYWDVV"
     },
@@ -71091,6 +71235,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "PH",
       "reg": "STR-2412-HVWSBY"
     },
@@ -71099,6 +71244,7 @@
       "street": "GROSVENOR",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "2301",
       "reg": "STR-2405-FRWDVQ"
     },
@@ -71107,6 +71253,7 @@
       "street": "GATEWOOD",
       "type": "CRES",
       "dir": "",
+      "postal": "M9A",
       "unit": "",
       "reg": "STR-2405-GZWDVV"
     },
@@ -71115,6 +71262,7 @@
       "street": "GUINESS",
       "type": "AVE",
       "dir": "",
+      "postal": "M9W",
       "unit": "",
       "reg": "STR-2405-FXLRVR"
     },
@@ -71123,6 +71271,7 @@
       "street": "GLOUCESTER",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "1101",
       "reg": "STR-2406-GYDPPV"
     },
@@ -71131,6 +71280,7 @@
       "street": "GREENBERRY",
       "type": "PL",
       "dir": "",
+      "postal": "M1S",
       "unit": "",
       "reg": "STR-2406-JDQHPZ"
     },
@@ -71139,6 +71289,7 @@
       "street": "GLENMORE",
       "type": "RD",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2406-FLXPPQ"
     },
@@ -71147,6 +71298,7 @@
       "street": "GLENGARRY",
       "type": "AVE",
       "dir": "",
+      "postal": "M5M",
       "unit": "",
       "reg": "STR-2406-GHWHPS"
     },
@@ -71155,6 +71307,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1608",
       "reg": "STR-2407-FYPBPR"
     },
@@ -71163,6 +71316,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1801",
       "reg": "STR-2407-HZFVPZ"
     },
@@ -71171,6 +71325,7 @@
       "street": "GARNOCK",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2407-GWSVPV"
     },
@@ -71179,6 +71334,7 @@
       "street": "GRISTONE",
       "type": "CRES",
       "dir": "",
+      "postal": "M1X",
       "unit": "",
       "reg": "STR-2407-FRJHPQ"
     },
@@ -71187,6 +71343,7 @@
       "street": "GLENGROVE",
       "type": "AVE",
       "dir": "W",
+      "postal": "M5N",
       "unit": "",
       "reg": "STR-2407-FQVBPQ"
     },
@@ -71195,6 +71352,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "410",
       "reg": "STR-2408-HSWLBY"
     },
@@ -71203,6 +71361,7 @@
       "street": "GLENTWORTH",
       "type": "RD",
       "dir": "",
+      "postal": "M2J",
       "unit": "",
       "reg": "STR-2408-GDBFBS"
     },
@@ -71211,6 +71370,7 @@
       "street": "GRAMERCY SQ",
       "type": "",
       "dir": "",
+      "postal": "M1X",
       "unit": "",
       "reg": "STR-2408-HGQLBW"
     },
@@ -71219,6 +71379,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1611",
       "reg": "STR-2408-JFYYBZ"
     },
@@ -71227,6 +71388,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "311",
       "reg": "STR-2408-JDVFBZ"
     },
@@ -71235,6 +71397,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "537",
       "reg": "STR-2408-HVJLBY"
     },
@@ -71243,6 +71406,7 @@
       "street": "GOLDWIN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2409-FWCLBR"
     },
@@ -71251,6 +71415,7 @@
       "street": "GEORGE HENRY",
       "type": "BLVD",
       "dir": "",
+      "postal": "M2J",
       "unit": "",
       "reg": "STR-2409-HLBFBX"
     },
@@ -71259,6 +71424,7 @@
       "street": "GEORGE APPLETON",
       "type": "WAY",
       "dir": "",
+      "postal": "M3M",
       "unit": "2088",
       "reg": "STR-2409-HHQLBW"
     },
@@ -71267,6 +71433,7 @@
       "street": "GLEBEHOLME",
       "type": "BLVD",
       "dir": "",
+      "postal": "M4C",
       "unit": "Lower",
       "reg": "STR-2409-GZKVPV"
     },
@@ -71275,6 +71442,7 @@
       "street": "GREEN TRAIL",
       "type": "CRT",
       "dir": "",
+      "postal": "M2K",
       "unit": "3006",
       "reg": "STR-2604-GTDHPV"
     },
@@ -71283,6 +71451,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1015",
       "reg": "STR-2410-HTBHPY"
     },
@@ -71291,6 +71460,7 @@
       "street": "GEOFFREY",
       "type": "ST",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2410-HMBHPX"
     },
@@ -71299,6 +71469,7 @@
       "street": "GIVINS",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2410-GHXVPS"
     },
@@ -71307,6 +71478,7 @@
       "street": "GALLOWAY",
       "type": "RD",
       "dir": "",
+      "postal": "M1E",
       "unit": "Upper",
       "reg": "STR-2410-FMCPPQ"
     },
@@ -71315,6 +71487,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "2",
       "reg": "STR-2410-FWRVPR"
     },
@@ -71323,6 +71496,7 @@
       "street": "GREENBROOK",
       "type": "DR",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2411-FHRYBP"
     },
@@ -71331,6 +71505,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "2",
       "reg": "STR-2411-FDQSBP"
     },
@@ -71339,6 +71514,7 @@
       "street": "GRIERSON",
       "type": "RD",
       "dir": "",
+      "postal": "M9W",
       "unit": "B",
       "reg": "STR-2411-GPCSBT"
     },
@@ -71347,6 +71523,7 @@
       "street": "GARNET",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "LNHS",
       "reg": "STR-2411-HWJSBY"
     },
@@ -71355,6 +71532,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1404",
       "reg": "STR-2411-JFWSBZ"
     },
@@ -71363,6 +71541,7 @@
       "street": "GOULDEN",
       "type": "CRES",
       "dir": "",
+      "postal": "M1L",
       "unit": "",
       "reg": "STR-2411-HYGFBY"
     },
@@ -71371,6 +71550,7 @@
       "street": "GLENAVON",
       "type": "RD",
       "dir": "",
+      "postal": "M6K",
       "unit": "1B",
       "reg": "STR-2412-HKCSBX"
     },
@@ -71379,6 +71559,7 @@
       "street": "GLENEITA",
       "type": "ST",
       "dir": "",
+      "postal": "M1M",
       "unit": "Basement",
       "reg": "STR-2412-HSZFBY"
     },
@@ -71387,6 +71568,7 @@
       "street": "GLENGARRY",
       "type": "AVE",
       "dir": "",
+      "postal": "M5M",
       "unit": "",
       "reg": "STR-2412-GVWSBV"
     },
@@ -71395,6 +71577,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2412-JDCSBZ"
     },
@@ -71403,6 +71586,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "A",
       "reg": "STR-2412-FXHLBR"
     },
@@ -71411,6 +71595,7 @@
       "street": "GALT",
       "type": "AVE",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2412-HTVLBY"
     },
@@ -71419,6 +71604,7 @@
       "street": "GREENBRIAR",
       "type": "RD",
       "dir": "",
+      "postal": "M2K",
       "unit": "8",
       "reg": "STR-2412-FQRYBQ"
     },
@@ -71427,6 +71613,7 @@
       "street": "GREENDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "BSMT",
       "reg": "STR-2412-GWRYBV"
     },
@@ -71435,6 +71622,7 @@
       "street": "GROSVENOR",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "3007",
       "reg": "STR-2501-GYBLBV"
     },
@@ -71443,6 +71631,7 @@
       "street": "GREYLAWN",
       "type": "CRES",
       "dir": "",
+      "postal": "M1R",
       "unit": "",
       "reg": "STR-2501-HTJSBY"
     },
@@ -71451,6 +71640,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2502-HXMFBY"
     },
@@ -71459,6 +71649,7 @@
       "street": "GODSTONE",
       "type": "RD",
       "dir": "",
+      "postal": "M2J",
       "unit": "116",
       "reg": "STR-2502-HBBPPW"
     },
@@ -71467,6 +71658,7 @@
       "street": "GOTHIC",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2502-HXPPPY"
     },
@@ -71475,6 +71667,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "1",
       "reg": "STR-2502-GWJVPV"
     },
@@ -71483,6 +71676,7 @@
       "street": "GOLDEN LION HTS",
       "type": "",
       "dir": "",
+      "postal": "M2M",
       "unit": "N3002",
       "reg": "STR-2502-HMMHPX"
     },
@@ -71491,6 +71685,7 @@
       "street": "GLENLAKE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "1",
       "reg": "STR-2502-HWJVPY"
     },
@@ -71499,6 +71694,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1907",
       "reg": "STR-2503-GGQVPS"
     },
@@ -71507,6 +71703,7 @@
       "street": "GLEN BELLE",
       "type": "CRES",
       "dir": "",
+      "postal": "M6A",
       "unit": "",
       "reg": "STR-2503-GCPPPS"
     },
@@ -71515,6 +71712,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1508",
       "reg": "STR-2504-GGSBPS"
     },
@@ -71523,6 +71721,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "404",
       "reg": "STR-2504-GBYBPR"
     },
@@ -71531,6 +71730,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "101",
       "reg": "STR-2509-HGZLBW"
     },
@@ -71539,6 +71739,7 @@
       "street": "GREENBRIAR",
       "type": "RD",
       "dir": "",
+      "postal": "M2K",
       "unit": "201",
       "reg": "STR-2504-GZCVPV"
     },
@@ -71547,6 +71748,7 @@
       "street": "GROSVENOR",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "1410",
       "reg": "STR-2504-HHZHPW"
     },
@@ -71555,6 +71757,7 @@
       "street": "GOLDTHREAD TER",
       "type": "",
       "dir": "",
+      "postal": "M3H",
       "unit": "",
       "reg": "STR-2504-FWSBPR"
     },
@@ -71563,6 +71766,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4E",
       "unit": "Unit 5",
       "reg": "STR-2505-HQSBPX"
     },
@@ -71571,6 +71775,7 @@
       "street": "GROSVENOR",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "2706",
       "reg": "STR-2505-GCTHPS"
     },
@@ -71579,6 +71784,7 @@
       "street": "GLENDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2505-FHMHPP"
     },
@@ -71587,6 +71793,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M5B",
       "unit": "2214",
       "reg": "STR-2505-FFBPPP"
     },
@@ -71595,6 +71802,7 @@
       "street": "GRACE",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "BSMT",
       "reg": "STR-2505-JCFBPZ"
     },
@@ -71603,6 +71811,7 @@
       "street": "GREEN GARDENS",
       "type": "BLVD",
       "dir": "",
+      "postal": "M6A",
       "unit": "",
       "reg": "STR-2505-JFBPPZ"
     },
@@ -71611,6 +71820,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "314",
       "reg": "STR-2505-HJWVPX"
     },
@@ -71619,6 +71829,7 @@
       "street": "GLENGROVE",
       "type": "AVE",
       "dir": "W",
+      "postal": "M4R",
       "unit": "",
       "reg": "STR-2506-GRMHPT"
     },
@@ -71627,6 +71838,7 @@
       "street": "GRANBY",
       "type": "ST",
       "dir": "",
+      "postal": "M5B",
       "unit": "",
       "reg": "STR-2506-GVBSBV"
     },
@@ -71635,6 +71847,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "3003",
       "reg": "STR-2506-GFFFBS"
     },
@@ -71643,6 +71856,7 @@
       "street": "GLENAVON",
       "type": "RD",
       "dir": "",
+      "postal": "M6K",
       "unit": "1",
       "reg": "STR-2506-GBSFBR"
     },
@@ -71651,6 +71865,7 @@
       "street": "GATEWAY",
       "type": "BLVD",
       "dir": "",
+      "postal": "M3C",
       "unit": "607",
       "reg": "STR-2506-HPCYBX"
     },
@@ -71659,6 +71874,7 @@
       "street": "GLEN AGAR",
       "type": "DR",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2506-GBCYBR"
     },
@@ -71667,6 +71883,7 @@
       "street": "GLENHEATHER TER",
       "type": "",
       "dir": "",
+      "postal": "M1B",
       "unit": "",
       "reg": "STR-2507-GBFFBR"
     },
@@ -71675,6 +71892,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "N1408",
       "reg": "STR-2507-GRSFBT"
     },
@@ -71683,6 +71901,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "2",
       "reg": "STR-2507-HKCYBX"
     },
@@ -71691,6 +71910,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "4",
       "reg": "STR-2507-FHYFBP"
     },
@@ -71699,6 +71919,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "3704",
       "reg": "STR-2507-FVYFBR"
     },
@@ -71707,6 +71928,7 @@
       "street": "GREENBROOK",
       "type": "DR",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2507-HCPSBW"
     },
@@ -71715,6 +71937,7 @@
       "street": "GATES",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "A",
       "reg": "STR-2507-HMSFBX"
     },
@@ -71723,6 +71946,7 @@
       "street": "GLENLAKE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2507-HWPSBY"
     },
@@ -71731,6 +71955,7 @@
       "street": "GREENWIN VILLAGE",
       "type": "RD",
       "dir": "",
+      "postal": "M2R",
       "unit": "Main",
       "reg": "STR-2508-GKWYBT"
     },
@@ -71739,6 +71964,7 @@
       "street": "GOTHIC",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "Main",
       "reg": "STR-2508-GXGLBV"
     },
@@ -71747,6 +71973,7 @@
       "street": "GREENSIDES",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2508-GMVSBT"
     },
@@ -71755,6 +71982,7 @@
       "street": "GOULDING",
       "type": "AVE",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2508-HGFFBW"
     },
@@ -71763,6 +71991,7 @@
       "street": "GOODWILL",
       "type": "AVE",
       "dir": "",
+      "postal": "M3H",
       "unit": "",
       "reg": "STR-2508-HXHSBY"
     },
@@ -71771,6 +72000,7 @@
       "street": "GREENBROOK",
       "type": "DR",
       "dir": "",
+      "postal": "M6M",
       "unit": "BSMT",
       "reg": "STR-2508-FXJYBR"
     },
@@ -71779,6 +72009,7 @@
       "street": "GLEN",
       "type": "RD",
       "dir": "",
+      "postal": "M4X",
       "unit": "",
       "reg": "STR-2508-FHMLBP"
     },
@@ -71787,6 +72018,7 @@
       "street": "GRANBY",
       "type": "ST",
       "dir": "",
+      "postal": "M5B",
       "unit": "",
       "reg": "STR-2508-HQTLBX"
     },
@@ -71795,6 +72027,7 @@
       "street": "GLENCAIRN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2509-GTYFBV"
     },
@@ -71803,6 +72036,7 @@
       "street": "GEORGE WEBSTER",
       "type": "RD",
       "dir": "",
+      "postal": "M4B",
       "unit": "1",
       "reg": "STR-2509-FQVSBQ"
     },
@@ -71811,6 +72045,7 @@
       "street": "GREENBRIAR",
       "type": "RD",
       "dir": "",
+      "postal": "M2K",
       "unit": "5",
       "reg": "STR-2509-JCVSBZ"
     },
@@ -71819,6 +72054,7 @@
       "street": "GRAND TRUNK",
       "type": "CRES",
       "dir": "",
+      "postal": "M5J",
       "unit": "3903",
       "reg": "STR-2509-HSCYBY"
     },
@@ -71827,6 +72063,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1814",
       "reg": "STR-2509-GFCYBS"
     },
@@ -71835,6 +72072,7 @@
       "street": "GWYNNE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "BSMT",
       "reg": "STR-2509-FQWYBQ"
     },
@@ -71843,6 +72081,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "3",
       "reg": "STR-2509-HVQYBY"
     },
@@ -71851,6 +72090,7 @@
       "street": "GOULDEN",
       "type": "CRES",
       "dir": "",
+      "postal": "M1L",
       "unit": "",
       "reg": "STR-2509-HKPVPX"
     },
@@ -71859,6 +72099,7 @@
       "street": "GLENWOOD",
       "type": "CRES",
       "dir": "",
+      "postal": "M4B",
       "unit": "",
       "reg": "STR-2510-HRRBPY"
     },
@@ -71867,6 +72108,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4L",
       "unit": "1/2",
       "reg": "STR-2510-FQKBPQ"
     },
@@ -71875,6 +72117,7 @@
       "street": "GREENBRIAR",
       "type": "RD",
       "dir": "",
+      "postal": "M2K",
       "unit": "8",
       "reg": "STR-2510-HFXBPW"
     },
@@ -71883,6 +72126,7 @@
       "street": "GLEN PARK",
       "type": "AVE",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2510-HTPVPY"
     },
@@ -71891,6 +72135,7 @@
       "street": "GLENLAKE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "5",
       "reg": "STR-2510-GPFHPT"
     },
@@ -71899,6 +72144,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "805",
       "reg": "STR-2510-FHVVPP"
     },
@@ -71907,6 +72153,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "4502",
       "reg": "STR-2510-GPVVPT"
     },
@@ -71915,6 +72162,7 @@
       "street": "GLOUCESTER",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "4805",
       "reg": "STR-2510-GHVVPS"
     },
@@ -71923,6 +72171,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "3206",
       "reg": "STR-2510-HGPVPW"
     },
@@ -71931,6 +72180,7 @@
       "street": "GLENWOOD",
       "type": "CRES",
       "dir": "",
+      "postal": "M4B",
       "unit": "",
       "reg": "STR-2510-GRSHPT"
     },
@@ -71939,6 +72189,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "PH4",
       "reg": "STR-2510-HJMPPX"
     },
@@ -71947,6 +72198,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "N1404",
       "reg": "STR-2510-GFZPPS"
     },
@@ -71955,6 +72207,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "N707",
       "reg": "STR-2510-FRTPPQ"
     },
@@ -71963,6 +72216,7 @@
       "street": "GLENMOUNT PARK",
       "type": "RD",
       "dir": "",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2511-FKFHPP"
     },
@@ -71971,6 +72225,7 @@
       "street": "GLENFOREST",
       "type": "RD",
       "dir": "",
+      "postal": "M4N",
       "unit": "",
       "reg": "STR-2511-FMDBPQ"
     },
@@ -71979,6 +72234,7 @@
       "street": "GLEN MUIR",
       "type": "DR",
       "dir": "",
+      "postal": "M1M",
       "unit": "",
       "reg": "STR-2511-HTDBPY"
     },
@@ -71987,6 +72243,7 @@
       "street": "GROSVENOR",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "3001",
       "reg": "STR-2511-GFMPPS"
     },
@@ -71995,6 +72252,7 @@
       "street": "GALLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "Main",
       "reg": "STR-2511-FTTPPQ"
     },
@@ -72003,6 +72261,7 @@
       "street": "GRAYDON HALL",
       "type": "DR",
       "dir": "",
+      "postal": "M3A",
       "unit": "6",
       "reg": "STR-2511-GKYHPT"
     },
@@ -72011,6 +72270,7 @@
       "street": "GLENTWORTH",
       "type": "RD",
       "dir": "",
+      "postal": "M2J",
       "unit": "",
       "reg": "STR-2511-HKYHPX"
     },
@@ -72019,6 +72279,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "103",
       "reg": "STR-2511-JBMPPZ"
     },
@@ -72027,6 +72288,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "106",
       "reg": "STR-2511-HLRBPX"
     },
@@ -72035,6 +72297,7 @@
       "street": "GLEN BAILLIE",
       "type": "PL",
       "dir": "",
+      "postal": "M5T",
       "unit": "2",
       "reg": "STR-2511-HHMPPW"
     },
@@ -72043,6 +72306,7 @@
       "street": "GLEBEMOUNT",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2512-FXLHPR"
     },
@@ -72051,6 +72315,7 @@
       "street": "GALLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "1",
       "reg": "STR-2512-HWVVPY"
     },
@@ -72059,6 +72324,7 @@
       "street": "GLENGROVE",
       "type": "AVE",
       "dir": "W",
+      "postal": "M4R",
       "unit": "",
       "reg": "STR-2512-FSSHPQ"
     },
@@ -72067,6 +72333,7 @@
       "street": "GILMOUR",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "B",
       "reg": "STR-2512-HQVVPX"
     },
@@ -72075,6 +72342,7 @@
       "street": "GLEN EVEREST",
       "type": "RD",
       "dir": "",
+      "postal": "M1N",
       "unit": "613",
       "reg": "STR-2512-HYBVPY"
     },
@@ -72083,6 +72351,7 @@
       "street": "GARTHWOOD",
       "type": "DR",
       "dir": "",
+      "postal": "M1K",
       "unit": "",
       "reg": "STR-2512-JGHVPZ"
     },
@@ -72091,6 +72360,7 @@
       "street": "GAIETY",
       "type": "DR",
       "dir": "",
+      "postal": "M1H",
       "unit": "",
       "reg": "STR-2512-GCXBPS"
     },
@@ -72099,6 +72369,7 @@
       "street": "GROSVENOR",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "809",
       "reg": "STR-2512-HTZPPY"
     },
@@ -72107,6 +72378,7 @@
       "street": "GEORGE BUTCHART",
       "type": "DR",
       "dir": "",
+      "postal": "M3K",
       "unit": "421",
       "reg": "STR-2512-GDPYBS"
     },
@@ -72115,6 +72387,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "W",
+      "postal": "M5G",
       "unit": "911",
       "reg": "STR-2512-FGLLBP"
     },
@@ -72123,6 +72396,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1001",
       "reg": "STR-2512-FDRFBP"
     },
@@ -72131,6 +72405,7 @@
       "street": "GLEN MANOR",
       "type": "DR",
       "dir": "",
+      "postal": "M4E",
       "unit": "201",
       "reg": "STR-2512-GDRFBS"
     },
@@ -72139,6 +72414,7 @@
       "street": "GIBBS",
       "type": "RD",
       "dir": "",
+      "postal": "M9B",
       "unit": "1206",
       "reg": "STR-2512-GVTSBV"
     },
@@ -72147,6 +72423,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "2501",
       "reg": "STR-2512-HMMSBX"
     },
@@ -72155,6 +72432,7 @@
       "street": "GUTHRIE",
       "type": "AVE",
       "dir": "",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2601-HFXFBW"
     },
@@ -72163,6 +72441,7 @@
       "street": "GREEN GARDENS",
       "type": "BLVD",
       "dir": "",
+      "postal": "M6A",
       "unit": "5B",
       "reg": "STR-2601-FLGSBP"
     },
@@ -72171,6 +72450,7 @@
       "street": "GORSEY SQ",
       "type": "",
       "dir": "",
+      "postal": "M1B",
       "unit": "",
       "reg": "STR-2601-GJZSBS"
     },
@@ -72179,6 +72459,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "N507",
       "reg": "STR-2601-JDBYBZ"
     },
@@ -72187,6 +72468,7 @@
       "street": "GLOUCESTER",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "3009",
       "reg": "STR-2601-HPFLBX"
     },
@@ -72195,6 +72477,7 @@
       "street": "GREENDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2601-FFZSBP"
     },
@@ -72203,6 +72486,7 @@
       "street": "GRAFTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "Unit B",
       "reg": "STR-2601-JBGSBZ"
     },
@@ -72211,6 +72495,7 @@
       "street": "GOUGH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "Unit 3",
       "reg": "STR-2602-GBXFBR"
     },
@@ -72219,6 +72504,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "903",
       "reg": "STR-2602-GWPYBV"
     },
@@ -72227,6 +72513,7 @@
       "street": "GLOUCESTER",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "1816",
       "reg": "STR-2602-HPYLBX"
     },
@@ -72235,6 +72522,7 @@
       "street": "GAIR",
       "type": "DR",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2602-GKFLBS"
     },
@@ -72243,6 +72531,7 @@
       "street": "GUILDCREST",
       "type": "DR",
       "dir": "",
+      "postal": "M1E",
       "unit": "",
       "reg": "STR-2602-HWRFBY"
     },
@@ -72251,6 +72540,7 @@
       "street": "GORDON",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2602-GBKFBR"
     },
@@ -72259,6 +72549,7 @@
       "street": "GLENSHAW",
       "type": "CRES",
       "dir": "",
+      "postal": "M4B",
       "unit": "",
       "reg": "STR-2602-HRYLBY"
     },
@@ -72267,6 +72558,7 @@
       "street": "GOLFHAVEN",
       "type": "DR",
       "dir": "",
+      "postal": "M1G",
       "unit": "Main",
       "reg": "STR-2602-HZVYBZ"
     },
@@ -72275,6 +72567,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1413",
       "reg": "STR-2602-GHLLBS"
     },
@@ -72283,6 +72576,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2602-HWSLBY"
     },
@@ -72291,6 +72585,7 @@
       "street": "GRANBY",
       "type": "ST",
       "dir": "",
+      "postal": "M5B",
       "unit": "",
       "reg": "STR-2602-HJBYBW"
     },
@@ -72299,6 +72594,7 @@
       "street": "GLEBEMOUNT",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2602-HTGSBY"
     },
@@ -72307,6 +72603,7 @@
       "street": "GLENSHEPHARD",
       "type": "DR",
       "dir": "",
+      "postal": "M1K",
       "unit": "",
       "reg": "STR-2602-GQTSBT"
     },
@@ -72315,6 +72612,7 @@
       "street": "GLENMOUNT PARK",
       "type": "RD",
       "dir": "",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2602-HGGSBW"
     },
@@ -72323,6 +72621,7 @@
       "street": "GLEBEMOUNT",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2603-HQDFBX"
     },
@@ -72331,6 +72630,7 @@
       "street": "GAIETY",
       "type": "DR",
       "dir": "",
+      "postal": "M1H",
       "unit": "",
       "reg": "STR-2603-GKKFBS"
     },
@@ -72339,6 +72639,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "UN-B",
       "reg": "STR-2603-GVPYBV"
     },
@@ -72347,6 +72648,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2603-FWGSBR"
     },
@@ -72355,6 +72657,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2603-GLFPPT"
     },
@@ -72363,6 +72666,7 @@
       "street": "GRANDVIEW",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "BSMT",
       "reg": "STR-2603-HDQBPW"
     },
@@ -72371,6 +72675,7 @@
       "street": "GEORGE APPLETON",
       "type": "WAY",
       "dir": "",
+      "postal": "M3M",
       "unit": "2009",
       "reg": "STR-2603-GQJBPT"
     },
@@ -72379,6 +72684,7 @@
       "street": "GAMMA",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2603-HLXHPX"
     },
@@ -72387,6 +72693,7 @@
       "street": "GRENVIEW",
       "type": "BLVD",
       "dir": "N",
+      "postal": "M8X",
       "unit": "",
       "reg": "STR-2603-GXRHPV"
     },
@@ -72395,6 +72702,7 @@
       "street": "GULLIVER",
       "type": "RD",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2603-FSGVPQ"
     },
@@ -72403,6 +72711,7 @@
       "street": "GRAND TRUNK",
       "type": "CRES",
       "dir": "",
+      "postal": "M5J",
       "unit": "2109",
       "reg": "STR-2603-HSJBPY"
     },
@@ -72411,6 +72720,7 @@
       "street": "GALLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "Apt 1",
       "reg": "STR-2603-HVWBPY"
     },
@@ -72419,6 +72729,7 @@
       "street": "GORT",
       "type": "AVE",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2603-FDTVPP"
     },
@@ -72427,6 +72738,7 @@
       "street": "GROVETREE",
       "type": "RD",
       "dir": "",
+      "postal": "M9V",
       "unit": "",
       "reg": "STR-2603-HLKHPX"
     },
@@ -72435,6 +72747,7 @@
       "street": "GOUGH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2603-FSKHPQ"
     },
@@ -72443,6 +72756,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "2601",
       "reg": "STR-2603-GHXHPS"
     },
@@ -72451,6 +72765,7 @@
       "street": "GASPE",
       "type": "RD",
       "dir": "",
+      "postal": "M2K",
       "unit": "",
       "reg": "STR-2603-GYKHPV"
     },
@@ -72459,6 +72774,7 @@
       "street": "GALLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2603-FSZVPQ"
     },
@@ -72467,6 +72783,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "902",
       "reg": "STR-2603-FHYPPP"
     },
@@ -72475,6 +72792,7 @@
       "street": "GLENCAIRN",
       "type": "AVE",
       "dir": "",
+      "postal": "M4R",
       "unit": "",
       "reg": "STR-2604-GSLPPT"
     },
@@ -72483,6 +72801,7 @@
       "street": "GLOUCESTER",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "911",
       "reg": "STR-2604-GXXHPV"
     },
@@ -72491,6 +72810,7 @@
       "street": "GARNET",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "Upper",
       "reg": "STR-2604-FZTVPR"
     },
@@ -72499,6 +72819,7 @@
       "street": "GRACE",
       "type": "ST",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2604-HXGVPY"
     },
@@ -72507,6 +72828,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2604-GZTVPV"
     },
@@ -72515,6 +72837,7 @@
       "street": "GROSVENOR",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "2009",
       "reg": "STR-2604-FMWBPQ"
     },
@@ -72523,6 +72846,7 @@
       "street": "GOTHIC",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2604-GPLPPT"
     },
@@ -72531,6 +72855,7 @@
       "street": "GLENN MORROW MEWS",
       "type": "",
       "dir": "",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2604-HRJBPX"
     },
@@ -72539,6 +72864,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "3306",
       "reg": "STR-2604-GDKHPS"
     },
@@ -72547,6 +72873,7 @@
       "street": "GLADSTONE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2604-GTXHPV"
     },
@@ -72555,6 +72882,7 @@
       "street": "GROSVENOR",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "1405",
       "reg": "STR-2604-JDKHPZ"
     },
@@ -72563,6 +72891,7 @@
       "street": "GRENADIER",
       "type": "RD",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2604-HPMVPX"
     },
@@ -72571,6 +72900,7 @@
       "street": "GUILDWOOD PKWY",
       "type": "",
       "dir": "",
+      "postal": "M1E",
       "unit": "1",
       "reg": "STR-2604-FWWBPR"
     },
@@ -72579,6 +72909,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "N1202",
       "reg": "STR-2604-GMYPPT"
     },
@@ -72587,6 +72918,7 @@
       "street": "GLENHURST",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2604-JDLPPZ"
     },
@@ -72595,6 +72927,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "801",
       "reg": "STR-2604-GJWBPS"
     },
@@ -72603,6 +72936,7 @@
       "street": "GREENFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "915",
       "reg": "STR-2604-HQWBPX"
     },
@@ -72611,6 +72945,7 @@
       "street": "GLENHOLME",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2604-JCGVPZ"
     },
@@ -72619,6 +72954,7 @@
       "street": "GROSVENOR",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "2906",
       "reg": "STR-2604-HMKHPX"
     },
@@ -72627,6 +72963,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1711",
       "reg": "STR-2604-FLTVPP"
     },
@@ -72635,6 +72972,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "2006",
       "reg": "STR-2604-JGZVPZ"
     },
@@ -72643,6 +72981,7 @@
       "street": "GRANGE",
       "type": "AVE",
       "dir": "",
+      "postal": "M5T",
       "unit": "",
       "reg": "STR-2604-FVCFBR"
     },
@@ -72651,6 +72990,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "6512",
       "reg": "STR-2604-FFFSBP"
     },
@@ -72659,6 +72999,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "2110",
       "reg": "STR-2604-FMLSBQ"
     },
@@ -72667,6 +73008,7 @@
       "street": "GRANT",
       "type": "ST",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2604-GLFSBT"
     },
@@ -72675,6 +73017,7 @@
       "street": "GAYDON",
       "type": "AVE",
       "dir": "",
+      "postal": "M9M",
       "unit": "",
       "reg": "STR-2604-HLFSBX"
     },
@@ -72683,6 +73026,7 @@
       "street": "GRAND TRUNK",
       "type": "CRES",
       "dir": "",
+      "postal": "M5J",
       "unit": "3203",
       "reg": "STR-2604-JBSSBZ"
     },
@@ -72691,6 +73035,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "605",
       "reg": "STR-2604-GPSSBT"
     },
@@ -72699,6 +73044,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1211",
       "reg": "STR-2604-JDQFBZ"
     },
@@ -72707,6 +73053,7 @@
       "street": "GARDEN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2604-FSWFBQ"
     },
@@ -72715,6 +73062,7 @@
       "street": "GEOFFREY",
       "type": "ST",
       "dir": "",
+      "postal": "M6R",
       "unit": "2",
       "reg": "STR-2604-JBDLBZ"
     },
@@ -72723,6 +73071,7 @@
       "street": "GRACE",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2604-GHDLBS"
     },
@@ -72731,6 +73080,7 @@
       "street": "GLENDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2604-GBDLBR"
     },
@@ -72739,6 +73089,7 @@
       "street": "GEOFFREY",
       "type": "ST",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2604-GZMYBV"
     },
@@ -72747,6 +73098,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "1311",
       "reg": "STR-2605-FMQFBQ"
     },
@@ -72755,6 +73107,7 @@
       "street": "GLENAYR",
       "type": "RD",
       "dir": "",
+      "postal": "M5P",
       "unit": "",
       "reg": "STR-2605-HKCFBX"
     },
@@ -72763,6 +73116,7 @@
       "street": "GLENHEATHER TER",
       "type": "",
       "dir": "",
+      "postal": "M1B",
       "unit": "",
       "reg": "STR-2605-HDCFBW"
     },
@@ -72771,6 +73125,7 @@
       "street": "GERRARD",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2605-FXSSBR"
     },
@@ -72779,6 +73134,7 @@
       "street": "GALLOWAY",
       "type": "RD",
       "dir": "",
+      "postal": "M1E",
       "unit": "",
       "reg": "STR-2605-FVGYBR"
     },
@@ -72787,6 +73143,7 @@
       "street": "GEORGE BUTCHART",
       "type": "DR",
       "dir": "",
+      "postal": "M3K",
       "unit": "310",
       "reg": "STR-2605-FVXLBR"
     },
@@ -72795,6 +73152,7 @@
       "street": "GEORGE",
       "type": "ST",
       "dir": "",
+      "postal": "M5A",
       "unit": "N503",
       "reg": "STR-2605-GVGYBV"
     },
@@ -72803,6 +73161,7 @@
       "street": "GATWICK",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2605-FXTYBR"
     },
@@ -72811,6 +73170,7 @@
       "street": "GROSVENOR",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "2908",
       "reg": "STR-2605-HDTYBW"
     },
@@ -72819,6 +73179,7 @@
       "street": "GRAFTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2605-JDDLBZ"
     },
@@ -72827,6 +73188,7 @@
       "street": "GRATTAN",
       "type": "ST",
       "dir": "",
+      "postal": "M9N",
       "unit": "",
       "reg": "STR-2605-GJMYBS"
     },
@@ -72835,6 +73197,7 @@
       "street": "GLENAYR",
       "type": "RD",
       "dir": "",
+      "postal": "M5P",
       "unit": "",
       "reg": "STR-2605-GTCFBV"
     },
@@ -72843,6 +73206,7 @@
       "street": "GLOUCESTER",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "111",
       "reg": "STR-2605-FPYSBQ"
     },
@@ -72851,6 +73215,7 @@
       "street": "GRENVILLE",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "3603",
       "reg": "STR-2605-GMSSBT"
     },
@@ -72859,6 +73224,7 @@
       "street": "GLENDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2605-HLLSBX"
     },
@@ -72867,6 +73233,7 @@
       "street": "GRAND TRUNK",
       "type": "CRES",
       "dir": "",
+      "postal": "M5J",
       "unit": "3505",
       "reg": "STR-2605-HMCFBX"
     },
@@ -72875,6 +73242,7 @@
       "street": "GEOFFREY",
       "type": "ST",
       "dir": "",
+      "postal": "M6R",
       "unit": "",
       "reg": "STR-2605-GMDLBT"
     },
@@ -72883,6 +73251,7 @@
       "street": "GOSFORD",
       "type": "BLVD",
       "dir": "",
+      "postal": "M3N",
       "unit": "721",
       "reg": "STR-2605-GFMYBS"
     },
@@ -72891,6 +73260,7 @@
       "street": "GLENELLEN",
       "type": "DR",
       "dir": "E",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2605-HVKLBY"
     }
