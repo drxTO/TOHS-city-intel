@@ -55529,6 +55529,7 @@
       "street": "EDGEDALE",
       "type": "RD",
       "dir": "",
+      "postal": "M4X",
       "unit": "",
       "reg": "STR-2009-GXRRPH"
     },
@@ -55537,6 +55538,7 @@
       "street": "EARLSCOURT",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2009-JFXRPM"
     },
@@ -55545,6 +55547,7 @@
       "street": "EVANS",
       "type": "AVE",
       "dir": "",
+      "postal": "M6S",
       "unit": "bsmnt",
       "reg": "STR-2010-HSSXPL"
     },
@@ -55553,6 +55556,7 @@
       "street": "EDGEWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "Upper",
       "reg": "STR-2011-GFXRVF"
     },
@@ -55561,6 +55565,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "Basement",
       "reg": "STR-2011-HVVDVL"
     },
@@ -55569,6 +55574,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2011-HVFXVL"
     },
@@ -55577,6 +55583,7 @@
       "street": "EARL",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "",
       "reg": "STR-2012-GSRRVG"
     },
@@ -55585,6 +55592,7 @@
       "street": "EATON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2012-GQFXVG"
     },
@@ -55593,6 +55601,7 @@
       "street": "ELM GROVE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2211-GCHBHS"
     },
@@ -55601,6 +55610,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "W",
+      "postal": "M6M",
       "unit": "1",
       "reg": "STR-2211-HHBBHW"
     },
@@ -55609,6 +55619,7 @@
       "street": "EASTWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M1N",
       "unit": "",
       "reg": "STR-2211-GFFVHS"
     },
@@ -55617,6 +55628,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "1609",
       "reg": "STR-2211-HFXPHW"
     },
@@ -55625,6 +55637,7 @@
       "street": "ELLSWORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2212-GZDPHV"
     },
@@ -55633,6 +55646,7 @@
       "street": "ELDORA",
       "type": "AVE",
       "dir": "",
+      "postal": "M2M",
       "unit": "27",
       "reg": "STR-2301-FFSVHP"
     },
@@ -55641,6 +55655,7 @@
       "street": "EAST YORK",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2302-FMQKVQ"
     },
@@ -55649,6 +55664,7 @@
       "street": "EARNBRIDGE",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "2",
       "reg": "STR-2302-FPWKVQ"
     },
@@ -55657,6 +55673,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "1328",
       "reg": "STR-2302-GVKRVV"
     },
@@ -55665,6 +55682,7 @@
       "street": "EVELYN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2303-HCWKVW"
     },
@@ -55673,6 +55691,7 @@
       "street": "EAST",
       "type": "DR",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2303-FWJPHR"
     },
@@ -55681,6 +55700,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "2",
       "reg": "STR-2303-GKRVHT"
     },
@@ -55689,6 +55709,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "W",
+      "postal": "M5N",
       "unit": "A",
       "reg": "STR-2303-HSJPHY"
     },
@@ -55697,6 +55718,7 @@
       "street": "EMMETT",
       "type": "AVE",
       "dir": "",
+      "postal": "M6M",
       "unit": "2415",
       "reg": "STR-2304-HMBHHX"
     },
@@ -55705,6 +55727,7 @@
       "street": "ESTHER LORRIE",
       "type": "DR",
       "dir": "",
+      "postal": "M9W",
       "unit": "Basement",
       "reg": "STR-2305-FMZBHQ"
     },
@@ -55713,6 +55736,7 @@
       "street": "ELMER",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "Main",
       "reg": "STR-2305-HJZDVX"
     },
@@ -55721,6 +55745,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "1136",
       "reg": "STR-2210-HGCDVJ"
     },
@@ -55729,6 +55754,7 @@
       "street": "EATON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2210-HFQDVJ"
     },
@@ -55737,6 +55763,7 @@
       "street": "ELM",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "702",
       "reg": "STR-2405-GTRKVV"
     },
@@ -55745,6 +55772,7 @@
       "street": "EMERSON",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2405-JCMXVZ"
     },
@@ -55753,6 +55781,7 @@
       "street": "ERSKINE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4P",
       "unit": "",
       "reg": "STR-2109-FMVPHC"
     },
@@ -55761,6 +55790,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "BSMT",
       "reg": "STR-2110-HWTHHL"
     },
@@ -55769,6 +55799,7 @@
       "street": "ESSEX",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2111-HRQXVL"
     },
@@ -55777,6 +55808,7 @@
       "street": "ERSKINE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4P",
       "unit": "503",
       "reg": "STR-2112-HLHRVK"
     },
@@ -55785,6 +55817,7 @@
       "street": "ELM",
       "type": "AVE",
       "dir": "",
+      "postal": "M4W",
       "unit": "",
       "reg": "STR-2202-HJCXVJ"
     },
@@ -55793,6 +55826,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "803",
       "reg": "STR-2203-FKPVHB"
     },
@@ -55801,6 +55835,7 @@
       "street": "EVERMEDE",
       "type": "DR",
       "dir": "",
+      "postal": "M3A",
       "unit": "MF",
       "reg": "STR-2204-HSLHHL"
     },
@@ -55809,6 +55844,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "1721",
       "reg": "STR-2204-FVLHHD"
     },
@@ -55817,6 +55853,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "Main",
       "reg": "STR-2206-GGDDVF"
     },
@@ -55825,6 +55862,7 @@
       "street": "EMERSON",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2206-FMVXVC"
     },
@@ -55833,6 +55871,7 @@
       "street": "ESGORE",
       "type": "DR",
       "dir": "",
+      "postal": "M5M",
       "unit": "",
       "reg": "STR-2207-HPMRVK"
     },
@@ -55841,6 +55880,7 @@
       "street": "ERINDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2207-GGXDVF"
     },
@@ -55849,6 +55889,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "E",
+      "postal": "M1J",
       "unit": "8",
       "reg": "STR-2207-FSRDVC"
     },
@@ -55857,6 +55898,7 @@
       "street": "ELLERBECK",
       "type": "ST",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2207-GYDDVH"
     },
@@ -55865,6 +55907,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "E",
+      "postal": "M4G",
       "unit": "",
       "reg": "STR-2207-HPSPHK"
     },
@@ -55873,6 +55916,7 @@
       "street": "ESTHER LORRIE",
       "type": "DR",
       "dir": "",
+      "postal": "M9W",
       "unit": "",
       "reg": "STR-2207-GHFPHF"
     },
@@ -55881,6 +55925,7 @@
       "street": "EDITH",
       "type": "DR",
       "dir": "",
+      "postal": "M4R",
       "unit": "1",
       "reg": "STR-2208-GJLPHF"
     },
@@ -55889,6 +55934,7 @@
       "street": "EVANS",
       "type": "AVE",
       "dir": "",
+      "postal": "M8W",
       "unit": "2",
       "reg": "STR-2208-GMCBHG"
     },
@@ -55897,6 +55943,7 @@
       "street": "EXFORD",
       "type": "DR",
       "dir": "",
+      "postal": "M1P",
       "unit": "",
       "reg": "STR-2208-GZXHHH"
     },
@@ -55905,6 +55952,7 @@
       "street": "EDILOU",
       "type": "DR",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2209-FXMVHD"
     },
@@ -55913,6 +55961,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2305-FYZDVR"
     },
@@ -55921,6 +55970,7 @@
       "street": "ERSKINE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4P",
       "unit": "905",
       "reg": "STR-2305-JBHKVZ"
     },
@@ -55929,6 +55979,7 @@
       "street": "EASTVILLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M1M",
       "unit": "",
       "reg": "STR-2305-FGRXVP"
     },
@@ -55937,6 +55988,7 @@
       "street": "EVELYN",
       "type": "CRES",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2306-JDHKVZ"
     },
@@ -55945,6 +55997,7 @@
       "street": "EARL HAIG",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2307-HPCVHX"
     },
@@ -55953,6 +56006,7 @@
       "street": "EDILOU",
       "type": "DR",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2307-HLZHHX"
     },
@@ -55961,6 +56015,7 @@
       "street": "ELMFIELD",
       "type": "CRES",
       "dir": "",
+      "postal": "M1V",
       "unit": "",
       "reg": "STR-2308-GKJVHS"
     },
@@ -55969,6 +56024,7 @@
       "street": "EAST LYNN",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2308-HFGKVW"
     },
@@ -55977,6 +56033,7 @@
       "street": "ELM",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "704",
       "reg": "STR-2309-FTBRVQ"
     },
@@ -55985,6 +56042,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "1021",
       "reg": "STR-2309-JCBRVZ"
     },
@@ -55993,6 +56051,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2309-FZFDVR"
     },
@@ -56001,6 +56060,7 @@
       "street": "ELLERBECK",
       "type": "ST",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2310-FSSDVQ"
     },
@@ -56009,6 +56069,7 @@
       "street": "EDGEWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "Unit 5",
       "reg": "STR-2311-HRVVHY"
     },
@@ -56017,6 +56078,7 @@
       "street": "ELMER",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "BSMT",
       "reg": "STR-2311-FVLHHR"
     },
@@ -56025,6 +56087,7 @@
       "street": "EDGEWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "4",
       "reg": "STR-2312-GRPXVT"
     },
@@ -56033,6 +56096,7 @@
       "street": "ERINDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "B",
       "reg": "STR-2401-GRBXVT"
     },
@@ -56041,6 +56105,7 @@
       "street": "E DE GRASSI",
       "type": "ST",
       "dir": "N",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2401-FFPXVP"
     },
@@ -56049,6 +56114,7 @@
       "street": "ENDEAN",
       "type": "AVE",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2401-HMVXVX"
     },
@@ -56057,6 +56123,7 @@
       "street": "ELM",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "1203",
       "reg": "STR-2402-JFGVHZ"
     },
@@ -56065,6 +56132,7 @@
       "street": "ENDERBY",
       "type": "RD",
       "dir": "",
+      "postal": "M4E",
       "unit": "",
       "reg": "STR-2403-HRCBHX"
     },
@@ -56073,6 +56141,7 @@
       "street": "ERNEST",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2403-HKDHHX"
     },
@@ -56081,6 +56150,7 @@
       "street": "EXFORD",
       "type": "DR",
       "dir": "",
+      "postal": "M1P",
       "unit": "Lower Unit",
       "reg": "STR-2403-JCQBHZ"
     },
@@ -56089,6 +56159,7 @@
       "street": "EVELYN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2403-HBKHHW"
     },
@@ -56097,6 +56168,7 @@
       "street": "ELMER",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "2",
       "reg": "STR-2403-FFMVHP"
     },
@@ -56105,6 +56177,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2404-FDZVHP"
     },
@@ -56113,6 +56186,7 @@
       "street": "EVERGREEN",
       "type": "AVE",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2404-FHCDVP"
     },
@@ -56121,6 +56195,7 @@
       "street": "ELMVIEW",
       "type": "DR",
       "dir": "",
+      "postal": "M1N",
       "unit": "",
       "reg": "STR-2404-FZLRVR"
     },
@@ -56129,6 +56204,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "801",
       "reg": "STR-2405-GYLRVV"
     },
@@ -56137,6 +56213,7 @@
       "street": "EARLSDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2405-HTDKVY"
     },
@@ -56145,6 +56222,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "Basement Apt.",
       "reg": "STR-2405-HKKKVX"
     },
@@ -56153,6 +56231,7 @@
       "street": "EVELYN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2405-FJTXVP"
     },
@@ -56161,6 +56240,7 @@
       "street": "EVANS",
       "type": "AVE",
       "dir": "",
+      "postal": "M8Z",
       "unit": "5",
       "reg": "STR-2405-GTJDVV"
     },
@@ -56169,6 +56249,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "PH23",
       "reg": "STR-2405-GTYRVV"
     },
@@ -56177,6 +56258,7 @@
       "street": "ENNERDALE",
       "type": "RD",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2405-GYCDVV"
     },
@@ -56185,6 +56267,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "202",
       "reg": "STR-2406-HGLVPW"
     },
@@ -56193,6 +56276,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "1028",
       "reg": "STR-2407-GHKPPS"
     },
@@ -56201,6 +56285,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "305",
       "reg": "STR-2407-GWCHPV"
     },
@@ -56209,6 +56294,7 @@
       "street": "EATON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2407-FJSVPP"
     },
@@ -56217,6 +56303,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "1326",
       "reg": "STR-2407-JGYVPZ"
     },
@@ -56225,6 +56312,7 @@
       "street": "EMERSON",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2408-GPRSBT"
     },
@@ -56233,6 +56321,7 @@
       "street": "ELM",
       "type": "ST",
       "dir": "",
+      "postal": "M5G",
       "unit": "2910",
       "reg": "STR-2408-HHHFBW"
     },
@@ -56241,6 +56330,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2408-GFLYBS"
     },
@@ -56249,6 +56339,7 @@
       "street": "EARLTHORPE",
       "type": "CRES",
       "dir": "",
+      "postal": "M1H",
       "unit": "",
       "reg": "STR-2409-JCBFBZ"
     },
@@ -56257,6 +56348,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "E",
+      "postal": "M1J",
       "unit": "409",
       "reg": "STR-2409-FTDSBQ"
     },
@@ -56265,6 +56357,7 @@
       "street": "ELLINGTON",
       "type": "DR",
       "dir": "",
+      "postal": "M1R",
       "unit": "",
       "reg": "STR-2409-HTJLBY"
     },
@@ -56273,6 +56366,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "A",
       "reg": "STR-2409-FSCLBQ"
     },
@@ -56281,6 +56375,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "404",
       "reg": "STR-2409-GCZBPS"
     },
@@ -56289,6 +56384,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "W",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2410-HHJPPW"
     },
@@ -56297,6 +56393,7 @@
       "street": "ELM GROVE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "5",
       "reg": "STR-2604-GSRHPT"
     },
@@ -56305,6 +56402,7 @@
       "street": "EDMONTON",
       "type": "DR",
       "dir": "",
+      "postal": "M2J",
       "unit": "",
       "reg": "STR-2411-GHRYBS"
     },
@@ -56313,6 +56411,7 @@
       "street": "EVERSON",
       "type": "DR",
       "dir": "",
+      "postal": "M2N",
       "unit": "220",
       "reg": "STR-2412-HBGFBW"
     },
@@ -56321,6 +56420,7 @@
       "street": "EDINBOROUGH",
       "type": "CRT",
       "dir": "",
+      "postal": "M6N",
       "unit": "bsmt",
       "reg": "STR-2412-HJTFBX"
     },
@@ -56329,6 +56429,7 @@
       "street": "EVERETT",
       "type": "CRES",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2501-HQVLBX"
     },
@@ -56337,6 +56438,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2502-FTLBPQ"
     },
@@ -56345,6 +56447,7 @@
       "street": "ELMER",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2503-HGMHPW"
     },
@@ -56353,6 +56456,7 @@
       "street": "ELM",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "202",
       "reg": "STR-2503-GFHPPS"
     },
@@ -56361,6 +56465,7 @@
       "street": "EXBURY",
       "type": "RD",
       "dir": "",
+      "postal": "M3M",
       "unit": "",
       "reg": "STR-2503-GLZHPT"
     },
@@ -56369,6 +56474,7 @@
       "street": "ELLINS",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2503-HDCVPW"
     },
@@ -56377,6 +56483,7 @@
       "street": "ELLERSLIE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "2806",
       "reg": "STR-2504-FTBPPQ"
     },
@@ -56385,6 +56492,7 @@
       "street": "ESTELLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "A",
       "reg": "STR-2505-FZVPPR"
     },
@@ -56393,6 +56501,7 @@
       "street": "ELMSTHORPE",
       "type": "AVE",
       "dir": "",
+      "postal": "M5P",
       "unit": "",
       "reg": "STR-2505-FZWVPR"
     },
@@ -56401,6 +56510,7 @@
       "street": "EXBURY",
       "type": "RD",
       "dir": "",
+      "postal": "M3M",
       "unit": "",
       "reg": "STR-2505-GRJVPT"
     },
@@ -56409,6 +56519,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "1928",
       "reg": "STR-2505-GRZHPT"
     },
@@ -56417,6 +56528,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "1404",
       "reg": "STR-2505-GXLBPV"
     },
@@ -56425,6 +56537,7 @@
       "street": "EVERGREEN GDNS",
       "type": "",
       "dir": "",
+      "postal": "M4G",
       "unit": "",
       "reg": "STR-2506-HCWVPW"
     },
@@ -56433,6 +56546,7 @@
       "street": "ELLINGTON",
       "type": "DR",
       "dir": "",
+      "postal": "M1R",
       "unit": "",
       "reg": "STR-2506-FSFFBQ"
     },
@@ -56441,6 +56555,7 @@
       "street": "ELSIE",
       "type": "LANE",
       "dir": "",
+      "postal": "M6P",
       "unit": "51",
       "reg": "STR-2506-JFVSBZ"
     },
@@ -56449,6 +56564,7 @@
       "street": "ELISE TER",
       "type": "",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2506-FMMLBQ"
     },
@@ -56457,6 +56573,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "W",
+      "postal": "M6E",
       "unit": "Upper",
       "reg": "STR-2506-GVCYBV"
     },
@@ -56465,6 +56582,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "1",
       "reg": "STR-2506-HTMLBY"
     },
@@ -56473,6 +56591,7 @@
       "street": "ESSEX",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2506-FKQYBP"
     },
@@ -56481,6 +56600,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "W",
+      "postal": "M6E",
       "unit": "1605",
       "reg": "STR-2507-HHVSBW"
     },
@@ -56489,6 +56609,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "811",
       "reg": "STR-2507-GSJYBT"
     },
@@ -56497,6 +56618,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "W",
+      "postal": "M6E",
       "unit": "1A",
       "reg": "STR-2507-GBHSBR"
     },
@@ -56505,6 +56627,7 @@
       "street": "ELM",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "1505",
       "reg": "STR-2508-JGSFBZ"
     },
@@ -56513,6 +56636,7 @@
       "street": "EASTGATE",
       "type": "CRES",
       "dir": "",
+      "postal": "M1L",
       "unit": "",
       "reg": "STR-2508-HLQYBX"
     },
@@ -56521,6 +56645,7 @@
       "street": "EMPIRE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2508-FJCYBP"
     },
@@ -56529,6 +56654,7 @@
       "street": "EAST",
       "type": "RD",
       "dir": "",
+      "postal": "M1N",
       "unit": "",
       "reg": "STR-2509-GMHSBT"
     },
@@ -56537,6 +56663,7 @@
       "street": "EASTERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M5A",
       "unit": "114",
       "reg": "STR-2509-GMYFBT"
     },
@@ -56545,6 +56672,7 @@
       "street": "EVANS",
       "type": "AVE",
       "dir": "",
+      "postal": "M8W",
       "unit": "2",
       "reg": "STR-2509-GSBSBT"
     },
@@ -56553,6 +56681,7 @@
       "street": "EDMUND",
       "type": "AVE",
       "dir": "",
+      "postal": "M9N",
       "unit": "Main",
       "reg": "STR-2509-HHPSBW"
     },
@@ -56561,6 +56690,7 @@
       "street": "EARLSDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6C",
       "unit": "",
       "reg": "STR-2509-FWWYBR"
     },
@@ -56569,6 +56699,7 @@
       "street": "ELDORA",
       "type": "AVE",
       "dir": "",
+      "postal": "M2M",
       "unit": "32",
       "reg": "STR-2509-HFTLBW"
     },
@@ -56577,6 +56708,7 @@
       "street": "ELLSWORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "2",
       "reg": "STR-2509-FZJYBR"
     },
@@ -56585,6 +56717,7 @@
       "street": "ELLERSLIE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2509-FQYHPQ"
     },
@@ -56593,6 +56726,7 @@
       "street": "ERSKINE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4P",
       "unit": "2010",
       "reg": "STR-2509-GHBVPS"
     },
@@ -56601,6 +56735,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2510-FHDBPP"
     },
@@ -56609,6 +56744,7 @@
       "street": "ELTON",
       "type": "CRES",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2510-FKBVPP"
     },
@@ -56617,6 +56753,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "524",
       "reg": "STR-2510-GLZPPT"
     },
@@ -56625,6 +56762,7 @@
       "street": "EASTERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M4M",
       "unit": "2",
       "reg": "STR-2510-GDVVPS"
     },
@@ -56633,6 +56771,7 @@
       "street": "EMPRESS",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "712",
       "reg": "STR-2511-HRFHPX"
     },
@@ -56641,6 +56780,7 @@
       "street": "EDGAR",
       "type": "AVE",
       "dir": "",
+      "postal": "M4W",
       "unit": "",
       "reg": "STR-2511-GZDBPV"
     },
@@ -56649,6 +56789,7 @@
       "street": "EARLTON",
       "type": "RD",
       "dir": "",
+      "postal": "M1T",
       "unit": "Bsmt",
       "reg": "STR-2511-HHZPPW"
     },
@@ -56657,6 +56798,7 @@
       "street": "EASTERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M5A",
       "unit": "108",
       "reg": "STR-2511-GMVVPT"
     },
@@ -56665,6 +56807,7 @@
       "street": "EDGEWOOD GRV",
       "type": "",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2511-GXHVPV"
     },
@@ -56673,6 +56816,7 @@
       "street": "EPSOM",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2511-GSPVPT"
     },
@@ -56681,6 +56825,7 @@
       "street": "EMPRESS",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2511-FWDBPR"
     },
@@ -56689,6 +56834,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "1009",
       "reg": "STR-2511-GMXBPT"
     },
@@ -56697,6 +56843,7 @@
       "street": "EVELYN CRESCENT",
       "type": "",
       "dir": "",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2511-FJTPPP"
     },
@@ -56705,6 +56852,7 @@
       "street": "ELLSWORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2511-GSRBPT"
     },
@@ -56713,6 +56861,7 @@
       "street": "ENDEAN",
       "type": "AVE",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2511-HKLHPX"
     },
@@ -56721,6 +56870,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2512-FLVYBQ"
     },
@@ -56729,6 +56879,7 @@
       "street": "ELINOR",
       "type": "AVE",
       "dir": "",
+      "postal": "M1R",
       "unit": "",
       "reg": "STR-2512-HMLLBX"
     },
@@ -56737,6 +56888,7 @@
       "street": "ELLERSLIE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "3005",
       "reg": "STR-2512-FSVYBQ"
     },
@@ -56745,6 +56897,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "W",
+      "postal": "M6C",
       "unit": "",
       "reg": "STR-2512-HHSLBW"
     },
@@ -56753,6 +56906,7 @@
       "street": "ELFREDA",
       "type": "BLVD",
       "dir": "",
+      "postal": "M1L",
       "unit": "",
       "reg": "STR-2601-FVFLBR"
     },
@@ -56761,6 +56915,7 @@
       "street": "ELM GROVE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "1",
       "reg": "STR-2601-FXSLBR"
     },
@@ -56769,6 +56924,7 @@
       "street": "EARL",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "5",
       "reg": "STR-2601-HHFLBW"
     },
@@ -56777,6 +56933,7 @@
       "street": "EASTERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M5A",
       "unit": "303",
       "reg": "STR-2601-GSZSBV"
     },
@@ -56785,6 +56942,7 @@
       "street": "ELEVENTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "R",
       "reg": "STR-2601-FRDFBQ"
     },
@@ -56793,6 +56951,7 @@
       "street": "EMMETT",
       "type": "AVE",
       "dir": "",
+      "postal": "M6M",
       "unit": "Upper",
       "reg": "STR-2602-FHHYBP"
     },
@@ -56801,6 +56960,7 @@
       "street": "EDINBOROUGH",
       "type": "CRT",
       "dir": "",
+      "postal": "M6N",
       "unit": "BSMT",
       "reg": "STR-2602-HMBYBX"
     },
@@ -56809,6 +56969,7 @@
       "street": "ELHURST",
       "type": "CRT",
       "dir": "",
+      "postal": "M6N",
       "unit": "AP-B",
       "reg": "STR-2602-FVKFBR"
     },
@@ -56817,6 +56978,7 @@
       "street": "EARLSCOURT",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2602-HZDFBZ"
     },
@@ -56825,6 +56987,7 @@
       "street": "ELMHURST",
       "type": "DR",
       "dir": "",
+      "postal": "M9W",
       "unit": "Suite - BSMT",
       "reg": "STR-2602-HMDFBX"
     },
@@ -56833,6 +56996,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "616",
       "reg": "STR-2602-HRHYBX"
     },
@@ -56841,6 +57005,7 @@
       "street": "ELSWICK",
       "type": "RD",
       "dir": "",
+      "postal": "M4B",
       "unit": "",
       "reg": "STR-2602-HKKFBX"
     },
@@ -56849,6 +57014,7 @@
       "street": "EATON PARK",
       "type": "LANE",
       "dir": "",
+      "postal": "M1W",
       "unit": "9",
       "reg": "STR-2603-GZGSBV"
     },
@@ -56857,6 +57023,7 @@
       "street": "ELM",
       "type": "ST",
       "dir": "",
+      "postal": "M5G",
       "unit": "506",
       "reg": "STR-2603-JGGSBZ"
     },
@@ -56865,6 +57032,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "E",
+      "postal": "M4A",
       "unit": "113",
       "reg": "STR-2603-HZHYBZ"
     },
@@ -56873,6 +57041,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "623",
       "reg": "STR-2603-HTYLBY"
     },
@@ -56881,6 +57050,7 @@
       "street": "ELLIS PARK",
       "type": "RD",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2603-GXLLBV"
     },
@@ -56889,6 +57059,7 @@
       "street": "EMERSON",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2603-HGHYBW"
     },
@@ -56897,6 +57068,7 @@
       "street": "EVANS",
       "type": "AVE",
       "dir": "",
+      "postal": "M8Z",
       "unit": "",
       "reg": "STR-2603-HLDFBX"
     },
@@ -56905,6 +57077,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "E",
+      "postal": "M4P",
       "unit": "Suite3501",
       "reg": "STR-2603-JCGSBZ"
     },
@@ -56913,6 +57086,7 @@
       "street": "EDGEWAY GT",
       "type": "",
       "dir": "",
+      "postal": "M1V",
       "unit": "",
       "reg": "STR-2603-FLFPPP"
     },
@@ -56921,6 +57095,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "1510",
       "reg": "STR-2603-FFXHPP"
     },
@@ -56929,6 +57104,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "1729",
       "reg": "STR-2603-JFGVPZ"
     },
@@ -56937,6 +57113,7 @@
       "street": "EUGENE",
       "type": "ST",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2603-FFJBPP"
     },
@@ -56945,6 +57122,7 @@
       "street": "ELEVENTH",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2603-GTQBPV"
     },
@@ -56953,6 +57131,7 @@
       "street": "EARNBRIDGE",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2603-GFJBPS"
     },
@@ -56961,6 +57140,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "207",
       "reg": "STR-2603-HLYPPX"
     },
@@ -56969,6 +57149,7 @@
       "street": "ENGLISH GARDEN",
       "type": "WAY",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2603-HRCBPX"
     },
@@ -56977,6 +57158,7 @@
       "street": "EMERSON",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2603-FKDHPP"
     },
@@ -56985,6 +57167,7 @@
       "street": "EASTBOURNE",
       "type": "CRES",
       "dir": "",
+      "postal": "M8V",
       "unit": "",
       "reg": "STR-2604-FPKHPQ"
     },
@@ -56993,6 +57176,7 @@
       "street": "ELLERSLIE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "2102",
       "reg": "STR-2604-GVKHPV"
     },
@@ -57001,6 +57185,7 @@
       "street": "ELSIE",
       "type": "LANE",
       "dir": "",
+      "postal": "M6P",
       "unit": "219",
       "reg": "STR-2604-GHZVPS"
     },
@@ -57009,6 +57194,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "203",
       "reg": "STR-2604-HHZVPW"
     },
@@ -57017,6 +57203,7 @@
       "street": "ENDEAN",
       "type": "AVE",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2604-FMFPPQ"
     },
@@ -57025,6 +57212,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "324",
       "reg": "STR-2604-GLQBPT"
     },
@@ -57033,6 +57221,7 @@
       "street": "EASTPARK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M1H",
       "unit": "",
       "reg": "STR-2604-FZWBPR"
     },
@@ -57041,6 +57230,7 @@
       "street": "ESSEX",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "Un1",
       "reg": "STR-2604-HKZVPX"
     },
@@ -57049,6 +57239,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "1006",
       "reg": "STR-2604-HTGVPY"
     },
@@ -57057,6 +57248,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "1002",
       "reg": "STR-2604-FJDHPP"
     },
@@ -57065,6 +57257,7 @@
       "street": "ELLESMERE",
       "type": "RD",
       "dir": "",
+      "postal": "M1C",
       "unit": "",
       "reg": "STR-2604-HYRHPY"
     },
@@ -57073,6 +57266,7 @@
       "street": "EGLINTON",
       "type": "AVE",
       "dir": "W",
+      "postal": "M6E",
       "unit": "1",
       "reg": "STR-2604-JDMVPZ"
     },
@@ -57081,6 +57275,7 @@
       "street": "EASTERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "529",
       "reg": "STR-2604-JFGYBZ"
     },
@@ -57089,6 +57284,7 @@
       "street": "EUCLID",
       "type": "AVE",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2605-GFYSBS"
     },
@@ -57097,6 +57293,7 @@
       "street": "ELM",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "1507",
       "reg": "STR-2605-FJLSBP"
     },
@@ -57105,6 +57302,7 @@
       "street": "EAST LIBERTY",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "2511",
       "reg": "STR-2605-FKCFBP"
     },
@@ -57113,6 +57311,7 @@
       "street": "EMERSON",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "1",
       "reg": "STR-2605-FTQFBQ"
     },
@@ -57121,6 +57320,7 @@
       "street": "ELM",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "308",
       "reg": "STR-2605-HYZYBZ"
     },
@@ -57129,6 +57329,7 @@
       "street": "ELM",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "1009",
       "reg": "STR-2605-HKDLBX"
     },
@@ -57137,6 +57338,7 @@
       "street": "EASTERN",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2605-FXFSBR"
     },
@@ -57145,6 +57347,7 @@
       "street": "EVA",
       "type": "RD",
       "dir": "",
+      "postal": "M9C",
       "unit": "2425",
       "reg": "STR-2605-HDFSBW"
     },
@@ -57153,6 +57356,7 @@
       "street": "EMERSON",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "2",
       "reg": "STR-2605-GYLSBV"
     },
@@ -57161,6 +57365,7 @@
       "street": "ELMWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2605-GHZYBS"
     }
