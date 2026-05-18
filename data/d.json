@@ -100695,6 +100695,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2107-HSHPHL"
     },
@@ -100703,6 +100704,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "3",
       "reg": "STR-2009-GTKPBH"
     },
@@ -100711,6 +100713,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2009-FDQKPB"
     },
@@ -100719,6 +100722,7 @@
       "street": "DUNDONALD",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "",
       "reg": "STR-2009-GGLXPF"
     },
@@ -100727,6 +100731,7 @@
       "street": "DRAYTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2009-GXQKPH"
     },
@@ -100735,6 +100740,7 @@
       "street": "DENTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M1L",
       "unit": "",
       "reg": "STR-2009-GVDRPH"
     },
@@ -100743,6 +100749,7 @@
       "street": "DIXON",
       "type": "RD",
       "dir": "",
+      "postal": "M9P",
       "unit": "",
       "reg": "STR-2009-GPDRPG"
     },
@@ -100751,6 +100758,7 @@
       "street": "DURIE",
       "type": "ST",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2009-HXRRPL"
     },
@@ -100759,6 +100767,7 @@
       "street": "DONLEA",
       "type": "DR",
       "dir": "",
+      "postal": "M4G",
       "unit": "",
       "reg": "STR-2009-GVFXPH"
     },
@@ -100767,6 +100776,7 @@
       "street": "DURIE",
       "type": "ST",
       "dir": "",
+      "postal": "M6S",
       "unit": "Lower",
       "reg": "STR-2009-JBWKPM"
     },
@@ -100775,6 +100785,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6P",
       "unit": "2",
       "reg": "STR-2009-JCLXPM"
     },
@@ -100783,6 +100794,7 @@
       "street": "DIXON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2010-HRFXPK"
     },
@@ -100791,6 +100803,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "3502",
       "reg": "STR-2010-HKYXPK"
     },
@@ -100799,6 +100812,7 @@
       "street": "DOURO",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "252",
       "reg": "STR-2010-GKPDVG"
     },
@@ -100807,6 +100821,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2011-JFYXVM"
     },
@@ -100815,6 +100830,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "N",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2011-FHXRVB"
     },
@@ -100823,6 +100839,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1711",
       "reg": "STR-2012-FXYXVD"
     },
@@ -100831,6 +100848,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1036",
       "reg": "STR-2012-FFSXVB"
     },
@@ -100839,6 +100857,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1509",
       "reg": "STR-2012-GYSXVH"
     },
@@ -100847,6 +100866,7 @@
       "street": "DEWITT",
       "type": "RD",
       "dir": "",
+      "postal": "M9B",
       "unit": "",
       "reg": "STR-2012-GLGBHG"
     },
@@ -100855,6 +100875,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "940",
       "reg": "STR-2012-FXCPHD"
     },
@@ -100863,6 +100884,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2012-GKZBHG"
     },
@@ -100871,6 +100893,7 @@
       "street": "DORIS",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "2522",
       "reg": "STR-2012-FRZBHC"
     },
@@ -100879,6 +100902,7 @@
       "street": "DERWYN",
       "type": "RD",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2101-GPBKVG"
     },
@@ -100887,6 +100911,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2211-HZPBHZ"
     },
@@ -100895,6 +100920,7 @@
       "street": "DOWNSVIEW PARK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M3K",
       "unit": "",
       "reg": "STR-2211-FKRPHP"
     },
@@ -100903,6 +100929,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "3",
       "reg": "STR-2211-FFJHHP"
     },
@@ -100911,6 +100938,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2212-HTRPHY"
     },
@@ -100919,6 +100947,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "355",
       "reg": "STR-2212-GPHBHT"
     },
@@ -100927,6 +100956,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "745",
       "reg": "STR-2212-GRDPHT"
     },
@@ -100935,6 +100965,7 @@
       "street": "DELTA",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "",
       "reg": "STR-2212-FZCHHR"
     },
@@ -100943,6 +100974,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2301-FQWHHQ"
     },
@@ -100951,6 +100983,7 @@
       "street": "DELHI",
       "type": "AVE",
       "dir": "",
+      "postal": "M3H",
       "unit": "",
       "reg": "STR-2212-HWBBHY"
     },
@@ -100959,6 +100992,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "4",
       "reg": "STR-2212-GBLVHR"
     },
@@ -100967,6 +101001,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1002",
       "reg": "STR-2301-HTXPHY"
     },
@@ -100975,6 +101010,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "1",
       "reg": "STR-2301-FTHBHQ"
     },
@@ -100983,6 +101019,7 @@
       "street": "DANFORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "1",
       "reg": "STR-2301-HBQHHW"
     },
@@ -100991,6 +101028,7 @@
       "street": "DRIFTWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M3N",
       "unit": "",
       "reg": "STR-2301-FSDRVQ"
     },
@@ -100999,6 +101037,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2302-FSJKVQ"
     },
@@ -101007,6 +101046,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "845",
       "reg": "STR-2302-GDDRVS"
     },
@@ -101015,6 +101055,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "906",
       "reg": "STR-2302-GLKRVT"
     },
@@ -101023,6 +101064,7 @@
       "street": "DOWNSVIEW PARK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M3K",
       "unit": "",
       "reg": "STR-2302-GBXRVR"
     },
@@ -101031,6 +101073,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "806",
       "reg": "STR-2302-HHXRVW"
     },
@@ -101039,6 +101082,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "Upper",
       "reg": "STR-2302-FXFXVR"
     },
@@ -101047,6 +101091,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2302-FXWKVR"
     },
@@ -101055,6 +101100,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M5R",
       "unit": "",
       "reg": "STR-2303-HQVDVX"
     },
@@ -101063,6 +101109,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "BSMT",
       "reg": "STR-2303-FYWPHR"
     },
@@ -101071,6 +101118,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "3",
       "reg": "STR-2303-FRBHHQ"
     },
@@ -101079,6 +101127,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "2",
       "reg": "STR-2303-FSXVHQ"
     },
@@ -101087,6 +101136,7 @@
       "street": "DUNDALK",
       "type": "DR",
       "dir": "",
+      "postal": "M1P",
       "unit": "21",
       "reg": "STR-2303-FFZBHP"
     },
@@ -101095,6 +101145,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6P",
       "unit": "1",
       "reg": "STR-2304-HKVHHX"
     },
@@ -101103,6 +101154,7 @@
       "street": "DOURO",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "223",
       "reg": "STR-2304-GHXVHS"
     },
@@ -101111,6 +101163,7 @@
       "street": "DEERING",
       "type": "CRES",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2304-HPXVHX"
     },
@@ -101119,6 +101172,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2304-FRHHHQ"
     },
@@ -101127,6 +101181,7 @@
       "street": "DONALD",
       "type": "AVE",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2305-GDMBHS"
     },
@@ -101135,6 +101190,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "1",
       "reg": "STR-2305-GLTBHT"
     },
@@ -101143,6 +101199,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "2",
       "reg": "STR-2305-HDMBHW"
     },
@@ -101151,6 +101208,7 @@
       "street": "DOWSWELL",
       "type": "DR",
       "dir": "",
+      "postal": "M1B",
       "unit": "",
       "reg": "STR-2305-FJGBHP"
     },
@@ -101159,6 +101217,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "1",
       "reg": "STR-2305-JFCPHZ"
     },
@@ -101167,6 +101226,7 @@
       "street": "DENTONIA PARK",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2305-GHTDVS"
     },
@@ -101175,6 +101235,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "209",
       "reg": "STR-2305-FDRXVP"
     },
@@ -101183,6 +101244,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "646",
       "reg": "STR-2210-FZDKVD"
     },
@@ -101191,6 +101253,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "19",
       "reg": "STR-2210-JDJDVM"
     },
@@ -101199,6 +101262,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1611",
       "reg": "STR-2404-HQLRVX"
     },
@@ -101207,6 +101271,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "848",
       "reg": "STR-2405-FMSRVQ"
     },
@@ -101215,6 +101280,7 @@
       "street": "DENROCK",
       "type": "DR",
       "dir": "",
+      "postal": "M2K",
       "unit": "Upper",
       "reg": "STR-2108-FKCVHB"
     },
@@ -101223,6 +101289,7 @@
       "street": "DAVISVILLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "",
       "reg": "STR-2108-FFLBHB"
     },
@@ -101231,6 +101298,7 @@
       "street": "DOVERWOOD",
       "type": "CRT",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2108-GGBPHF"
     },
@@ -101239,6 +101307,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "1",
       "reg": "STR-2109-GCSBHF"
     },
@@ -101247,6 +101316,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "201",
       "reg": "STR-2110-HMHPHK"
     },
@@ -101255,6 +101325,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "2401",
       "reg": "STR-2110-HQVPHK"
     },
@@ -101263,6 +101334,7 @@
       "street": "DIXFIELD",
       "type": "DR",
       "dir": "",
+      "postal": "M9C",
       "unit": "",
       "reg": "STR-2110-FFTHHB"
     },
@@ -101271,6 +101343,7 @@
       "street": "DEWHURST",
       "type": "BLVD",
       "dir": "",
+      "postal": "M4J",
       "unit": "2",
       "reg": "STR-2111-FXMHHD"
     },
@@ -101279,6 +101352,7 @@
       "street": "DISTIN",
       "type": "AVE",
       "dir": "",
+      "postal": "M8Z",
       "unit": "",
       "reg": "STR-2111-GMZHHG"
     },
@@ -101287,6 +101361,7 @@
       "street": "DASHWOOD",
       "type": "CRES",
       "dir": "",
+      "postal": "M9V",
       "unit": "",
       "reg": "STR-2111-JBTKVM"
     },
@@ -101295,6 +101370,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "G12",
       "reg": "STR-2201-FZSDVD"
     },
@@ -101303,6 +101379,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2202-FQTKVC"
     },
@@ -101311,6 +101388,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2202-HWCXVL"
     },
@@ -101319,6 +101397,7 @@
       "street": "DIXON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2202-GPPRVG"
     },
@@ -101327,6 +101406,7 @@
       "street": "DOWNSVIEW PARK",
       "type": "BLVD",
       "dir": "",
+      "postal": "M3K",
       "unit": "",
       "reg": "STR-2203-FPQXVC"
     },
@@ -101335,6 +101415,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M9B",
       "unit": "603",
       "reg": "STR-2203-JCWXVM"
     },
@@ -101343,6 +101424,7 @@
       "street": "DUNN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2203-FWKBHD"
     },
@@ -101351,6 +101433,7 @@
       "street": "DUNDONALD",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "",
       "reg": "STR-2203-HSVVHL"
     },
@@ -101359,6 +101442,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "841",
       "reg": "STR-2203-HGLHHJ"
     },
@@ -101367,6 +101451,7 @@
       "street": "DOUVILLE",
       "type": "CRT",
       "dir": "",
+      "postal": "M5A",
       "unit": "",
       "reg": "STR-2204-JBZPHM"
     },
@@ -101375,6 +101460,7 @@
       "street": "DELORAINE",
       "type": "AVE",
       "dir": "",
+      "postal": "M5M",
       "unit": "",
       "reg": "STR-2205-GVPVHH"
     },
@@ -101383,6 +101469,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M5T",
       "unit": "3A",
       "reg": "STR-2205-JFSHHM"
     },
@@ -101391,6 +101478,7 @@
       "street": "DREWRY",
       "type": "AVE",
       "dir": "",
+      "postal": "M2M",
       "unit": "BSMT",
       "reg": "STR-2205-FRPXVC"
     },
@@ -101399,6 +101487,7 @@
       "street": "DUPLEX",
       "type": "AVE",
       "dir": "",
+      "postal": "M4R",
       "unit": "",
       "reg": "STR-2206-GPDDVG"
     },
@@ -101407,6 +101496,7 @@
       "street": "DEVONDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2206-GPFKVG"
     },
@@ -101415,6 +101505,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "Main/Lower",
       "reg": "STR-2206-FMRDVC"
     },
@@ -101423,6 +101514,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1058",
       "reg": "STR-2206-GLLKVG"
     },
@@ -101431,6 +101523,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "504",
       "reg": "STR-2207-HKZRVK"
     },
@@ -101439,6 +101532,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "205",
       "reg": "STR-2207-GPMRVG"
     },
@@ -101447,6 +101541,7 @@
       "street": "DENTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M1L",
       "unit": "A",
       "reg": "STR-2207-GVPXVH"
     },
@@ -101455,6 +101550,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "608",
       "reg": "STR-2207-GZHXVH"
     },
@@ -101463,6 +101559,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "2nd Floor",
       "reg": "STR-2207-FFWBHB"
     },
@@ -101471,6 +101568,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6A",
       "unit": "828",
       "reg": "STR-2207-GLXHHG"
     },
@@ -101479,6 +101577,7 @@
       "street": "DUDLEY",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2207-HWZVHL"
     },
@@ -101487,6 +101586,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "Main",
       "reg": "STR-2208-GYYPHH"
     },
@@ -101495,6 +101595,7 @@
       "street": "DALLIMORE CRCL",
       "type": "",
       "dir": "",
+      "postal": "M3C",
       "unit": "",
       "reg": "STR-2208-HTSPHL"
     },
@@ -101503,6 +101604,7 @@
       "street": "DIXON",
       "type": "RD",
       "dir": "",
+      "postal": "M9P",
       "unit": "",
       "reg": "STR-2208-FZTVHD"
     },
@@ -101511,6 +101613,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M5R",
       "unit": "2",
       "reg": "STR-2208-HPZVHK"
     },
@@ -101519,6 +101622,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2208-FZWBHD"
     },
@@ -101527,6 +101631,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "N",
+      "postal": "M6H",
       "unit": "Ground Floor",
       "reg": "STR-2209-GYFRVH"
     },
@@ -101535,6 +101640,7 @@
       "street": "DEARBOURNE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2209-FDRKVB"
     },
@@ -101543,6 +101649,7 @@
       "street": "DALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4W",
       "unit": "",
       "reg": "STR-2209-FFXKVB"
     },
@@ -101551,6 +101658,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "615",
       "reg": "STR-2209-HGMXVJ"
     },
@@ -101559,6 +101667,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "210",
       "reg": "STR-2210-HFZXVJ"
     },
@@ -101567,6 +101676,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2210-HSLRVL"
     },
@@ -101575,6 +101685,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "503",
       "reg": "STR-2103-HPZDVK"
     },
@@ -101583,6 +101694,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6A",
       "unit": "325",
       "reg": "STR-2105-GJTDVF"
     },
@@ -101591,6 +101703,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "Main",
       "reg": "STR-2105-GYRXVH"
     },
@@ -101599,6 +101712,7 @@
       "street": "DENROCK",
       "type": "DR",
       "dir": "",
+      "postal": "M2K",
       "unit": "Lower",
       "reg": "STR-2106-GSRXVG"
     },
@@ -101607,6 +101721,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "407",
       "reg": "STR-2106-FPSBHC"
     },
@@ -101615,6 +101730,7 @@
       "street": "DELANEY",
       "type": "CRES",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2107-HVSBHL"
     },
@@ -101623,6 +101739,7 @@
       "street": "DENISON",
       "type": "RD",
       "dir": "W",
+      "postal": "M9N",
       "unit": "",
       "reg": "STR-2107-HXPPHL"
     },
@@ -101631,6 +101748,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "2",
       "reg": "STR-2107-JGLBHM"
     },
@@ -101639,6 +101757,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "716",
       "reg": "STR-2107-GQJVHG"
     },
@@ -101647,6 +101766,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "348",
       "reg": "STR-2107-HRSBHL"
     },
@@ -101655,6 +101775,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2305-HBDXVW"
     },
@@ -101663,6 +101784,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "517",
       "reg": "STR-2305-FSHKVQ"
     },
@@ -101671,6 +101793,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "1",
       "reg": "STR-2306-JFKXVZ"
     },
@@ -101679,6 +101802,7 @@
       "street": "DAIRY",
       "type": "DR",
       "dir": "",
+      "postal": "M1L",
       "unit": "",
       "reg": "STR-2306-HBKXVW"
     },
@@ -101687,6 +101811,7 @@
       "street": "DREWRY",
       "type": "AVE",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2306-HTXXVY"
     },
@@ -101695,6 +101820,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "2209",
       "reg": "STR-2306-GFTDVS"
     },
@@ -101703,6 +101829,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6P",
       "unit": "",
       "reg": "STR-2307-GCLBHS"
     },
@@ -101711,6 +101838,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "F",
       "reg": "STR-2307-HCLBHW"
     },
@@ -101719,6 +101847,7 @@
       "street": "DANESBURY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6B",
       "unit": "Main FL",
       "reg": "STR-2307-JCMHHZ"
     },
@@ -101727,6 +101856,7 @@
       "street": "DONLANDS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2307-GXTHHV"
     },
@@ -101735,6 +101865,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "706",
       "reg": "STR-2307-HPWVHX"
     },
@@ -101743,6 +101874,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "911",
       "reg": "STR-2307-GKVPHT"
     },
@@ -101751,6 +101883,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2307-HFLBHW"
     },
@@ -101759,6 +101892,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "908",
       "reg": "STR-2307-JGSBHZ"
     },
@@ -101767,6 +101901,7 @@
       "street": "DORIS",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "1521",
       "reg": "STR-2307-FJBPHP"
     },
@@ -101775,6 +101910,7 @@
       "street": "DORIS",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "1421",
       "reg": "STR-2308-JDYBHZ"
     },
@@ -101783,6 +101919,7 @@
       "street": "DAWES",
       "type": "RD",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2308-GMWVHT"
     },
@@ -101791,6 +101928,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "2",
       "reg": "STR-2308-JDJVHZ"
     },
@@ -101799,6 +101937,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2308-GJGHHS"
     },
@@ -101807,6 +101946,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2308-HCHRVW"
     },
@@ -101815,6 +101955,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "2nd floor",
       "reg": "STR-2308-HWYDVY"
     },
@@ -101823,6 +101964,7 @@
       "street": "DAY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2308-HVTKVY"
     },
@@ -101831,6 +101973,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1038",
       "reg": "STR-2308-JDQXVZ"
     },
@@ -101839,6 +101982,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2308-GBTKVR"
     },
@@ -101847,6 +101991,7 @@
       "street": "DALLIMORE CRCL",
       "type": "",
       "dir": "",
+      "postal": "M3C",
       "unit": "713",
       "reg": "STR-2308-GSYDVV"
     },
@@ -101855,6 +102000,7 @@
       "street": "DANE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6A",
       "unit": "MAIN1",
       "reg": "STR-2309-FRCXVQ"
     },
@@ -101863,6 +102009,7 @@
       "street": "DENVALE",
       "type": "RD",
       "dir": "",
+      "postal": "M4B",
       "unit": "BSMT",
       "reg": "STR-2309-GGQXVS"
     },
@@ -101871,6 +102018,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6R",
       "unit": "205",
       "reg": "STR-2309-FFLDVP"
     },
@@ -101879,6 +102027,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2309-GYMKVV"
     },
@@ -101887,6 +102036,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "558",
       "reg": "STR-2309-GLPRVT"
     },
@@ -101895,6 +102045,7 @@
       "street": "DUNDONALD",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "2",
       "reg": "STR-2309-HXHRVY"
     },
@@ -101903,6 +102054,7 @@
       "street": "DALLAS",
       "type": "RD",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2310-GSQXVT"
     },
@@ -101911,6 +102063,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1602",
       "reg": "STR-2310-JGYDVZ"
     },
@@ -101919,6 +102072,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2310-GCYHHS"
     },
@@ -101927,6 +102081,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "2002",
       "reg": "STR-2310-GJZPHS"
     },
@@ -101935,6 +102090,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "Bsmt",
       "reg": "STR-2310-FVFHHR"
     },
@@ -101943,6 +102099,7 @@
       "street": "DAWLISH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4N",
       "unit": "",
       "reg": "STR-2310-GTPVHV"
     },
@@ -101951,6 +102108,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "Laneway",
       "reg": "STR-2310-FTPVHQ"
     },
@@ -101959,6 +102117,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M9B",
       "unit": "711",
       "reg": "STR-2311-GVXBHV"
     },
@@ -101967,6 +102126,7 @@
       "street": "DANFORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "A",
       "reg": "STR-2311-GXVVHV"
     },
@@ -101975,6 +102135,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2311-HMFHHX"
     },
@@ -101983,6 +102144,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "356",
       "reg": "STR-2311-FVPVHR"
     },
@@ -101991,6 +102153,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "735",
       "reg": "STR-2312-GFSHHS"
     },
@@ -101999,6 +102162,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "2205",
       "reg": "STR-2312-GXLHHV"
     },
@@ -102007,6 +102171,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "551",
       "reg": "STR-2312-GDMPHS"
     },
@@ -102015,6 +102180,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "218",
       "reg": "STR-2312-GCZRVS"
     },
@@ -102023,6 +102189,7 @@
       "street": "DARBY",
       "type": "CRT",
       "dir": "",
+      "postal": "M1B",
       "unit": "",
       "reg": "STR-2312-FQZRVQ"
     },
@@ -102031,6 +102198,7 @@
       "street": "DONALD",
       "type": "AVE",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2312-GSGRVT"
     },
@@ -102039,6 +102207,7 @@
       "street": "DIXON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "Lower",
       "reg": "STR-2312-HZPXVZ"
     },
@@ -102047,6 +102216,7 @@
       "street": "DUNRAVEN",
       "type": "DR",
       "dir": "",
+      "postal": "M6M",
       "unit": "",
       "reg": "STR-2401-GJLKVS"
     },
@@ -102055,6 +102225,7 @@
       "street": "D'ARCY",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "B",
       "reg": "STR-2401-FYZRVR"
     },
@@ -102063,6 +102234,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "937",
       "reg": "STR-2401-FQPXVQ"
     },
@@ -102071,6 +102243,7 @@
       "street": "DUNDONALD",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "",
       "reg": "STR-2401-JDFKVZ"
     },
@@ -102079,6 +102252,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "3",
       "reg": "STR-2402-GWTRVV"
     },
@@ -102087,6 +102261,7 @@
       "street": "DUNRAVEN",
       "type": "DR",
       "dir": "",
+      "postal": "M6M",
       "unit": "1",
       "reg": "STR-2402-FRKDVQ"
     },
@@ -102095,6 +102270,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M5R",
       "unit": "",
       "reg": "STR-2402-FXLKVR"
     },
@@ -102103,6 +102279,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "AP 2",
       "reg": "STR-2402-GPRDVT"
     },
@@ -102111,6 +102288,7 @@
       "street": "DELANEY",
       "type": "CRES",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2402-JGZRVZ"
     },
@@ -102119,6 +102297,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2402-GHSPHS"
     },
@@ -102127,6 +102306,7 @@
       "street": "DANESBURY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6B",
       "unit": "",
       "reg": "STR-2402-HWKHHY"
     },
@@ -102135,6 +102315,7 @@
       "street": "DISAN",
       "type": "CRT",
       "dir": "",
+      "postal": "M9V",
       "unit": "",
       "reg": "STR-2403-GJKHHS"
     },
@@ -102143,6 +102324,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "812",
       "reg": "STR-2403-GSGVHT"
     },
@@ -102151,6 +102333,7 @@
       "street": "DUNDONALD",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "31B",
       "reg": "STR-2403-GRSPHT"
     },
@@ -102159,6 +102342,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "805",
       "reg": "STR-2403-HRTVHY"
     },
@@ -102167,6 +102351,7 @@
       "street": "DUNDONALD",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "35A",
       "reg": "STR-2403-GKWBHT"
     },
@@ -102175,6 +102360,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2403-JDWBHZ"
     },
@@ -102183,6 +102369,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "819",
       "reg": "STR-2403-HHYPHW"
     },
@@ -102191,6 +102378,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "",
       "reg": "STR-2403-HCRHHW"
     },
@@ -102199,6 +102387,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "506",
       "reg": "STR-2403-GQCBHT"
     },
@@ -102207,6 +102396,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "656",
       "reg": "STR-2403-HFQBHW"
     },
@@ -102215,6 +102405,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M5R",
       "unit": "102",
       "reg": "STR-2403-FSQBHQ"
     },
@@ -102223,6 +102414,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2404-HJCBHW"
     },
@@ -102231,6 +102423,7 @@
       "street": "DACRE",
       "type": "CRES",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2404-HGZVHW"
     },
@@ -102239,6 +102432,7 @@
       "street": "DEWHURST",
       "type": "BLVD",
       "dir": "N",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2404-GSTVHT"
     },
@@ -102247,6 +102441,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "901",
       "reg": "STR-2405-HLLRVX"
     },
@@ -102255,6 +102450,7 @@
       "street": "DANFORTH",
       "type": "RD",
       "dir": "",
+      "postal": "M1J",
       "unit": "123",
       "reg": "STR-2405-FMTXVQ"
     },
@@ -102263,6 +102459,7 @@
       "street": "DACOTAH",
       "type": "AVE",
       "dir": "",
+      "postal": "M5J",
       "unit": "",
       "reg": "STR-2405-GRXKVT"
     },
@@ -102271,6 +102468,7 @@
       "street": "DRAYTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2405-HXJDVY"
     },
@@ -102279,6 +102477,7 @@
       "street": "DANFORTH AVE.",
       "type": "",
       "dir": "",
+      "postal": "M4C",
       "unit": "A",
       "reg": "STR-2412-GHZFBS"
     },
@@ -102287,6 +102486,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "308",
       "reg": "STR-2405-FFDKVP"
     },
@@ -102295,6 +102495,7 @@
       "street": "DUNKIRK",
       "type": "RD",
       "dir": "",
+      "postal": "M4C",
       "unit": "Laneway",
       "reg": "STR-2406-FPRKVQ"
     },
@@ -102303,6 +102504,7 @@
       "street": "DEARHAM WOOD",
       "type": "",
       "dir": "",
+      "postal": "M1E",
       "unit": "",
       "reg": "STR-2406-GWXKVV"
     },
@@ -102311,6 +102513,7 @@
       "street": "DUPLEX",
       "type": "AVE",
       "dir": "",
+      "postal": "M5P",
       "unit": "",
       "reg": "STR-2406-HVCHPY"
     },
@@ -102319,6 +102522,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "509",
       "reg": "STR-2406-FDSVPP"
     },
@@ -102327,6 +102531,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "247",
       "reg": "STR-2406-HSJHPY"
     },
@@ -102335,6 +102540,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "742",
       "reg": "STR-2406-HTQHPY"
     },
@@ -102343,6 +102549,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "A",
       "reg": "STR-2407-FKDPPP"
     },
@@ -102351,6 +102558,7 @@
       "street": "DRUMMOND",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "506",
       "reg": "STR-2407-HRXPPY"
     },
@@ -102359,6 +102567,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "606",
       "reg": "STR-2407-FGDPPP"
     },
@@ -102367,6 +102576,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2407-GMFVPT"
     },
@@ -102375,6 +102585,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "316",
       "reg": "STR-2407-HCSVPW"
     },
@@ -102383,6 +102594,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "749",
       "reg": "STR-2407-FZFVPR"
     },
@@ -102391,6 +102603,7 @@
       "street": "DORIS",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "2424",
       "reg": "STR-2407-FYBBPR"
     },
@@ -102399,6 +102612,7 @@
       "street": "DONLANDS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2407-HWVBPY"
     },
@@ -102407,6 +102621,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1210",
       "reg": "STR-2407-HSCHPY"
     },
@@ -102415,6 +102630,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "856",
       "reg": "STR-2407-GYCHPV"
     },
@@ -102423,6 +102639,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "957",
       "reg": "STR-2407-HPQHPX"
     },
@@ -102431,6 +102648,7 @@
       "street": "DUNSMORE GDNS",
       "type": "",
       "dir": "",
+      "postal": "M3H",
       "unit": "",
       "reg": "STR-2408-GYFYBV"
     },
@@ -102439,6 +102657,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "508",
       "reg": "STR-2408-GLXSBT"
     },
@@ -102447,6 +102666,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2408-JGPFBZ"
     },
@@ -102455,6 +102675,7 @@
       "street": "DE GRASSI",
       "type": "ST",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2408-FHFYBP"
     },
@@ -102463,6 +102684,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "639",
       "reg": "STR-2408-HDSYBW"
     },
@@ -102471,6 +102693,7 @@
       "street": "DEARBOURNE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2408-GPWLBT"
     },
@@ -102479,6 +102702,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "739",
       "reg": "STR-2408-FPXSBQ"
     },
@@ -102487,6 +102711,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1901",
       "reg": "STR-2408-HLKSBX"
     },
@@ -102495,6 +102720,7 @@
       "street": "DANIEL COZENS",
       "type": "CRT",
       "dir": "",
+      "postal": "M2R",
       "unit": "BSMNT",
       "reg": "STR-2408-GHHFBS"
     },
@@ -102503,6 +102729,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1905",
       "reg": "STR-2408-GQQLBT"
     },
@@ -102511,6 +102738,7 @@
       "street": "DUNDEE",
       "type": "DR",
       "dir": "",
+      "postal": "M3J",
       "unit": "",
       "reg": "STR-2408-HGCLBW"
     },
@@ -102519,6 +102747,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "1",
       "reg": "STR-2408-HHJLBW"
     },
@@ -102527,6 +102756,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "249",
       "reg": "STR-2408-FVKSBR"
     },
@@ -102535,6 +102765,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2409-FZHFBR"
     },
@@ -102543,6 +102774,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "E",
       "reg": "STR-2602-GWBYBV"
     },
@@ -102551,6 +102783,7 @@
       "street": "DE GRASSI",
       "type": "ST",
       "dir": "",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2409-GSSYBT"
     },
@@ -102559,6 +102792,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "2",
       "reg": "STR-2603-GYBYBV"
     },
@@ -102567,6 +102801,7 @@
       "street": "DORIS",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "2220",
       "reg": "STR-2404-HTQDVY"
     },
@@ -102575,6 +102810,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "137",
       "reg": "STR-2404-JBWDVZ"
     },
@@ -102583,6 +102819,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "1",
       "reg": "STR-2409-FTKVPQ"
     },
@@ -102591,6 +102828,7 @@
       "street": "DANFORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "1",
       "reg": "STR-2409-HSGBPY"
     },
@@ -102599,6 +102837,7 @@
       "street": "DONLANDS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2409-HCZBPW"
     },
@@ -102607,6 +102846,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1110",
       "reg": "STR-2409-FYGBPR"
     },
@@ -102615,6 +102855,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "3607",
       "reg": "STR-2410-HRRVPY"
     },
@@ -102623,6 +102864,7 @@
       "street": "DORIS",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "1229",
       "reg": "STR-2410-HZPHPZ"
     },
@@ -102631,6 +102873,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "618",
       "reg": "STR-2410-GGQPPS"
     },
@@ -102639,6 +102882,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "2",
       "reg": "STR-2410-GHGBPS"
     },
@@ -102647,6 +102891,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "709",
       "reg": "STR-2410-HKDVPX"
     },
@@ -102655,6 +102900,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "PH 6",
       "reg": "STR-2410-FGBHPP"
     },
@@ -102663,6 +102909,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6K",
       "unit": "3",
       "reg": "STR-2410-JGBHPZ"
     },
@@ -102671,6 +102918,7 @@
       "street": "DRAPER",
       "type": "ST",
       "dir": "",
+      "postal": "M5V",
       "unit": "",
       "reg": "STR-2410-HTTBPY"
     },
@@ -102679,6 +102927,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "238",
       "reg": "STR-2410-GXWPPV"
     },
@@ -102687,6 +102936,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M5T",
       "unit": "1707",
       "reg": "STR-2604-HMZVPX"
     },
@@ -102695,6 +102945,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "536",
       "reg": "STR-2411-GKKVPS"
     },
@@ -102703,6 +102954,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "358",
       "reg": "STR-2411-GGZBPS"
     },
@@ -102711,6 +102963,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "6",
       "reg": "STR-2411-HXPLBY"
     },
@@ -102719,6 +102972,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "3",
       "reg": "STR-2411-FDRYBP"
     },
@@ -102727,6 +102981,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "3205",
       "reg": "STR-2411-HBDYBW"
     },
@@ -102735,6 +102990,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "1809",
       "reg": "STR-2411-HRRYBY"
     },
@@ -102743,6 +102999,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1603",
       "reg": "STR-2412-HLHLBX"
     },
@@ -102751,6 +103008,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "246",
       "reg": "STR-2412-GCMFBS"
     },
@@ -102759,6 +103017,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "2010",
       "reg": "STR-2412-HZQSBZ"
     },
@@ -102767,6 +103026,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2412-FHGFBP"
     },
@@ -102775,6 +103035,7 @@
       "street": "DANFORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "1",
       "reg": "STR-2412-GHGFBS"
     },
@@ -102783,6 +103044,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6P",
       "unit": "102",
       "reg": "STR-2412-GRCSBT"
     },
@@ -102791,6 +103053,7 @@
       "street": "DUNKIRK",
       "type": "RD",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2412-FMCSBQ"
     },
@@ -102799,6 +103062,7 @@
       "street": "D'ARCY",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "",
       "reg": "STR-2412-GQCSBT"
     },
@@ -102807,6 +103071,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "943",
       "reg": "STR-2412-GXJSBV"
     },
@@ -102815,6 +103080,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2501-GLBLBT"
     },
@@ -102823,6 +103089,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "1901",
       "reg": "STR-2501-HSRYBY"
     },
@@ -102831,6 +103098,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "635",
       "reg": "STR-2501-FKKYBP"
     },
@@ -102839,6 +103107,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "307",
       "reg": "STR-2501-HZZFBZ"
     },
@@ -102847,6 +103116,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M5R",
       "unit": "205",
       "reg": "STR-2501-JCGFBZ"
     },
@@ -102855,6 +103125,7 @@
       "street": "DE QUINCY",
       "type": "BLVD",
       "dir": "",
+      "postal": "M3H",
       "unit": "2",
       "reg": "STR-2501-HFTFBW"
     },
@@ -102863,6 +103134,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "A",
       "reg": "STR-2502-HHQSBW"
     },
@@ -102871,6 +103143,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "Main",
       "reg": "STR-2502-GZZFBV"
     },
@@ -102879,6 +103152,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "950",
       "reg": "STR-2502-HRMFBX"
     },
@@ -102887,6 +103161,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "1209",
       "reg": "STR-2502-FLWVPQ"
     },
@@ -102895,6 +103170,7 @@
       "street": "DE VERE GDNS",
       "type": "",
       "dir": "",
+      "postal": "M5M",
       "unit": "",
       "reg": "STR-2502-HVCVPY"
     },
@@ -102903,6 +103179,7 @@
       "street": "DIVADALE",
       "type": "DR",
       "dir": "",
+      "postal": "M4G",
       "unit": "",
       "reg": "STR-2503-FKQVPP"
     },
@@ -102911,6 +103188,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1811",
       "reg": "STR-2503-FVVPPR"
     },
@@ -102919,6 +103197,7 @@
       "street": "DENISON",
       "type": "AVE",
       "dir": "",
+      "postal": "M5T",
       "unit": "",
       "reg": "STR-2503-GQLBPT"
     },
@@ -102927,6 +103206,7 @@
       "street": "DOWLING",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "B",
       "reg": "STR-2503-FKBPPP"
     },
@@ -102935,6 +103215,7 @@
       "street": "DOURO",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "114",
       "reg": "STR-2503-GTQVPV"
     },
@@ -102943,6 +103224,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1202",
       "reg": "STR-2503-FPGHPQ"
     },
@@ -102951,6 +103233,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2503-HDTHPW"
     },
@@ -102959,6 +103242,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6A",
       "unit": "1509",
       "reg": "STR-2504-HTBPPY"
     },
@@ -102967,6 +103251,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "555",
       "reg": "STR-2504-JBHPPZ"
     },
@@ -102975,6 +103260,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "3",
       "reg": "STR-2504-FHYBPP"
     },
@@ -102983,6 +103269,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1608",
       "reg": "STR-2504-FKFBPP"
     },
@@ -102991,6 +103278,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "648",
       "reg": "STR-2504-FZSBPR"
     },
@@ -102999,6 +103287,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "804",
       "reg": "STR-2504-JFLBPZ"
     },
@@ -103007,6 +103296,7 @@
       "street": "DACOTAH",
       "type": "AVE",
       "dir": "",
+      "postal": "M5J",
       "unit": "",
       "reg": "STR-2504-FHZHPP"
     },
@@ -103015,6 +103305,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "507",
       "reg": "STR-2505-GXZHPV"
     },
@@ -103023,6 +103314,7 @@
       "street": "DIXON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2505-GMHPPT"
     },
@@ -103031,6 +103323,7 @@
       "street": "DAVISVILLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "",
       "reg": "STR-2506-GMZHPT"
     },
@@ -103039,6 +103332,7 @@
       "street": "DAVISVILLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "412",
       "reg": "STR-2506-JCGHPZ"
     },
@@ -103047,6 +103341,7 @@
       "street": "DANIELS",
       "type": "ST",
       "dir": "",
+      "postal": "M8Y",
       "unit": "",
       "reg": "STR-2506-HCYFBW"
     },
@@ -103055,6 +103350,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2506-HGLFBW"
     },
@@ -103063,6 +103359,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "306",
       "reg": "STR-2506-GBBSBR"
     },
@@ -103071,6 +103368,7 @@
       "street": "DANFORTH",
       "type": "RD",
       "dir": "",
+      "postal": "M1J",
       "unit": "201",
       "reg": "STR-2506-JDQYBZ"
     },
@@ -103079,6 +103377,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "BSMT",
       "reg": "STR-2506-FZMLBR"
     },
@@ -103087,6 +103386,7 @@
       "street": "DON VALLEY",
       "type": "DR",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2506-HGMLBW"
     },
@@ -103095,6 +103395,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M5A",
       "unit": "A",
       "reg": "STR-2506-FLGLBP"
     },
@@ -103103,6 +103404,7 @@
       "street": "DELANEY",
       "type": "CRES",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2507-GZMLBV"
     },
@@ -103111,6 +103413,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "N",
+      "postal": "M6H",
       "unit": "Upper",
       "reg": "STR-2507-HQZLBX"
     },
@@ -103119,6 +103422,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "647",
       "reg": "STR-2507-HBVSBW"
     },
@@ -103127,6 +103431,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "635",
       "reg": "STR-2507-HZPSBZ"
     },
@@ -103135,6 +103440,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6P",
       "unit": "1",
       "reg": "STR-2507-GFYFBS"
     },
@@ -103143,6 +103449,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "756",
       "reg": "STR-2507-HWLFBY"
     },
@@ -103151,6 +103458,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "715",
       "reg": "STR-2507-GZPSBV"
     },
@@ -103159,6 +103467,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "502",
       "reg": "STR-2507-HCMLBW"
     },
@@ -103167,6 +103476,7 @@
       "street": "DON MILLS",
       "type": "RD",
       "dir": "",
+      "postal": "M2H",
       "unit": "120",
       "reg": "STR-2507-FHWYBP"
     },
@@ -103175,6 +103485,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2507-FYZLBR"
     },
@@ -103183,6 +103494,7 @@
       "street": "DARLINGSIDE",
       "type": "DR",
       "dir": "",
+      "postal": "M1E",
       "unit": "",
       "reg": "STR-2507-GQMLBT"
     },
@@ -103191,6 +103503,7 @@
       "street": "DENVER",
       "type": "CRES",
       "dir": "",
+      "postal": "M2J",
       "unit": "",
       "reg": "STR-2507-HWMLBY"
     },
@@ -103199,6 +103512,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2507-GYZLBV"
     },
@@ -103207,6 +103521,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "650",
       "reg": "STR-2507-FVHSBR"
     },
@@ -103215,6 +103530,7 @@
       "street": "DURIE",
       "type": "ST",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2507-GCPSBS"
     },
@@ -103223,6 +103539,7 @@
       "street": "DANFORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2507-GLLFBT"
     },
@@ -103231,6 +103548,7 @@
       "street": "D'ARCY",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "B",
       "reg": "STR-2507-HBYFBW"
     },
@@ -103239,6 +103557,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "342",
       "reg": "STR-2507-GHHSBS"
     },
@@ -103247,6 +103566,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "601",
       "reg": "STR-2507-GQPSBT"
     },
@@ -103255,6 +103575,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "553",
       "reg": "STR-2507-HQPSBX"
     },
@@ -103263,6 +103584,7 @@
       "street": "DANFORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "216",
       "reg": "STR-2507-FLLFBP"
     },
@@ -103271,6 +103593,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1610",
       "reg": "STR-2508-HRFFBX"
     },
@@ -103279,6 +103602,7 @@
       "street": "DRAPER",
       "type": "ST",
       "dir": "",
+      "postal": "M5V",
       "unit": "",
       "reg": "STR-2508-FWQYBR"
     },
@@ -103287,6 +103611,7 @@
       "street": "DUNVIEW",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "",
       "reg": "STR-2508-GQQYBT"
     },
@@ -103295,6 +103620,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "Main",
       "reg": "STR-2508-FVLFBR"
     },
@@ -103303,6 +103629,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "903",
       "reg": "STR-2508-FMVSBQ"
     },
@@ -103311,6 +103638,7 @@
       "street": "DUNVEGAN",
       "type": "RD",
       "dir": "",
+      "postal": "M4V",
       "unit": "",
       "reg": "STR-2508-GXYFBV"
     },
@@ -103319,6 +103647,7 @@
       "street": "DREWRY",
       "type": "AVE",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2508-FFQYBP"
     },
@@ -103327,6 +103656,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "1119",
       "reg": "STR-2508-FGGLBP"
     },
@@ -103335,6 +103665,7 @@
       "street": "DEVONDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2508-FRJYBQ"
     },
@@ -103343,6 +103674,7 @@
       "street": "DOURO",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "110",
       "reg": "STR-2509-GTHSBV"
     },
@@ -103351,6 +103683,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1009",
       "reg": "STR-2509-FQFFBQ"
     },
@@ -103359,6 +103692,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1810",
       "reg": "STR-2509-HJWYBX"
     },
@@ -103367,6 +103701,7 @@
       "street": "DUFFIELD",
       "type": "RD",
       "dir": "",
+      "postal": "M9P",
       "unit": "A",
       "reg": "STR-2509-JBQYBZ"
     },
@@ -103375,6 +103710,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "212",
       "reg": "STR-2509-HMJYBX"
     },
@@ -103383,6 +103719,7 @@
       "street": "DELORAINE",
       "type": "AVE",
       "dir": "",
+      "postal": "M5M",
       "unit": "",
       "reg": "STR-2509-HWGLBY"
     },
@@ -103391,6 +103728,7 @@
       "street": "DAIRY",
       "type": "DR",
       "dir": "",
+      "postal": "M1L",
       "unit": "",
       "reg": "STR-2509-GHQYBS"
     },
@@ -103399,6 +103737,7 @@
       "street": "DEEP DENE",
       "type": "DR",
       "dir": "",
+      "postal": "M1C",
       "unit": "",
       "reg": "STR-2509-HPQYBX"
     },
@@ -103407,6 +103746,7 @@
       "street": "DORWARD",
       "type": "DR",
       "dir": "",
+      "postal": "M9V",
       "unit": "",
       "reg": "STR-2509-HRMLBX"
     },
@@ -103415,6 +103755,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6E",
       "unit": "2",
       "reg": "STR-2509-GKPVPT"
     },
@@ -103423,6 +103764,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "605",
       "reg": "STR-2509-FFVVPP"
     },
@@ -103431,6 +103773,7 @@
       "street": "DALESFORD",
       "type": "RD",
       "dir": "",
+      "postal": "M8Y",
       "unit": "321",
       "reg": "STR-2509-FPBVPQ"
     },
@@ -103439,6 +103782,7 @@
       "street": "DEERING",
       "type": "CRES",
       "dir": "",
+      "postal": "M2M",
       "unit": "",
       "reg": "STR-2509-JBBVPZ"
     },
@@ -103447,6 +103791,7 @@
       "street": "DORIS",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "1826",
       "reg": "STR-2509-HFVVPW"
     },
@@ -103455,6 +103800,7 @@
       "street": "DRIFTWOOD",
       "type": "AVE",
       "dir": "",
+      "postal": "M3N",
       "unit": "304",
       "reg": "STR-2509-FJYHPP"
     },
@@ -103463,6 +103809,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "301",
       "reg": "STR-2509-HXPVPY"
     },
@@ -103471,6 +103818,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "801",
       "reg": "STR-2510-GFXBPS"
     },
@@ -103479,6 +103827,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6H",
       "unit": "1",
       "reg": "STR-2510-JDRBPZ"
     },
@@ -103487,6 +103836,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "548",
       "reg": "STR-2510-HRSHPY"
     },
@@ -103495,6 +103845,7 @@
       "street": "DURIE",
       "type": "ST",
       "dir": "",
+      "postal": "M6S",
       "unit": "",
       "reg": "STR-2510-FFHVPP"
     },
@@ -103503,6 +103854,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "311",
       "reg": "STR-2510-GHFHPS"
     },
@@ -103511,6 +103863,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1907",
       "reg": "STR-2510-HPVVPX"
     },
@@ -103519,6 +103872,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "750",
       "reg": "STR-2510-FKSHPP"
     },
@@ -103527,6 +103881,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "611",
       "reg": "STR-2510-FVXBPR"
     },
@@ -103535,6 +103890,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "N",
+      "postal": "M6H",
       "unit": "BSMT",
       "reg": "STR-2510-HKDBPX"
     },
@@ -103543,6 +103899,7 @@
       "street": "DUNFIELD AVENUE",
       "type": "",
       "dir": "",
+      "postal": "M4S",
       "unit": "2710",
       "reg": "STR-2510-GGRBPS"
     },
@@ -103551,6 +103908,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "941",
       "reg": "STR-2510-HGRBPW"
     },
@@ -103559,6 +103917,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1015",
       "reg": "STR-2510-FMSHPQ"
     },
@@ -103567,6 +103926,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "736",
       "reg": "STR-2510-GMBVPT"
     },
@@ -103575,6 +103935,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M5R",
       "unit": "1",
       "reg": "STR-2510-HCPVPW"
     },
@@ -103583,6 +103944,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "201",
       "reg": "STR-2510-HDVVPW"
     },
@@ -103591,6 +103953,7 @@
       "street": "DENTON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "",
       "reg": "STR-2510-HMBVPX"
     },
@@ -103599,6 +103962,7 @@
       "street": "DANFORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "2",
       "reg": "STR-2511-GKFHPS"
     },
@@ -103607,6 +103971,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "2005",
       "reg": "STR-2511-GLMPPT"
     },
@@ -103615,6 +103980,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "2306",
       "reg": "STR-2511-GPKBPT"
     },
@@ -103623,6 +103989,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M5T",
       "unit": "",
       "reg": "STR-2511-JGDBPZ"
     },
@@ -103631,6 +103998,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6R",
       "unit": "2",
       "reg": "STR-2511-HTFHPY"
     },
@@ -103639,6 +104007,7 @@
       "street": "DELBURN",
       "type": "DR",
       "dir": "",
+      "postal": "M1V",
       "unit": "",
       "reg": "STR-2511-HDHVPW"
     },
@@ -103647,6 +104016,7 @@
       "street": "DENISON SQ",
       "type": "",
       "dir": "",
+      "postal": "M5T",
       "unit": "",
       "reg": "STR-2511-GPLHPT"
     },
@@ -103655,6 +104025,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "REAR",
       "reg": "STR-2511-FKYHPP"
     },
@@ -103663,6 +104034,7 @@
       "street": "DROXFORD",
       "type": "AVE",
       "dir": "",
+      "postal": "M1R",
       "unit": "",
       "reg": "STR-2511-GVMPPV"
     },
@@ -103671,6 +104043,7 @@
       "street": "D'ARCY",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "F",
       "reg": "STR-2511-FQDBPQ"
     },
@@ -103679,6 +104052,7 @@
       "street": "DANIELLE MOORE CIR",
       "type": "",
       "dir": "",
+      "postal": "M1P",
       "unit": "",
       "reg": "STR-2511-GQTPPT"
     },
@@ -103687,6 +104061,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "840",
       "reg": "STR-2511-HQDBPX"
     },
@@ -103695,6 +104070,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M5T",
       "unit": "2",
       "reg": "STR-2512-FGYHPP"
     },
@@ -103703,6 +104079,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M5R",
       "unit": "213",
       "reg": "STR-2512-JBPVPZ"
     },
@@ -103711,6 +104088,7 @@
       "street": "DUNDALK",
       "type": "DR",
       "dir": "",
+      "postal": "M1P",
       "unit": "5",
       "reg": "STR-2512-GMYHPT"
     },
@@ -103719,6 +104097,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2512-FQVVPQ"
     },
@@ -103727,6 +104106,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1206",
       "reg": "STR-2512-HFBVPW"
     },
@@ -103735,6 +104115,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "G",
       "reg": "STR-2512-HFSHPW"
     },
@@ -103743,6 +104124,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "312",
       "reg": "STR-2512-HMYHPX"
     },
@@ -103751,6 +104133,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "540",
       "reg": "STR-2512-HWFHPY"
     },
@@ -103759,6 +104142,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1001",
       "reg": "STR-2512-GYBVPV"
     },
@@ -103767,6 +104151,7 @@
       "street": "DUNDONALD",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "5",
       "reg": "STR-2512-HHPVPW"
     },
@@ -103775,6 +104160,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "203",
       "reg": "STR-2512-GSSHPT"
     },
@@ -103783,6 +104169,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "251",
       "reg": "STR-2512-GLDBPT"
     },
@@ -103791,6 +104178,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "2",
       "reg": "STR-2512-HCXBPW"
     },
@@ -103799,6 +104187,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "557",
       "reg": "STR-2512-HLTPPX"
     },
@@ -103807,6 +104196,7 @@
       "street": "DOURO",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "535",
       "reg": "STR-2512-HMKBPX"
     },
@@ -103815,6 +104205,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "338",
       "reg": "STR-2512-FYTPPR"
     },
@@ -103823,6 +104214,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M5R",
       "unit": "1503",
       "reg": "STR-2512-FSDBPQ"
     },
@@ -103831,6 +104223,7 @@
       "street": "DANFORTH",
       "type": "AVE",
       "dir": "",
+      "postal": "M4C",
       "unit": "204",
       "reg": "STR-2512-GJXBPS"
     },
@@ -103839,6 +104232,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2512-HQXBPX"
     },
@@ -103847,6 +104241,7 @@
       "street": "DARNBOROUGH",
       "type": "WAY",
       "dir": "",
+      "postal": "M1W",
       "unit": "",
       "reg": "STR-2512-JGKBPZ"
     },
@@ -103855,6 +104250,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "2105",
       "reg": "STR-2512-GSTPPT"
     },
@@ -103863,6 +104259,7 @@
       "street": "DELANEY",
       "type": "CRES",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2512-GTLLBV"
     },
@@ -103871,6 +104268,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1050",
       "reg": "STR-2512-HZLLBZ"
     },
@@ -103879,6 +104277,7 @@
       "street": "DUNDALK",
       "type": "DR",
       "dir": "",
+      "postal": "M1P",
       "unit": "8",
       "reg": "STR-2512-FQYLBQ"
     },
@@ -103887,6 +104286,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6E",
       "unit": "2",
       "reg": "STR-2512-HSGSBY"
     },
@@ -103895,6 +104295,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "720",
       "reg": "STR-2512-FHTSBP"
     },
@@ -103903,6 +104304,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "519",
       "reg": "STR-2512-FQZSBQ"
     },
@@ -103911,6 +104313,7 @@
       "street": "DUNN",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2512-HFGSBW"
     },
@@ -103919,6 +104322,7 @@
       "street": "DELMA",
       "type": "DR",
       "dir": "",
+      "postal": "M8W",
       "unit": "Suite2",
       "reg": "STR-2601-FSXFBQ"
     },
@@ -103927,6 +104331,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2601-HQKFBX"
     },
@@ -103935,6 +104340,7 @@
       "street": "DARLINGSIDE",
       "type": "DR",
       "dir": "",
+      "postal": "M1E",
       "unit": "",
       "reg": "STR-2601-GKSLBT"
     },
@@ -103943,6 +104349,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6G",
       "unit": "",
       "reg": "STR-2601-FHFLBP"
     },
@@ -103951,6 +104358,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "308",
       "reg": "STR-2601-HBGSBW"
     },
@@ -103959,6 +104367,7 @@
       "street": "DEE",
       "type": "AVE",
       "dir": "",
+      "postal": "M9N",
       "unit": "",
       "reg": "STR-2601-FQMSBQ"
     },
@@ -103967,6 +104376,7 @@
       "street": "DOMBEY",
       "type": "RD",
       "dir": "",
+      "postal": "M3L",
       "unit": "",
       "reg": "STR-2601-FRTSBQ"
     },
@@ -103975,6 +104385,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "621",
       "reg": "STR-2602-GRDFBT"
     },
@@ -103983,6 +104394,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6E",
       "unit": "AP 3",
       "reg": "STR-2602-FKTSBP"
     },
@@ -103991,6 +104403,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "1305",
       "reg": "STR-2602-GDVYBS"
     },
@@ -103999,6 +104412,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "708",
       "reg": "STR-2602-JDVYBZ"
     },
@@ -104007,6 +104421,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M5R",
       "unit": "2",
       "reg": "STR-2602-GSLLBT"
     },
@@ -104015,6 +104430,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6J",
       "unit": "",
       "reg": "STR-2602-HKHYBX"
     },
@@ -104023,6 +104439,7 @@
       "street": "DRUMMOND",
       "type": "ST",
       "dir": "",
+      "postal": "M8V",
       "unit": "508",
       "reg": "STR-2602-GMTSBT"
     },
@@ -104031,6 +104448,7 @@
       "street": "DONLANDS",
       "type": "AVE",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2602-JCRFBZ"
     },
@@ -104039,6 +104457,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "220",
       "reg": "STR-2602-FQBYBQ"
     },
@@ -104047,6 +104466,7 @@
       "street": "DEVONDALE",
       "type": "AVE",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2602-GMVYBT"
     },
@@ -104055,6 +104475,7 @@
       "street": "DENVALE",
       "type": "RD",
       "dir": "",
+      "postal": "M4B",
       "unit": "",
       "reg": "STR-2602-HMFLBX"
     },
@@ -104063,6 +104484,7 @@
       "street": "DALHOUSIE",
       "type": "ST",
       "dir": "",
+      "postal": "M5B",
       "unit": "2212",
       "reg": "STR-2602-HQSLBX"
     },
@@ -104071,6 +104493,7 @@
       "street": "DOWLING",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "11",
       "reg": "STR-2602-GMGSBT"
     },
@@ -104079,6 +104502,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "PH02",
       "reg": "STR-2603-HHMSBW"
     },
@@ -104087,6 +104511,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "G16",
       "reg": "STR-2603-HYRFBY"
     },
@@ -104095,6 +104520,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M5B",
       "unit": "",
       "reg": "STR-2603-GLSLBT"
     },
@@ -104103,6 +104529,7 @@
       "street": "DEWSON",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2603-GTYLBV"
     },
@@ -104111,6 +104538,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "2103",
       "reg": "STR-2603-GFBYBS"
     },
@@ -104119,6 +104547,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "633",
       "reg": "STR-2603-FYSLBR"
     },
@@ -104127,6 +104556,7 @@
       "street": "DANIELLE MOORE CRCL",
       "type": "",
       "dir": "",
+      "postal": "M1P",
       "unit": "",
       "reg": "STR-2603-HSTSBY"
     },
@@ -104135,6 +104565,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6E",
       "unit": "A",
       "reg": "STR-2603-GFDFBS"
     },
@@ -104143,6 +104574,7 @@
       "street": "DREWRY",
       "type": "AVE",
       "dir": "",
+      "postal": "M2R",
       "unit": "",
       "reg": "STR-2603-FQGSBQ"
     },
@@ -104151,6 +104583,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6P",
       "unit": "1",
       "reg": "STR-2603-GQGSBT"
     },
@@ -104159,6 +104592,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "501",
       "reg": "STR-2603-JFDFBZ"
     },
@@ -104167,6 +104601,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6R",
       "unit": "2",
       "reg": "STR-2603-FWJBPR"
     },
@@ -104175,6 +104610,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "",
       "reg": "STR-2603-GDQBPS"
     },
@@ -104183,6 +104619,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "958",
       "reg": "STR-2603-FWYPPR"
     },
@@ -104191,6 +104628,7 @@
       "street": "DUNDONALD",
       "type": "ST",
       "dir": "",
+      "postal": "M4Y",
       "unit": "4",
       "reg": "STR-2603-HLFPPX"
     },
@@ -104199,6 +104637,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "SUITE1501",
       "reg": "STR-2603-GPSPPT"
     },
@@ -104207,6 +104646,7 @@
       "street": "DEARBOURNE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4K",
       "unit": "",
       "reg": "STR-2603-FJYPPP"
     },
@@ -104215,6 +104655,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "UN-PH01",
       "reg": "STR-2603-JGLPPZ"
     },
@@ -104223,6 +104664,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "Unit 2",
       "reg": "STR-2603-HYXHPZ"
     },
@@ -104231,6 +104673,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2603-GDCBPS"
     },
@@ -104239,6 +104682,7 @@
       "street": "DOWLING",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2603-FYJBPR"
     },
@@ -104247,6 +104691,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "2",
       "reg": "STR-2603-HHFPPW"
     },
@@ -104255,6 +104700,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "916",
       "reg": "STR-2603-HZRHPZ"
     },
@@ -104263,6 +104709,7 @@
       "street": "DANE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6A",
       "unit": "",
       "reg": "STR-2603-HMRHPX"
     },
@@ -104271,6 +104718,7 @@
       "street": "DOVERCOURT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "Main",
       "reg": "STR-2603-GZRHPV"
     },
@@ -104279,6 +104727,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "237",
       "reg": "STR-2603-GDWBPS"
     },
@@ -104287,6 +104736,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2603-FXFPPR"
     },
@@ -104295,6 +104745,7 @@
       "street": "DELTA",
       "type": "ST",
       "dir": "",
+      "postal": "M8W",
       "unit": "1",
       "reg": "STR-2603-HDFPPW"
     },
@@ -104303,6 +104754,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "616",
       "reg": "STR-2603-HVYPPY"
     },
@@ -104311,6 +104763,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "514",
       "reg": "STR-2604-HRFPPX"
     },
@@ -104319,6 +104772,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "502",
       "reg": "STR-2604-FGDHPP"
     },
@@ -104327,6 +104781,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "815",
       "reg": "STR-2604-HTTVPY"
     },
@@ -104335,6 +104790,7 @@
       "street": "DELEMERE",
       "type": "AVE",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2604-FHKHPP"
     },
@@ -104343,6 +104799,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "1",
       "reg": "STR-2604-FQRHPQ"
     },
@@ -104351,6 +104808,7 @@
       "street": "DELAWARE",
       "type": "AVE",
       "dir": "N",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2604-GGTVPS"
     },
@@ -104359,6 +104817,7 @@
       "street": "DISTILLERY",
       "type": "LANE",
       "dir": "",
+      "postal": "M5A",
       "unit": "1002",
       "reg": "STR-2604-FKGVPP"
     },
@@ -104367,6 +104826,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "556",
       "reg": "STR-2604-JFMVPZ"
     },
@@ -104375,6 +104835,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1007",
       "reg": "STR-2604-HRYPPY"
     },
@@ -104383,6 +104844,7 @@
       "street": "DOWLING",
       "type": "AVE",
       "dir": "",
+      "postal": "M6K",
       "unit": "204",
       "reg": "STR-2604-HKJBPX"
     },
@@ -104391,6 +104853,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1502",
       "reg": "STR-2604-HZWBPZ"
     },
@@ -104399,6 +104862,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1908",
       "reg": "STR-2604-HCSPPW"
     },
@@ -104407,6 +104871,7 @@
       "street": "DORIS",
       "type": "AVE",
       "dir": "",
+      "postal": "M2N",
       "unit": "619",
       "reg": "STR-2604-HTWBPY"
     },
@@ -104415,6 +104880,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "339",
       "reg": "STR-2604-GCCBPR"
     },
@@ -104423,6 +104889,7 @@
       "street": "DANFORTH",
       "type": "RD",
       "dir": "",
+      "postal": "M1K",
       "unit": "4",
       "reg": "STR-2604-GDZVPS"
     },
@@ -104431,6 +104898,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "649",
       "reg": "STR-2604-GMGVPT"
     },
@@ -104439,6 +104907,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "701",
       "reg": "STR-2604-JCDHPZ"
     },
@@ -104447,6 +104916,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M5T",
       "unit": "3",
       "reg": "STR-2604-GKKHPS"
     },
@@ -104455,6 +104925,7 @@
       "street": "DALESFORD",
       "type": "RD",
       "dir": "",
+      "postal": "M8Y",
       "unit": "2",
       "reg": "STR-2604-HZYPPZ"
     },
@@ -104463,6 +104934,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "2106",
       "reg": "STR-2604-HLCBPX"
     },
@@ -104471,6 +104943,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2604-FYCBPR"
     },
@@ -104479,6 +104952,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6N",
       "unit": "",
       "reg": "STR-2604-HFCBPW"
     },
@@ -104487,6 +104961,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "510",
       "reg": "STR-2604-HXLPPY"
     },
@@ -104495,6 +104970,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6E",
       "unit": "3",
       "reg": "STR-2604-GBQBPR"
     },
@@ -104503,6 +104979,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "605",
       "reg": "STR-2604-GSSPPT"
     },
@@ -104511,6 +104988,7 @@
       "street": "DIXON",
       "type": "AVE",
       "dir": "",
+      "postal": "M4L",
       "unit": "",
       "reg": "STR-2604-HJXHPX"
     },
@@ -104519,6 +104997,7 @@
       "street": "DERWYN",
       "type": "RD",
       "dir": "",
+      "postal": "M4J",
       "unit": "",
       "reg": "STR-2604-GLTVPT"
     },
@@ -104527,6 +105006,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1037",
       "reg": "STR-2604-HSTVPY"
     },
@@ -104535,6 +105015,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "507",
       "reg": "STR-2604-HCXHPW"
     },
@@ -104543,6 +105024,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "A",
       "reg": "STR-2604-FJGVPP"
     },
@@ -104551,6 +105033,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "658",
       "reg": "STR-2604-GRMVPT"
     },
@@ -104559,6 +105042,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "E",
+      "postal": "M4M",
       "unit": "100",
       "reg": "STR-2604-HGZVPW"
     },
@@ -104567,6 +105051,7 @@
       "street": "D'ARCY",
       "type": "ST",
       "dir": "",
+      "postal": "M5T",
       "unit": "1",
       "reg": "STR-2604-GJXHPS"
     },
@@ -104575,6 +105060,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "512",
       "reg": "STR-2604-GWJFBV"
     },
@@ -104583,6 +105069,7 @@
       "street": "DAVENPORT",
       "type": "RD",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2604-HFWFBW"
     },
@@ -104591,6 +105078,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "1806",
       "reg": "STR-2604-GQYSBT"
     },
@@ -104599,6 +105087,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1609",
       "reg": "STR-2604-GRQFBT"
     },
@@ -104607,6 +105096,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6E",
       "unit": "",
       "reg": "STR-2604-GZLSBV"
     },
@@ -104615,6 +105105,7 @@
       "street": "DAY",
       "type": "AVE",
       "dir": "",
+      "postal": "M6E",
       "unit": "UN-A",
       "reg": "STR-2604-GTMYBV"
     },
@@ -104623,6 +105114,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2604-HJZYBX"
     },
@@ -104631,6 +105123,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6G",
       "unit": "540",
       "reg": "STR-2604-GPDLBT"
     },
@@ -104639,6 +105132,7 @@
       "street": "DANFORTH",
       "type": "RD",
       "dir": "",
+      "postal": "M1L",
       "unit": "",
       "reg": "STR-2604-HVDLBY"
     },
@@ -104647,6 +105141,7 @@
       "street": "DRYSDALE",
       "type": "CRES",
       "dir": "",
+      "postal": "M2H",
       "unit": "",
       "reg": "STR-2604-FQZYBQ"
     },
@@ -104655,6 +105150,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6P",
       "unit": "1",
       "reg": "STR-2604-HFGYBW"
     },
@@ -104663,6 +105159,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6E",
       "unit": "201",
       "reg": "STR-2604-FJZYBP"
     },
@@ -104671,6 +105168,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "1039",
       "reg": "STR-2604-GYGYBV"
     },
@@ -104679,6 +105177,7 @@
       "street": "DREAMERS",
       "type": "WAY",
       "dir": "E",
+      "postal": "M5A",
       "unit": "250",
       "reg": "STR-2604-GJKLBS"
     },
@@ -104687,6 +105186,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "951",
       "reg": "STR-2605-HDSSBW"
     },
@@ -104695,6 +105195,7 @@
       "street": "DELANEY",
       "type": "CRES",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2605-GTRLBV"
     },
@@ -104703,6 +105204,7 @@
       "street": "DUPONT",
       "type": "ST",
       "dir": "",
+      "postal": "M6H",
       "unit": "",
       "reg": "STR-2605-HZRLBZ"
     },
@@ -104711,6 +105213,7 @@
       "street": "DUNDAS",
       "type": "ST",
       "dir": "W",
+      "postal": "M6J",
       "unit": "405",
       "reg": "STR-2605-FXDLBR"
     },
@@ -104719,6 +105222,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "343",
       "reg": "STR-2605-FRDLBQ"
     },
@@ -104727,6 +105231,7 @@
       "street": "DUNFIELD",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "2404",
       "reg": "STR-2605-FKTYBP"
     },
@@ -104735,6 +105240,7 @@
       "street": "DUFFERIN",
       "type": "ST",
       "dir": "",
+      "postal": "M6K",
       "unit": "",
       "reg": "STR-2605-JGRLBZ"
     },
@@ -104743,6 +105249,7 @@
       "street": "DAN LECKIE",
       "type": "WAY",
       "dir": "",
+      "postal": "M5V",
       "unit": "651",
       "reg": "STR-2605-HBYSBW"
     },
@@ -104751,6 +105258,7 @@
       "street": "DAVISVILLE",
       "type": "AVE",
       "dir": "",
+      "postal": "M4S",
       "unit": "1803",
       "reg": "STR-2605-JDXLBZ"
     }
