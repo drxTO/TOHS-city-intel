@@ -23009,202 +23009,59 @@
   ],
   "pdn": [
     {
-      "num": "645",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
+      "num": "50",
+      "street": "NEPTUNE",
+      "type": "DR",
       "dir": "",
-      "lat": 43.6931013984184,
-      "lng": -79.4472170591332,
-      "num_app": "21 250763 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=GgesZnAVZjg7bZf9n3ES9A%3D%3D",
-      "desc": "Site Plan Approval-15-storey residential building having a residential gross floor area of 11037.1 square metres"
+      "lat": 43.72956869215398,
+      "lng": -79.43500798401709,
+      "num_app": "20 161241 NNY 08 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7zWmZgquQIJhZqOVoDuO5w%3D%3D",
+      "desc": "Site Plan Control application for a proposed 10 storey residential building with 164 units, including 24 rental replacement units. Associated with Zoning By-law Amendment file 09 200486 NNY 15 OZ (LPAT)."
     },
     {
-      "num": "125",
-      "street": "NIAGARA",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.63907002782727,
-      "lng": -79.40535344924407,
-      "num_app": "21 239771 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2F1uhvGfwKqaVUZdpKy2PQQ%3D%3D",
-      "desc": "Site Plan Control application for three mixed-use buildings with a total of 1,225 dwelling units and 3,370 square metres of non-residential gross floor area that are proposed to be constructed in two phases. Phase 1 is proposed to be 31 storeys (110.5 metres), and Phase 2 is proposed to be 40 storeys (130.5 metres) and 12 storeys (45.4 metres). All three buildings will have a shared two-storey below grade parking garage with a total of 401 vehicular parking spaces."
-    },
-    {
-      "num": "645",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.6931013984184,
-      "lng": -79.4472170591332,
-      "num_app": "21 235841 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
-      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
-    },
-    {
-      "num": "647",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.69315642026121,
-      "lng": -79.44724859513184,
-      "num_app": "21 235841 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
-      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
-    },
-    {
-      "num": "649",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.693206866495494,
-      "lng": -79.44727382082083,
-      "num_app": "21 235841 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
-      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
-    },
-    {
-      "num": "651",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.69325729035087,
-      "lng": -79.44728956879742,
-      "num_app": "21 235841 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
-      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
-    },
-    {
-      "num": "653",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.69332529111752,
-      "lng": -79.44726035636398,
-      "num_app": "21 235841 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
-      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
-    },
-    {
-      "num": "655",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.693377868774334,
-      "lng": -79.44728147404972,
-      "num_app": "21 235841 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
-      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
-    },
-    {
-      "num": "678",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.69318847894949,
-      "lng": -79.44782793873708,
-      "num_app": "23 138551 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
-      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
-    },
-    {
-      "num": "39",
-      "street": "NEWCASTLE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.615604249600786,
-      "lng": -79.49686242397446,
-      "num_app": "23 138797 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=oCaoiMfMGvf9oiCju0djUw%3D%3D",
-      "desc": "Site Plan Application in relation to rezoning application file #16 198950 WET 06 OZ. This application proposes four apartment buildings (22, 30, 36, and 36 storeys) connected by a five-storey mixed-use base building to be constructed in two phases. Phase 1 will include integrated Metrolinx infrastructure for the GO Transit Station including a new station building, pedestrian pick-up drop-off (PPUDO) facility, transit plaza, and underground commuter parking. The proposed buildings (both phases combined) would have 1,351 residential units, 2,240.7 square metres of non-residential gross floor area, 614 car parking spaces underground (not including the 300 proposed Metrolinx parking spaces), and 1,056 bicycle parking spaces (not including the 66 proposed Metrolinx bicycle parking spaces)."
-    },
-    {
-      "num": "120",
-      "street": "NASHDENE",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.81773206433909,
-      "lng": -79.25060796535732,
-      "num_app": "23 151265 ESC 23 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=O7kWtJbFtph6tHV9Lvv3fA%3D%3D",
-      "desc": "Third submission made on July 2, 2024.Site Plan Approval to construct an addition with an area of 1,177.11 square metres to the existing builidng."
-    },
-    {
-      "num": "676",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.693156610554645,
-      "lng": -79.44778063960024,
-      "num_app": "23 138551 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
-      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
-    },
-    {
-      "num": "674",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.69310392892636,
-      "lng": -79.44772879339091,
-      "num_app": "23 138551 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
-      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
-    },
-    {
-      "num": "670",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.6930420272871,
-      "lng": -79.44769093619607,
-      "num_app": "23 138551 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
-      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
-    },
-    {
-      "num": "672",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.69304380555772,
-      "lng": -79.4476625386448,
-      "num_app": "23 138551 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
-      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
-    },
-    {
-      "num": "680",
-      "street": "NORTHCLIFFE",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.69325809461287,
-      "lng": -79.44782614161969,
-      "num_app": "23 138551 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
-      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
-    },
-    {
-      "num": "4",
-      "street": "NEWBOLD",
+      "num": "34",
+      "street": "NIPIGON",
       "type": "AVE",
       "dir": "",
-      "lat": 43.67317708519495,
-      "lng": -79.3183583651923,
-      "num_app": "25 145839 STE 19 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Xal0HAYiqxB8zwrpmofBDQ%3D%3D",
-      "desc": "Combined Official Plan & Zoning By-law Amendement for a 10-storey residential rental apartment building with a height of 27.2 metres (30.2 metres with the MPH) consisting of 70 rental dwelling units including 13 rental replacement units. An underground parking lot is proposed consisting of no parking spaces and 75 bicycle parking spaces."
+      "lat": 43.79572159107529,
+      "lng": -79.41748325872678,
+      "num_app": "23 198805 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Uu7Pe8ExwvIHDeqe%2BY0ROg%3D%3D",
+      "desc": "The applicants have submitted a development proposal for 26-34 Nipigon Avenue (the 'subject lands'), generally located east of Yonge Street, south of Steeles Avenue East. The subject lands are presently developed with 5 single detached dwellings, and are located directly south of an existing TTC bus loop. The applicants have submitted a proposal for a 50-storey residential building, containing 569 units, 38,099.89 square metres of residential gross floor area, and having a density of 17.0 times the area of lot. The proposal contains 3 levels of underground parking, 132 vehicular parking spaces and 483 bicycle parking spaces. The proposal contains 1,724.88 square metres of indoor amenity space, and 671.05 square metres of outdoor amenity space."
     },
     {
-      "num": "33 B",
-      "street": "NEWCASTLE",
-      "type": "ST",
+      "num": "32",
+      "street": "NIPIGON",
+      "type": "AVE",
       "dir": "",
-      "lat": 43.615802228774236,
-      "lng": -79.49601689026103,
-      "num_app": "23 138797 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=oCaoiMfMGvf9oiCju0djUw%3D%3D",
-      "desc": "Site Plan Application in relation to rezoning application file #16 198950 WET 06 OZ. This application proposes four apartment buildings (22, 30, 36, and 36 storeys) connected by a five-storey mixed-use base building to be constructed in two phases. Phase 1 will include integrated Metrolinx infrastructure for the GO Transit Station including a new station building, pedestrian pick-up drop-off (PPUDO) facility, transit plaza, and underground commuter parking. The proposed buildings (both phases combined) would have 1,351 residential units, 2,240.7 square metres of non-residential gross floor area, 614 car parking spaces underground (not including the 300 proposed Metrolinx parking spaces), and 1,056 bicycle parking spaces (not including the 66 proposed Metrolinx bicycle parking spaces)."
+      "lat": 43.795682255388016,
+      "lng": -79.41764483423593,
+      "num_app": "23 198805 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Uu7Pe8ExwvIHDeqe%2BY0ROg%3D%3D",
+      "desc": "The applicants have submitted a development proposal for 26-34 Nipigon Avenue (the 'subject lands'), generally located east of Yonge Street, south of Steeles Avenue East. The subject lands are presently developed with 5 single detached dwellings, and are located directly south of an existing TTC bus loop. The applicants have submitted a proposal for a 50-storey residential building, containing 569 units, 38,099.89 square metres of residential gross floor area, and having a density of 17.0 times the area of lot. The proposal contains 3 levels of underground parking, 132 vehicular parking spaces and 483 bicycle parking spaces. The proposal contains 1,724.88 square metres of indoor amenity space, and 671.05 square metres of outdoor amenity space."
+    },
+    {
+      "num": "30",
+      "street": "NIPIGON",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.79570165416142,
+      "lng": -79.41780905045835,
+      "num_app": "23 198805 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Uu7Pe8ExwvIHDeqe%2BY0ROg%3D%3D",
+      "desc": "The applicants have submitted a development proposal for 26-34 Nipigon Avenue (the 'subject lands'), generally located east of Yonge Street, south of Steeles Avenue East. The subject lands are presently developed with 5 single detached dwellings, and are located directly south of an existing TTC bus loop. The applicants have submitted a proposal for a 50-storey residential building, containing 569 units, 38,099.89 square metres of residential gross floor area, and having a density of 17.0 times the area of lot. The proposal contains 3 levels of underground parking, 132 vehicular parking spaces and 483 bicycle parking spaces. The proposal contains 1,724.88 square metres of indoor amenity space, and 671.05 square metres of outdoor amenity space."
+    },
+    {
+      "num": "28",
+      "street": "NIPIGON",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.7956175457337,
+      "lng": -79.41793253722517,
+      "num_app": "23 198805 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Uu7Pe8ExwvIHDeqe%2BY0ROg%3D%3D",
+      "desc": "The applicants have submitted a development proposal for 26-34 Nipigon Avenue (the 'subject lands'), generally located east of Yonge Street, south of Steeles Avenue East. The subject lands are presently developed with 5 single detached dwellings, and are located directly south of an existing TTC bus loop. The applicants have submitted a proposal for a 50-storey residential building, containing 569 units, 38,099.89 square metres of residential gross floor area, and having a density of 17.0 times the area of lot. The proposal contains 3 levels of underground parking, 132 vehicular parking spaces and 483 bicycle parking spaces. The proposal contains 1,724.88 square metres of indoor amenity space, and 671.05 square metres of outdoor amenity space."
     },
     {
       "num": "632",
@@ -23216,28 +23073,6 @@
       "num_app": "22 207922 STE 12 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2Bh7VvgTlmXTpTy5lJTu%2B8A%3D%3D",
       "desc": "June 2024 Proposal: a 40-storey (129.4 metres plus mech. penthouse) residential Building containing 442 dwellin units.Proposed development of a new 36-storey (116.35 metres) mixed use building with a 5-storey podium"
-    },
-    {
-      "num": "6",
-      "street": "NOBLE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.640349359999256,
-      "lng": -79.43047857193132,
-      "num_app": "21 249220 STE 04 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=lcTU3Nf0n0Bcgh4%2BHCSt9w%3D%3D",
-      "desc": "***Draft plan of condominium for 128 units"
-    },
-    {
-      "num": "25",
-      "street": "NEIGHBOURHOOD",
-      "type": "LANE",
-      "dir": "",
-      "lat": 43.63602453241893,
-      "lng": -79.48956092445707,
-      "num_app": "16 211488 WET 05 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0kw5N%2F9PIsYxRTWfmzbSuw%3D%3D",
-      "desc": "To permit three mid-rise residential buildings (one 7-storey, one 6 to 8-storeys, and one 10-storey building), the continuation of the new private road and publicly accessible open space.  A total of 401residential units and 36697 sqm of gross floor area is proposed."
     },
     {
       "num": "27",
@@ -23273,70 +23108,70 @@
       "desc": "Site Plan Application in relation to rezoning application file #16 198950 WET 06 OZ. This application proposes four apartment buildings (22, 30, 36, and 36 storeys) connected by a five-storey mixed-use base building to be constructed in two phases. Phase 1 will include integrated Metrolinx infrastructure for the GO Transit Station including a new station building, pedestrian pick-up drop-off (PPUDO) facility, transit plaza, and underground commuter parking. The proposed buildings (both phases combined) would have 1,351 residential units, 2,240.7 square metres of non-residential gross floor area, 614 car parking spaces underground (not including the 300 proposed Metrolinx parking spaces), and 1,056 bicycle parking spaces (not including the 66 proposed Metrolinx bicycle parking spaces)."
     },
     {
-      "num": "1",
-      "street": "NIAGARA",
+      "num": "33 B",
+      "street": "NEWCASTLE",
       "type": "ST",
       "dir": "",
-      "lat": 43.640028489385216,
-      "lng": -79.39968191699879,
-      "num_app": "22 151499 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dUrwGtV2uj9E3M3uVyVQqA%3D%3D",
-      "desc": "Official Plan Amendment for a 23 storey mixed-use building, having a non-residential gross floor area of 2,640 square metres, and a residential gross floor area of 14,459.90 square metres.  A total of 182 residential dwelling units are proposed. (This proposal is being reviewed in conjunction with an application to Amend the Zoning By-law, File No. 21-232793 STE 10 OZ)"
+      "lat": 43.615802228774236,
+      "lng": -79.49601689026103,
+      "num_app": "23 138797 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=oCaoiMfMGvf9oiCju0djUw%3D%3D",
+      "desc": "Site Plan Application in relation to rezoning application file #16 198950 WET 06 OZ. This application proposes four apartment buildings (22, 30, 36, and 36 storeys) connected by a five-storey mixed-use base building to be constructed in two phases. Phase 1 will include integrated Metrolinx infrastructure for the GO Transit Station including a new station building, pedestrian pick-up drop-off (PPUDO) facility, transit plaza, and underground commuter parking. The proposed buildings (both phases combined) would have 1,351 residential units, 2,240.7 square metres of non-residential gross floor area, 614 car parking spaces underground (not including the 300 proposed Metrolinx parking spaces), and 1,056 bicycle parking spaces (not including the 66 proposed Metrolinx bicycle parking spaces)."
+    },
+    {
+      "num": "23",
+      "street": "NORTHCOTE",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.64142735106081,
+      "lng": -79.42625054316807,
+      "num_app": "24 106262 STE 09 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AZQrtqU5DWGXT6xEqBPKZw%3D%3D",
+      "desc": "Draft Plan of Condominium for a 3-storey residential building comprised of 2 residential units."
     },
     {
       "num": "9",
-      "street": "NIAGARA",
-      "type": "ST",
+      "street": "NIPIGON",
+      "type": "AVE",
       "dir": "",
-      "lat": 43.6399394091876,
-      "lng": -79.39993643727553,
-      "num_app": "22 151499 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dUrwGtV2uj9E3M3uVyVQqA%3D%3D",
-      "desc": "Official Plan Amendment for a 23 storey mixed-use building, having a non-residential gross floor area of 2,640 square metres, and a residential gross floor area of 14,459.90 square metres.  A total of 182 residential dwelling units are proposed. (This proposal is being reviewed in conjunction with an application to Amend the Zoning By-law, File No. 21-232793 STE 10 OZ)"
+      "lat": 43.79502350339171,
+      "lng": -79.41896761997641,
+      "num_app": "23 232536 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Pbf3z4k8GdIfVjgdJ%2FaSuQ%3D%3D",
+      "desc": "An Official Plan Amendment and Zoning By-law Amendment application has been made for 7 - 17 Nipigon Avenue (the \"subject lands\"), generally located east of Yonge Street, south of Steeles Avenue East, on the south side of Nipigon Avenue. The subject lands are presently developed with 5 single detached dwellings.The proposal is seeking to permit a 52-storey tall building with a 5-storey base building on the subject lands. The proposal contains 603 dwelling units and 263 square metres of non-residential gross floor area. On September 2, 2025, the Ontario Land Tribunal (\"OLT\") rendered an Interim Decision approving the proposal. The applicant's are now working through the conditions of approval."
     },
     {
-      "num": "134",
-      "street": "NORFINCH",
-      "type": "DR",
+      "num": "11",
+      "street": "NIPIGON",
+      "type": "AVE",
       "dir": "",
-      "lat": 43.76063723413768,
-      "lng": -79.53149738021284,
-      "num_app": "13 267299 NNY 08 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=NNnJKDmhpNspAcUKzaJZrw%3D%3D",
-      "desc": "Proposal to obtain site plan approval for a one storey front cold storage warehouse addition totalling 7617.0 square meters consisting of a freezer and cooler component along with a cool temperature loading dock."
+      "lat": 43.79505940141095,
+      "lng": -79.41881718591283,
+      "num_app": "23 232536 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Pbf3z4k8GdIfVjgdJ%2FaSuQ%3D%3D",
+      "desc": "An Official Plan Amendment and Zoning By-law Amendment application has been made for 7 - 17 Nipigon Avenue (the \"subject lands\"), generally located east of Yonge Street, south of Steeles Avenue East, on the south side of Nipigon Avenue. The subject lands are presently developed with 5 single detached dwellings.The proposal is seeking to permit a 52-storey tall building with a 5-storey base building on the subject lands. The proposal contains 603 dwelling units and 263 square metres of non-residential gross floor area. On September 2, 2025, the Ontario Land Tribunal (\"OLT\") rendered an Interim Decision approving the proposal. The applicant's are now working through the conditions of approval."
     },
     {
-      "num": "1",
-      "street": "NIAGARA",
-      "type": "ST",
+      "num": "15",
+      "street": "NIPIGON",
+      "type": "AVE",
       "dir": "",
-      "lat": 43.640028489385216,
-      "lng": -79.39968191699879,
-      "num_app": "21 232793 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AoicNeaTAA2ahbAv%2B0Mnpg%3D%3D",
-      "desc": "Resubmission of the Zoning By-law Amendment to permit the redevelopment of the site with a 18-storey mixed-use building (60 metres including mechanical penthouse) containing retail and office space on the ground floor, two levels of office space, and 162 dwelling units above."
+      "lat": 43.79510861547913,
+      "lng": -79.41867164208121,
+      "num_app": "23 232536 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Pbf3z4k8GdIfVjgdJ%2FaSuQ%3D%3D",
+      "desc": "An Official Plan Amendment and Zoning By-law Amendment application has been made for 7 - 17 Nipigon Avenue (the \"subject lands\"), generally located east of Yonge Street, south of Steeles Avenue East, on the south side of Nipigon Avenue. The subject lands are presently developed with 5 single detached dwellings.The proposal is seeking to permit a 52-storey tall building with a 5-storey base building on the subject lands. The proposal contains 603 dwelling units and 263 square metres of non-residential gross floor area. On September 2, 2025, the Ontario Land Tribunal (\"OLT\") rendered an Interim Decision approving the proposal. The applicant's are now working through the conditions of approval."
     },
     {
-      "num": "9",
-      "street": "NIAGARA",
-      "type": "ST",
+      "num": "17",
+      "street": "NIPIGON",
+      "type": "AVE",
       "dir": "",
-      "lat": 43.6399394091876,
-      "lng": -79.39993643727553,
-      "num_app": "21 232793 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AoicNeaTAA2ahbAv%2B0Mnpg%3D%3D",
-      "desc": "Resubmission of the Zoning By-law Amendment to permit the redevelopment of the site with a 18-storey mixed-use building (60 metres including mechanical penthouse) containing retail and office space on the ground floor, two levels of office space, and 162 dwelling units above."
-    },
-    {
-      "num": "1333",
-      "street": "NEILSON",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.806302212840244,
-      "lng": -79.21982979113935,
-      "num_app": "26 116598 ESC 25 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=niF1%2Fnu78LJ4Zwz9LO5vGw%3D%3D",
-      "desc": "Proposed a 6-storey L-shaped residential building plus a rooftop mechanical penthouse on the rear portion of the lands, while maintaining the existing 3-storey medical building in the front portion. Total residential GFA of 8,904.8 sq. m and 434.7 sq. m amenity space, Proposal containing 106 rental apartment dwellings, 43 residential parking spaces and 86 bicycle parking spaces."
+      "lat": 43.79514251467632,
+      "lng": -79.4185209742389,
+      "num_app": "23 232536 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Pbf3z4k8GdIfVjgdJ%2FaSuQ%3D%3D",
+      "desc": "An Official Plan Amendment and Zoning By-law Amendment application has been made for 7 - 17 Nipigon Avenue (the \"subject lands\"), generally located east of Yonge Street, south of Steeles Avenue East, on the south side of Nipigon Avenue. The subject lands are presently developed with 5 single detached dwellings.The proposal is seeking to permit a 52-storey tall building with a 5-storey base building on the subject lands. The proposal contains 603 dwelling units and 263 square metres of non-residential gross floor area. On September 2, 2025, the Ontario Land Tribunal (\"OLT\") rendered an Interim Decision approving the proposal. The applicant's are now working through the conditions of approval."
     },
     {
       "num": "2",
@@ -23361,59 +23196,15 @@
       "desc": "The proposed development includes three buildings ranging from 39 to 42 storeys. These buildings will deliver approximately 1,578 new residential units¿offering a mix of studio, one-bedroom, two-bedroom, and three-bedroom units across 105,325 square metres of residential gross floor area (GFA). The plan also incorporates 510 square metres of ground-level retail space, 425 vehicular parking spaces, and 592 bicycle parking spaces."
     },
     {
-      "num": "8",
-      "street": "NEWCASTLE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.61643569201093,
-      "lng": -79.49514461643581,
-      "num_app": "24 174546 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jrISDdQRgilG35K9qEljhA%3D%3D",
-      "desc": "Proposed 40-storey, 123 metre, mixed-use building containing 413 residential units."
-    },
-    {
-      "num": "8",
-      "street": "NEWCASTLE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.61643569201093,
-      "lng": -79.49514461643581,
-      "num_app": "24 175201 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WzXbUmrDm%2BbS5mB5NjMQMA%3D%3D",
-      "desc": "Proposed mixed-use building containing 1,058 units, 23-storey and 27-storey towers atop a nine-storey base building."
-    },
-    {
-      "num": "50",
-      "street": "NEPTUNE",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.72956869215398,
-      "lng": -79.43500798401709,
-      "num_app": "20 161241 NNY 08 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7zWmZgquQIJhZqOVoDuO5w%3D%3D",
-      "desc": "Site Plan Control application for a proposed 10 storey residential building with 164 units, including 24 rental replacement units. Associated with Zoning By-law Amendment file 09 200486 NNY 15 OZ (LPAT)."
-    },
-    {
-      "num": "34",
-      "street": "NIPIGON",
+      "num": "4",
+      "street": "NEWBOLD",
       "type": "AVE",
       "dir": "",
-      "lat": 43.79572159107529,
-      "lng": -79.41748325872678,
-      "num_app": "23 198805 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Uu7Pe8ExwvIHDeqe%2BY0ROg%3D%3D",
-      "desc": "The applicants have submitted a development proposal for 26-34 Nipigon Avenue (the 'subject lands'), generally located east of Yonge Street, south of Steeles Avenue East. The subject lands are presently developed with 5 single detached dwellings, and are located directly south of an existing TTC bus loop. The applicants have submitted a proposal for a 50-storey residential building, containing 569 units, 38,099.89 square metres of residential gross floor area, and having a density of 17.0 times the area of lot. The proposal contains 3 levels of underground parking, 132 vehicular parking spaces and 483 bicycle parking spaces. The proposal contains 1,724.88 square metres of indoor amenity space, and 671.05 square metres of outdoor amenity space."
-    },
-    {
-      "num": "32",
-      "street": "NIPIGON",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.795682255388016,
-      "lng": -79.41764483423593,
-      "num_app": "23 198805 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Uu7Pe8ExwvIHDeqe%2BY0ROg%3D%3D",
-      "desc": "The applicants have submitted a development proposal for 26-34 Nipigon Avenue (the 'subject lands'), generally located east of Yonge Street, south of Steeles Avenue East. The subject lands are presently developed with 5 single detached dwellings, and are located directly south of an existing TTC bus loop. The applicants have submitted a proposal for a 50-storey residential building, containing 569 units, 38,099.89 square metres of residential gross floor area, and having a density of 17.0 times the area of lot. The proposal contains 3 levels of underground parking, 132 vehicular parking spaces and 483 bicycle parking spaces. The proposal contains 1,724.88 square metres of indoor amenity space, and 671.05 square metres of outdoor amenity space."
+      "lat": 43.67317708519495,
+      "lng": -79.3183583651923,
+      "num_app": "25 145839 STE 19 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Xal0HAYiqxB8zwrpmofBDQ%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendement for a 10-storey residential rental apartment building with a height of 27.2 metres (30.2 metres with the MPH) consisting of 70 rental dwelling units including 13 rental replacement units. An underground parking lot is proposed consisting of no parking spaces and 75 bicycle parking spaces."
     },
     {
       "num": "191",
@@ -23425,28 +23216,6 @@
       "num_app": "23 207902 STE 10 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=cGrnGoaeytQHTW7VOblHXw%3D%3D",
       "desc": "A Site Plan Application to build a 3-storey addition to the existing 1-storey building for a total of 4 storeys onsite. The proposed use will be office space for a total gross floor area of 2,086.83 square metres.There is an associated minor variance application (A1082/23TEY)."
-    },
-    {
-      "num": "30",
-      "street": "NIPIGON",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.79570165416142,
-      "lng": -79.41780905045835,
-      "num_app": "23 198805 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Uu7Pe8ExwvIHDeqe%2BY0ROg%3D%3D",
-      "desc": "The applicants have submitted a development proposal for 26-34 Nipigon Avenue (the 'subject lands'), generally located east of Yonge Street, south of Steeles Avenue East. The subject lands are presently developed with 5 single detached dwellings, and are located directly south of an existing TTC bus loop. The applicants have submitted a proposal for a 50-storey residential building, containing 569 units, 38,099.89 square metres of residential gross floor area, and having a density of 17.0 times the area of lot. The proposal contains 3 levels of underground parking, 132 vehicular parking spaces and 483 bicycle parking spaces. The proposal contains 1,724.88 square metres of indoor amenity space, and 671.05 square metres of outdoor amenity space."
-    },
-    {
-      "num": "28",
-      "street": "NIPIGON",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.7956175457337,
-      "lng": -79.41793253722517,
-      "num_app": "23 198805 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Uu7Pe8ExwvIHDeqe%2BY0ROg%3D%3D",
-      "desc": "The applicants have submitted a development proposal for 26-34 Nipigon Avenue (the 'subject lands'), generally located east of Yonge Street, south of Steeles Avenue East. The subject lands are presently developed with 5 single detached dwellings, and are located directly south of an existing TTC bus loop. The applicants have submitted a proposal for a 50-storey residential building, containing 569 units, 38,099.89 square metres of residential gross floor area, and having a density of 17.0 times the area of lot. The proposal contains 3 levels of underground parking, 132 vehicular parking spaces and 483 bicycle parking spaces. The proposal contains 1,724.88 square metres of indoor amenity space, and 671.05 square metres of outdoor amenity space."
     },
     {
       "num": "9",
@@ -23526,15 +23295,15 @@
       "desc": "The applicants have submitted a development proposal for 7 - 17 Nipigon Avenue (the 'subject lands'), generally located east of Yonge Street, south of Steeles Avenue East, on the south side of Nipigon Avenue. The subject lands are presently developed with 5 single detached dwellings. The applicants are seeking to permit a 50-storey residential building, with a 5-storey podium, and containing 620 units on the subject lands. The proposal has a gross floor area of 39,544.85 square metres and a density of 17.1 times the area of the lot. The proposed residential development would contain 3-levels of underground parking, containing 80 parking spaces, including 16 accessible parking spaces, as well as 466 bicycle parking spaces. A total of 2,480.00 square metres of indoor and outdoor amenity area is proposed.This relates to a pre-mature Site Plan application. The Official Plan and Zoning are not in place to support the proposed development."
     },
     {
-      "num": "7",
-      "street": "NIPIGON",
-      "type": "AVE",
+      "num": "8",
+      "street": "NEWCASTLE",
+      "type": "ST",
       "dir": "",
-      "lat": 43.79499337235454,
-      "lng": -79.41908896809349,
-      "num_app": "23 232536 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Pbf3z4k8GdIfVjgdJ%2FaSuQ%3D%3D",
-      "desc": "An Official Plan Amendment and Zoning By-law Amendment application has been made for 7 - 17 Nipigon Avenue (the \"subject lands\"), generally located east of Yonge Street, south of Steeles Avenue East, on the south side of Nipigon Avenue. The subject lands are presently developed with 5 single detached dwellings.The proposal is seeking to permit a 52-storey tall building with a 5-storey base building on the subject lands. The proposal contains 603 dwelling units and 263 square metres of non-residential gross floor area. On September 2, 2025, the Ontario Land Tribunal (\"OLT\") rendered an Interim Decision approving the proposal. The applicant's are now working through the conditions of approval."
+      "lat": 43.61643569201093,
+      "lng": -79.49514461643581,
+      "num_app": "24 174546 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jrISDdQRgilG35K9qEljhA%3D%3D",
+      "desc": "Proposed 40-storey, 123 metre, mixed-use building containing 413 residential units."
     },
     {
       "num": "26",
@@ -23548,56 +23317,23 @@
       "desc": "The applicants have submitted a development proposal for 26-34 Nipigon Avenue (the 'subject lands'), generally located east of Yonge Street, south of Steeles Avenue East. The subject lands are presently developed with 5 single detached dwellings, and are located directly south of an existing TTC bus loop. The applicants have submitted a proposal for a 50-storey residential building, containing 569 units, 38,099.89 square metres of residential gross floor area, and having a density of 17.0 times the area of lot. The proposal contains 3 levels of underground parking, 132 vehicular parking spaces and 483 bicycle parking spaces. The proposal contains 1,724.88 square metres of indoor amenity space, and 671.05 square metres of outdoor amenity space."
     },
     {
-      "num": "23",
-      "street": "NORTHCOTE",
-      "type": "AVE",
+      "num": "8",
+      "street": "NEWCASTLE",
+      "type": "ST",
       "dir": "",
-      "lat": 43.64142735106081,
-      "lng": -79.42625054316807,
-      "num_app": "24 106262 STE 09 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AZQrtqU5DWGXT6xEqBPKZw%3D%3D",
-      "desc": "Draft Plan of Condominium for a 3-storey residential building comprised of 2 residential units."
+      "lat": 43.61643569201093,
+      "lng": -79.49514461643581,
+      "num_app": "24 175201 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WzXbUmrDm%2BbS5mB5NjMQMA%3D%3D",
+      "desc": "Proposed mixed-use building containing 1,058 units, 23-storey and 27-storey towers atop a nine-storey base building."
     },
     {
-      "num": "9",
+      "num": "7",
       "street": "NIPIGON",
       "type": "AVE",
       "dir": "",
-      "lat": 43.79502350339171,
-      "lng": -79.41896761997641,
-      "num_app": "23 232536 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Pbf3z4k8GdIfVjgdJ%2FaSuQ%3D%3D",
-      "desc": "An Official Plan Amendment and Zoning By-law Amendment application has been made for 7 - 17 Nipigon Avenue (the \"subject lands\"), generally located east of Yonge Street, south of Steeles Avenue East, on the south side of Nipigon Avenue. The subject lands are presently developed with 5 single detached dwellings.The proposal is seeking to permit a 52-storey tall building with a 5-storey base building on the subject lands. The proposal contains 603 dwelling units and 263 square metres of non-residential gross floor area. On September 2, 2025, the Ontario Land Tribunal (\"OLT\") rendered an Interim Decision approving the proposal. The applicant's are now working through the conditions of approval."
-    },
-    {
-      "num": "11",
-      "street": "NIPIGON",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.79505940141095,
-      "lng": -79.41881718591283,
-      "num_app": "23 232536 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Pbf3z4k8GdIfVjgdJ%2FaSuQ%3D%3D",
-      "desc": "An Official Plan Amendment and Zoning By-law Amendment application has been made for 7 - 17 Nipigon Avenue (the \"subject lands\"), generally located east of Yonge Street, south of Steeles Avenue East, on the south side of Nipigon Avenue. The subject lands are presently developed with 5 single detached dwellings.The proposal is seeking to permit a 52-storey tall building with a 5-storey base building on the subject lands. The proposal contains 603 dwelling units and 263 square metres of non-residential gross floor area. On September 2, 2025, the Ontario Land Tribunal (\"OLT\") rendered an Interim Decision approving the proposal. The applicant's are now working through the conditions of approval."
-    },
-    {
-      "num": "15",
-      "street": "NIPIGON",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.79510861547913,
-      "lng": -79.41867164208121,
-      "num_app": "23 232536 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Pbf3z4k8GdIfVjgdJ%2FaSuQ%3D%3D",
-      "desc": "An Official Plan Amendment and Zoning By-law Amendment application has been made for 7 - 17 Nipigon Avenue (the \"subject lands\"), generally located east of Yonge Street, south of Steeles Avenue East, on the south side of Nipigon Avenue. The subject lands are presently developed with 5 single detached dwellings.The proposal is seeking to permit a 52-storey tall building with a 5-storey base building on the subject lands. The proposal contains 603 dwelling units and 263 square metres of non-residential gross floor area. On September 2, 2025, the Ontario Land Tribunal (\"OLT\") rendered an Interim Decision approving the proposal. The applicant's are now working through the conditions of approval."
-    },
-    {
-      "num": "17",
-      "street": "NIPIGON",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.79514251467632,
-      "lng": -79.4185209742389,
+      "lat": 43.79499337235454,
+      "lng": -79.41908896809349,
       "num_app": "23 232536 NNY 18 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Pbf3z4k8GdIfVjgdJ%2FaSuQ%3D%3D",
       "desc": "An Official Plan Amendment and Zoning By-law Amendment application has been made for 7 - 17 Nipigon Avenue (the \"subject lands\"), generally located east of Yonge Street, south of Steeles Avenue East, on the south side of Nipigon Avenue. The subject lands are presently developed with 5 single detached dwellings.The proposal is seeking to permit a 52-storey tall building with a 5-storey base building on the subject lands. The proposal contains 603 dwelling units and 263 square metres of non-residential gross floor area. On September 2, 2025, the Ontario Land Tribunal (\"OLT\") rendered an Interim Decision approving the proposal. The applicant's are now working through the conditions of approval."
@@ -23658,6 +23394,39 @@
       "desc": "The applicants have submitted a site plan application for 26-34 Nipigon Avenue (the 'subject lands'), generally located east of Yonge Street, south of Steeles Avenue East. The subject lands are presently developed with 5 single detached dwellings, and are located directly south of an existing TTC bus loop.The applicants have submitted a proposal for a 50-storey residential building, containing 569 units, 38,099.89 square metres of residential gross floor area, and having a density of 17.0 times the area of lot. The proposal contains 3 levels of underground parking, 132 vehicular parking spaces and 483 bicycle parking spaces. The proposal contains 1,724.88 square metres of indoor amenity space, and 671.05 square metres of outdoor amenity space.This Site Plan application was appealed to the Ontario Land Tribunal on February 15, 2024."
     },
     {
+      "num": "56",
+      "street": "NOTTINGHAM",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.65142578806259,
+      "lng": -79.52593621855803,
+      "num_app": "24 217174 WET 02 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TemmApWvLdmvU8A1cZH8%2FA%3D%3D",
+      "desc": "The proposed plan consists of a 10-unit condominium townhouse development with associated underground parking. Six units are proposed to front Dundas Street West, while four units would front Chestnut Hills Crescent, with the underground parking structure being accessed off Chestnut Hills Crescent. The proposed development would have an overall gross floor area of 2,008 square metres and an Floor Space Index of 0.81.Rachel Godley and Adam Ward as co-counsel"
+    },
+    {
+      "num": "52",
+      "street": "NEPTUNE",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.72982155875313,
+      "lng": -79.43504341039109,
+      "num_app": "09 200486 NNY 15 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZuSoXLKysAgOtgpL3L%2BWmg%3D%3D",
+      "desc": "Revised application to permit the development of an 11 storey (35m) condominium building and rental replacement for a total of 169 residential units and 14,252.2 m2 of Gross Floor Area. Also proposed is 265.1m2 of indoor amenity space, 420.6 m2 of outdoor amenity space, 153 residential parking spaces, 23 visitor spaces and 132 bicycle spaces."
+    },
+    {
+      "num": "50",
+      "street": "NEPTUNE",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.72956869215398,
+      "lng": -79.43500798401709,
+      "num_app": "09 200486 NNY 15 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZuSoXLKysAgOtgpL3L%2BWmg%3D%3D",
+      "desc": "Revised application to permit the development of an 11 storey (35m) condominium building and rental replacement for a total of 169 residential units and 14,252.2 m2 of Gross Floor Area. Also proposed is 265.1m2 of indoor amenity space, 420.6 m2 of outdoor amenity space, 153 residential parking spaces, 23 visitor spaces and 132 bicycle spaces."
+    },
+    {
       "num": "10",
       "street": "NEIGHBOURHOOD",
       "type": "LANE",
@@ -23680,37 +23449,15 @@
       "desc": "To permit three mid-rise residential buildings (one 7-storey, one 6 to 8-storeys, and one 10-storey building), the continuation of the new private road and publicly accessible open space.  A total of 401residential units and 36697 sqm of gross floor area is proposed."
     },
     {
-      "num": "56",
-      "street": "NOTTINGHAM",
-      "type": "DR",
+      "num": "290",
+      "street": "NORTH QUEEN",
+      "type": "ST",
       "dir": "",
-      "lat": 43.65142578806259,
-      "lng": -79.52593621855803,
-      "num_app": "24 217174 WET 02 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TemmApWvLdmvU8A1cZH8%2FA%3D%3D",
-      "desc": "The proposed plan consists of a 10-unit condominium townhouse development with associated underground parking. Six units are proposed to front Dundas Street West, while four units would front Chestnut Hills Crescent, with the underground parking structure being accessed off Chestnut Hills Crescent. The proposed development would have an overall gross floor area of 2,008 square metres and an Floor Space Index of 0.81.Rachel Godley and Adam Ward as co-counsel"
-    },
-    {
-      "num": "50",
-      "street": "NEPTUNE",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.72956869215398,
-      "lng": -79.43500798401709,
-      "num_app": "09 200486 NNY 15 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZuSoXLKysAgOtgpL3L%2BWmg%3D%3D",
-      "desc": "Revised application to permit the development of an 11 storey (35m) condominium building and rental replacement for a total of 169 residential units and 14,252.2 m2 of Gross Floor Area. Also proposed is 265.1m2 of indoor amenity space, 420.6 m2 of outdoor amenity space, 153 residential parking spaces, 23 visitor spaces and 132 bicycle spaces."
-    },
-    {
-      "num": "52",
-      "street": "NEPTUNE",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.72982155875313,
-      "lng": -79.43504341039109,
-      "num_app": "09 200486 NNY 15 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZuSoXLKysAgOtgpL3L%2BWmg%3D%3D",
-      "desc": "Revised application to permit the development of an 11 storey (35m) condominium building and rental replacement for a total of 169 residential units and 14,252.2 m2 of Gross Floor Area. Also proposed is 265.1m2 of indoor amenity space, 420.6 m2 of outdoor amenity space, 153 residential parking spaces, 23 visitor spaces and 132 bicycle spaces."
+      "lat": 43.614197543222566,
+      "lng": -79.55763075318856,
+      "num_app": "13 247159 WET 05 OZ",
+      "url": "",
+      "desc": "Proposed amendments to the Etobicoke Zoning Code and Zoning By-law 569-2013 to permit three  27-storey residential buildings with ground floor retail uses as the first phase of the redevelopment of the larger site (FIMA lands)."
     },
     {
       "num": "300",
@@ -23730,17 +23477,6 @@
       "dir": "",
       "lat": 43.613908557750825,
       "lng": -79.55791959018431,
-      "num_app": "13 247159 WET 05 OZ",
-      "url": "",
-      "desc": "Proposed amendments to the Etobicoke Zoning Code and Zoning By-law 569-2013 to permit three  27-storey residential buildings with ground floor retail uses as the first phase of the redevelopment of the larger site (FIMA lands)."
-    },
-    {
-      "num": "290",
-      "street": "NORTH QUEEN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.614197543222566,
-      "lng": -79.55763075318856,
       "num_app": "13 247159 WET 05 OZ",
       "url": "",
       "desc": "Proposed amendments to the Etobicoke Zoning Code and Zoning By-law 569-2013 to permit three  27-storey residential buildings with ground floor retail uses as the first phase of the redevelopment of the larger site (FIMA lands)."
@@ -23834,6 +23570,17 @@
       "desc": "A zoning by-law amendment application proposing six 3-storey townhouse units facing Bayview Avenue with vechicular access from Newton Drive.  There would be a total GFA of 1095.55 square metres and an FSI of 1.37x."
     },
     {
+      "num": "52",
+      "street": "NEPTUNE",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.72982155875313,
+      "lng": -79.43504341039109,
+      "num_app": "20 161241 NNY 08 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7zWmZgquQIJhZqOVoDuO5w%3D%3D",
+      "desc": "Site Plan Control application for a proposed 10 storey residential building with 164 units, including 24 rental replacement units. Associated with Zoning By-law Amendment file 09 200486 NNY 15 OZ (LPAT)."
+    },
+    {
       "num": "118",
       "street": "NEWLANDS",
       "type": "AVE",
@@ -23856,17 +23603,6 @@
       "desc": "Zoning By-law Amendment application to permit 4 detached single-family dwelling units fronting Birchmount Road, and 5 detached single-family dwelling units on Newlands Ave."
     },
     {
-      "num": "52",
-      "street": "NEPTUNE",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.72982155875313,
-      "lng": -79.43504341039109,
-      "num_app": "20 161241 NNY 08 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7zWmZgquQIJhZqOVoDuO5w%3D%3D",
-      "desc": "Site Plan Control application for a proposed 10 storey residential building with 164 units, including 24 rental replacement units. Associated with Zoning By-law Amendment file 09 200486 NNY 15 OZ (LPAT)."
-    },
-    {
       "num": "230",
       "street": "NIAGARA",
       "type": "ST",
@@ -23876,6 +23612,17 @@
       "num_app": "20 210255 STE 10 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=nRPZFU8cIDM2MlBJL2MrpQ%3D%3D",
       "desc": "To permit a 3-storey non-residential building having a non-residential gross floor area of 1,458 square metres."
+    },
+    {
+      "num": "16",
+      "street": "NEWBRIDGE",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.624318852902235,
+      "lng": -79.54087348591577,
+      "num_app": "21 199459 WET 03 PL",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=GLY%2FsJc%2FM5GxYcMtA0ouDg%3D%3D",
+      "desc": "To erect a 15 m monopole tower and associated equipment. The tower will be located in a Core Employment Area north of North Queen Street and east of Shorncliff Road at 16 Newbridge Raod."
     },
     {
       "num": "1370",
@@ -23911,15 +23658,37 @@
       "desc": "Draft Plan of Subdivision in order to establish two mixed use development blocks (Blocks 1 and 2), two park blocks (Block 3 and 4) and a road widening (Block 5) for the extension of Newcastle Street."
     },
     {
-      "num": "16",
-      "street": "NEWBRIDGE",
-      "type": "RD",
+      "num": "48",
+      "street": "NEWLANDS",
+      "type": "AVE",
       "dir": "",
-      "lat": 43.624318852902235,
-      "lng": -79.54087348591577,
-      "num_app": "21 199459 WET 03 PL",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=GLY%2FsJc%2FM5GxYcMtA0ouDg%3D%3D",
-      "desc": "To erect a 15 m monopole tower and associated equipment. The tower will be located in a Core Employment Area north of North Queen Street and east of Shorncliff Road at 16 Newbridge Raod."
+      "lat": 43.70651696154045,
+      "lng": -79.27586059294767,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "50",
+      "street": "NEWLANDS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.70653662658376,
+      "lng": -79.2756985306485,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "52",
+      "street": "NEWLANDS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.70656570165816,
+      "lng": -79.27564388817326,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
     },
     {
       "num": "54",
@@ -24021,39 +23790,6 @@
       "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
     },
     {
-      "num": "48",
-      "street": "NEWLANDS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.70651696154045,
-      "lng": -79.27586059294767,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
-      "num": "50",
-      "street": "NEWLANDS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.70653662658376,
-      "lng": -79.2756985306485,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
-      "num": "52",
-      "street": "NEWLANDS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.70656570165816,
-      "lng": -79.27564388817326,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
       "num": "10",
       "street": "NEWTON",
       "type": "DR",
@@ -24074,28 +23810,6 @@
       "num_app": "22 108032 NNY 18 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qYBjxDkf0CQZODyPSLY%2Bgw%3D%3D",
       "desc": "Official Plan and Zoning By-law Amendment to facilitate the redevelopment of the site for two 14-storey mixed-use buildings having a total gross floor area of 29.476 square metres.  A total of 457 residential dwelling units are proposed."
-    },
-    {
-      "num": "133",
-      "street": "NIAGARA",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.63909212571322,
-      "lng": -79.40542879676791,
-      "num_app": "21 239771 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2F1uhvGfwKqaVUZdpKy2PQQ%3D%3D",
-      "desc": "Site Plan Control application for three mixed-use buildings with a total of 1,225 dwelling units and 3,370 square metres of non-residential gross floor area that are proposed to be constructed in two phases. Phase 1 is proposed to be 31 storeys (110.5 metres), and Phase 2 is proposed to be 40 storeys (130.5 metres) and 12 storeys (45.4 metres). All three buildings will have a shared two-storey below grade parking garage with a total of 401 vehicular parking spaces."
-    },
-    {
-      "num": "6",
-      "street": "NOBLE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.640349359999256,
-      "lng": -79.43047857193132,
-      "num_app": "21 242229 STE 04 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=iuanx%2BuFq0gA2N9I2WMY%2Fw%3D%3D",
-      "desc": "Site Plan Approval for an 12-storey (41.5m) mixed-use building having a residential gross floor area of 12,029 square metres, and a non-residential gross floor area of 40 square metres.  171 residential dwelling units are proposed."
     },
     {
       "num": "647",
@@ -24153,6 +23867,28 @@
       "desc": "Site Plan Approval-15-storey residential building having a residential gross floor area of 11037.1 square metres"
     },
     {
+      "num": "133",
+      "street": "NIAGARA",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.63909212571322,
+      "lng": -79.40542879676791,
+      "num_app": "21 239771 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2F1uhvGfwKqaVUZdpKy2PQQ%3D%3D",
+      "desc": "Site Plan Control application for three mixed-use buildings with a total of 1,225 dwelling units and 3,370 square metres of non-residential gross floor area that are proposed to be constructed in two phases. Phase 1 is proposed to be 31 storeys (110.5 metres), and Phase 2 is proposed to be 40 storeys (130.5 metres) and 12 storeys (45.4 metres). All three buildings will have a shared two-storey below grade parking garage with a total of 401 vehicular parking spaces."
+    },
+    {
+      "num": "6",
+      "street": "NOBLE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.640349359999256,
+      "lng": -79.43047857193132,
+      "num_app": "21 242229 STE 04 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=iuanx%2BuFq0gA2N9I2WMY%2Fw%3D%3D",
+      "desc": "Site Plan Approval for an 12-storey (41.5m) mixed-use building having a residential gross floor area of 12,029 square metres, and a non-residential gross floor area of 40 square metres.  171 residential dwelling units are proposed."
+    },
+    {
       "num": "15",
       "street": "NEIGHBOURHOOD",
       "type": "LANE",
@@ -24162,6 +23898,270 @@
       "num_app": "22 147264 WET 03 CD",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Zh57z9XJxwBofN6D8SfZCw%3D%3D",
       "desc": "Draft Plan of Standard Condominium application to permit the 10-storey residential building (Building B), containing 234 residential units."
+    },
+    {
+      "num": "649",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.693206866495494,
+      "lng": -79.44727382082083,
+      "num_app": "21 235841 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
+      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
+    },
+    {
+      "num": "651",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.69325729035087,
+      "lng": -79.44728956879742,
+      "num_app": "21 235841 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
+      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
+    },
+    {
+      "num": "653",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.69332529111752,
+      "lng": -79.44726035636398,
+      "num_app": "21 235841 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
+      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
+    },
+    {
+      "num": "655",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.693377868774334,
+      "lng": -79.44728147404972,
+      "num_app": "21 235841 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
+      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
+    },
+    {
+      "num": "6",
+      "street": "NOBLE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.640349359999256,
+      "lng": -79.43047857193132,
+      "num_app": "21 249220 STE 04 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=lcTU3Nf0n0Bcgh4%2BHCSt9w%3D%3D",
+      "desc": "***Draft plan of condominium for 128 units"
+    },
+    {
+      "num": "1",
+      "street": "NIAGARA",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.640028489385216,
+      "lng": -79.39968191699879,
+      "num_app": "22 151499 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dUrwGtV2uj9E3M3uVyVQqA%3D%3D",
+      "desc": "Official Plan Amendment for a 23 storey mixed-use building, having a non-residential gross floor area of 2,640 square metres, and a residential gross floor area of 14,459.90 square metres.  A total of 182 residential dwelling units are proposed. (This proposal is being reviewed in conjunction with an application to Amend the Zoning By-law, File No. 21-232793 STE 10 OZ)"
+    },
+    {
+      "num": "9",
+      "street": "NIAGARA",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.6399394091876,
+      "lng": -79.39993643727553,
+      "num_app": "22 151499 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dUrwGtV2uj9E3M3uVyVQqA%3D%3D",
+      "desc": "Official Plan Amendment for a 23 storey mixed-use building, having a non-residential gross floor area of 2,640 square metres, and a residential gross floor area of 14,459.90 square metres.  A total of 182 residential dwelling units are proposed. (This proposal is being reviewed in conjunction with an application to Amend the Zoning By-law, File No. 21-232793 STE 10 OZ)"
+    },
+    {
+      "num": "645",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.6931013984184,
+      "lng": -79.4472170591332,
+      "num_app": "21 250763 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=GgesZnAVZjg7bZf9n3ES9A%3D%3D",
+      "desc": "Site Plan Approval-15-storey residential building having a residential gross floor area of 11037.1 square metres"
+    },
+    {
+      "num": "25",
+      "street": "NEIGHBOURHOOD",
+      "type": "LANE",
+      "dir": "",
+      "lat": 43.63602453241893,
+      "lng": -79.48956092445707,
+      "num_app": "16 211488 WET 05 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0kw5N%2F9PIsYxRTWfmzbSuw%3D%3D",
+      "desc": "To permit three mid-rise residential buildings (one 7-storey, one 6 to 8-storeys, and one 10-storey building), the continuation of the new private road and publicly accessible open space.  A total of 401residential units and 36697 sqm of gross floor area is proposed."
+    },
+    {
+      "num": "125",
+      "street": "NIAGARA",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.63907002782727,
+      "lng": -79.40535344924407,
+      "num_app": "21 239771 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2F1uhvGfwKqaVUZdpKy2PQQ%3D%3D",
+      "desc": "Site Plan Control application for three mixed-use buildings with a total of 1,225 dwelling units and 3,370 square metres of non-residential gross floor area that are proposed to be constructed in two phases. Phase 1 is proposed to be 31 storeys (110.5 metres), and Phase 2 is proposed to be 40 storeys (130.5 metres) and 12 storeys (45.4 metres). All three buildings will have a shared two-storey below grade parking garage with a total of 401 vehicular parking spaces."
+    },
+    {
+      "num": "645",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.6931013984184,
+      "lng": -79.4472170591332,
+      "num_app": "21 235841 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
+      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
+    },
+    {
+      "num": "647",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.69315642026121,
+      "lng": -79.44724859513184,
+      "num_app": "21 235841 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Cs7n5HTiQPWEg9eDZyhINA%3D%3D",
+      "desc": "Nov 2025 Resubmission reflecting the Council-adopted Settlement Offer proposal: for a 42-storey mixed-use building, with a total of 24,052.8 square metres, including 131 square metres of retail on the ground floor at the northwest corner fronting onto Northcliffe Blvd., and 336 dwelling units.Appealed to the Ontario Land Tribunal July 2022.Original proposal: a Zoning By-law amendment for a 15-storey residential building having a residential gross floor area of 11037.1 square metres."
+    },
+    {
+      "num": "1333",
+      "street": "NEILSON",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.806302212840244,
+      "lng": -79.21982979113935,
+      "num_app": "26 116598 ESC 25 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=niF1%2Fnu78LJ4Zwz9LO5vGw%3D%3D",
+      "desc": "Proposed a 6-storey L-shaped residential building plus a rooftop mechanical penthouse on the rear portion of the lands, while maintaining the existing 3-storey medical building in the front portion. Total residential GFA of 8,904.8 sq. m and 434.7 sq. m amenity space, Proposal containing 106 rental apartment dwellings, 43 residential parking spaces and 86 bicycle parking spaces."
+    },
+    {
+      "num": "1",
+      "street": "NIAGARA",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.640028489385216,
+      "lng": -79.39968191699879,
+      "num_app": "21 232793 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AoicNeaTAA2ahbAv%2B0Mnpg%3D%3D",
+      "desc": "Resubmission of the Zoning By-law Amendment to permit the redevelopment of the site with a 18-storey mixed-use building (60 metres including mechanical penthouse) containing retail and office space on the ground floor, two levels of office space, and 162 dwelling units above."
+    },
+    {
+      "num": "9",
+      "street": "NIAGARA",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.6399394091876,
+      "lng": -79.39993643727553,
+      "num_app": "21 232793 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AoicNeaTAA2ahbAv%2B0Mnpg%3D%3D",
+      "desc": "Resubmission of the Zoning By-law Amendment to permit the redevelopment of the site with a 18-storey mixed-use building (60 metres including mechanical penthouse) containing retail and office space on the ground floor, two levels of office space, and 162 dwelling units above."
+    },
+    {
+      "num": "134",
+      "street": "NORFINCH",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.76063723413768,
+      "lng": -79.53149738021284,
+      "num_app": "13 267299 NNY 08 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=NNnJKDmhpNspAcUKzaJZrw%3D%3D",
+      "desc": "Proposal to obtain site plan approval for a one storey front cold storage warehouse addition totalling 7617.0 square meters consisting of a freezer and cooler component along with a cool temperature loading dock."
+    },
+    {
+      "num": "39",
+      "street": "NEWCASTLE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.615604249600786,
+      "lng": -79.49686242397446,
+      "num_app": "23 138797 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=oCaoiMfMGvf9oiCju0djUw%3D%3D",
+      "desc": "Site Plan Application in relation to rezoning application file #16 198950 WET 06 OZ. This application proposes four apartment buildings (22, 30, 36, and 36 storeys) connected by a five-storey mixed-use base building to be constructed in two phases. Phase 1 will include integrated Metrolinx infrastructure for the GO Transit Station including a new station building, pedestrian pick-up drop-off (PPUDO) facility, transit plaza, and underground commuter parking. The proposed buildings (both phases combined) would have 1,351 residential units, 2,240.7 square metres of non-residential gross floor area, 614 car parking spaces underground (not including the 300 proposed Metrolinx parking spaces), and 1,056 bicycle parking spaces (not including the 66 proposed Metrolinx bicycle parking spaces)."
+    },
+    {
+      "num": "680",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.69325809461287,
+      "lng": -79.44782614161969,
+      "num_app": "23 138551 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
+      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
+    },
+    {
+      "num": "678",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.69318847894949,
+      "lng": -79.44782793873708,
+      "num_app": "23 138551 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
+      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
+    },
+    {
+      "num": "676",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.693156610554645,
+      "lng": -79.44778063960024,
+      "num_app": "23 138551 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
+      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
+    },
+    {
+      "num": "674",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.69310392892636,
+      "lng": -79.44772879339091,
+      "num_app": "23 138551 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
+      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
+    },
+    {
+      "num": "670",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.6930420272871,
+      "lng": -79.44769093619607,
+      "num_app": "23 138551 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
+      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
+    },
+    {
+      "num": "672",
+      "street": "NORTHCLIFFE",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.69304380555772,
+      "lng": -79.4476625386448,
+      "num_app": "23 138551 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1GFlSQm1RYspQqiKNS8DBg%3D%3D",
+      "desc": "Feb 2025 Submission -  Site Plan resubmission for a proposed 124.73 m (39-storey excluding Mech. Penthouse) purpose built rental, mixed-use building with commercial retail at-grade, 498 residential units (including 14 rental replacement units) above, and three levels of below grade parking containing 78 vehicle parking spaces.Feb 2024 Submission - Site Plan Application for a proposed 133.1 m (38-storey) mixed-use building with commercial retail at-grade, one level of below grade parking and 520 residential units, including 14 rental replacement units."
+    },
+    {
+      "num": "120",
+      "street": "NASHDENE",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.81773206433909,
+      "lng": -79.25060796535732,
+      "num_app": "23 151265 ESC 23 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=O7kWtJbFtph6tHV9Lvv3fA%3D%3D",
+      "desc": "Third submission made on July 2, 2024.Site Plan Approval to construct an addition with an area of 1,177.11 square metres to the existing builidng."
     }
   ]
 }
