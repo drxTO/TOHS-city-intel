@@ -29400,15 +29400,92 @@
   ],
   "pdn": [
     {
-      "num": "750",
-      "street": "QUEENS PLATE",
-      "type": "DR",
+      "num": "205",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "W",
+      "lat": 43.64816233589289,
+      "lng": -79.3877534967079,
+      "num_app": "23 146691 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=hNKRCqquMb%2BA%2FprsneWoRA%3D%3D",
+      "desc": "Ontario Line Osgoode Station"
+    },
+    {
+      "num": "1117",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "W",
+      "lat": 43.64076326187554,
+      "lng": -79.42402517597282,
+      "num_app": "23 210259 STE 09 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=3g%2FlkARRA%2FvANQwb6aGO2w%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendment for a 29-storey mixed use building and retains the existing 2-storey Postal Station C building in its entirety. The proposal comprises a total gross floor area of 17,384 square metres, including 16,465 square metres of residential GFA and 919 square metres of non-residential GFA. The non-residential GFA will be programmed exclusively as community space, to be operated within the retained Postal Station C building. 272 residential dwelling units are proposed."
+    },
+    {
+      "num": "477",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.6544570720119,
+      "lng": -79.3593443955097,
+      "num_app": "23 186758 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=34%2FzXRkm0mM2oUsS5hBKRQ%3D%3D",
+      "desc": "The proposed development will be 15 storeys in height, plus mezzanine and mechanical penthouse along Queen Street East. Parking elevator access to four levels of below grade parking is proposedfrom the private east-west lane. Approximately 151 residential dwelling units,"
+    },
+    {
+      "num": "1684",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.66520833264328,
+      "lng": -79.31366585384356,
+      "num_app": "25 150383 STE 19 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=hcvvTfm5fiIbD41w1hBSXQ%3D%3D",
+      "desc": "Official Plan & Zoning By-law Amendment for a 10-storey mixed-use building with a height of 34.95 metres (plus a 5.5 metre mechanical penthouse). The proposed building will include approximately 1,184 square metres of non-residential space and 14,850 square metres of residential gross floor area, including 168 rental units. The proposal also seeks to permit one level of underground parking with 54 vehicular parking spaces and 186 bicycle parking spaces. A future realignment of Penny Lane providing access on the north end of the site from the underground level to Orchard Park Boulevard and closing the eastern portion of Penny Lane is also proposed."
+    },
+    {
+      "num": "797",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65729041759098,
+      "lng": -79.34638426953389,
+      "num_app": "24 250727 STE 14 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=JUg4l2txVMWx%2Fen4tbGzyA%3D%3D",
+      "desc": "Site Plan Control Placeholder for Leslieville Station, one of the stations included in the Ontario Line Elevated Guideway and Stations contract."
+    },
+    {
+      "num": "1501",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "W",
+      "lat": 43.637413232637314,
+      "lng": -79.44110091111128,
+      "num_app": "26 118047 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=vLhnTmtDcV3AmXwwKYb4sw%3D%3D",
+      "desc": "Official Plan and Zoning By-law Amendment to develope a 10- and 7-storey mixed use building consisting of 141 affordable rental units, including 50 rental replacement units. The development consists of 8,341 square metres of GFA and retains the historic façade of the existing buildings of 1497 and 1501 Queen Street West. The development will contain community and office spaces, 5 vehicular parking spaces and 157 bike parking spaces."
+    },
+    {
+      "num": "337",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": null,
+      "lng": null,
+      "num_app": "25 258479 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=S4vsXTzFLE5dr%2F2bAYsQNw%3D%3D",
+      "desc": "Rezoning application for a 49-storey (162.5 metres, excluding mechanical penthouse) mixed-use building, containing 545 dwelling units and 470 square metres of grade-related retail space. The proposal includes the replacement of 7 rental units, and a proposed 385 square metre on-site parkland dedication."
+    },
+    {
+      "num": "21",
+      "street": "QUEBEC",
+      "type": "AVE",
       "dir": "",
-      "lat": 43.72002777313419,
-      "lng": -79.60378925236941,
-      "num_app": "17 278424 WET 02 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1g1qnUKe1ysievsd111Zew%3D%3D",
-      "desc": "Zoning By-law Amendment application to permit the redevelopment of the northern portion of the lands at 750 Queens Plate Drive (formerly 840 Queens Plate Dr) with a 17-storey building containing 148 residential units and a gross floor area of 11,925 square metres. The proposal would provide 103 vehicular and 128 bicycle parking spaces below-grade.  Associated Site Plan: 17 278431 WET 02 SA"
+      "lat": 43.651529797119345,
+      "lng": -79.46703228082978,
+      "num_app": "25 210259 STE 04 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=sQvvcW9dxORuCr%2Btaj88Ug%3D%3D",
+      "desc": "Proposed 19-storey mixed-use building comprised of 137 dwelling units (including 12 rental replacement units) and 325 square metres of ground floor retail with a total gross floor area of 12,557.1 square metres."
     },
     {
       "num": "331",
@@ -29455,138 +29532,6 @@
       "desc": "Rezoning application for a 49-storey (162.5 metres, excluding mechanical penthouse) mixed-use building, containing 545 dwelling units and 470 square metres of grade-related retail space. The proposal includes the replacement of 7 rental units, and a proposed 385 square metre on-site parkland dedication."
     },
     {
-      "num": "337",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": null,
-      "lng": null,
-      "num_app": "25 258479 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=S4vsXTzFLE5dr%2F2bAYsQNw%3D%3D",
-      "desc": "Rezoning application for a 49-storey (162.5 metres, excluding mechanical penthouse) mixed-use building, containing 545 dwelling units and 470 square metres of grade-related retail space. The proposal includes the replacement of 7 rental units, and a proposed 385 square metre on-site parkland dedication."
-    },
-    {
-      "num": "21",
-      "street": "QUEBEC",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.651529797119345,
-      "lng": -79.46703228082978,
-      "num_app": "24 121126 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ShD04eyUtlngTGFxV7%2FwFA%3D%3D",
-      "desc": "Zoning By-law Amendment and Rental Housing Demolition & Conversion application to permit a 19-storey mixed-use building, containing 144 dwelling units (of which 12 are rental replacement units) and 380 square metres of non-residential gross floor area."
-    },
-    {
-      "num": "786-788",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.657489228090704,
-      "lng": -79.34744351467589,
-      "num_app": "23 139189 STE 14 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=JdthMqBamUedRYY169iYGw%3D%3D",
-      "desc": "Site Plan application to permit a 6 storey mixed use building, containing 15 residential units and 69.64 square metres of ground floor commercial GFA."
-    },
-    {
-      "num": "1437",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "W",
-      "lat": 43.63804207683606,
-      "lng": -79.43772752821864,
-      "num_app": "23 147008 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=iDP0Ar780TC1cAr1ikW8PQ%3D%3D",
-      "desc": "The application proposes to demolish the existing buildings and construct a new 12-storey mixed use building containing 249 dwelling units. The proposed redevelopment consists of 17,576 sq. m total gross floor area (GFA), which results in a total Floor Space Index (FSI) of 5.48 pursuant to GFA calculations under By-law 569-2013."
-    },
-    {
-      "num": "3",
-      "street": "QUEBEC",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.65129858976905,
-      "lng": -79.46701203932273,
-      "num_app": "24 121126 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ShD04eyUtlngTGFxV7%2FwFA%3D%3D",
-      "desc": "Zoning By-law Amendment and Rental Housing Demolition & Conversion application to permit a 19-storey mixed-use building, containing 144 dwelling units (of which 12 are rental replacement units) and 380 square metres of non-residential gross floor area."
-    },
-    {
-      "num": "5",
-      "street": "QUEBEC",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.651335634626314,
-      "lng": -79.46702592829098,
-      "num_app": "24 121126 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ShD04eyUtlngTGFxV7%2FwFA%3D%3D",
-      "desc": "Zoning By-law Amendment and Rental Housing Demolition & Conversion application to permit a 19-storey mixed-use building, containing 144 dwelling units (of which 12 are rental replacement units) and 380 square metres of non-residential gross floor area."
-    },
-    {
-      "num": "1266",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "W",
-      "lat": 43.64025264789901,
-      "lng": -79.42982930808046,
-      "num_app": "23 136837 STE 04 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WYudf9BbgpWb1LT81aCtBA%3D%3D",
-      "desc": "The proposed development replaces the existing two-storey commercial building on the site, with a new  27-storey, 26,235 square metre, mixed use building with 362 rental units.  429 bike parking spaces and 31 vehicle parking spaces are proposed. A total of 180 square metres of commercial space is proposed on the ground floor.  The applicant is seeking to achieve TGS 4, Tier 2."
-    },
-    {
-      "num": "443",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "W",
-      "lat": 43.64625146144382,
-      "lng": -79.39687181195588,
-      "num_app": "23 138638 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7yDQDPsv5ZSl4rJaFJFIDg%3D%3D",
-      "desc": "Queen-Spadina Ontario Line"
-    },
-    {
-      "num": "1437",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "W",
-      "lat": 43.63804207683606,
-      "lng": -79.43772752821864,
-      "num_app": "23 147005 STE 04 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=kDcN2IcocPzInt7iIB4B5w%3D%3D",
-      "desc": "The application proposes to demolish the existing buildings and construct a new 12-storey mixed use building containing 249 dwelling units. The proposed redevelopment consists of 17,576 sq. m total gross floor area (GFA), which results in a total Floor Space Index (FSI) of 5.48 pursuant to GFA calculations under By-law 569-2013."
-    },
-    {
-      "num": "89",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65092437786446,
-      "lng": -79.37520016847809,
-      "num_app": "22 186083 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WcSngUnwiFUe1iXWVMoXOw%3D%3D",
-      "desc": "Proposal for a 61 storey mixed-use building containing 691 dwelling units, 43,404 sqm of residential GFA, and 464 sqm of retail GFA."
-    },
-    {
-      "num": "21",
-      "street": "QUEBEC",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.651529797119345,
-      "lng": -79.46703228082978,
-      "num_app": "25 210259 STE 04 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=sQvvcW9dxORuCr%2Btaj88Ug%3D%3D",
-      "desc": "Proposed 19-storey mixed-use building comprised of 137 dwelling units (including 12 rental replacement units) and 325 square metres of ground floor retail with a total gross floor area of 12,557.1 square metres."
-    },
-    {
-      "num": "1501",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "W",
-      "lat": 43.637413232637314,
-      "lng": -79.44110091111128,
-      "num_app": "26 118047 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=vLhnTmtDcV3AmXwwKYb4sw%3D%3D",
-      "desc": "Official Plan and Zoning By-law Amendment to develope a 10- and 7-storey mixed use building consisting of 141 affordable rental units, including 50 rental replacement units. The development consists of 8,341 square metres of GFA and retains the historic façade of the existing buildings of 1497 and 1501 Queen Street West. The development will contain community and office spaces, 5 vehicular parking spaces and 157 bike parking spaces."
-    },
-    {
       "num": "1698",
       "street": "QUEEN",
       "type": "ST",
@@ -29620,224 +29565,26 @@
       "desc": "Official Plan & Zoning By-law Amendment for a 10-storey mixed-use building with a height of 34.95 metres (plus a 5.5 metre mechanical penthouse). The proposed building will include approximately 1,184 square metres of non-residential space and 14,850 square metres of residential gross floor area, including 168 rental units. The proposal also seeks to permit one level of underground parking with 54 vehicular parking spaces and 186 bicycle parking spaces. A future realignment of Penny Lane providing access on the north end of the site from the underground level to Orchard Park Boulevard and closing the eastern portion of Penny Lane is also proposed."
     },
     {
-      "num": "641",
+      "num": "651",
       "street": "QUEEN",
       "type": "ST",
       "dir": "E",
-      "lat": 43.65593510323877,
-      "lng": -79.35255770085952,
+      "lat": 43.656004035713714,
+      "lng": -79.35223676417506,
       "num_app": "22 204260 STE 14 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=IRnEyudm1Gy2ywcw9pKF0w%3D%3D",
       "desc": "Proposed to retain the existing heritage buildings and construct a nine storey residential building. The building will contain 85 new residential dwelling units with a GFA of about 7186sqm and retail at grade with a GFA of 807sqm. The total proposed GFA is 9891sqm resulting in an FSI of 6.43"
     },
     {
-      "num": "723",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "W",
-      "lat": 43.64432185778631,
-      "lng": -79.40647503131584,
-      "num_app": "22 243075 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=HKKLdv%2B6kleutu60HLCfjw%3D%3D",
-      "desc": "To demolish the existing two-storey, 60-bed crisis shelter building and construct a new four-storey shelter building with 63 beds and a total gross floor area of 1,319 square metres."
-    },
-    {
-      "num": "200",
-      "street": "QUEENS QUAY",
-      "type": "",
-      "dir": "W",
-      "lat": 43.63828708213885,
-      "lng": -79.38193933284043,
-      "num_app": "21 233472 STE 10 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Byan%2BGlHgox9duE9EzPXFg%3D%3D",
-      "desc": "*** Draft Plan of Condominium for 1482 units."
-    },
-    {
-      "num": "929",
+      "num": "653",
       "street": "QUEEN",
       "type": "ST",
       "dir": "E",
-      "lat": 43.65839172059192,
-      "lng": -79.34072690341358,
-      "num_app": "23 141092 STE 14 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=t6au1BSBsc2lyu4aTh0Prg%3D%3D",
-      "desc": "Site Plan Approval for a 10-storey mixed-use building (including mezznine) having a non-residential gross floor area of 200.9 square metres, and a residential gross floor area of 5,476.9 square metres. A total of 70 residential dwelling units are proposed."
-    },
-    {
-      "num": "180",
-      "street": "QUEENS QUAY",
-      "type": "",
-      "dir": "E",
-      "lat": 43.642981241879646,
-      "lng": -79.36636356554696,
-      "num_app": "22 106787 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=u%2FYrKMgKGHya8hfwTCcw9w%3D%3D",
-      "desc": "Zoning By-law Amendment Application to lift the \"H\"\" Holding Symbol that currently applies to the subject site."
-    },
-    {
-      "num": "641",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65593510323877,
-      "lng": -79.35255770085952,
-      "num_app": "22 204259 STE 14 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=abOZ5091B5y7tuEpfV%2FzPw%3D%3D",
+      "lat": 43.65602625383672,
+      "lng": -79.35216222374338,
+      "num_app": "22 204260 STE 14 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=IRnEyudm1Gy2ywcw9pKF0w%3D%3D",
       "desc": "Proposed to retain the existing heritage buildings and construct a nine storey residential building. The building will contain 85 new residential dwelling units with a GFA of about 7186sqm and retail at grade with a GFA of 807sqm. The total proposed GFA is 9891sqm resulting in an FSI of 6.43"
-    },
-    {
-      "num": "929",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65839172059192,
-      "lng": -79.34072690341358,
-      "num_app": "22 210125 STE 14 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=PV1GWskBQ29iOXIWd5ZOJw%3D%3D",
-      "desc": "OPA and Rezoning for a  10-storey mixed-use building (including mezzanine) having a non-residential gross floor area of 213.5 square metres, and a residential gross floor area of 5,485.4 square metres.  A total of 70 dwelling units are proposed."
-    },
-    {
-      "num": "1596",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.664118944884194,
-      "lng": -79.31762137738909,
-      "num_app": "22 221795 STE 14 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=s3buI9ZimbzRqLNLI39jxA%3D%3D",
-      "desc": "Rezoning for proposed 6-storey mixed-use building with 181 m² of non-residential gross floor area at grade and 30 residential units above (2,526 m² residential gfa)."
-    },
-    {
-      "num": "1594",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.66418484829313,
-      "lng": -79.31780461566136,
-      "num_app": "22 221795 STE 14 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=s3buI9ZimbzRqLNLI39jxA%3D%3D",
-      "desc": "Rezoning for proposed 6-storey mixed-use building with 181 m² of non-residential gross floor area at grade and 30 residential units above (2,526 m² residential gfa)."
-    },
-    {
-      "num": "759",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65685486585495,
-      "lng": -79.34799322238312,
-      "num_app": "25 246036 STE 14 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dCsV8%2FMs%2FJs4FOexFHNS4Q%3D%3D",
-      "desc": "Draft Plan of Standard Condominium for a 7-storey mixed-use building with 28 residential units."
-    },
-    {
-      "num": "330",
-      "street": "QUEENS PLATE",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.719381985613815,
-      "lng": -79.596235389477,
-      "num_app": "26 146635 WET 01 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5xYUqXKoO4QXzAnmk1POSQ%3D%3D",
-      "desc": "Proposed dental office within the southeast portion of the subject lands."
-    },
-    {
-      "num": "761",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65699462795879,
-      "lng": -79.34800464790264,
-      "num_app": "25 246036 STE 14 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dCsV8%2FMs%2FJs4FOexFHNS4Q%3D%3D",
-      "desc": "Draft Plan of Standard Condominium for a 7-storey mixed-use building with 28 residential units."
-    },
-    {
-      "num": "763",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65688088530424,
-      "lng": -79.34787546281385,
-      "num_app": "25 246036 STE 14 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dCsV8%2FMs%2FJs4FOexFHNS4Q%3D%3D",
-      "desc": "Draft Plan of Standard Condominium for a 7-storey mixed-use building with 28 residential units."
-    },
-    {
-      "num": "329",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65308370337053,
-      "lng": -79.36547287865586,
-      "num_app": "25 258479 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=S4vsXTzFLE5dr%2F2bAYsQNw%3D%3D",
-      "desc": "Rezoning application for a 49-storey (162.5 metres, excluding mechanical penthouse) mixed-use building, containing 545 dwelling units and 470 square metres of grade-related retail space. The proposal includes the replacement of 7 rental units, and a proposed 385 square metre on-site parkland dedication."
-    },
-    {
-      "num": "150",
-      "street": "QUEENS WHARF",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.639637937365165,
-      "lng": -79.39995172415642,
-      "num_app": "26 126924 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bl2QP5Gp2Guv8lZKUlaRVQ%3D%3D",
-      "desc": "The 2025 Proposal is a 37-storey tower with a total of 268 units and ~350m2 of ground floor non-residential GFA. Of the 268 units, over 50% of the units are larger two- and three-bedroom units and 30% of the total units are planned to be affordable."
-    },
-    {
-      "num": "345",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65321364566587,
-      "lng": -79.36462470578314,
-      "num_app": "25 258479 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=S4vsXTzFLE5dr%2F2bAYsQNw%3D%3D",
-      "desc": "Rezoning application for a 49-storey (162.5 metres, excluding mechanical penthouse) mixed-use building, containing 545 dwelling units and 470 square metres of grade-related retail space. The proposal includes the replacement of 7 rental units, and a proposed 385 square metre on-site parkland dedication."
-    },
-    {
-      "num": "1497",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "W",
-      "lat": 43.63741812502635,
-      "lng": -79.44062262305097,
-      "num_app": "26 118047 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=vLhnTmtDcV3AmXwwKYb4sw%3D%3D",
-      "desc": "Official Plan and Zoning By-law Amendment to develope a 10- and 7-storey mixed use building consisting of 141 affordable rental units, including 50 rental replacement units. The development consists of 8,341 square metres of GFA and retains the historic façade of the existing buildings of 1497 and 1501 Queen Street West. The development will contain community and office spaces, 5 vehicular parking spaces and 157 bike parking spaces."
-    },
-    {
-      "num": "797",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65729041759098,
-      "lng": -79.34638426953389,
-      "num_app": "24 250727 STE 14 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=JUg4l2txVMWx%2Fen4tbGzyA%3D%3D",
-      "desc": "Site Plan Control Placeholder for Leslieville Station, one of the stations included in the Ontario Line Elevated Guideway and Stations contract."
-    },
-    {
-      "num": "1684",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.66520833264328,
-      "lng": -79.31366585384356,
-      "num_app": "25 150383 STE 19 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=hcvvTfm5fiIbD41w1hBSXQ%3D%3D",
-      "desc": "Official Plan & Zoning By-law Amendment for a 10-storey mixed-use building with a height of 34.95 metres (plus a 5.5 metre mechanical penthouse). The proposed building will include approximately 1,184 square metres of non-residential space and 14,850 square metres of residential gross floor area, including 168 rental units. The proposal also seeks to permit one level of underground parking with 54 vehicular parking spaces and 186 bicycle parking spaces. A future realignment of Penny Lane providing access on the north end of the site from the underground level to Orchard Park Boulevard and closing the eastern portion of Penny Lane is also proposed."
-    },
-    {
-      "num": "1122",
-      "street": "QUEENS PLATE",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.71515779521036,
-      "lng": -79.60414066145833,
-      "num_app": "24 177979 WET 01 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Ft4o%2B5RgMjZODKH1Bs7aMw%3D%3D",
-      "desc": "The application proposes to reconfigure the `walking ring¿ area of Woodbine Racetrack, including the associated entrance/arrival area, landscaping, and passenger pick-up and drop-off areas associated with the adjacent private streets to the north and west. The application also reconfigures two previously approved (but unbuilt) commercial buildings located west of the `walking ring¿ into one new commercial building having a height of 10 metres with a 4.5 metre mechanical penthouse, and 3,583 square metres of floor space. This area was subject to a previous Site Plan Approval (18 117779 WET 02 SA) for Block 8 of Plan 66M-2588 (formerly Block 9 of the approved Draft Plan of Subdivision) as part of the larger Woodbine Racetrack development."
     },
     {
       "num": "30",
@@ -29849,6 +29596,17 @@
       "num_app": "16 204453 WET 02 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ca9UVLOwj6KVsspWdCxDiw%3D%3D",
       "desc": "Toronto Paramedic Services proposes to construct a permanent Paramedic Post/Ambulance Depot (185 m2) and a temporary garage/Vehicle Depot (1,756 m2) at 30 Queen's Plate Drive. The permanent and temporary structures would be connected by a corridor. 24 surface parking spaces are proposed."
+    },
+    {
+      "num": "1153",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "W",
+      "lat": 43.64048258454969,
+      "lng": -79.42505625213893,
+      "num_app": "24 238364 STE 09 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=FwiHQXD7I7M5U5rCQ2k6nQ%3D%3D",
+      "desc": "Zoning By-law Amendment for a 27-storey mixed-use building with retail at-grade. There will be 367 dwelling units, including 10 rental replacement units."
     },
     {
       "num": "1439",
@@ -29895,37 +29653,15 @@
       "desc": "Site Plan application to permit a 6 storey mixed use building, containing 15 residential units and 69.64 square metres of ground floor commercial GFA."
     },
     {
-      "num": "1153",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "W",
-      "lat": 43.64048258454969,
-      "lng": -79.42505625213893,
-      "num_app": "24 238364 STE 09 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=FwiHQXD7I7M5U5rCQ2k6nQ%3D%3D",
-      "desc": "Zoning By-law Amendment for a 27-storey mixed-use building with retail at-grade. There will be 367 dwelling units, including 10 rental replacement units."
-    },
-    {
-      "num": "1117",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "W",
-      "lat": 43.64076326187554,
-      "lng": -79.42402517597282,
-      "num_app": "23 210259 STE 09 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=3g%2FlkARRA%2FvANQwb6aGO2w%3D%3D",
-      "desc": "Combined Official Plan & Zoning By-law Amendment for a 29-storey mixed use building and retains the existing 2-storey Postal Station C building in its entirety. The proposal comprises a total gross floor area of 17,384 square metres, including 16,465 square metres of residential GFA and 919 square metres of non-residential GFA. The non-residential GFA will be programmed exclusively as community space, to be operated within the retained Postal Station C building. 272 residential dwelling units are proposed."
-    },
-    {
-      "num": "477",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.6544570720119,
-      "lng": -79.3593443955097,
-      "num_app": "23 186758 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=34%2FzXRkm0mM2oUsS5hBKRQ%3D%3D",
-      "desc": "The proposed development will be 15 storeys in height, plus mezzanine and mechanical penthouse along Queen Street East. Parking elevator access to four levels of below grade parking is proposedfrom the private east-west lane. Approximately 151 residential dwelling units,"
+      "num": "1122",
+      "street": "QUEENS PLATE",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.71515779521036,
+      "lng": -79.60414066145833,
+      "num_app": "24 177979 WET 01 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Ft4o%2B5RgMjZODKH1Bs7aMw%3D%3D",
+      "desc": "The application proposes to reconfigure the `walking ring¿ area of Woodbine Racetrack, including the associated entrance/arrival area, landscaping, and passenger pick-up and drop-off areas associated with the adjacent private streets to the north and west. The application also reconfigures two previously approved (but unbuilt) commercial buildings located west of the `walking ring¿ into one new commercial building having a height of 10 metres with a 4.5 metre mechanical penthouse, and 3,583 square metres of floor space. This area was subject to a previous Site Plan Approval (18 117779 WET 02 SA) for Block 8 of Plan 66M-2588 (formerly Block 9 of the approved Draft Plan of Subdivision) as part of the larger Woodbine Racetrack development."
     },
     {
       "num": "643",
@@ -29961,37 +29697,15 @@
       "desc": "Proposed to retain the existing heritage buildings and construct a nine storey residential building. The building will contain 85 new residential dwelling units with a GFA of about 7186sqm and retail at grade with a GFA of 807sqm. The total proposed GFA is 9891sqm resulting in an FSI of 6.43"
     },
     {
-      "num": "651",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.656004035713714,
-      "lng": -79.35223676417506,
-      "num_app": "22 204260 STE 14 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=IRnEyudm1Gy2ywcw9pKF0w%3D%3D",
-      "desc": "Proposed to retain the existing heritage buildings and construct a nine storey residential building. The building will contain 85 new residential dwelling units with a GFA of about 7186sqm and retail at grade with a GFA of 807sqm. The total proposed GFA is 9891sqm resulting in an FSI of 6.43"
-    },
-    {
-      "num": "653",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65602625383672,
-      "lng": -79.35216222374338,
-      "num_app": "22 204260 STE 14 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=IRnEyudm1Gy2ywcw9pKF0w%3D%3D",
-      "desc": "Proposed to retain the existing heritage buildings and construct a nine storey residential building. The building will contain 85 new residential dwelling units with a GFA of about 7186sqm and retail at grade with a GFA of 807sqm. The total proposed GFA is 9891sqm resulting in an FSI of 6.43"
-    },
-    {
-      "num": "205",
+      "num": "835",
       "street": "QUEEN",
       "type": "ST",
       "dir": "W",
-      "lat": 43.64816233589289,
-      "lng": -79.3877534967079,
-      "num_app": "23 146691 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=hNKRCqquMb%2BA%2FprsneWoRA%3D%3D",
-      "desc": "Ontario Line Osgoode Station"
+      "lat": 43.64365757764541,
+      "lng": -79.40982285421634,
+      "num_app": "20 160774 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dQ0egZScCDK5L97FoXfmQw%3D%3D",
+      "desc": "Proposal for a 6-storey mixed-use building containing19 residential dwelling units.  The proposed non-residential gross floor area is 136 square metres, and the proposed residential gross floor area is 1118 square metres."
     },
     {
       "num": "261",
@@ -30027,17 +29741,6 @@
       "desc": "Proposed increase in height from the previously approved 29-storey tower to a 37-storey tower. The proposal increases the GFA by 3591 square metres and reduces the number of dwelling units from 282 to 268 total units."
     },
     {
-      "num": "835",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "W",
-      "lat": 43.64365757764541,
-      "lng": -79.40982285421634,
-      "num_app": "20 160774 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dQ0egZScCDK5L97FoXfmQw%3D%3D",
-      "desc": "Proposal for a 6-storey mixed-use building containing19 residential dwelling units.  The proposed non-residential gross floor area is 136 square metres, and the proposed residential gross floor area is 1118 square metres."
-    },
-    {
       "num": "1249",
       "street": "QUEEN",
       "type": "ST",
@@ -30047,6 +29750,17 @@
       "num_app": "19 155420 STE 14 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=cfTa7sAO2h6YmKMkGIIo0A%3D%3D",
       "desc": "Proposal for a 6 storey mid-rise building with 29 dwelling units, commercial space at grade and two levels of below grade parking."
+    },
+    {
+      "num": "763",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65688088530424,
+      "lng": -79.34787546281385,
+      "num_app": "14 223583 STE 30 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=NNyqIoCb0MLzKVdfTRTiAQ%3D%3D",
+      "desc": "Rezoning application for a 7-storey mixed-use building containing commercial uses on the ground floor and  residential units above. The proposal is also subject to Site Plan Application No. 14 223587 STE 30 SA, which is being processed concurrently with this application."
     },
     {
       "num": "759",
@@ -30071,17 +29785,6 @@
       "desc": "Rezoning application for a 7-storey mixed-use building containing commercial uses on the ground floor and  residential units above. The proposal is also subject to Site Plan Application No. 14 223587 STE 30 SA, which is being processed concurrently with this application."
     },
     {
-      "num": "763",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65688088530424,
-      "lng": -79.34787546281385,
-      "num_app": "14 223583 STE 30 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=NNyqIoCb0MLzKVdfTRTiAQ%3D%3D",
-      "desc": "Rezoning application for a 7-storey mixed-use building containing commercial uses on the ground floor and  residential units above. The proposal is also subject to Site Plan Application No. 14 223587 STE 30 SA, which is being processed concurrently with this application."
-    },
-    {
       "num": "301",
       "street": "QUEEN",
       "type": "ST",
@@ -30190,6 +29893,17 @@
       "num_app": "16 161250 STE 28 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=UhFX4lmZ%2FjAoKh%2BbCWCdwA%3D%3D",
       "desc": "Proposal for a new 19-storey mixed-use building next to the existing Berkeley Church, containing 150 dwelling units and 1,066 square metres of non-residential gross floor area."
+    },
+    {
+      "num": "0",
+      "street": "QUEENS PLATE",
+      "type": "DR",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "16 204453 WET 02 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ca9UVLOwj6KVsspWdCxDiw%3D%3D",
+      "desc": "Toronto Paramedic Services proposes to construct a permanent Paramedic Post/Ambulance Depot (185 m2) and a temporary garage/Vehicle Depot (1,756 m2) at 30 Queen's Plate Drive. The permanent and temporary structures would be connected by a corridor. 24 surface parking spaces are proposed."
     },
     {
       "num": "40",
@@ -30203,15 +29917,15 @@
       "desc": "Toronto Paramedic Services proposes to construct a permanent Paramedic Post/Ambulance Depot (185 m2) and a temporary garage/Vehicle Depot (1,756 m2) at 30 Queen's Plate Drive. The permanent and temporary structures would be connected by a corridor. 24 surface parking spaces are proposed."
     },
     {
-      "num": "0",
-      "street": "QUEENS PLATE",
-      "type": "DR",
-      "dir": "",
-      "lat": null,
-      "lng": null,
-      "num_app": "16 204453 WET 02 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ca9UVLOwj6KVsspWdCxDiw%3D%3D",
-      "desc": "Toronto Paramedic Services proposes to construct a permanent Paramedic Post/Ambulance Depot (185 m2) and a temporary garage/Vehicle Depot (1,756 m2) at 30 Queen's Plate Drive. The permanent and temporary structures would be connected by a corridor. 24 surface parking spaces are proposed."
+      "num": "1001",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65907921248699,
+      "lng": -79.33813188165686,
+      "num_app": "18 167660 STE 30 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=d2a%2BPGZzngdpA80dpmwQKA%3D%3D",
+      "desc": "Site Plan Control application fpr a proposed mixed use building with an overall height of 6-storeys (inclusive of mechanical). A total of 16 residential units are proposed on the second through sixth storeys, and retail/commercial space is proposed on the ground floor."
     },
     {
       "num": "840",
@@ -30247,28 +29961,6 @@
       "desc": "Official Plan and Zoning By-law Amendment application to permit the development of a residential/mixed-use building"
     },
     {
-      "num": "178",
-      "street": "QUEENS QUAY",
-      "type": "",
-      "dir": "E",
-      "lat": 43.64276579732127,
-      "lng": -79.36710115299701,
-      "num_app": "17 278451 STE 28 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=iaEhTtF7UE6QpB2zNg3WTQ%3D%3D",
-      "desc": "INACTIVE Draft Plan of Subdivision application to facilitate dedication of a portion of the lands for road widening and realignment"
-    },
-    {
-      "num": "180",
-      "street": "QUEENS QUAY",
-      "type": "",
-      "dir": "E",
-      "lat": 43.642981241879646,
-      "lng": -79.36636356554696,
-      "num_app": "17 278451 STE 28 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=iaEhTtF7UE6QpB2zNg3WTQ%3D%3D",
-      "desc": "INACTIVE Draft Plan of Subdivision application to facilitate dedication of a portion of the lands for road widening and realignment"
-    },
-    {
       "num": "371",
       "street": "QUEEN",
       "type": "ST",
@@ -30302,15 +29994,26 @@
       "desc": "Official Plan and Zoning By-law Amendment application to permit the development of a residential/mixed-use building"
     },
     {
-      "num": "1001",
-      "street": "QUEEN",
-      "type": "ST",
+      "num": "178",
+      "street": "QUEENS QUAY",
+      "type": "",
       "dir": "E",
-      "lat": 43.65907921248699,
-      "lng": -79.33813188165686,
-      "num_app": "18 167660 STE 30 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=d2a%2BPGZzngdpA80dpmwQKA%3D%3D",
-      "desc": "Site Plan Control application fpr a proposed mixed use building with an overall height of 6-storeys (inclusive of mechanical). A total of 16 residential units are proposed on the second through sixth storeys, and retail/commercial space is proposed on the ground floor."
+      "lat": 43.64276579732127,
+      "lng": -79.36710115299701,
+      "num_app": "17 278451 STE 28 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=iaEhTtF7UE6QpB2zNg3WTQ%3D%3D",
+      "desc": "INACTIVE Draft Plan of Subdivision application to facilitate dedication of a portion of the lands for road widening and realignment"
+    },
+    {
+      "num": "180",
+      "street": "QUEENS QUAY",
+      "type": "",
+      "dir": "E",
+      "lat": 43.642981241879646,
+      "lng": -79.36636356554696,
+      "num_app": "17 278451 STE 28 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=iaEhTtF7UE6QpB2zNg3WTQ%3D%3D",
+      "desc": "INACTIVE Draft Plan of Subdivision application to facilitate dedication of a portion of the lands for road widening and realignment"
     },
     {
       "num": "78",
@@ -30401,28 +30104,6 @@
       "desc": "Site Plan Approval application to permit a 9-storey (43 metres, including mechanical penthouse), 14,770 square metre building on the site that would comprise institutional and ancillary uses, including a recital hall, laboratories, work areas, meeting rooms, offices and a cafe. Falconer Hall and the Edward Johnson Building are proposed to be retained and integrated into the development while the McLaughlin Planetarium is proposed to be demolished."
     },
     {
-      "num": "343",
-      "street": "QUEENS",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.7056737185925,
-      "lng": -79.5016540764889,
-      "num_app": "20 212165 WET 05 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=4bATQ4348JqWFNVzWt%2BRmg%3D%3D",
-      "desc": "Site Plan Control application to permit a residential development  comprised of 8 semi-detached dwelling units and 20 townhouse units, situated within three blocks. The proposed dwellings would be 3-storeys in height."
-    },
-    {
-      "num": "347",
-      "street": "QUEENS",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.70579305268209,
-      "lng": -79.50140131540687,
-      "num_app": "20 212165 WET 05 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=4bATQ4348JqWFNVzWt%2BRmg%3D%3D",
-      "desc": "Site Plan Control application to permit a residential development  comprised of 8 semi-detached dwelling units and 20 townhouse units, situated within three blocks. The proposed dwellings would be 3-storeys in height."
-    },
-    {
       "num": "178",
       "street": "QUEENS QUAY",
       "type": "",
@@ -30454,6 +30135,303 @@
       "num_app": "20 212165 WET 05 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=4bATQ4348JqWFNVzWt%2BRmg%3D%3D",
       "desc": "Site Plan Control application to permit a residential development  comprised of 8 semi-detached dwelling units and 20 townhouse units, situated within three blocks. The proposed dwellings would be 3-storeys in height."
+    },
+    {
+      "num": "343",
+      "street": "QUEENS",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.7056737185925,
+      "lng": -79.5016540764889,
+      "num_app": "20 212165 WET 05 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=4bATQ4348JqWFNVzWt%2BRmg%3D%3D",
+      "desc": "Site Plan Control application to permit a residential development  comprised of 8 semi-detached dwelling units and 20 townhouse units, situated within three blocks. The proposed dwellings would be 3-storeys in height."
+    },
+    {
+      "num": "347",
+      "street": "QUEENS",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.70579305268209,
+      "lng": -79.50140131540687,
+      "num_app": "20 212165 WET 05 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=4bATQ4348JqWFNVzWt%2BRmg%3D%3D",
+      "desc": "Site Plan Control application to permit a residential development  comprised of 8 semi-detached dwelling units and 20 townhouse units, situated within three blocks. The proposed dwellings would be 3-storeys in height."
+    },
+    {
+      "num": "261",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65236904712605,
+      "lng": -79.36833535182363,
+      "num_app": "21 169132 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=rerch4OEWFb8gHZVtmltMA%3D%3D",
+      "desc": "Site Plan Approval for a 25-storey mixed-use building having a non-residential gross floor area of 24,936 square metres, and a residential gross floor area of 35,803 square metres.  A total of 446 residential dwelling units, and 180 vehicle parking spaces are proposed."
+    },
+    {
+      "num": "25",
+      "street": "QUEENS QUAY",
+      "type": "",
+      "dir": "E",
+      "lat": 43.63996615808099,
+      "lng": -79.37346788008162,
+      "num_app": "21 143747 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Y%2FDmSfkCghAM0G%2BcGuzaIg%3D%3D",
+      "desc": "Proposal to modify previously approved Buildings A and F. Building A is proposed with a revised height of 11 storeys containing 136 residential dwelling units (previously approved for 13 storeys containing 132 units). Building F is proposed with a revised height of 45 storeys containing 449 residential dwelling units (previously approved for 13 storeys containing 139 units).  In total, an additional 314 residential units are proposed. Please note that OPA/Rezoning File No. 21 143747 STE 10 OZ is being reviewed at the same time as Site Plan Control File No. 21 143750 STE 10 SA.  OPA/Rezoning must be approved prior to site plan approval."
+    },
+    {
+      "num": "25",
+      "street": "QUEENS QUAY",
+      "type": "",
+      "dir": "E",
+      "lat": 43.63996615808099,
+      "lng": -79.37346788008162,
+      "num_app": "21 143750 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=uPIa0X%2F8Rk4%2FMGd%2FuTzcrA%3D%3D",
+      "desc": "Proposal to modify previously approved Buildings A and F. Building A is proposed with a revised height of 11 storeys containing 136 residential dwelling units (previously approved for 13 storeys containing 132 units). Building F is proposed with a revised height of 45 storeys containing 449 residential dwelling units (previously approved for 13 storeys containing 139 units).  In total, an additional 314 residential units are proposed. Please note that OPA/Rezoning File No. 21 143747 STE 10 OZ is being reviewed at the same time as Site Plan Control File No. 21 143750 STE 10 SA.  OPA/Rezoning must be approved prior to site plan approval."
+    },
+    {
+      "num": "349",
+      "street": "QUEENS",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.705850907186544,
+      "lng": -79.5011386008833,
+      "num_app": "20 212165 WET 05 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=4bATQ4348JqWFNVzWt%2BRmg%3D%3D",
+      "desc": "Site Plan Control application to permit a residential development  comprised of 8 semi-detached dwelling units and 20 townhouse units, situated within three blocks. The proposed dwellings would be 3-storeys in height."
+    },
+    {
+      "num": "1488",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "W",
+      "lat": 43.638455576421364,
+      "lng": -79.43791018802862,
+      "num_app": "21 131164 STE 04 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=FEXK%2BtzXq%2B4q6Z3QdLY5yQ%3D%3D",
+      "desc": "Proposal for a 6-storey mixed-use building having a non-residential gross floor area of 190 square metres, and a residnetial gross floor area of 2550.0 square metres.  A total of 29 residential dwelling units are proposed."
+    },
+    {
+      "num": "285",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.652617608804974,
+      "lng": -79.36734354957296,
+      "num_app": "21 153650 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
+      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
+    },
+    {
+      "num": "269",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65245969774916,
+      "lng": -79.3680676004029,
+      "num_app": "21 153650 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
+      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
+    },
+    {
+      "num": "1631",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.66410594359608,
+      "lng": -79.31577815080696,
+      "num_app": "21 136860 STE 19 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ReLVaGWNsUkzIi%2F2lscEPg%3D%3D",
+      "desc": "City Initiated Official Plan and Zoning By-law Amendment seeking to permit two buildings on site. The proposal is for a building fronting Queen Street West with 6 residential storeys and a partial 7th storey for enclosed mechanical penthouse and amenity space, and an 18-storey residential building (plus enclosed mechanical penthouse) fronting Eastern Avenue.  Taken together both buildings have a total residential gross floor area of 24,275 square metres, and a non-residential gross floor area of 1,112 square metres. A total of 328 residential rental dwelling units are proposed. The proposal includes a childcare space on the ground floor and one level of underground parking that includes 89 vehicular parking spaces and 331 bicycle parking spaces."
+    },
+    {
+      "num": "363",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65343539025459,
+      "lng": -79.36392275819395,
+      "num_app": "21 176821 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wteIX6RW6ek6mQfpuMWKwg%3D%3D",
+      "desc": "Site Plan Application for a 28-storey mixed-use development with 526 units, 448 square metres of parkland, 1,350 square metres of non-residential gross floor area, and one level of underground parking."
+    },
+    {
+      "num": "371",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65349682759258,
+      "lng": -79.3637814021139,
+      "num_app": "21 176821 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wteIX6RW6ek6mQfpuMWKwg%3D%3D",
+      "desc": "Site Plan Application for a 28-storey mixed-use development with 526 units, 448 square metres of parkland, 1,350 square metres of non-residential gross floor area, and one level of underground parking."
+    },
+    {
+      "num": "373",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65345141495046,
+      "lng": -79.36371302227171,
+      "num_app": "21 176821 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wteIX6RW6ek6mQfpuMWKwg%3D%3D",
+      "desc": "Site Plan Application for a 28-storey mixed-use development with 526 units, 448 square metres of parkland, 1,350 square metres of non-residential gross floor area, and one level of underground parking."
+    },
+    {
+      "num": "471",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65441372599338,
+      "lng": -79.35954595545492,
+      "num_app": "20 220233 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7j1%2FiyPgWpqVQjiyijQcoQ%3D%3D",
+      "desc": "The City has received an application to amend the Zoning By-law to allow a 15-storey (51.1 metres plus a 3.7-metre mechanical penthouse) mixed-use building with retail at-grade, 143 dwelling units, 33 vehicle parking spaces in a below grade garage, and 180 bicycle parking spaces. The application was appealed to the OLT by the applicant on November 5, 2021."
+    },
+    {
+      "num": "473",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65442955684745,
+      "lng": -79.35947789366055,
+      "num_app": "20 220233 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7j1%2FiyPgWpqVQjiyijQcoQ%3D%3D",
+      "desc": "The City has received an application to amend the Zoning By-law to allow a 15-storey (51.1 metres plus a 3.7-metre mechanical penthouse) mixed-use building with retail at-grade, 143 dwelling units, 33 vehicle parking spaces in a below grade garage, and 180 bicycle parking spaces. The application was appealed to the OLT by the applicant on November 5, 2021."
+    },
+    {
+      "num": "475",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.654442592452256,
+      "lng": -79.35941327245062,
+      "num_app": "20 220233 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7j1%2FiyPgWpqVQjiyijQcoQ%3D%3D",
+      "desc": "The City has received an application to amend the Zoning By-law to allow a 15-storey (51.1 metres plus a 3.7-metre mechanical penthouse) mixed-use building with retail at-grade, 143 dwelling units, 33 vehicle parking spaces in a below grade garage, and 180 bicycle parking spaces. The application was appealed to the OLT by the applicant on November 5, 2021."
+    },
+    {
+      "num": "477",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.6544570720119,
+      "lng": -79.3593443955097,
+      "num_app": "20 220233 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7j1%2FiyPgWpqVQjiyijQcoQ%3D%3D",
+      "desc": "The City has received an application to amend the Zoning By-law to allow a 15-storey (51.1 metres plus a 3.7-metre mechanical penthouse) mixed-use building with retail at-grade, 143 dwelling units, 33 vehicle parking spaces in a below grade garage, and 180 bicycle parking spaces. The application was appealed to the OLT by the applicant on November 5, 2021."
+    },
+    {
+      "num": "479",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.654406563673156,
+      "lng": -79.3592408830205,
+      "num_app": "20 220233 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7j1%2FiyPgWpqVQjiyijQcoQ%3D%3D",
+      "desc": "The City has received an application to amend the Zoning By-law to allow a 15-storey (51.1 metres plus a 3.7-metre mechanical penthouse) mixed-use building with retail at-grade, 143 dwelling units, 33 vehicle parking spaces in a below grade garage, and 180 bicycle parking spaces. The application was appealed to the OLT by the applicant on November 5, 2021."
+    },
+    {
+      "num": "351",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.653278534473706,
+      "lng": -79.36430381889772,
+      "num_app": "21 176821 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wteIX6RW6ek6mQfpuMWKwg%3D%3D",
+      "desc": "Site Plan Application for a 28-storey mixed-use development with 526 units, 448 square metres of parkland, 1,350 square metres of non-residential gross floor area, and one level of underground parking."
+    },
+    {
+      "num": "19",
+      "street": "QUEENS QUAY",
+      "type": "",
+      "dir": "E",
+      "lat": 43.63997999902204,
+      "lng": -79.37322120058556,
+      "num_app": "21 143747 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Y%2FDmSfkCghAM0G%2BcGuzaIg%3D%3D",
+      "desc": "Proposal to modify previously approved Buildings A and F. Building A is proposed with a revised height of 11 storeys containing 136 residential dwelling units (previously approved for 13 storeys containing 132 units). Building F is proposed with a revised height of 45 storeys containing 449 residential dwelling units (previously approved for 13 storeys containing 139 units).  In total, an additional 314 residential units are proposed. Please note that OPA/Rezoning File No. 21 143747 STE 10 OZ is being reviewed at the same time as Site Plan Control File No. 21 143750 STE 10 SA.  OPA/Rezoning must be approved prior to site plan approval."
+    },
+    {
+      "num": "37",
+      "street": "QUEENS QUAY",
+      "type": "",
+      "dir": "E",
+      "lat": 43.64009209725466,
+      "lng": -79.37247966114732,
+      "num_app": "21 143747 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Y%2FDmSfkCghAM0G%2BcGuzaIg%3D%3D",
+      "desc": "Proposal to modify previously approved Buildings A and F. Building A is proposed with a revised height of 11 storeys containing 136 residential dwelling units (previously approved for 13 storeys containing 132 units). Building F is proposed with a revised height of 45 storeys containing 449 residential dwelling units (previously approved for 13 storeys containing 139 units).  In total, an additional 314 residential units are proposed. Please note that OPA/Rezoning File No. 21 143747 STE 10 OZ is being reviewed at the same time as Site Plan Control File No. 21 143750 STE 10 SA.  OPA/Rezoning must be approved prior to site plan approval."
+    },
+    {
+      "num": "31",
+      "street": "QUEENS QUAY",
+      "type": "",
+      "dir": "E",
+      "lat": 43.640121212538084,
+      "lng": -79.37268570810532,
+      "num_app": "21 143747 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Y%2FDmSfkCghAM0G%2BcGuzaIg%3D%3D",
+      "desc": "Proposal to modify previously approved Buildings A and F. Building A is proposed with a revised height of 11 storeys containing 136 residential dwelling units (previously approved for 13 storeys containing 132 units). Building F is proposed with a revised height of 45 storeys containing 449 residential dwelling units (previously approved for 13 storeys containing 139 units).  In total, an additional 314 residential units are proposed. Please note that OPA/Rezoning File No. 21 143747 STE 10 OZ is being reviewed at the same time as Site Plan Control File No. 21 143750 STE 10 SA.  OPA/Rezoning must be approved prior to site plan approval."
+    },
+    {
+      "num": "261",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65236904712605,
+      "lng": -79.36833535182363,
+      "num_app": "21 153650 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
+      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
+    },
+    {
+      "num": "265",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65250268135264,
+      "lng": -79.3682643097898,
+      "num_app": "21 153650 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
+      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
+    },
+    {
+      "num": "267",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65251786082372,
+      "lng": -79.36815767417718,
+      "num_app": "21 153650 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
+      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
+    },
+    {
+      "num": "271",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65255203672878,
+      "lng": -79.36801511976907,
+      "num_app": "21 153650 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
+      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
+    },
+    {
+      "num": "2",
+      "street": "QUEEN ELIZABETH",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.621660991498636,
+      "lng": -79.5027219960665,
+      "num_app": "22 144668 WET 03 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VujDeR02h1TT8CkO2QlwaA%3D%3D",
+      "desc": "Proposal for a mixed-use development consisting of three buildings on two parcels"
     },
     {
       "num": "273",
@@ -30511,105 +30489,6 @@
       "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
     },
     {
-      "num": "25",
-      "street": "QUEENS QUAY",
-      "type": "",
-      "dir": "E",
-      "lat": 43.63996615808099,
-      "lng": -79.37346788008162,
-      "num_app": "21 143747 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Y%2FDmSfkCghAM0G%2BcGuzaIg%3D%3D",
-      "desc": "Proposal to modify previously approved Buildings A and F. Building A is proposed with a revised height of 11 storeys containing 136 residential dwelling units (previously approved for 13 storeys containing 132 units). Building F is proposed with a revised height of 45 storeys containing 449 residential dwelling units (previously approved for 13 storeys containing 139 units).  In total, an additional 314 residential units are proposed. Please note that OPA/Rezoning File No. 21 143747 STE 10 OZ is being reviewed at the same time as Site Plan Control File No. 21 143750 STE 10 SA.  OPA/Rezoning must be approved prior to site plan approval."
-    },
-    {
-      "num": "25",
-      "street": "QUEENS QUAY",
-      "type": "",
-      "dir": "E",
-      "lat": 43.63996615808099,
-      "lng": -79.37346788008162,
-      "num_app": "21 143750 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=uPIa0X%2F8Rk4%2FMGd%2FuTzcrA%3D%3D",
-      "desc": "Proposal to modify previously approved Buildings A and F. Building A is proposed with a revised height of 11 storeys containing 136 residential dwelling units (previously approved for 13 storeys containing 132 units). Building F is proposed with a revised height of 45 storeys containing 449 residential dwelling units (previously approved for 13 storeys containing 139 units).  In total, an additional 314 residential units are proposed. Please note that OPA/Rezoning File No. 21 143747 STE 10 OZ is being reviewed at the same time as Site Plan Control File No. 21 143750 STE 10 SA.  OPA/Rezoning must be approved prior to site plan approval."
-    },
-    {
-      "num": "349",
-      "street": "QUEENS",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.705850907186544,
-      "lng": -79.5011386008833,
-      "num_app": "20 212165 WET 05 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=4bATQ4348JqWFNVzWt%2BRmg%3D%3D",
-      "desc": "Site Plan Control application to permit a residential development  comprised of 8 semi-detached dwelling units and 20 townhouse units, situated within three blocks. The proposed dwellings would be 3-storeys in height."
-    },
-    {
-      "num": "261",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65236904712605,
-      "lng": -79.36833535182363,
-      "num_app": "21 153650 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
-      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
-    },
-    {
-      "num": "265",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65250268135264,
-      "lng": -79.3682643097898,
-      "num_app": "21 153650 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
-      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
-    },
-    {
-      "num": "267",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65251786082372,
-      "lng": -79.36815767417718,
-      "num_app": "21 153650 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
-      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
-    },
-    {
-      "num": "271",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65255203672878,
-      "lng": -79.36801511976907,
-      "num_app": "21 153650 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
-      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
-    },
-    {
-      "num": "1488",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "W",
-      "lat": 43.638455576421364,
-      "lng": -79.43791018802862,
-      "num_app": "21 131164 STE 04 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=FEXK%2BtzXq%2B4q6Z3QdLY5yQ%3D%3D",
-      "desc": "Proposal for a 6-storey mixed-use building having a non-residential gross floor area of 190 square metres, and a residnetial gross floor area of 2550.0 square metres.  A total of 29 residential dwelling units are proposed."
-    },
-    {
-      "num": "261",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65236904712605,
-      "lng": -79.36833535182363,
-      "num_app": "21 169132 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=rerch4OEWFb8gHZVtmltMA%3D%3D",
-      "desc": "Site Plan Approval for a 25-storey mixed-use building having a non-residential gross floor area of 24,936 square metres, and a residential gross floor area of 35,803 square metres.  A total of 446 residential dwelling units, and 180 vehicle parking spaces are proposed."
-    },
-    {
       "num": "245",
       "street": "QUEEN",
       "type": "ST",
@@ -30619,182 +30498,6 @@
       "num_app": "21 169132 STE 13 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=rerch4OEWFb8gHZVtmltMA%3D%3D",
       "desc": "Site Plan Approval for a 25-storey mixed-use building having a non-residential gross floor area of 24,936 square metres, and a residential gross floor area of 35,803 square metres.  A total of 446 residential dwelling units, and 180 vehicle parking spaces are proposed."
-    },
-    {
-      "num": "31",
-      "street": "QUEENS QUAY",
-      "type": "",
-      "dir": "E",
-      "lat": 43.640121212538084,
-      "lng": -79.37268570810532,
-      "num_app": "21 143747 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Y%2FDmSfkCghAM0G%2BcGuzaIg%3D%3D",
-      "desc": "Proposal to modify previously approved Buildings A and F. Building A is proposed with a revised height of 11 storeys containing 136 residential dwelling units (previously approved for 13 storeys containing 132 units). Building F is proposed with a revised height of 45 storeys containing 449 residential dwelling units (previously approved for 13 storeys containing 139 units).  In total, an additional 314 residential units are proposed. Please note that OPA/Rezoning File No. 21 143747 STE 10 OZ is being reviewed at the same time as Site Plan Control File No. 21 143750 STE 10 SA.  OPA/Rezoning must be approved prior to site plan approval."
-    },
-    {
-      "num": "1631",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.66410594359608,
-      "lng": -79.31577815080696,
-      "num_app": "21 136860 STE 19 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ReLVaGWNsUkzIi%2F2lscEPg%3D%3D",
-      "desc": "City Initiated Official Plan and Zoning By-law Amendment seeking to permit two buildings on site. The proposal is for a building fronting Queen Street West with 6 residential storeys and a partial 7th storey for enclosed mechanical penthouse and amenity space, and an 18-storey residential building (plus enclosed mechanical penthouse) fronting Eastern Avenue.  Taken together both buildings have a total residential gross floor area of 24,275 square metres, and a non-residential gross floor area of 1,112 square metres. A total of 328 residential rental dwelling units are proposed. The proposal includes a childcare space on the ground floor and one level of underground parking that includes 89 vehicular parking spaces and 331 bicycle parking spaces."
-    },
-    {
-      "num": "2",
-      "street": "QUEEN ELIZABETH",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.621660991498636,
-      "lng": -79.5027219960665,
-      "num_app": "22 144668 WET 03 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VujDeR02h1TT8CkO2QlwaA%3D%3D",
-      "desc": "Proposal for a mixed-use development consisting of three buildings on two parcels"
-    },
-    {
-      "num": "471",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65441372599338,
-      "lng": -79.35954595545492,
-      "num_app": "20 220233 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7j1%2FiyPgWpqVQjiyijQcoQ%3D%3D",
-      "desc": "The City has received an application to amend the Zoning By-law to allow a 15-storey (51.1 metres plus a 3.7-metre mechanical penthouse) mixed-use building with retail at-grade, 143 dwelling units, 33 vehicle parking spaces in a below grade garage, and 180 bicycle parking spaces. The application was appealed to the OLT by the applicant on November 5, 2021."
-    },
-    {
-      "num": "473",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65442955684745,
-      "lng": -79.35947789366055,
-      "num_app": "20 220233 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7j1%2FiyPgWpqVQjiyijQcoQ%3D%3D",
-      "desc": "The City has received an application to amend the Zoning By-law to allow a 15-storey (51.1 metres plus a 3.7-metre mechanical penthouse) mixed-use building with retail at-grade, 143 dwelling units, 33 vehicle parking spaces in a below grade garage, and 180 bicycle parking spaces. The application was appealed to the OLT by the applicant on November 5, 2021."
-    },
-    {
-      "num": "475",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.654442592452256,
-      "lng": -79.35941327245062,
-      "num_app": "20 220233 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7j1%2FiyPgWpqVQjiyijQcoQ%3D%3D",
-      "desc": "The City has received an application to amend the Zoning By-law to allow a 15-storey (51.1 metres plus a 3.7-metre mechanical penthouse) mixed-use building with retail at-grade, 143 dwelling units, 33 vehicle parking spaces in a below grade garage, and 180 bicycle parking spaces. The application was appealed to the OLT by the applicant on November 5, 2021."
-    },
-    {
-      "num": "477",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.6544570720119,
-      "lng": -79.3593443955097,
-      "num_app": "20 220233 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7j1%2FiyPgWpqVQjiyijQcoQ%3D%3D",
-      "desc": "The City has received an application to amend the Zoning By-law to allow a 15-storey (51.1 metres plus a 3.7-metre mechanical penthouse) mixed-use building with retail at-grade, 143 dwelling units, 33 vehicle parking spaces in a below grade garage, and 180 bicycle parking spaces. The application was appealed to the OLT by the applicant on November 5, 2021."
-    },
-    {
-      "num": "479",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.654406563673156,
-      "lng": -79.3592408830205,
-      "num_app": "20 220233 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7j1%2FiyPgWpqVQjiyijQcoQ%3D%3D",
-      "desc": "The City has received an application to amend the Zoning By-law to allow a 15-storey (51.1 metres plus a 3.7-metre mechanical penthouse) mixed-use building with retail at-grade, 143 dwelling units, 33 vehicle parking spaces in a below grade garage, and 180 bicycle parking spaces. The application was appealed to the OLT by the applicant on November 5, 2021."
-    },
-    {
-      "num": "363",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65343539025459,
-      "lng": -79.36392275819395,
-      "num_app": "21 176821 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wteIX6RW6ek6mQfpuMWKwg%3D%3D",
-      "desc": "Site Plan Application for a 28-storey mixed-use development with 526 units, 448 square metres of parkland, 1,350 square metres of non-residential gross floor area, and one level of underground parking."
-    },
-    {
-      "num": "371",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65349682759258,
-      "lng": -79.3637814021139,
-      "num_app": "21 176821 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wteIX6RW6ek6mQfpuMWKwg%3D%3D",
-      "desc": "Site Plan Application for a 28-storey mixed-use development with 526 units, 448 square metres of parkland, 1,350 square metres of non-residential gross floor area, and one level of underground parking."
-    },
-    {
-      "num": "373",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65345141495046,
-      "lng": -79.36371302227171,
-      "num_app": "21 176821 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wteIX6RW6ek6mQfpuMWKwg%3D%3D",
-      "desc": "Site Plan Application for a 28-storey mixed-use development with 526 units, 448 square metres of parkland, 1,350 square metres of non-residential gross floor area, and one level of underground parking."
-    },
-    {
-      "num": "351",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.653278534473706,
-      "lng": -79.36430381889772,
-      "num_app": "21 176821 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wteIX6RW6ek6mQfpuMWKwg%3D%3D",
-      "desc": "Site Plan Application for a 28-storey mixed-use development with 526 units, 448 square metres of parkland, 1,350 square metres of non-residential gross floor area, and one level of underground parking."
-    },
-    {
-      "num": "285",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.652617608804974,
-      "lng": -79.36734354957296,
-      "num_app": "21 153650 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
-      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
-    },
-    {
-      "num": "269",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.65245969774916,
-      "lng": -79.3680676004029,
-      "num_app": "21 153650 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
-      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
-    },
-    {
-      "num": "19",
-      "street": "QUEENS QUAY",
-      "type": "",
-      "dir": "E",
-      "lat": 43.63997999902204,
-      "lng": -79.37322120058556,
-      "num_app": "21 143747 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Y%2FDmSfkCghAM0G%2BcGuzaIg%3D%3D",
-      "desc": "Proposal to modify previously approved Buildings A and F. Building A is proposed with a revised height of 11 storeys containing 136 residential dwelling units (previously approved for 13 storeys containing 132 units). Building F is proposed with a revised height of 45 storeys containing 449 residential dwelling units (previously approved for 13 storeys containing 139 units).  In total, an additional 314 residential units are proposed. Please note that OPA/Rezoning File No. 21 143747 STE 10 OZ is being reviewed at the same time as Site Plan Control File No. 21 143750 STE 10 SA.  OPA/Rezoning must be approved prior to site plan approval."
-    },
-    {
-      "num": "37",
-      "street": "QUEENS QUAY",
-      "type": "",
-      "dir": "E",
-      "lat": 43.64009209725466,
-      "lng": -79.37247966114732,
-      "num_app": "21 143747 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Y%2FDmSfkCghAM0G%2BcGuzaIg%3D%3D",
-      "desc": "Proposal to modify previously approved Buildings A and F. Building A is proposed with a revised height of 11 storeys containing 136 residential dwelling units (previously approved for 13 storeys containing 132 units). Building F is proposed with a revised height of 45 storeys containing 449 residential dwelling units (previously approved for 13 storeys containing 139 units).  In total, an additional 314 residential units are proposed. Please note that OPA/Rezoning File No. 21 143747 STE 10 OZ is being reviewed at the same time as Site Plan Control File No. 21 143750 STE 10 SA.  OPA/Rezoning must be approved prior to site plan approval."
     },
     {
       "num": "178",
@@ -30830,83 +30533,6 @@
       "desc": "The application proposes to amend Zoning By-law 569-2013 to permit a 34- to 37-storey mixed use building containing 450 residential dwelling units and 448 square metres of retail space."
     },
     {
-      "num": "1700",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.66525086422059,
-      "lng": -79.31327418961861,
-      "num_app": "21 235161 STE 19 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bDN0RiEVshb0my%2BBa0UP9w%3D%3D",
-      "desc": "Site Plan Approval for a 6-storey mixed-use building having a non-residential gross floor area of 1120 square metres, and a residential gross floor area of 9201 square metres.  91 residential dwelling units are proposed."
-    },
-    {
-      "num": "1684",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.66520833264328,
-      "lng": -79.31366585384356,
-      "num_app": "21 235162 STE 19 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DITMCtmt0E3u4gR48g3tnw%3D%3D",
-      "desc": "Draft Plan of Subdivision for 3 Block."
-    },
-    {
-      "num": "1702",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.665210632328176,
-      "lng": -79.31302904859142,
-      "num_app": "21 235162 STE 19 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DITMCtmt0E3u4gR48g3tnw%3D%3D",
-      "desc": "Draft Plan of Subdivision for 3 Block."
-    },
-    {
-      "num": "1698",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.66509859688566,
-      "lng": -79.3131146439945,
-      "num_app": "21 235162 STE 19 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DITMCtmt0E3u4gR48g3tnw%3D%3D",
-      "desc": "Draft Plan of Subdivision for 3 Block."
-    },
-    {
-      "num": "1700",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.66525086422059,
-      "lng": -79.31327418961861,
-      "num_app": "21 235162 STE 19 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DITMCtmt0E3u4gR48g3tnw%3D%3D",
-      "desc": "Draft Plan of Subdivision for 3 Block."
-    },
-    {
-      "num": "1233",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.660884444221935,
-      "lng": -79.33013545118965,
-      "num_app": "22 123729 STE 14 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=nAz%2BaUnaluNUoOpG2I0PTQ%3D%3D",
-      "desc": "Site Plan Control application to facilitate the redevelopment of the site for a 9-storey mixed-use building having a non-residential gross floor area of 366.9m2, and a residential gross floor area of 10,088.1m2. A total of 142 dwelling units are proposed."
-    },
-    {
-      "num": "1243",
-      "street": "QUEEN",
-      "type": "ST",
-      "dir": "E",
-      "lat": 43.6609652492537,
-      "lng": -79.32977805084225,
-      "num_app": "22 123729 STE 14 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=nAz%2BaUnaluNUoOpG2I0PTQ%3D%3D",
-      "desc": "Site Plan Control application to facilitate the redevelopment of the site for a 9-storey mixed-use building having a non-residential gross floor area of 366.9m2, and a residential gross floor area of 10,088.1m2. A total of 142 dwelling units are proposed."
-    },
-    {
       "num": "227",
       "street": "QUEEN",
       "type": "ST",
@@ -30951,26 +30577,26 @@
       "desc": "The Site Plan Control application proposes to permit a 34- to 37-storey mixed use building containing 450 residential dwelling units and 448 square metres of retail space."
     },
     {
-      "num": "1702",
+      "num": "1243",
       "street": "QUEEN",
       "type": "ST",
       "dir": "E",
-      "lat": 43.665210632328176,
-      "lng": -79.31302904859142,
-      "num_app": "21 235161 STE 19 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bDN0RiEVshb0my%2BBa0UP9w%3D%3D",
-      "desc": "Site Plan Approval for a 6-storey mixed-use building having a non-residential gross floor area of 1120 square metres, and a residential gross floor area of 9201 square metres.  91 residential dwelling units are proposed."
+      "lat": 43.6609652492537,
+      "lng": -79.32977805084225,
+      "num_app": "22 123729 STE 14 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=nAz%2BaUnaluNUoOpG2I0PTQ%3D%3D",
+      "desc": "Site Plan Control application to facilitate the redevelopment of the site for a 9-storey mixed-use building having a non-residential gross floor area of 366.9m2, and a residential gross floor area of 10,088.1m2. A total of 142 dwelling units are proposed."
     },
     {
-      "num": "1698",
+      "num": "1233",
       "street": "QUEEN",
       "type": "ST",
       "dir": "E",
-      "lat": 43.66509859688566,
-      "lng": -79.3131146439945,
-      "num_app": "21 235161 STE 19 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bDN0RiEVshb0my%2BBa0UP9w%3D%3D",
-      "desc": "Site Plan Approval for a 6-storey mixed-use building having a non-residential gross floor area of 1120 square metres, and a residential gross floor area of 9201 square metres.  91 residential dwelling units are proposed."
+      "lat": 43.660884444221935,
+      "lng": -79.33013545118965,
+      "num_app": "22 123729 STE 14 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=nAz%2BaUnaluNUoOpG2I0PTQ%3D%3D",
+      "desc": "Site Plan Control application to facilitate the redevelopment of the site for a 9-storey mixed-use building having a non-residential gross floor area of 366.9m2, and a residential gross floor area of 10,088.1m2. A total of 142 dwelling units are proposed."
     },
     {
       "num": "363",
@@ -31028,6 +30654,83 @@
       "desc": "Site Plan Approval for a 6-storey mixed-use building having a non-residential gross floor area of 1120 square metres, and a residential gross floor area of 9201 square metres.  91 residential dwelling units are proposed."
     },
     {
+      "num": "1702",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.665210632328176,
+      "lng": -79.31302904859142,
+      "num_app": "21 235161 STE 19 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bDN0RiEVshb0my%2BBa0UP9w%3D%3D",
+      "desc": "Site Plan Approval for a 6-storey mixed-use building having a non-residential gross floor area of 1120 square metres, and a residential gross floor area of 9201 square metres.  91 residential dwelling units are proposed."
+    },
+    {
+      "num": "1698",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.66509859688566,
+      "lng": -79.3131146439945,
+      "num_app": "21 235161 STE 19 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bDN0RiEVshb0my%2BBa0UP9w%3D%3D",
+      "desc": "Site Plan Approval for a 6-storey mixed-use building having a non-residential gross floor area of 1120 square metres, and a residential gross floor area of 9201 square metres.  91 residential dwelling units are proposed."
+    },
+    {
+      "num": "1700",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.66525086422059,
+      "lng": -79.31327418961861,
+      "num_app": "21 235161 STE 19 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bDN0RiEVshb0my%2BBa0UP9w%3D%3D",
+      "desc": "Site Plan Approval for a 6-storey mixed-use building having a non-residential gross floor area of 1120 square metres, and a residential gross floor area of 9201 square metres.  91 residential dwelling units are proposed."
+    },
+    {
+      "num": "1684",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.66520833264328,
+      "lng": -79.31366585384356,
+      "num_app": "21 235162 STE 19 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DITMCtmt0E3u4gR48g3tnw%3D%3D",
+      "desc": "Draft Plan of Subdivision for 3 Block."
+    },
+    {
+      "num": "1702",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.665210632328176,
+      "lng": -79.31302904859142,
+      "num_app": "21 235162 STE 19 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DITMCtmt0E3u4gR48g3tnw%3D%3D",
+      "desc": "Draft Plan of Subdivision for 3 Block."
+    },
+    {
+      "num": "1698",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.66509859688566,
+      "lng": -79.3131146439945,
+      "num_app": "21 235162 STE 19 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DITMCtmt0E3u4gR48g3tnw%3D%3D",
+      "desc": "Draft Plan of Subdivision for 3 Block."
+    },
+    {
+      "num": "1700",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.66525086422059,
+      "lng": -79.31327418961861,
+      "num_app": "21 235162 STE 19 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DITMCtmt0E3u4gR48g3tnw%3D%3D",
+      "desc": "Draft Plan of Subdivision for 3 Block."
+    },
+    {
       "num": "1375",
       "street": "QUEEN",
       "type": "ST",
@@ -31037,6 +30740,39 @@
       "num_app": "21 251366 STE 04 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=E9zkCNeoLgHeCOCJVvxE5w%3D%3D",
       "desc": "Site Plan Approval for a 7-storey mixed-use building having a residential gross floor area of 3312 square metres, and a non-residential gross floor area of 268 square metres.  47 rental dwelling units are proposed."
+    },
+    {
+      "num": "200",
+      "street": "QUEENS QUAY",
+      "type": "",
+      "dir": "W",
+      "lat": 43.63828708213885,
+      "lng": -79.38193933284043,
+      "num_app": "22 133939 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=3V7IXrFx9WOY2m%2BN%2BRlqtw%3D%3D",
+      "desc": "Site Plan Approval for a 59-storey mixed-use building having a non-residential gross floor area of 330 square metres, and a residential gross floor area of 59422 square metres. 1024 residential dwelling units are proposed, of which, 78 are affordable rental dwelling units."
+    },
+    {
+      "num": "7",
+      "street": "QUEEN ELIZABETH",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.62117423126816,
+      "lng": -79.50214952689267,
+      "num_app": "22 144668 WET 03 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VujDeR02h1TT8CkO2QlwaA%3D%3D",
+      "desc": "Proposal for a mixed-use development consisting of three buildings on two parcels"
+    },
+    {
+      "num": "10",
+      "street": "QUEEN ELIZABETH",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.621298592601164,
+      "lng": -79.50306824904021,
+      "num_app": "22 144668 WET 03 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VujDeR02h1TT8CkO2QlwaA%3D%3D",
+      "desc": "Proposal for a mixed-use development consisting of three buildings on two parcels"
     },
     {
       "num": "471",
@@ -31094,26 +30830,15 @@
       "desc": "*** 143 dwelling units, 33 parking spaces*There is a concurrent Zoning By-law Amendment application which is currently under review/appeal"
     },
     {
-      "num": "7",
-      "street": "QUEEN ELIZABETH",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.62117423126816,
-      "lng": -79.50214952689267,
-      "num_app": "22 144668 WET 03 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VujDeR02h1TT8CkO2QlwaA%3D%3D",
-      "desc": "Proposal for a mixed-use development consisting of three buildings on two parcels"
-    },
-    {
-      "num": "10",
-      "street": "QUEEN ELIZABETH",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.621298592601164,
-      "lng": -79.50306824904021,
-      "num_app": "22 144668 WET 03 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VujDeR02h1TT8CkO2QlwaA%3D%3D",
-      "desc": "Proposal for a mixed-use development consisting of three buildings on two parcels"
+      "num": "180",
+      "street": "QUEENS QUAY",
+      "type": "",
+      "dir": "E",
+      "lat": 43.642981241879646,
+      "lng": -79.36636356554696,
+      "num_app": "22 106787 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=u%2FYrKMgKGHya8hfwTCcw9w%3D%3D",
+      "desc": "Zoning By-law Amendment Application to lift the \"H\"\" Holding Symbol that currently applies to the subject site."
     },
     {
       "num": "200",
@@ -31122,9 +30847,284 @@
       "dir": "W",
       "lat": 43.63828708213885,
       "lng": -79.38193933284043,
-      "num_app": "22 133939 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=3V7IXrFx9WOY2m%2BN%2BRlqtw%3D%3D",
-      "desc": "Site Plan Approval for a 59-storey mixed-use building having a non-residential gross floor area of 330 square metres, and a residential gross floor area of 59422 square metres. 1024 residential dwelling units are proposed, of which, 78 are affordable rental dwelling units."
+      "num_app": "21 233472 STE 10 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Byan%2BGlHgox9duE9EzPXFg%3D%3D",
+      "desc": "*** Draft Plan of Condominium for 1482 units."
+    },
+    {
+      "num": "641",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65593510323877,
+      "lng": -79.35255770085952,
+      "num_app": "22 204259 STE 14 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=abOZ5091B5y7tuEpfV%2FzPw%3D%3D",
+      "desc": "Proposed to retain the existing heritage buildings and construct a nine storey residential building. The building will contain 85 new residential dwelling units with a GFA of about 7186sqm and retail at grade with a GFA of 807sqm. The total proposed GFA is 9891sqm resulting in an FSI of 6.43"
+    },
+    {
+      "num": "641",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65593510323877,
+      "lng": -79.35255770085952,
+      "num_app": "22 204260 STE 14 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=IRnEyudm1Gy2ywcw9pKF0w%3D%3D",
+      "desc": "Proposed to retain the existing heritage buildings and construct a nine storey residential building. The building will contain 85 new residential dwelling units with a GFA of about 7186sqm and retail at grade with a GFA of 807sqm. The total proposed GFA is 9891sqm resulting in an FSI of 6.43"
+    },
+    {
+      "num": "723",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "W",
+      "lat": 43.64432185778631,
+      "lng": -79.40647503131584,
+      "num_app": "22 243075 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=HKKLdv%2B6kleutu60HLCfjw%3D%3D",
+      "desc": "To demolish the existing two-storey, 60-bed crisis shelter building and construct a new four-storey shelter building with 63 beds and a total gross floor area of 1,319 square metres."
+    },
+    {
+      "num": "750",
+      "street": "QUEENS PLATE",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.72002777313419,
+      "lng": -79.60378925236941,
+      "num_app": "17 278424 WET 02 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1g1qnUKe1ysievsd111Zew%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit the redevelopment of the northern portion of the lands at 750 Queens Plate Drive (formerly 840 Queens Plate Dr) with a 17-storey building containing 148 residential units and a gross floor area of 11,925 square metres. The proposal would provide 103 vehicular and 128 bicycle parking spaces below-grade.  Associated Site Plan: 17 278431 WET 02 SA"
+    },
+    {
+      "num": "929",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65839172059192,
+      "lng": -79.34072690341358,
+      "num_app": "22 210125 STE 14 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=PV1GWskBQ29iOXIWd5ZOJw%3D%3D",
+      "desc": "OPA and Rezoning for a  10-storey mixed-use building (including mezzanine) having a non-residential gross floor area of 213.5 square metres, and a residential gross floor area of 5,485.4 square metres.  A total of 70 dwelling units are proposed."
+    },
+    {
+      "num": "329",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65308370337053,
+      "lng": -79.36547287865586,
+      "num_app": "25 258479 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=S4vsXTzFLE5dr%2F2bAYsQNw%3D%3D",
+      "desc": "Rezoning application for a 49-storey (162.5 metres, excluding mechanical penthouse) mixed-use building, containing 545 dwelling units and 470 square metres of grade-related retail space. The proposal includes the replacement of 7 rental units, and a proposed 385 square metre on-site parkland dedication."
+    },
+    {
+      "num": "759",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65685486585495,
+      "lng": -79.34799322238312,
+      "num_app": "25 246036 STE 14 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dCsV8%2FMs%2FJs4FOexFHNS4Q%3D%3D",
+      "desc": "Draft Plan of Standard Condominium for a 7-storey mixed-use building with 28 residential units."
+    },
+    {
+      "num": "1497",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "W",
+      "lat": 43.63741812502635,
+      "lng": -79.44062262305097,
+      "num_app": "26 118047 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=vLhnTmtDcV3AmXwwKYb4sw%3D%3D",
+      "desc": "Official Plan and Zoning By-law Amendment to develope a 10- and 7-storey mixed use building consisting of 141 affordable rental units, including 50 rental replacement units. The development consists of 8,341 square metres of GFA and retains the historic façade of the existing buildings of 1497 and 1501 Queen Street West. The development will contain community and office spaces, 5 vehicular parking spaces and 157 bike parking spaces."
+    },
+    {
+      "num": "761",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65699462795879,
+      "lng": -79.34800464790264,
+      "num_app": "25 246036 STE 14 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dCsV8%2FMs%2FJs4FOexFHNS4Q%3D%3D",
+      "desc": "Draft Plan of Standard Condominium for a 7-storey mixed-use building with 28 residential units."
+    },
+    {
+      "num": "763",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65688088530424,
+      "lng": -79.34787546281385,
+      "num_app": "25 246036 STE 14 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dCsV8%2FMs%2FJs4FOexFHNS4Q%3D%3D",
+      "desc": "Draft Plan of Standard Condominium for a 7-storey mixed-use building with 28 residential units."
+    },
+    {
+      "num": "330",
+      "street": "QUEENS PLATE",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.719381985613815,
+      "lng": -79.596235389477,
+      "num_app": "26 146635 WET 01 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5xYUqXKoO4QXzAnmk1POSQ%3D%3D",
+      "desc": "Proposed dental office within the southeast portion of the subject lands."
+    },
+    {
+      "num": "150",
+      "street": "QUEENS WHARF",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.639637937365165,
+      "lng": -79.39995172415642,
+      "num_app": "26 126924 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bl2QP5Gp2Guv8lZKUlaRVQ%3D%3D",
+      "desc": "The 2025 Proposal is a 37-storey tower with a total of 268 units and ~350m2 of ground floor non-residential GFA. Of the 268 units, over 50% of the units are larger two- and three-bedroom units and 30% of the total units are planned to be affordable."
+    },
+    {
+      "num": "345",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65321364566587,
+      "lng": -79.36462470578314,
+      "num_app": "25 258479 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=S4vsXTzFLE5dr%2F2bAYsQNw%3D%3D",
+      "desc": "Rezoning application for a 49-storey (162.5 metres, excluding mechanical penthouse) mixed-use building, containing 545 dwelling units and 470 square metres of grade-related retail space. The proposal includes the replacement of 7 rental units, and a proposed 385 square metre on-site parkland dedication."
+    },
+    {
+      "num": "1596",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.664118944884194,
+      "lng": -79.31762137738909,
+      "num_app": "22 221795 STE 14 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=s3buI9ZimbzRqLNLI39jxA%3D%3D",
+      "desc": "Rezoning for proposed 6-storey mixed-use building with 181 m² of non-residential gross floor area at grade and 30 residential units above (2,526 m² residential gfa)."
+    },
+    {
+      "num": "1594",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.66418484829313,
+      "lng": -79.31780461566136,
+      "num_app": "22 221795 STE 14 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=s3buI9ZimbzRqLNLI39jxA%3D%3D",
+      "desc": "Rezoning for proposed 6-storey mixed-use building with 181 m² of non-residential gross floor area at grade and 30 residential units above (2,526 m² residential gfa)."
+    },
+    {
+      "num": "1437",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "W",
+      "lat": 43.63804207683606,
+      "lng": -79.43772752821864,
+      "num_app": "23 147005 STE 04 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=kDcN2IcocPzInt7iIB4B5w%3D%3D",
+      "desc": "The application proposes to demolish the existing buildings and construct a new 12-storey mixed use building containing 249 dwelling units. The proposed redevelopment consists of 17,576 sq. m total gross floor area (GFA), which results in a total Floor Space Index (FSI) of 5.48 pursuant to GFA calculations under By-law 569-2013."
+    },
+    {
+      "num": "786-788",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.657489228090704,
+      "lng": -79.34744351467589,
+      "num_app": "23 139189 STE 14 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=JdthMqBamUedRYY169iYGw%3D%3D",
+      "desc": "Site Plan application to permit a 6 storey mixed use building, containing 15 residential units and 69.64 square metres of ground floor commercial GFA."
+    },
+    {
+      "num": "1437",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "W",
+      "lat": 43.63804207683606,
+      "lng": -79.43772752821864,
+      "num_app": "23 147008 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=iDP0Ar780TC1cAr1ikW8PQ%3D%3D",
+      "desc": "The application proposes to demolish the existing buildings and construct a new 12-storey mixed use building containing 249 dwelling units. The proposed redevelopment consists of 17,576 sq. m total gross floor area (GFA), which results in a total Floor Space Index (FSI) of 5.48 pursuant to GFA calculations under By-law 569-2013."
+    },
+    {
+      "num": "1266",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "W",
+      "lat": 43.64025264789901,
+      "lng": -79.42982930808046,
+      "num_app": "23 136837 STE 04 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WYudf9BbgpWb1LT81aCtBA%3D%3D",
+      "desc": "The proposed development replaces the existing two-storey commercial building on the site, with a new  27-storey, 26,235 square metre, mixed use building with 362 rental units.  429 bike parking spaces and 31 vehicle parking spaces are proposed. A total of 180 square metres of commercial space is proposed on the ground floor.  The applicant is seeking to achieve TGS 4, Tier 2."
+    },
+    {
+      "num": "89",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65092437786446,
+      "lng": -79.37520016847809,
+      "num_app": "22 186083 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WcSngUnwiFUe1iXWVMoXOw%3D%3D",
+      "desc": "Proposal for a 61 storey mixed-use building containing 691 dwelling units, 43,404 sqm of residential GFA, and 464 sqm of retail GFA."
+    },
+    {
+      "num": "443",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "W",
+      "lat": 43.64625146144382,
+      "lng": -79.39687181195588,
+      "num_app": "23 138638 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7yDQDPsv5ZSl4rJaFJFIDg%3D%3D",
+      "desc": "Queen-Spadina Ontario Line"
+    },
+    {
+      "num": "21",
+      "street": "QUEBEC",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.651529797119345,
+      "lng": -79.46703228082978,
+      "num_app": "24 121126 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ShD04eyUtlngTGFxV7%2FwFA%3D%3D",
+      "desc": "Zoning By-law Amendment and Rental Housing Demolition & Conversion application to permit a 19-storey mixed-use building, containing 144 dwelling units (of which 12 are rental replacement units) and 380 square metres of non-residential gross floor area."
+    },
+    {
+      "num": "3",
+      "street": "QUEBEC",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.65129858976905,
+      "lng": -79.46701203932273,
+      "num_app": "24 121126 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ShD04eyUtlngTGFxV7%2FwFA%3D%3D",
+      "desc": "Zoning By-law Amendment and Rental Housing Demolition & Conversion application to permit a 19-storey mixed-use building, containing 144 dwelling units (of which 12 are rental replacement units) and 380 square metres of non-residential gross floor area."
+    },
+    {
+      "num": "5",
+      "street": "QUEBEC",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.651335634626314,
+      "lng": -79.46702592829098,
+      "num_app": "24 121126 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ShD04eyUtlngTGFxV7%2FwFA%3D%3D",
+      "desc": "Zoning By-law Amendment and Rental Housing Demolition & Conversion application to permit a 19-storey mixed-use building, containing 144 dwelling units (of which 12 are rental replacement units) and 380 square metres of non-residential gross floor area."
+    },
+    {
+      "num": "929",
+      "street": "QUEEN",
+      "type": "ST",
+      "dir": "E",
+      "lat": 43.65839172059192,
+      "lng": -79.34072690341358,
+      "num_app": "23 141092 STE 14 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=t6au1BSBsc2lyu4aTh0Prg%3D%3D",
+      "desc": "Site Plan Approval for a 10-storey mixed-use building (including mezznine) having a non-residential gross floor area of 200.9 square metres, and a residential gross floor area of 5,476.9 square metres. A total of 70 residential dwelling units are proposed."
     }
   ]
 }
