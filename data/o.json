@@ -24555,290 +24555,26 @@
   ],
   "pdn": [
     {
-      "num": "1",
-      "street": "OXFORD",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.685988481726554,
-      "lng": -79.4917040788338,
-      "num_app": "22 114201 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
-      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
-    },
-    {
-      "num": "3",
-      "street": "OXFORD",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.68605565811013,
-      "lng": -79.4916928067622,
-      "num_app": "22 114201 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
-      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
-    },
-    {
-      "num": "75",
+      "num": "69",
       "street": "ONTARIO",
       "type": "ST",
       "dir": "",
-      "lat": 43.651651963128074,
-      "lng": -79.36660063411448,
-      "num_app": "21 235323 STE 13 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Jq9arZumxxcJUxIiUtEuCg%3D%3D",
-      "desc": "*** Draft plan of standard condominium for 354 dwelling units, 76 parking spaces, in a proposed 38-storey mixed-use building."
+      "lat": 43.651520376117496,
+      "lng": -79.36663556222453,
+      "num_app": "23 187639 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Tl25r66lWJ%2Bc1FjBAe39ag%3D%3D",
+      "desc": "Site Plan Application for a 43-storey mixed-use building that includes 278 square metres of retail space on the ground floor and 380 dwelling units above."
     },
     {
-      "num": "5",
-      "street": "OXFORD",
-      "type": "DR",
+      "num": "71",
+      "street": "ONTARIO",
+      "type": "ST",
       "dir": "",
-      "lat": 43.68612259750362,
-      "lng": -79.49164106046767,
-      "num_app": "22 114201 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
-      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
-    },
-    {
-      "num": "5 A",
-      "street": "OXFORD",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.68617964484075,
-      "lng": -79.49159570350285,
-      "num_app": "22 114201 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
-      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
-    },
-    {
-      "num": "7",
-      "street": "OXFORD",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.68627394759213,
-      "lng": -79.49153380665763,
-      "num_app": "22 114201 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
-      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
-    },
-    {
-      "num": "195",
-      "street": "OLD WESTON",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.66744770430353,
-      "lng": -79.4618404200083,
-      "num_app": "23 129424 STE 09 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VRQpGzMiDFffM7g4pw8mtA%3D%3D",
-      "desc": "The site plan application proposes mix of mid-rise and tall building typologies and includes two mid-rise buildings that range from 8- to 11-storeys and a 27-storey tall building. Overall, the proposed development includes a total gross floor area (GFA) of approximately 34,361 square metres, including 4,410 square metres of employment office space and 405 residential units."
-    },
-    {
-      "num": "25",
-      "street": "OLD YORK MILLS",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.74121046753546,
-      "lng": -79.40451028031998,
-      "num_app": "22 179213 NNY 15 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=2Z3I7XbxTh3%2Fw5s10Cn4ug%3D%3D",
-      "desc": "The applications propose to develop a 12 storey mixed-use building, which would include residential uses, a church (place of worship) and multifunction space, a commercial community space, and a proposed day-care. The development will include a total of 98 residential units, with 86 parking spaces in two levels of underground parking."
-    },
-    {
-      "num": "464",
-      "street": "OAKWOOD",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.68787359024956,
-      "lng": -79.44021865406766,
-      "num_app": "22 212749 STE 12 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=vWfMGiFu73RS0oj1dVXTyQ%3D%3D",
-      "desc": "Draft Plan of Standard Condominium to permit 4 residential units and 1 parking space unit."
-    },
-    {
-      "num": "1500",
-      "street": "O'CONNOR",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.71170479940893,
-      "lng": -79.30680187806071,
-      "num_app": "25 187723 STE 19 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Dv50aTGWpQPuMwRBha8QBg%3D%3D",
-      "desc": "Combined Official Plan & Zoning By-law Amendment application to permit four mixed-use buildings with building heights that would range from 14 to 28 storeys with retail and commercial uses on the ground floor. There would be 863 residential dwelling units, 513 vehicle and 996 bicycle parking spaces. A daycare, new public park of approximately 1,415 square metres and a new public street is proposed.  The application also seeks approval by the City of a request that part of the Subject Site be classified as a Class 4 Receptor Area pursuant to the Ministry of the Environment's Noise Guideline to address noise from nearby industrial development. Please also see application application # 25 188183 STE 19 SB."
-    },
-    {
-      "num": "21",
-      "street": "OAKMOUNT",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.65294042672891,
-      "lng": -79.46263992626933,
-      "num_app": "25 222465 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
-      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
-    },
-    {
-      "num": "21 A",
-      "street": "OAKMOUNT",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.65296372999418,
-      "lng": -79.46260808829705,
-      "num_app": "25 222465 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
-      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
-    },
-    {
-      "num": "23",
-      "street": "OAKMOUNT",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.65305514330942,
-      "lng": -79.46267512514426,
-      "num_app": "25 222465 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
-      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
-    },
-    {
-      "num": "25",
-      "street": "OAKMOUNT",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.65316839850462,
-      "lng": -79.46270069242634,
-      "num_app": "25 222465 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
-      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
-    },
-    {
-      "num": "27",
-      "street": "OAKMOUNT",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.65327943363607,
-      "lng": -79.46273636492097,
-      "num_app": "25 222465 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
-      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
-    },
-    {
-      "num": "29",
-      "street": "OAKMOUNT",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.65338041494316,
-      "lng": -79.4627744116328,
-      "num_app": "25 222465 STE 04 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
-      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
-    },
-    {
-      "num": "1450",
-      "street": "O'CONNOR",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.7114594759721,
-      "lng": -79.30699822295595,
-      "num_app": "25 187723 STE 19 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Dv50aTGWpQPuMwRBha8QBg%3D%3D",
-      "desc": "Combined Official Plan & Zoning By-law Amendment application to permit four mixed-use buildings with building heights that would range from 14 to 28 storeys with retail and commercial uses on the ground floor. There would be 863 residential dwelling units, 513 vehicle and 996 bicycle parking spaces. A daycare, new public park of approximately 1,415 square metres and a new public street is proposed.  The application also seeks approval by the City of a request that part of the Subject Site be classified as a Class 4 Receptor Area pursuant to the Ministry of the Environment's Noise Guideline to address noise from nearby industrial development. Please also see application application # 25 188183 STE 19 SB."
-    },
-    {
-      "num": "797",
-      "street": "O'CONNOR",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.70301050732986,
-      "lng": -79.31278662888423,
-      "num_app": "25 170633 STE 19 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=C9Pp%2FxYt2SXdtOf2Md5VeA%3D%3D",
-      "desc": "Combined Official Plan Amendment and Zoning By-law Amendment applications to permit a 16-storey mixed-use building with a height of 55.5 metres (60.5 metres with the mechnical penthouse). The proposed development will contain 219 residential units and 290 square metres of non-residential GFA at grade. Two levels of underground parking are proposd with 54 vehicular space and 241 bicycle parking spaces."
-    },
-    {
-      "num": "1500",
-      "street": "O'CONNOR",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.71170479940893,
-      "lng": -79.30680187806071,
-      "num_app": "25 188183 STE 19 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=M0bHR%2BUFr%2BbbiZnVL32rTQ%3D%3D",
-      "desc": "Draft Plan of Subdivision application to create two development blocks, a new public park block and a new public street.  The application also seeks approval by the City of a request that part of the Subject Site be classified as a Class 4 Receptor Area pursuant to the Ministry of the Environments Noise Guideline NPC-300 to address noise from nearby industrial development. Please also see application # 25 187723 STE 19 OZ."
-    },
-    {
-      "num": "505",
-      "street": "OAKWOOD",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.69082999045471,
-      "lng": -79.44084538109512,
-      "num_app": "25 173237 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
-      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
-    },
-    {
-      "num": "507",
-      "street": "OAKWOOD",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.69086403557819,
-      "lng": -79.44086660975175,
-      "num_app": "25 173237 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
-      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
-    },
-    {
-      "num": "509",
-      "street": "OAKWOOD",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.6909131804874,
-      "lng": -79.4409662354828,
-      "num_app": "25 173237 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
-      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
-    },
-    {
-      "num": "511",
-      "street": "OAKWOOD",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.69098005012365,
-      "lng": -79.44101571543851,
-      "num_app": "25 173237 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
-      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
-    },
-    {
-      "num": "503",
-      "street": "OAKWOOD",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.690758462221744,
-      "lng": -79.44094318998823,
-      "num_app": "25 173237 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
-      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
-    },
-    {
-      "num": "290",
-      "street": "OLD WESTON",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.66951030359258,
-      "lng": -79.46335882808597,
-      "num_app": "22 140254 STE 09 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=y%2FnzQzFXFC0qXsXi6Gg6Mw%3D%3D",
-      "desc": "Site Plan Approval for a 27-storey residential building having a residential gross floor area of 22,450 square metres, and a 6-storey non-residential building having a gross floor area of 1960 square metres.  321 residential dwelling units are proposed on the lot."
-    },
-    {
-      "num": "189",
-      "street": "OLD WESTON",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.66703432367274,
-      "lng": -79.46170435561103,
-      "num_app": "23 129424 STE 09 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VRQpGzMiDFffM7g4pw8mtA%3D%3D",
-      "desc": "The site plan application proposes mix of mid-rise and tall building typologies and includes two mid-rise buildings that range from 8- to 11-storeys and a 27-storey tall building. Overall, the proposed development includes a total gross floor area (GFA) of approximately 34,361 square metres, including 4,410 square metres of employment office space and 405 residential units."
+      "lat": 43.651570008440686,
+      "lng": -79.36653400874133,
+      "num_app": "23 187639 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Tl25r66lWJ%2Bc1FjBAe39ag%3D%3D",
+      "desc": "Site Plan Application for a 43-storey mixed-use building that includes 278 square metres of retail space on the ground floor and 380 dwelling units above."
     },
     {
       "num": "25",
@@ -24852,136 +24588,37 @@
       "desc": "Proposed 12 storey mixed-use building that integrates existing church and childcare within lower levels of building and incorporates retail (restaurant and bank) at-grade as well as both nursing home and residential uses on the upper floors. Total GFA is  9,547 sq. m. Residential GFA is 7,657m2. Non-residential GFA is 1890 m2."
     },
     {
-      "num": "79",
-      "street": "ONTARIO",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.651905500733506,
-      "lng": -79.36670404611141,
-      "num_app": "26 100746 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=L7WO3FxokGpbMFYRa9aw8Q%3D%3D",
-      "desc": "A Zoning By-law Amendment application to permit a 16-storey mixed-use building consisting of 98 dwelling units and 78 square metres of non-residential gross floor area (retail) at grade."
-    },
-    {
-      "num": "81",
-      "street": "ONTARIO",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.651952178430896,
-      "lng": -79.36672406313208,
-      "num_app": "26 100746 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=L7WO3FxokGpbMFYRa9aw8Q%3D%3D",
-      "desc": "A Zoning By-law Amendment application to permit a 16-storey mixed-use building consisting of 98 dwelling units and 78 square metres of non-residential gross floor area (retail) at grade."
-    },
-    {
-      "num": "62",
-      "street": "ORCHARD PARK",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.77198682726376,
-      "lng": -79.17981024130084,
-      "num_app": "26 106369 ESC 25 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ohTvOvsG39NheHrAYEeIKQ%3D%3D",
-      "desc": "Proposed 4 storey 47 affordable housing units with 12.62 metres tall, footprint of 658.1 square metres and a gross floor area of 2347.1 metres squared. The development includes 29 vehicle parking spaces and 32 bicycle parking spaces."
-    },
-    {
-      "num": "69",
-      "street": "OLD MILL",
-      "type": "TER",
-      "dir": "",
-      "lat": 43.64750846974531,
-      "lng": -79.49890597470892,
-      "num_app": "25 256546 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=irTFZfqpz3Y6pGMjLgAETg%3D%3D",
-      "desc": "Proposed 39-storey residential building (135.4 metres), inclusive of a 5-storey base building. The proposed building would have a total gross floor area of 27,713.46 square metres and a floor space index of 14.63. 345 new residential units are proposed, as well as 26 rental-replacement units. 82 vehicular parking spaces in 4 levels of underground parking, as well as 279 bike parking spaces and one Type G loading space are also proposed."
-    },
-    {
-      "num": "503 1/2",
-      "street": "OAKWOOD",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.69073145428439,
-      "lng": -79.44086608255466,
-      "num_app": "25 173237 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
-      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
-    },
-    {
-      "num": "363",
-      "street": "OLD KINGSTON",
+      "num": "189",
+      "street": "OLD WESTON",
       "type": "RD",
       "dir": "",
-      "lat": 43.78103006337158,
-      "lng": -79.17050603441596,
-      "num_app": "26 118747 ESC 25 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=YN7tq6rhxYftRrBh6uPQNw%3D%3D",
-      "desc": "A proposal to construct an 8-storey mixed use building with 129 residential units and commercial uses at grade."
+      "lat": 43.66703432367274,
+      "lng": -79.46170435561103,
+      "num_app": "23 129424 STE 09 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VRQpGzMiDFffM7g4pw8mtA%3D%3D",
+      "desc": "The site plan application proposes mix of mid-rise and tall building typologies and includes two mid-rise buildings that range from 8- to 11-storeys and a 27-storey tall building. Overall, the proposed development includes a total gross floor area (GFA) of approximately 34,361 square metres, including 4,410 square metres of employment office space and 405 residential units."
     },
     {
-      "num": "93",
+      "num": "75",
       "street": "ONTARIO",
       "type": "ST",
       "dir": "",
-      "lat": 43.65210708432186,
-      "lng": -79.36687123233366,
-      "num_app": "26 100746 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=L7WO3FxokGpbMFYRa9aw8Q%3D%3D",
-      "desc": "A Zoning By-law Amendment application to permit a 16-storey mixed-use building consisting of 98 dwelling units and 78 square metres of non-residential gross floor area (retail) at grade."
+      "lat": 43.651651963128074,
+      "lng": -79.36660063411448,
+      "num_app": "23 187639 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Tl25r66lWJ%2Bc1FjBAe39ag%3D%3D",
+      "desc": "Site Plan Application for a 43-storey mixed-use building that includes 278 square metres of retail space on the ground floor and 380 dwelling units above."
     },
     {
-      "num": "1450",
-      "street": "O'CONNOR",
-      "type": "DR",
+      "num": "195",
+      "street": "OLD WESTON",
+      "type": "RD",
       "dir": "",
-      "lat": 43.7114594759721,
-      "lng": -79.30699822295595,
-      "num_app": "25 188183 STE 19 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=M0bHR%2BUFr%2BbbiZnVL32rTQ%3D%3D",
-      "desc": "Draft Plan of Subdivision application to create two development blocks, a new public park block and a new public street.  The application also seeks approval by the City of a request that part of the Subject Site be classified as a Class 4 Receptor Area pursuant to the Ministry of the Environments Noise Guideline NPC-300 to address noise from nearby industrial development. Please also see application # 25 187723 STE 19 OZ."
-    },
-    {
-      "num": "28",
-      "street": "OVERLEA",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.70333810363541,
-      "lng": -79.35020455382671,
-      "num_app": "24 252598 NNY 15 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BVlJBqdDfxRQuC%2BfWloR%2Fw%3D%3D",
-      "desc": "Site Plan Control Placeholder for Thorncliffe Park Station, one of the stations included in the Ontario Line Elevated Guideway and Stations contract."
-    },
-    {
-      "num": "793",
-      "street": "O'CONNOR",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.702768348735866,
-      "lng": -79.3129652676801,
-      "num_app": "25 170633 STE 19 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=C9Pp%2FxYt2SXdtOf2Md5VeA%3D%3D",
-      "desc": "Combined Official Plan Amendment and Zoning By-law Amendment applications to permit a 16-storey mixed-use building with a height of 55.5 metres (60.5 metres with the mechnical penthouse). The proposed development will contain 219 residential units and 290 square metres of non-residential GFA at grade. Two levels of underground parking are proposd with 54 vehicular space and 241 bicycle parking spaces."
-    },
-    {
-      "num": "61",
-      "street": "ORCHARD PARK",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.7729651360944,
-      "lng": -79.1806666432247,
-      "num_app": "24 153727 ESC 25 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2FFSUGoySSrxYYGPeRj%2FOwg%3D%3D",
-      "desc": "Draft Plan of Condominium for a 5-storey mixed use building containing 14 residential units and 1 commercial/retail unit on the ground floor and 1 commercial/office unit on the basement level."
-    },
-    {
-      "num": "1654-1660",
-      "street": "O'CONNOR",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.71682167242552,
-      "lng": -79.30527983047313,
-      "num_app": "24 242228 STE 19 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=00O5nwb3WFEYE9fZTizrHA%3D%3D",
-      "desc": "Site Plan Control application to permit a seven-storey self-storage building containing 13,748.24 square metres of non-residential gross floor area, including 406.34 square metres of coworking office space proposed at-grade."
+      "lat": 43.66744770430353,
+      "lng": -79.4618404200083,
+      "num_app": "23 129424 STE 09 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VRQpGzMiDFffM7g4pw8mtA%3D%3D",
+      "desc": "The site plan application proposes mix of mid-rise and tall building typologies and includes two mid-rise buildings that range from 8- to 11-storeys and a 27-storey tall building. Overall, the proposed development includes a total gross floor area (GFA) of approximately 34,361 square metres, including 4,410 square metres of employment office space and 405 residential units."
     },
     {
       "num": "1871",
@@ -25050,6 +24687,215 @@
       "desc": "Site Plan Control application to permit a seven-storey self-storage building containing 13,748.24 square metres of non-residential gross floor area, including 406.34 square metres of coworking office space proposed at-grade."
     },
     {
+      "num": "1450",
+      "street": "O'CONNOR",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.7114594759721,
+      "lng": -79.30699822295595,
+      "num_app": "25 188183 STE 19 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=M0bHR%2BUFr%2BbbiZnVL32rTQ%3D%3D",
+      "desc": "Draft Plan of Subdivision application to create two development blocks, a new public park block and a new public street.  The application also seeks approval by the City of a request that part of the Subject Site be classified as a Class 4 Receptor Area pursuant to the Ministry of the Environments Noise Guideline NPC-300 to address noise from nearby industrial development. Please also see application # 25 187723 STE 19 OZ."
+    },
+    {
+      "num": "28",
+      "street": "OVERLEA",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.70333810363541,
+      "lng": -79.35020455382671,
+      "num_app": "24 252598 NNY 15 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BVlJBqdDfxRQuC%2BfWloR%2Fw%3D%3D",
+      "desc": "Site Plan Control Placeholder for Thorncliffe Park Station, one of the stations included in the Ontario Line Elevated Guideway and Stations contract."
+    },
+    {
+      "num": "793",
+      "street": "O'CONNOR",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.702768348735866,
+      "lng": -79.3129652676801,
+      "num_app": "25 170633 STE 19 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=C9Pp%2FxYt2SXdtOf2Md5VeA%3D%3D",
+      "desc": "Combined Official Plan Amendment and Zoning By-law Amendment applications to permit a 16-storey mixed-use building with a height of 55.5 metres (60.5 metres with the mechnical penthouse). The proposed development will contain 219 residential units and 290 square metres of non-residential GFA at grade. Two levels of underground parking are proposd with 54 vehicular space and 241 bicycle parking spaces."
+    },
+    {
+      "num": "21",
+      "street": "OAKMOUNT",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.65294042672891,
+      "lng": -79.46263992626933,
+      "num_app": "25 222465 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
+    },
+    {
+      "num": "21 A",
+      "street": "OAKMOUNT",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.65296372999418,
+      "lng": -79.46260808829705,
+      "num_app": "25 222465 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
+    },
+    {
+      "num": "23",
+      "street": "OAKMOUNT",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.65305514330942,
+      "lng": -79.46267512514426,
+      "num_app": "25 222465 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
+    },
+    {
+      "num": "25",
+      "street": "OAKMOUNT",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.65316839850462,
+      "lng": -79.46270069242634,
+      "num_app": "25 222465 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
+    },
+    {
+      "num": "27",
+      "street": "OAKMOUNT",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.65327943363607,
+      "lng": -79.46273636492097,
+      "num_app": "25 222465 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
+    },
+    {
+      "num": "29",
+      "street": "OAKMOUNT",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.65338041494316,
+      "lng": -79.4627744116328,
+      "num_app": "25 222465 STE 04 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zrNmDcBh%2Bo7UEDdzl2tVYw%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendment application for two residential tall buildings (41-storey and 39-storey respectively) with a 6-storey podium. The proposed development contemplates a total of 873 (including 11 rental replacement units) and 61,378 square metres of total gross floor area at 26 to 36 Mountview Avenue and 21 to 29 Oakmount Road."
+    },
+    {
+      "num": "797",
+      "street": "O'CONNOR",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.70301050732986,
+      "lng": -79.31278662888423,
+      "num_app": "25 170633 STE 19 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=C9Pp%2FxYt2SXdtOf2Md5VeA%3D%3D",
+      "desc": "Combined Official Plan Amendment and Zoning By-law Amendment applications to permit a 16-storey mixed-use building with a height of 55.5 metres (60.5 metres with the mechnical penthouse). The proposed development will contain 219 residential units and 290 square metres of non-residential GFA at grade. Two levels of underground parking are proposd with 54 vehicular space and 241 bicycle parking spaces."
+    },
+    {
+      "num": "1500",
+      "street": "O'CONNOR",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.71170479940893,
+      "lng": -79.30680187806071,
+      "num_app": "25 187723 STE 19 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Dv50aTGWpQPuMwRBha8QBg%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendment application to permit four mixed-use buildings with building heights that would range from 14 to 28 storeys with retail and commercial uses on the ground floor. There would be 863 residential dwelling units, 513 vehicle and 996 bicycle parking spaces. A daycare, new public park of approximately 1,415 square metres and a new public street is proposed.  The application also seeks approval by the City of a request that part of the Subject Site be classified as a Class 4 Receptor Area pursuant to the Ministry of the Environment's Noise Guideline to address noise from nearby industrial development. Please also see application application # 25 188183 STE 19 SB."
+    },
+    {
+      "num": "1500",
+      "street": "O'CONNOR",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.71170479940893,
+      "lng": -79.30680187806071,
+      "num_app": "25 188183 STE 19 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=M0bHR%2BUFr%2BbbiZnVL32rTQ%3D%3D",
+      "desc": "Draft Plan of Subdivision application to create two development blocks, a new public park block and a new public street.  The application also seeks approval by the City of a request that part of the Subject Site be classified as a Class 4 Receptor Area pursuant to the Ministry of the Environments Noise Guideline NPC-300 to address noise from nearby industrial development. Please also see application # 25 187723 STE 19 OZ."
+    },
+    {
+      "num": "1450",
+      "street": "O'CONNOR",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.7114594759721,
+      "lng": -79.30699822295595,
+      "num_app": "25 187723 STE 19 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Dv50aTGWpQPuMwRBha8QBg%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendment application to permit four mixed-use buildings with building heights that would range from 14 to 28 storeys with retail and commercial uses on the ground floor. There would be 863 residential dwelling units, 513 vehicle and 996 bicycle parking spaces. A daycare, new public park of approximately 1,415 square metres and a new public street is proposed.  The application also seeks approval by the City of a request that part of the Subject Site be classified as a Class 4 Receptor Area pursuant to the Ministry of the Environment's Noise Guideline to address noise from nearby industrial development. Please also see application application # 25 188183 STE 19 SB."
+    },
+    {
+      "num": "503",
+      "street": "OAKWOOD",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.690758462221744,
+      "lng": -79.44094318998823,
+      "num_app": "25 173237 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
+      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
+    },
+    {
+      "num": "505",
+      "street": "OAKWOOD",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.69082999045471,
+      "lng": -79.44084538109512,
+      "num_app": "25 173237 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
+      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
+    },
+    {
+      "num": "507",
+      "street": "OAKWOOD",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.69086403557819,
+      "lng": -79.44086660975175,
+      "num_app": "25 173237 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
+      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
+    },
+    {
+      "num": "509",
+      "street": "OAKWOOD",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.6909131804874,
+      "lng": -79.4409662354828,
+      "num_app": "25 173237 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
+      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
+    },
+    {
+      "num": "511",
+      "street": "OAKWOOD",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.69098005012365,
+      "lng": -79.44101571543851,
+      "num_app": "25 173237 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
+      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
+    },
+    {
+      "num": "1654-1660",
+      "street": "O'CONNOR",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.71682167242552,
+      "lng": -79.30527983047313,
+      "num_app": "24 242228 STE 19 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=00O5nwb3WFEYE9fZTizrHA%3D%3D",
+      "desc": "Site Plan Control application to permit a seven-storey self-storage building containing 13,748.24 square metres of non-residential gross floor area, including 406.34 square metres of coworking office space proposed at-grade."
+    },
+    {
       "num": "59 R",
       "street": "OTTER",
       "type": "CRES",
@@ -25061,48 +24907,15 @@
       "desc": "Zoning By-law Amendment application to provide standards for the development of two proposed lots. The existing detached dwelling will be maintained and a new detached dwelling is proposed on the new lot."
     },
     {
-      "num": "75",
-      "street": "ONTARIO",
-      "type": "ST",
+      "num": "61",
+      "street": "ORCHARD PARK",
+      "type": "DR",
       "dir": "",
-      "lat": 43.651651963128074,
-      "lng": -79.36660063411448,
-      "num_app": "23 187639 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Tl25r66lWJ%2Bc1FjBAe39ag%3D%3D",
-      "desc": "Site Plan Application for a 43-storey mixed-use building that includes 278 square metres of retail space on the ground floor and 380 dwelling units above."
-    },
-    {
-      "num": "69",
-      "street": "ONTARIO",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.651520376117496,
-      "lng": -79.36663556222453,
-      "num_app": "23 187639 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Tl25r66lWJ%2Bc1FjBAe39ag%3D%3D",
-      "desc": "Site Plan Application for a 43-storey mixed-use building that includes 278 square metres of retail space on the ground floor and 380 dwelling units above."
-    },
-    {
-      "num": "71",
-      "street": "ONTARIO",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.651570008440686,
-      "lng": -79.36653400874133,
-      "num_app": "23 187639 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Tl25r66lWJ%2Bc1FjBAe39ag%3D%3D",
-      "desc": "Site Plan Application for a 43-storey mixed-use building that includes 278 square metres of retail space on the ground floor and 380 dwelling units above."
-    },
-    {
-      "num": "69",
-      "street": "OLD MILL",
-      "type": "TER",
-      "dir": "",
-      "lat": 43.64750846974531,
-      "lng": -79.49890597470892,
-      "num_app": "25 256564 WET 03 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=fb5W4uch9HTLYmUi2bCXGQ%3D%3D",
-      "desc": "Proposed 39-storey residential building (135.4 metres), inclusive of a 5-storey base building. The proposed building would have a total gross floor area of 27,713.46 square metres and a floor space index of 14.63. 345 new residential units are proposed, as well as 26 rental-replacement units. 82 vehicular parking spaces in 4 levels of underground parking, as well as 279 bike parking spaces and one Type G loading space are also proposed."
+      "lat": 43.7729651360944,
+      "lng": -79.1806666432247,
+      "num_app": "24 153727 ESC 25 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2FFSUGoySSrxYYGPeRj%2FOwg%3D%3D",
+      "desc": "Draft Plan of Condominium for a 5-storey mixed use building containing 14 residential units and 1 commercial/retail unit on the ground floor and 1 commercial/office unit on the basement level."
     },
     {
       "num": "1861",
@@ -25136,6 +24949,17 @@
       "num_app": "21 199583 STE 09 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=pT2AH9bqjvHd6AcKWxpulg%3D%3D",
       "desc": "Official Plan and Zoning By-law amendment application to facilitate the development of the site for two mixed use buildings of 28 and 39 storeys on an 11 storey podium and a 5 storey non-residential building."
+    },
+    {
+      "num": "69",
+      "street": "OLD MILL",
+      "type": "TER",
+      "dir": "",
+      "lat": 43.64750846974531,
+      "lng": -79.49890597470892,
+      "num_app": "25 256564 WET 03 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=fb5W4uch9HTLYmUi2bCXGQ%3D%3D",
+      "desc": "Proposed 39-storey residential building (135.4 metres), inclusive of a 5-storey base building. The proposed building would have a total gross floor area of 27,713.46 square metres and a floor space index of 14.63. 345 new residential units are proposed, as well as 26 rental-replacement units. 82 vehicular parking spaces in 4 levels of underground parking, as well as 279 bike parking spaces and one Type G loading space are also proposed."
     },
     {
       "num": "38",
@@ -25248,17 +25072,6 @@
       "desc": "To obtain site plan approval  for the construction of a two-storey commercial building."
     },
     {
-      "num": "203",
-      "street": "OAKMOUNT",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.65705613235993,
-      "lng": -79.46481564259803,
-      "num_app": "16 162386 WET 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=yXbaIxgEROcS57f%2FTG3CGA%3D%3D",
-      "desc": "INACTIVE Proposed development of a 4-storey, 52-unit residential apartment building consisting of 15 rental units, 37 condominium ownership units, amenity space, green roofs and 58 below grade parking spaces. An existing 3-storey rental apartment building containing 15 units would be demolished.  See related Rental Housing Application."
-    },
-    {
       "num": "130",
       "street": "OLD KINGSTON",
       "type": "RD",
@@ -25279,6 +25092,17 @@
       "num_app": "16 209876 ESC 44 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2B3rNs8V3ylnPrTFMpdIphw%3D%3D",
       "desc": "Official Plan Amendment application to adopt a Secondary Plan for the University of Toronto Scarborough Campus."
+    },
+    {
+      "num": "203",
+      "street": "OAKMOUNT",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.65705613235993,
+      "lng": -79.46481564259803,
+      "num_app": "16 162386 WET 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=yXbaIxgEROcS57f%2FTG3CGA%3D%3D",
+      "desc": "INACTIVE Proposed development of a 4-storey, 52-unit residential apartment building consisting of 15 rental units, 37 condominium ownership units, amenity space, green roofs and 58 below grade parking spaces. An existing 3-storey rental apartment building containing 15 units would be demolished.  See related Rental Housing Application."
     },
     {
       "num": "601",
@@ -25358,6 +25182,17 @@
       "desc": "Site Plan Application to permit a 3-storey mixed use building containing 4 residential units and retail at grade."
     },
     {
+      "num": "21",
+      "street": "OLD KINGSTON",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.77244456550426,
+      "lng": -79.18252343088979,
+      "num_app": "19 172659 ESC 25 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=16Cmb86or2BjFqeAW00HAw%3D%3D",
+      "desc": "Proposing a row of 2-storey stacked and back-to-back townhouses with a total of 24 units.  The car sales building will be demolished but the 2.5 storey historical house will be preserved. A total of 29 surface parking spaces are provided."
+    },
+    {
       "num": "1",
       "street": "ORMEROD",
       "type": "ST",
@@ -25378,17 +25213,6 @@
       "num_app": "16 189765 ESC 42 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TfiUs7ypEeS46pblQotAdQ%3D%3D",
       "desc": "27 storey residential development with office uses and day care use on the ground"
-    },
-    {
-      "num": "21",
-      "street": "OLD KINGSTON",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.77244456550426,
-      "lng": -79.18252343088979,
-      "num_app": "19 172659 ESC 25 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=16Cmb86or2BjFqeAW00HAw%3D%3D",
-      "desc": "Proposing a row of 2-storey stacked and back-to-back townhouses with a total of 24 units.  The car sales building will be demolished but the 2.5 storey historical house will be preserved. A total of 29 surface parking spaces are provided."
     },
     {
       "num": "75",
@@ -25413,17 +25237,6 @@
       "desc": "Zoning By-law Amendment application to permit a 43-storey mixed-use building that includes 278 square metres of retail space on the ground floor and 380 dwelling units above."
     },
     {
-      "num": "66",
-      "street": "OAKMOUNT",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.65445128263202,
-      "lng": -79.4638844768655,
-      "num_app": "20 206487 STE 04 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TcCpyGatdNae7ehlyRKX9g%3D%3D",
-      "desc": "This is a site plan application that proposes one block of 5 3-storey townhouse, one 32 storey building, one 25 storey building, to be developed and added to the lands currently occupied by three residential rental buildings."
-    },
-    {
       "num": "968",
       "street": "O'CONNOR",
       "type": "DR",
@@ -25435,6 +25248,17 @@
       "desc": "INACTIVE The proposal contemplates the development of the subject site, which is currently vacant, with a 10-storey (31.05 metres, excluding mechanical penthouse) residential mixed-use building consisting of a 5-storey streetwall along O'Connor Drive and Curity Avenue and retail at grade. The proposed building will contain a total of 9,098 square metres of residential gross floor area including 126 residential units, and 383.0 square metres of non-residential gross floor area."
     },
     {
+      "num": "66",
+      "street": "OAKMOUNT",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.65445128263202,
+      "lng": -79.4638844768655,
+      "num_app": "20 206487 STE 04 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TcCpyGatdNae7ehlyRKX9g%3D%3D",
+      "desc": "This is a site plan application that proposes one block of 5 3-storey townhouse, one 32 storey building, one 25 storey building, to be developed and added to the lands currently occupied by three residential rental buildings."
+    },
+    {
       "num": "290",
       "street": "OLD WESTON",
       "type": "RD",
@@ -25444,39 +25268,6 @@
       "num_app": "20 169194 STE 09 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=mXmi5EnvFDEVVbaSCAJeVg%3D%3D",
       "desc": "Proposal for a 29-storey mixed-use building, including a 6-storey base building. This redevelopment would result in a total gross floor area 24410 square metres, including 1960square metres of commercial office space and 321 residential units."
-    },
-    {
-      "num": "80",
-      "street": "OVERLEA",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.70658328617429,
-      "lng": -79.34025516382007,
-      "num_app": "21 160168 NNY 15 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=mL6ARiNijtpgb6rkZYO2sQ%3D%3D",
-      "desc": "This application for Site Plan Control proposes a three storey multipurpose facility, consisting of a community centre and place of worship having offices, meetings rooms, and two levels of underground parking."
-    },
-    {
-      "num": "49",
-      "street": "ONTARIO",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.65092291143948,
-      "lng": -79.36627737871014,
-      "num_app": "21 148154 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=oRrtpynjiUyweoSYRYk1ZA%3D%3D",
-      "desc": "Site Plan Approval application to permit two buildings of 46 and 50 storeys containing 560 square metres of retail on the ground floor and 1,226 dwelling units (including approximately 245 affordable housing units), retention of the heritage row houses at 72-78 Berkeley Street, east-west and north-south mid-block connections through the site and a 581 square metre public park along Berkeley Street."
-    },
-    {
-      "num": "90",
-      "street": "ONTARIO",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.6521180922285,
-      "lng": -79.36737385640743,
-      "num_app": "21 153650 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
-      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
     },
     {
       "num": "71",
@@ -25501,15 +25292,26 @@
       "desc": "Draft Plan of Subdivision for 3 blocks."
     },
     {
-      "num": "12-16",
-      "street": "ORFUS",
-      "type": "RD",
+      "num": "80",
+      "street": "OVERLEA",
+      "type": "BLVD",
       "dir": "",
-      "lat": 43.71841293802958,
-      "lng": -79.45730139719699,
-      "num_app": "22 114271 NNY 08 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=US3%2BJ8naeQB8qfg%2FYMupYg%3D%3D",
-      "desc": "Site Plan application to permit an 8 to14 storey mixed-use building having a non-residential gross floor area of 167 square metres, and a residential gross floor area of 29,027 square metres. A total of 340 residential dwelling units are proposed."
+      "lat": 43.70658328617429,
+      "lng": -79.34025516382007,
+      "num_app": "21 160168 NNY 15 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=mL6ARiNijtpgb6rkZYO2sQ%3D%3D",
+      "desc": "This application for Site Plan Control proposes a three storey multipurpose facility, consisting of a community centre and place of worship having offices, meetings rooms, and two levels of underground parking."
+    },
+    {
+      "num": "49",
+      "street": "ONTARIO",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.65092291143948,
+      "lng": -79.36627737871014,
+      "num_app": "21 148154 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=oRrtpynjiUyweoSYRYk1ZA%3D%3D",
+      "desc": "Site Plan Approval application to permit two buildings of 46 and 50 storeys containing 560 square metres of retail on the ground floor and 1,226 dwelling units (including approximately 245 affordable housing units), retention of the heritage row houses at 72-78 Berkeley Street, east-west and north-south mid-block connections through the site and a 581 square metre public park along Berkeley Street."
     },
     {
       "num": "15",
@@ -25523,6 +25325,28 @@
       "desc": "Site plan application for a proposed 37-storey (113.9 metres) residential tower. The proposal includes a total gross floor area of 25,862 sq m and would have a Floor Space Index of 9.7 times the area of the lot."
     },
     {
+      "num": "12-16",
+      "street": "ORFUS",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.71841293802958,
+      "lng": -79.45730139719699,
+      "num_app": "22 114271 NNY 08 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=US3%2BJ8naeQB8qfg%2FYMupYg%3D%3D",
+      "desc": "Site Plan application to permit an 8 to14 storey mixed-use building having a non-residential gross floor area of 167 square metres, and a residential gross floor area of 29,027 square metres. A total of 340 residential dwelling units are proposed."
+    },
+    {
+      "num": "90",
+      "street": "ONTARIO",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.6521180922285,
+      "lng": -79.36737385640743,
+      "num_app": "21 153650 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9F1HGuAIjzw%2BNnsuVnk2wQ%3D%3D",
+      "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
+    },
+    {
       "num": "66",
       "street": "OAKMOUNT",
       "type": "RD",
@@ -25532,6 +25356,28 @@
       "num_app": "21 227617 STE 04 SB",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=O3widXn6sAOwp%2Fd%2Fpw3xLA%3D%3D",
       "desc": "Draft Plan of Subdivision for two development blocks."
+    },
+    {
+      "num": "15",
+      "street": "OXFORD",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.68672364778233,
+      "lng": -79.49154639560732,
+      "num_app": "20 113215 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qnCe5gbKBx%2Fmazc9morh6g%3D%3D",
+      "desc": "An Official Plan Amendment and Zoning By-law Amendment application to permit a proposed 35-storey (110.6 metres) residential tower. The proposal includes a total gross floor area of 25,787sq m and would have a Floor Space Index of 9.7 times the area of the lot."
+    },
+    {
+      "num": "9",
+      "street": "OXFORD",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.686312650369935,
+      "lng": -79.49149207404857,
+      "num_app": "22 114201 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
+      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
     },
     {
       "num": "8",
@@ -25567,17 +25413,6 @@
       "desc": "Proposal for two 18-storey purpose built rental apartment buildings with a total gross floor area of 35,830.7square metres for 452 rental residential units, resulting in a density of 4.51 FSI. (21-185510 NNY 18OZ)"
     },
     {
-      "num": "15",
-      "street": "OXFORD",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.68672364778233,
-      "lng": -79.49154639560732,
-      "num_app": "20 113215 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qnCe5gbKBx%2Fmazc9morh6g%3D%3D",
-      "desc": "An Official Plan Amendment and Zoning By-law Amendment application to permit a proposed 35-storey (110.6 metres) residential tower. The proposal includes a total gross floor area of 25,787sq m and would have a Floor Space Index of 9.7 times the area of the lot."
-    },
-    {
       "num": "16",
       "street": "OXLEY",
       "type": "ST",
@@ -25589,15 +25424,15 @@
       "desc": "*** Draft Plan of Condominium for 387 units."
     },
     {
-      "num": "9",
-      "street": "OXFORD",
-      "type": "DR",
+      "num": "10-12",
+      "street": "OAKBURN",
+      "type": "CRES",
       "dir": "",
-      "lat": 43.686312650369935,
-      "lng": -79.49149207404857,
-      "num_app": "22 114201 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
-      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
+      "lat": 43.75680154917149,
+      "lng": -79.40390361689788,
+      "num_app": "22 139736 NNY 18 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=kZ%2F8zhRuzPsXAS1DO9Rrjg%3D%3D",
+      "desc": "Proposal for two 18-storey purpose built rental apartment buildings with a total gross floor area of 35,830.7square metres for 452 rental residential units, resulting in a density of 4.51 FSI. (21-185510 NNY 18OZ)"
     },
     {
       "num": "69",
@@ -25633,15 +25468,180 @@
       "desc": "Site Plan Approval for 33 and 24-storey mixed-use buildings having a residential gross floor area of 60,745 square metres and a non-residential gross floor area of 15,031 square metres."
     },
     {
-      "num": "10-12",
-      "street": "OAKBURN",
-      "type": "CRES",
+      "num": "1",
+      "street": "OXFORD",
+      "type": "DR",
       "dir": "",
-      "lat": 43.75680154917149,
-      "lng": -79.40390361689788,
-      "num_app": "22 139736 NNY 18 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=kZ%2F8zhRuzPsXAS1DO9Rrjg%3D%3D",
-      "desc": "Proposal for two 18-storey purpose built rental apartment buildings with a total gross floor area of 35,830.7square metres for 452 rental residential units, resulting in a density of 4.51 FSI. (21-185510 NNY 18OZ)"
+      "lat": 43.685988481726554,
+      "lng": -79.4917040788338,
+      "num_app": "22 114201 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
+      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
+    },
+    {
+      "num": "3",
+      "street": "OXFORD",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.68605565811013,
+      "lng": -79.4916928067622,
+      "num_app": "22 114201 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
+      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
+    },
+    {
+      "num": "75",
+      "street": "ONTARIO",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.651651963128074,
+      "lng": -79.36660063411448,
+      "num_app": "21 235323 STE 13 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Jq9arZumxxcJUxIiUtEuCg%3D%3D",
+      "desc": "*** Draft plan of standard condominium for 354 dwelling units, 76 parking spaces, in a proposed 38-storey mixed-use building."
+    },
+    {
+      "num": "5",
+      "street": "OXFORD",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.68612259750362,
+      "lng": -79.49164106046767,
+      "num_app": "22 114201 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
+      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
+    },
+    {
+      "num": "5 A",
+      "street": "OXFORD",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.68617964484075,
+      "lng": -79.49159570350285,
+      "num_app": "22 114201 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
+      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
+    },
+    {
+      "num": "7",
+      "street": "OXFORD",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.68627394759213,
+      "lng": -79.49153380665763,
+      "num_app": "22 114201 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=wRud%2FNRqFCT%2BLe6yNOWBZQ%3D%3D",
+      "desc": "The proposed development will have a podium element with ground-level units. The podium will rise to 4 storeys as the street wall height, with the 5th and 6th storeys stepped back from the street. The tower portion will step back further and sit atop the podium and rise to 26 storeys. The building will have 3 levels of underground parking with a vehicle access from Oxford Drive on the south side of the site. Service vehicles will access from Oxford Drive on the north side of the site."
+    },
+    {
+      "num": "290",
+      "street": "OLD WESTON",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.66951030359258,
+      "lng": -79.46335882808597,
+      "num_app": "22 140254 STE 09 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=y%2FnzQzFXFC0qXsXi6Gg6Mw%3D%3D",
+      "desc": "Site Plan Approval for a 27-storey residential building having a residential gross floor area of 22,450 square metres, and a 6-storey non-residential building having a gross floor area of 1960 square metres.  321 residential dwelling units are proposed on the lot."
+    },
+    {
+      "num": "363",
+      "street": "OLD KINGSTON",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.78103006337158,
+      "lng": -79.17050603441596,
+      "num_app": "26 118747 ESC 25 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=YN7tq6rhxYftRrBh6uPQNw%3D%3D",
+      "desc": "A proposal to construct an 8-storey mixed use building with 129 residential units and commercial uses at grade."
+    },
+    {
+      "num": "69",
+      "street": "OLD MILL",
+      "type": "TER",
+      "dir": "",
+      "lat": 43.64750846974531,
+      "lng": -79.49890597470892,
+      "num_app": "25 256546 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=irTFZfqpz3Y6pGMjLgAETg%3D%3D",
+      "desc": "Proposed 39-storey residential building (135.4 metres), inclusive of a 5-storey base building. The proposed building would have a total gross floor area of 27,713.46 square metres and a floor space index of 14.63. 345 new residential units are proposed, as well as 26 rental-replacement units. 82 vehicular parking spaces in 4 levels of underground parking, as well as 279 bike parking spaces and one Type G loading space are also proposed."
+    },
+    {
+      "num": "503 1/2",
+      "street": "OAKWOOD",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.69073145428439,
+      "lng": -79.44086608255466,
+      "num_app": "25 173237 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5TsTSJHWc6%2B3sSlhmzc5qg%3D%3D",
+      "desc": "Combined Official Plan and Zoning By-law Amendment for a 13-storey mixed-use building, containing 161 residential dwelling units, 84 vehicle parking spaces, 184 bicycle parking spaces, and 360.2 square metres of commercial-retail space at ground level."
+    },
+    {
+      "num": "79",
+      "street": "ONTARIO",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.651905500733506,
+      "lng": -79.36670404611141,
+      "num_app": "26 100746 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=L7WO3FxokGpbMFYRa9aw8Q%3D%3D",
+      "desc": "A Zoning By-law Amendment application to permit a 16-storey mixed-use building consisting of 98 dwelling units and 78 square metres of non-residential gross floor area (retail) at grade."
+    },
+    {
+      "num": "81",
+      "street": "ONTARIO",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.651952178430896,
+      "lng": -79.36672406313208,
+      "num_app": "26 100746 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=L7WO3FxokGpbMFYRa9aw8Q%3D%3D",
+      "desc": "A Zoning By-law Amendment application to permit a 16-storey mixed-use building consisting of 98 dwelling units and 78 square metres of non-residential gross floor area (retail) at grade."
+    },
+    {
+      "num": "93",
+      "street": "ONTARIO",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.65210708432186,
+      "lng": -79.36687123233366,
+      "num_app": "26 100746 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=L7WO3FxokGpbMFYRa9aw8Q%3D%3D",
+      "desc": "A Zoning By-law Amendment application to permit a 16-storey mixed-use building consisting of 98 dwelling units and 78 square metres of non-residential gross floor area (retail) at grade."
+    },
+    {
+      "num": "62",
+      "street": "ORCHARD PARK",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.77198682726376,
+      "lng": -79.17981024130084,
+      "num_app": "26 106369 ESC 25 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ohTvOvsG39NheHrAYEeIKQ%3D%3D",
+      "desc": "Proposed 4 storey 47 affordable housing units with 12.62 metres tall, footprint of 658.1 square metres and a gross floor area of 2347.1 metres squared. The development includes 29 vehicle parking spaces and 32 bicycle parking spaces."
+    },
+    {
+      "num": "25",
+      "street": "OLD YORK MILLS",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.74121046753546,
+      "lng": -79.40451028031998,
+      "num_app": "22 179213 NNY 15 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=2Z3I7XbxTh3%2Fw5s10Cn4ug%3D%3D",
+      "desc": "The applications propose to develop a 12 storey mixed-use building, which would include residential uses, a church (place of worship) and multifunction space, a commercial community space, and a proposed day-care. The development will include a total of 98 residential units, with 86 parking spaces in two levels of underground parking."
+    },
+    {
+      "num": "464",
+      "street": "OAKWOOD",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.68787359024956,
+      "lng": -79.44021865406766,
+      "num_app": "22 212749 STE 12 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=vWfMGiFu73RS0oj1dVXTyQ%3D%3D",
+      "desc": "Draft Plan of Standard Condominium to permit 4 residential units and 1 parking space unit."
     }
   ]
 }
