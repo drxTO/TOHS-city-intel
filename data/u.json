@@ -12469,103 +12469,15 @@
   ],
   "pdn": [
     {
-      "num": "77",
-      "street": "UNION",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.672855247262845,
-      "lng": -79.46576887532906,
-      "num_app": "22 131972 STE 09 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=D5PKJl210U1%2FW0xcx3SaXA%3D%3D",
-      "desc": "Draft Plan of Subdivision for 5 lots."
-    },
-    {
-      "num": "2",
-      "street": "UNION",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.67204708004806,
-      "lng": -79.46648245959413,
-      "num_app": "21 235872 STE 09 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Zqcsd2uP80kc9Goy%2FHW%2Bhw%3D%3D",
-      "desc": "The Official Plan and Zoning By-law Amendment application proposes the redevelopment of the site to permit three buildings ranging in height between 39 and 49-storeys. The application proposes 97,921 square metres of gross floor area (GFA), including 91,425 square metres of residential GFA, 6,009 square metres of office space, and 487 square metres of retail space. A total of 1,364 residential units are proposed."
-    },
-    {
-      "num": "2",
-      "street": "UNION",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.67204708004806,
-      "lng": -79.46648245959413,
-      "num_app": "21 235877 STE 09 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CHC5dprM6gUrcZvtQwCoFw%3D%3D",
-      "desc": "3 blocks"
-    },
-    {
-      "num": "200",
+      "num": "505",
       "street": "UNIVERSITY",
       "type": "AVE",
       "dir": "",
-      "lat": 43.64747714474158,
-      "lng": -79.38682881352645,
-      "num_app": "22 166819 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=eMpV%2Bsnst2OsGu9VW%2BerwA%3D%3D",
-      "desc": "Official Plan and Zoning By-law Amendment applications to facilitate redevelopment at 200 University Avenue for a 35-storey addition above the existing 16-storey building for an overall height of 51-storeys. The proposal consists of 35,316 square metres of residential gross floor area containing 478 residential units, 204 square metres of retail space, and 13,052 square metres of office space, with 98 vehicular parking spaces and 548 bicycle spaces."
-    },
-    {
-      "num": "126",
-      "street": "UNION",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.67523731325005,
-      "lng": -79.46788578991745,
-      "num_app": "22 166320 STE 09 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=6xNY%2FDS75dk%2F6HlpHKtC3w%3D%3D",
-      "desc": "The proposal is for two towers of 20 and 34 storeys, connected by a 6 storey based podium, aligning with the existing and new public streets with active retail space at grade.  Also contemplates the Gunns Road extension as well as new parkland."
-    },
-    {
-      "num": "100",
-      "street": "UNION",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.67446841718384,
-      "lng": -79.46757474636777,
-      "num_app": "22 195273 STE 09 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=HsOxlb%2BFcf9zI28XfrfTlg%3D%3D",
-      "desc": "The proposal contemplates the development of the subject site with two mixed-use buildings consisting of commercial, retail and residential uses framing the street edge and providing room for a parkland conveyance that will serve as an expansion to the parkland planned to the south. The proposal will incorporate two towers of 23 and 37 storeys, each with 6 storey podiums, aligning the Union Street public street with active retail space at grade."
-    },
-    {
-      "num": "522",
-      "street": "UNIVERSITY",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.653724237784886,
-      "lng": -79.38957889580428,
-      "num_app": "22 192156 STE 11 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=J92NxUv5cgNF2c1v9LAA3g%3D%3D",
-      "desc": "Zoning By-law Amendment application to permit a 64-storey mixed-use building, containing 579 dwelling units, 21,138 square metres to office and 354 square metres to retail gross floor area."
-    },
-    {
-      "num": "200",
-      "street": "UNIVERSITY",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.64747714474158,
-      "lng": -79.38682881352645,
-      "num_app": "22 200875 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CRw4iUudH66q%2Bi6yn2vJkg%3D%3D",
-      "desc": "Proposed to facilitate redevelopment at 200 University Avenue for a 35-storey addition above the existing 16-storey building for an overall height of 51-storeys. The proposal consists of 35,316 square metres of residential gross floor area containing 478 residential units, 204 square metres of retail space, and 13,052 square metres of office space, with 98 vehicular parking spaces and 548 bicycle spaces."
-    },
-    {
-      "num": "2",
-      "street": "UNION",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.67204708004806,
-      "lng": -79.46648245959413,
-      "num_app": "22 239951 STE 09 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=LBku9FysC%2BUBsEnr%2B3gPtQ%3D%3D",
-      "desc": "Proposed St. Clair - Old Weston GO station (Smart Track) by Metrolinx. Proposal comprises:- 3 entrance buildings: main entrance located at south end of site adjacent to Union St. Seconary entrance at north end of sit adjacent to Union St. Third entrance located on west side of rail corridor near planned extension of Gunns Rd.- Increase from three tracks to four mainline tracks- Three platforms to serve all four Metrolinx tracks, with canopies over at least 85% of the platformlength, enclosures at the top of stairs and elevators, passenger shelters, and all amenities such aslighting, public address, digital and static signage, and snowmelt.- Two tunnels to connect each of the platforms to a station building on the east side of the rail corridor.- Corridor station facilities including six-bay bus loop to accommodate TTC vehicle and Wheel Trans, aplaza, sidewalk, MUP and circulation space to accommodate all pedestrian and cycling activity,secure and covered cycling facilities, as well as landscaping, street furniture and plantings."
+      "lat": 43.65367764531218,
+      "lng": -79.38817949819818,
+      "num_app": "24 118172 STE 11 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AkqNCTeGYdJ3GG8rqBEjBA%3D%3D",
+      "desc": "Official Plan Amendment application to permit a 64-storey mixed-use building, containing 704 dwelling units, 25,100 square metres of office and 600 square metres of retail gross floor area. A concurrent Zoning Amendment application for the same development has also previously been submitted and is under Appeal."
     },
     {
       "num": "126",
@@ -12601,17 +12513,6 @@
       "desc": "Zoning By-law Amendment application to permit a 64-storey mixed-use building, containing 704 dwelling units, 25,100 square metres of office and 600 square metres of retail gross floor area."
     },
     {
-      "num": "100",
-      "street": "UNION",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.67446841718384,
-      "lng": -79.46757474636777,
-      "num_app": "22 166048 STE 09 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=eBRwK6jRUBdnhtMC0tGWSg%3D%3D",
-      "desc": "The proposal is for two towers of 23 and 37 storeys, each with 6 storey podiums, with commercial, retail and residential uses framing the street edge and a park, expanding parkland planned to the south."
-    },
-    {
       "num": "440",
       "street": "UNWIN",
       "type": "AVE",
@@ -12621,17 +12522,6 @@
       "num_app": "24 253487 STE 14 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ORVfzIh9Hfk2K4%2B%2FPq2vKw%3D%3D",
       "desc": "Official Plan Amendment proposing redevelopment of the Hearn Power Generating Station. The site is subject to the Port Lands Area Specific Policies of the City's Central Waterfront Secondary Plan, which envisions the Hearn as a catalytic destination for cultural, sport, entertainment, recreational and institutional uses within a revitalized iconic heritage building. The Hearn is surrounded by power generation and distribution infrastructure, port and heavy industrial uses and natural areas. Residential uses are not currently permitted. The application proposes 739,567 square metres of Gross Floor Area (GFA) including adaptive reuse of the existing power station building and development of seven new buildings with tower elements across the site.  A mix of retail, commercial and other non-residential uses are proposed, together with 8,400 residential units and 2,522 vehicle parking spaces."
-    },
-    {
-      "num": "505",
-      "street": "UNIVERSITY",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.65367764531218,
-      "lng": -79.38817949819818,
-      "num_app": "24 118172 STE 11 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AkqNCTeGYdJ3GG8rqBEjBA%3D%3D",
-      "desc": "Official Plan Amendment application to permit a 64-storey mixed-use building, containing 704 dwelling units, 25,100 square metres of office and 600 square metres of retail gross floor area. A concurrent Zoning Amendment application for the same development has also previously been submitted and is under Appeal."
     },
     {
       "num": "402",
@@ -12731,6 +12621,116 @@
       "num_app": "21 206959 STE 11 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=uTp8OpAP4DipUCvJDgd2jA%3D%3D",
       "desc": "Proposal for a 4-storey addition above the existing 19-storey office tower, and a 61-storey rental residential tower.  The proposal consists of a total of 170712 square metres of gross floor area, including 114161 square metres of office space, 17006 square metres of retail space and 475 new purpose built rental units, resulting in an overall proposed density of 17.44 FSI."
+    },
+    {
+      "num": "2",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.67204708004806,
+      "lng": -79.46648245959413,
+      "num_app": "21 235872 STE 09 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Zqcsd2uP80kc9Goy%2FHW%2Bhw%3D%3D",
+      "desc": "The Official Plan and Zoning By-law Amendment application proposes the redevelopment of the site to permit three buildings ranging in height between 39 and 49-storeys. The application proposes 97,921 square metres of gross floor area (GFA), including 91,425 square metres of residential GFA, 6,009 square metres of office space, and 487 square metres of retail space. A total of 1,364 residential units are proposed."
+    },
+    {
+      "num": "2",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.67204708004806,
+      "lng": -79.46648245959413,
+      "num_app": "21 235877 STE 09 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CHC5dprM6gUrcZvtQwCoFw%3D%3D",
+      "desc": "3 blocks"
+    },
+    {
+      "num": "100",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.67446841718384,
+      "lng": -79.46757474636777,
+      "num_app": "22 166048 STE 09 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=eBRwK6jRUBdnhtMC0tGWSg%3D%3D",
+      "desc": "The proposal is for two towers of 23 and 37 storeys, each with 6 storey podiums, with commercial, retail and residential uses framing the street edge and a park, expanding parkland planned to the south."
+    },
+    {
+      "num": "2",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.67204708004806,
+      "lng": -79.46648245959413,
+      "num_app": "22 239951 STE 09 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=LBku9FysC%2BUBsEnr%2B3gPtQ%3D%3D",
+      "desc": "Proposed St. Clair - Old Weston GO station (Smart Track) by Metrolinx. Proposal comprises:- 3 entrance buildings: main entrance located at south end of site adjacent to Union St. Seconary entrance at north end of sit adjacent to Union St. Third entrance located on west side of rail corridor near planned extension of Gunns Rd.- Increase from three tracks to four mainline tracks- Three platforms to serve all four Metrolinx tracks, with canopies over at least 85% of the platformlength, enclosures at the top of stairs and elevators, passenger shelters, and all amenities such aslighting, public address, digital and static signage, and snowmelt.- Two tunnels to connect each of the platforms to a station building on the east side of the rail corridor.- Corridor station facilities including six-bay bus loop to accommodate TTC vehicle and Wheel Trans, aplaza, sidewalk, MUP and circulation space to accommodate all pedestrian and cycling activity,secure and covered cycling facilities, as well as landscaping, street furniture and plantings."
+    },
+    {
+      "num": "77",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.672855247262845,
+      "lng": -79.46576887532906,
+      "num_app": "22 131972 STE 09 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=D5PKJl210U1%2FW0xcx3SaXA%3D%3D",
+      "desc": "Draft Plan of Subdivision for 5 lots."
+    },
+    {
+      "num": "126",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.67523731325005,
+      "lng": -79.46788578991745,
+      "num_app": "22 166320 STE 09 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=6xNY%2FDS75dk%2F6HlpHKtC3w%3D%3D",
+      "desc": "The proposal is for two towers of 20 and 34 storeys, connected by a 6 storey based podium, aligning with the existing and new public streets with active retail space at grade.  Also contemplates the Gunns Road extension as well as new parkland."
+    },
+    {
+      "num": "200",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.64747714474158,
+      "lng": -79.38682881352645,
+      "num_app": "22 200875 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CRw4iUudH66q%2Bi6yn2vJkg%3D%3D",
+      "desc": "Proposed to facilitate redevelopment at 200 University Avenue for a 35-storey addition above the existing 16-storey building for an overall height of 51-storeys. The proposal consists of 35,316 square metres of residential gross floor area containing 478 residential units, 204 square metres of retail space, and 13,052 square metres of office space, with 98 vehicular parking spaces and 548 bicycle spaces."
+    },
+    {
+      "num": "100",
+      "street": "UNION",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.67446841718384,
+      "lng": -79.46757474636777,
+      "num_app": "22 195273 STE 09 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=HsOxlb%2BFcf9zI28XfrfTlg%3D%3D",
+      "desc": "The proposal contemplates the development of the subject site with two mixed-use buildings consisting of commercial, retail and residential uses framing the street edge and providing room for a parkland conveyance that will serve as an expansion to the parkland planned to the south. The proposal will incorporate two towers of 23 and 37 storeys, each with 6 storey podiums, aligning the Union Street public street with active retail space at grade."
+    },
+    {
+      "num": "522",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.653724237784886,
+      "lng": -79.38957889580428,
+      "num_app": "22 192156 STE 11 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=J92NxUv5cgNF2c1v9LAA3g%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit a 64-storey mixed-use building, containing 579 dwelling units, 21,138 square metres to office and 354 square metres to retail gross floor area."
+    },
+    {
+      "num": "200",
+      "street": "UNIVERSITY",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.64747714474158,
+      "lng": -79.38682881352645,
+      "num_app": "22 166819 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=eMpV%2Bsnst2OsGu9VW%2BerwA%3D%3D",
+      "desc": "Official Plan and Zoning By-law Amendment applications to facilitate redevelopment at 200 University Avenue for a 35-storey addition above the existing 16-storey building for an overall height of 51-storeys. The proposal consists of 35,316 square metres of residential gross floor area containing 478 residential units, 204 square metres of retail space, and 13,052 square metres of office space, with 98 vehicular parking spaces and 548 bicycle spaces."
     }
   ]
 }
