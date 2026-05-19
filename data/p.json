@@ -53827,191 +53827,26 @@
   ],
   "pdn": [
     {
-      "num": "72",
-      "street": "PERTH",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.65394229612243,
-      "lng": -79.44871704901922,
-      "num_app": "21 226455 STE 09 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WBRRSvg2r561doTNFSmoxA%3D%3D",
-      "desc": "The revised Site Plan Control application now proposes an 18-storey residential building with 19,485 square metres of total gross floor area and 262 residential units, including 13 affordable housing units. The development will also include 134 square metres of public parkland."
-    },
-    {
-      "num": "130",
-      "street": "PARLIAMENT",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.65194821519666,
-      "lng": -79.36425862730233,
-      "num_app": "21 235796 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aurqBzzP9087maS5F7aQjQ%3D%3D",
-      "desc": "This application proposes a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
-    },
-    {
-      "num": "134",
-      "street": "PARLIAMENT",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.65205458290815,
-      "lng": -79.36446171055657,
-      "num_app": "21 235796 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aurqBzzP9087maS5F7aQjQ%3D%3D",
-      "desc": "This application proposes a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
-    },
-    {
-      "num": "19",
-      "street": "POYNTZ",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.7573421252135,
-      "lng": -79.41166423777587,
-      "num_app": "25 252388 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BAg%2BmOfPdjjNfoH%2B4NBzMw%3D%3D",
-      "desc": "An Official Plan and Zoning By-law Amendment application has been made to the City for the lands municipally known as 15-25 Poyntz Avenue. The proposal is seeking to permit a 51-storey tall building, containing 604 residential units on the subject lands. The proposal has a total gross floor area of 38,462 square metres, of which 206 square metres is dedicated to non-residential uses, and a density of 20.9 times the area of the lands. The proposal includes 3 levels of below-grade parking, containing 80 vehicular parking spaces and 454 bicycle parking spaces. The proposal also includes an onsite parkland dedication, and a 104 square metre private owned public space (\"POPS\")."
-    },
-    {
-      "num": "21",
-      "street": "POYNTZ",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.757319516799456,
-      "lng": -79.41177266137116,
-      "num_app": "25 252388 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BAg%2BmOfPdjjNfoH%2B4NBzMw%3D%3D",
-      "desc": "An Official Plan and Zoning By-law Amendment application has been made to the City for the lands municipally known as 15-25 Poyntz Avenue. The proposal is seeking to permit a 51-storey tall building, containing 604 residential units on the subject lands. The proposal has a total gross floor area of 38,462 square metres, of which 206 square metres is dedicated to non-residential uses, and a density of 20.9 times the area of the lands. The proposal includes 3 levels of below-grade parking, containing 80 vehicular parking spaces and 454 bicycle parking spaces. The proposal also includes an onsite parkland dedication, and a 104 square metre private owned public space (\"POPS\")."
-    },
-    {
-      "num": "23",
-      "street": "POYNTZ",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.75732157670729,
-      "lng": -79.41192258920525,
-      "num_app": "25 252388 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BAg%2BmOfPdjjNfoH%2B4NBzMw%3D%3D",
-      "desc": "An Official Plan and Zoning By-law Amendment application has been made to the City for the lands municipally known as 15-25 Poyntz Avenue. The proposal is seeking to permit a 51-storey tall building, containing 604 residential units on the subject lands. The proposal has a total gross floor area of 38,462 square metres, of which 206 square metres is dedicated to non-residential uses, and a density of 20.9 times the area of the lands. The proposal includes 3 levels of below-grade parking, containing 80 vehicular parking spaces and 454 bicycle parking spaces. The proposal also includes an onsite parkland dedication, and a 104 square metre private owned public space (\"POPS\")."
-    },
-    {
-      "num": "25",
-      "street": "POYNTZ",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.75727971123654,
-      "lng": -79.41206203791093,
-      "num_app": "25 252388 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BAg%2BmOfPdjjNfoH%2B4NBzMw%3D%3D",
-      "desc": "An Official Plan and Zoning By-law Amendment application has been made to the City for the lands municipally known as 15-25 Poyntz Avenue. The proposal is seeking to permit a 51-storey tall building, containing 604 residential units on the subject lands. The proposal has a total gross floor area of 38,462 square metres, of which 206 square metres is dedicated to non-residential uses, and a density of 20.9 times the area of the lands. The proposal includes 3 levels of below-grade parking, containing 80 vehicular parking spaces and 454 bicycle parking spaces. The proposal also includes an onsite parkland dedication, and a 104 square metre private owned public space (\"POPS\")."
-    },
-    {
-      "num": "126",
-      "street": "PARLIAMENT",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.65185467622255,
-      "lng": -79.36423149034141,
-      "num_app": "23 188919 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=pepmEzxUi%2FxAp2izmU68TQ%3D%3D",
-      "desc": "Site Plan Application for a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
-    },
-    {
-      "num": "128",
-      "street": "PARLIAMENT",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.65189788680808,
-      "lng": -79.36423466579079,
-      "num_app": "23 188919 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=pepmEzxUi%2FxAp2izmU68TQ%3D%3D",
-      "desc": "Site Plan Application for a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
-    },
-    {
-      "num": "130",
-      "street": "PARLIAMENT",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.65194821519666,
-      "lng": -79.36425862730233,
-      "num_app": "23 188919 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=pepmEzxUi%2FxAp2izmU68TQ%3D%3D",
-      "desc": "Site Plan Application for a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
-    },
-    {
-      "num": "21",
-      "street": "PARK",
+      "num": "29",
+      "street": "PLEASANT",
       "type": "BLVD",
       "dir": "",
-      "lat": 43.588380165643684,
-      "lng": -79.53050521852778,
-      "num_app": "23 134668 WET 03 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=U2DNBK8JG96LLKjEv%2BZieA%3D%3D",
-      "desc": "The proposed Official Plan Amendment, Zoning By-law Amendment, Draft Plan of Subdivision and Rental Housing Demolition and Conversion applications would provide for the phased demolition of the five existing 7-storey rental apartment buildings on the subject site, and would allow for the construction of a total of five new residential apartment buildings with heights ranging from 12 to 30 storeys, including two rental buildings and three condominium buildings."
+      "lat": 43.68503986917253,
+      "lng": -79.3925574281478,
+      "num_app": "24 119348 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=M290SXTrR1dfE2kvXL0kTA%3D%3D",
+      "desc": "Zoning By-law Amendment for a new 50-storey (162.30 metres excluding mechanical penthouse) residential building comprised of a tower and podium base."
     },
     {
-      "num": "31",
-      "street": "PARK",
-      "type": "BLVD",
+      "num": "135",
+      "street": "PLUNKETT",
+      "type": "RD",
       "dir": "",
-      "lat": 43.58815983275745,
-      "lng": -79.53157588988955,
-      "num_app": "23 134668 WET 03 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=U2DNBK8JG96LLKjEv%2BZieA%3D%3D",
-      "desc": "The proposed Official Plan Amendment, Zoning By-law Amendment, Draft Plan of Subdivision and Rental Housing Demolition and Conversion applications would provide for the phased demolition of the five existing 7-storey rental apartment buildings on the subject site, and would allow for the construction of a total of five new residential apartment buildings with heights ranging from 12 to 30 storeys, including two rental buildings and three condominium buildings."
-    },
-    {
-      "num": "21",
-      "street": "PARK",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.588380165643684,
-      "lng": -79.53050521852778,
-      "num_app": "23 134682 WET 03 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=v7cjusrJEBoIES3BQtsAKQ%3D%3D",
-      "desc": "Draft Plan of Subdivision, 2 lots."
-    },
-    {
-      "num": "31",
-      "street": "PARK",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.58815983275745,
-      "lng": -79.53157588988955,
-      "num_app": "23 134682 WET 03 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=v7cjusrJEBoIES3BQtsAKQ%3D%3D",
-      "desc": "Draft Plan of Subdivision, 2 lots."
-    },
-    {
-      "num": "9",
-      "street": "PRICE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.67752581863522,
-      "lng": -79.39026360217179,
-      "num_app": "22 139888 STE 11 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=3qJcoNF9wInjBOl1T27wPg%3D%3D",
-      "desc": "Site Plan Approval for a 19-storey mixed-use building having a non-residential gross floor area of 1569 square metres, and a residential gross floor area of 10,189 square metres.  143 residential dwelling units are proposed."
-    },
-    {
-      "num": "2575",
-      "street": "PHARMACY",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.791850092882335,
-      "lng": -79.32498957684469,
-      "num_app": "22 230896 ESC 22 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=fUUjjI4NvSMiTWcjRn%2FHjg%3D%3D",
-      "desc": "Proposal to permit a 3-storey (or 19.5 metres inclusive of the mechanical penthouse) place of worship building with an ancillary day nursery, as well as a 25-storey (or 84.5metres inclusive of the mechanical penthouse) residential building at 2575 Pharmacy Avenue and part of 100 Sprucewood Court. Overall, the proposal would introduce a total gross floor area of 22,800 square metres and would contain 321 new dwelling units, 299 vehicular parking spaces, and 350 bicycle parking spaces."
-    },
-    {
-      "num": "509",
-      "street": "PARLIAMENT",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.66293140434111,
-      "lng": -79.36818957940538,
-      "num_app": "23 124360 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0WGhBxHhcGH3xcQPUBnWXw%3D%3D",
-      "desc": "Zoning By-law Amendment law to permit the development of site for a 10-storey mixed-use building (38.6 metres) with retail at-grade (278 square metres) and 60 dwelling units. The western (Parliament Street) elevation of the existing 1½ storey listed heritage building at 509 Parliament Street is proposed to be retained. The proposal has been revised and removed the property at 505 Parliament Street from the original development proposal."
+      "lat": 43.76029268389327,
+      "lng": -79.57028956103449,
+      "num_app": "23 203652 WET 07 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=mCqayA%2Bfn2%2FIL%2BGTSV3AVA%3D%3D",
+      "desc": "The proposal is for six blocks of stacked, back-to-back townhouses containing 151 units"
     },
     {
       "num": "3550",
@@ -54020,262 +53855,31 @@
       "dir": "",
       "lat": 43.81342698211732,
       "lng": -79.33784299848172,
-      "num_app": "26 106480 ESC 22 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AoJd9LazYTR%2BkszSxEQBqQ%3D%3D",
-      "desc": "SPA for Phase 2 of the Proposed Logistics Hub. Phase 2 involves a 23397.52m2 one storey industrial warehouse building with five accessory office spaces inside."
+      "num_app": "23 232890 ESC 22 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=e53ntI1tZPPTKE5QKsj2JA%3D%3D",
+      "desc": "The applicant proposes a logistics hub / warehouse.  The site area is 124,659.4 square metres.  The proposal is a phased development which would include one industrial warehouse with accessory office uses; total GFA is 41,824.60 square metres and height is 15.88 metres, at grade vehicular parking lot total of 639 spaces, 16 bicycle parking spaces, and 58 trailer parking spaces are proposed.   The subject lands were part of a consent application (File No.: B0009/22SC) that was granted."
     },
     {
-      "num": "365",
+      "num": "860",
+      "street": "PHARMACY",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.72583615028046,
+      "lng": -79.29903942699507,
+      "num_app": "23 172335 ESC 21 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=mE%2B8r69uIaAVfWIoMBpYSg%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit a mixed-use development with building heights that range from eight (8) to 31 storeys, new and re-aligned public streets, and 3,432 sq. m. of public parkland. A total of 1,042 residential units are proposed, including 248 rental replacement units, as well as 1,192 parking spaces. The existing eight (8) low-rise residential buildings would be demolished. This application is related to Official Plan Amendment Application No. 19 251045 ESC 21 OZ and Draft Plan of Subdivision Application No. 23 172397 ESC 21 OZ."
+    },
+    {
+      "num": "134",
       "street": "PARLIAMENT",
       "type": "ST",
       "dir": "",
-      "lat": 43.65885377198918,
-      "lng": -79.3666643250263,
-      "num_app": "25 111133 STE 13 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ciR%2BvPiHsO8xM4fyhYLAxw%3D%3D",
-      "desc": "Draft Plan of Condominium for a 10-storey midrise and a 25-storey mixed-use building containing 643 dwelling units."
-    },
-    {
-      "num": "27",
-      "street": "PARKCREST",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.733822017802616,
-      "lng": -79.2179754300158,
-      "num_app": "25 187032 ESC 20 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Oc9Knh%2BoR3Lqho5l1AKCIw%3D%3D",
-      "desc": "Site Plan Approval  to permit the construction of a 5-block townhouse development on the subject site, inclusive of 144 residential units."
-    },
-    {
-      "num": "5",
-      "street": "PARK HILL",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.69675134856713,
-      "lng": -79.43735937749241,
-      "num_app": "25 211872 NNY 08 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Mg4N3MyjTed5INwItvzHUA%3D%3D",
-      "desc": "Site Plan Control Application proposes the development of an 48-storey residential building. The building will provide a total of 505 residential units, being a mix of studio, 1-bedroom, 1-bedroom + den, 2-bedroom, 2-bedroom + den, and 3-bedroom units.  A paved access from Park Hill Road along the southern property line will be provided, leading to 3 levels of below-grade parking, providing a total of 93 parking spaces; as well as 289 bicycle parking spaces. The proposed development provides a total GFA of 34,123 square metres and a FSI of 16.72. Additionally, the proposed development provides 1,598 square metres of indoor amenity space and 422 square metres of outdoor amenity space."
-    },
-    {
-      "num": "9",
-      "street": "PRICE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.67752581863522,
-      "lng": -79.39026360217179,
-      "num_app": "25 166443 STE 11 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0gqsYktSOIJeXBu4bseNlQ%3D%3D",
-      "desc": "Official Plan and Zoning By-law Amendment application to permit a 35-storey mixed-use building, containing 235 dwelling units and 1,645 square metres of non-residential gross floor area."
-    },
-    {
-      "num": "40",
-      "street": "PARK",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.670787404112595,
-      "lng": -79.38510119882812,
-      "num_app": "25 209063 STE 11 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1WMnDOV9JfMey1COIfN3Mg%3D%3D",
-      "desc": "Proposed 31-storey (107.9 metres) purpose-built rental building and the restoration and adaptive reuse of the heritage building at 50 Park Road, which is proposed to be integrated into the new development. The proposed development includes 289 purpose-built dwelling units, inclusive of 40 rental replacement units and 249 new market rental dwelling units."
-    },
-    {
-      "num": "710",
-      "street": "PROGRESS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.77645886510261,
-      "lng": -79.2476775008178,
-      "num_app": "25 124540 ESC 24 OZ",
-      "url": "",
-      "desc": ""
-    },
-    {
-      "num": "38",
-      "street": "PARK",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.67060586429761,
-      "lng": -79.38509246777843,
-      "num_app": "25 209063 STE 11 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1WMnDOV9JfMey1COIfN3Mg%3D%3D",
-      "desc": "Proposed 31-storey (107.9 metres) purpose-built rental building and the restoration and adaptive reuse of the heritage building at 50 Park Road, which is proposed to be integrated into the new development. The proposed development includes 289 purpose-built dwelling units, inclusive of 40 rental replacement units and 249 new market rental dwelling units."
-    },
-    {
-      "num": "50",
-      "street": "PARK",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.67092928862338,
-      "lng": -79.38490892558895,
-      "num_app": "25 209063 STE 11 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1WMnDOV9JfMey1COIfN3Mg%3D%3D",
-      "desc": "Proposed 31-storey (107.9 metres) purpose-built rental building and the restoration and adaptive reuse of the heritage building at 50 Park Road, which is proposed to be integrated into the new development. The proposed development includes 289 purpose-built dwelling units, inclusive of 40 rental replacement units and 249 new market rental dwelling units."
-    },
-    {
-      "num": "8",
-      "street": "PARMBELLE",
-      "type": "CRES",
-      "dir": "",
-      "lat": 43.75006712563452,
-      "lng": -79.34053604668367,
-      "num_app": "25 211052 NNY 16 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2BJKTbaySZv9rpodFrqo%2F%2BQ%3D%3D",
-      "desc": "Rezoning proposes four freehold townhouse dwellings on the Subject Property."
-    },
-    {
-      "num": "18",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.63987533626751,
-      "lng": -79.39957639738385,
-      "num_app": "22 201238 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=e0ye69Ko8uE4%2FMRKwm6v9g%3D%3D",
-      "desc": "Proposal to permit the redevelopment of the site with a 22-storey mixed-use building, having a non-residential gross floor area of 2,770.5 square metres and a residential gross floor area of 13,765.5 square metres.  A total of 182 residential dwelling units are proposed. Related applications: 21 232793 STE 10 OZ; 21 232800 STE 10 SB; and 22 151499 STE 10 OZ."
-    },
-    {
-      "num": "23",
-      "street": "POYNTZ",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.75732157670729,
-      "lng": -79.41192258920525,
-      "num_app": "23 120855 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2B%2B7%2Bfq%2FG%2FYwdHdfc5fbcag%3D%3D",
-      "desc": "Official Plan & Zoning By-law Amendment for a 9-storey mixed-use building with 41 dwelling units and 4 surface parking spaces. The total GFA proposed would be 4,035 square metres with the FSI to be 3.50. The commercial spaces at grade and on the second floor are proposed to be 656.3 square metres."
-    },
-    {
-      "num": "6",
-      "street": "PAXTONIA",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.727317469423944,
-      "lng": -79.4820531140311,
-      "num_app": "23 129057 NNY 06 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1KjVQT8VAYTdd7g%2B5qTk7g%3D%3D",
-      "desc": "Application under site plan control to permit a 11-storey building containing 156 dwelling units and 388.82 square metres of at-grade commercial uses.   (See the associated application to amend the Official Plan and Zoning By-law, under no. 23 129052 NNY 06 OZ )"
-    },
-    {
-      "num": "6",
-      "street": "PAXTONIA",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.727317469423944,
-      "lng": -79.4820531140311,
-      "num_app": "23 129052 NNY 06 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bywyfCBepqI0NBMJpZSmcA%3D%3D",
-      "desc": "Application to amend the Official Plan and Zoning By-law to permit a 11-storey building containing 156 dwelling units and 388.82 square metres of at-grade commercial uses."
-    },
-    {
-      "num": "505",
-      "street": "PARLIAMENT",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.662768050627854,
-      "lng": -79.36818501433947,
-      "num_app": "23 124360 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0WGhBxHhcGH3xcQPUBnWXw%3D%3D",
-      "desc": "Zoning By-law Amendment law to permit the development of site for a 10-storey mixed-use building (38.6 metres) with retail at-grade (278 square metres) and 60 dwelling units. The western (Parliament Street) elevation of the existing 1½ storey listed heritage building at 509 Parliament Street is proposed to be retained. The proposal has been revised and removed the property at 505 Parliament Street from the original development proposal."
-    },
-    {
-      "num": "11",
-      "street": "PLEASANT",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.79036350939953,
-      "lng": -79.41996189519897,
-      "num_app": "21 231690 NNY 18 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=J72TDiBNk0fLxnx2Bx6OxA%3D%3D",
-      "desc": "*** Draft Plan of Condominimum for 546 Units."
-    },
-    {
-      "num": "9",
-      "street": "PLEASANT",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.790342286529125,
-      "lng": -79.4197464897375,
-      "num_app": "21 231690 NNY 18 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=J72TDiBNk0fLxnx2Bx6OxA%3D%3D",
-      "desc": "*** Draft Plan of Condominimum for 546 Units."
-    },
-    {
-      "num": "25",
-      "street": "POYNTZ",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.75727971123654,
-      "lng": -79.41206203791093,
-      "num_app": "23 120855 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2B%2B7%2Bfq%2FG%2FYwdHdfc5fbcag%3D%3D",
-      "desc": "Official Plan & Zoning By-law Amendment for a 9-storey mixed-use building with 41 dwelling units and 4 surface parking spaces. The total GFA proposed would be 4,035 square metres with the FSI to be 3.50. The commercial spaces at grade and on the second floor are proposed to be 656.3 square metres."
-    },
-    {
-      "num": "27",
-      "street": "POYNTZ",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.757195236418774,
-      "lng": -79.41219336482575,
-      "num_app": "23 120855 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2B%2B7%2Bfq%2FG%2FYwdHdfc5fbcag%3D%3D",
-      "desc": "Official Plan & Zoning By-law Amendment for a 9-storey mixed-use building with 41 dwelling units and 4 surface parking spaces. The total GFA proposed would be 4,035 square metres with the FSI to be 3.50. The commercial spaces at grade and on the second floor are proposed to be 656.3 square metres."
-    },
-    {
-      "num": "109",
-      "street": "PEARS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.67330461537476,
-      "lng": -79.39657211126011,
-      "num_app": "16 259549 STE 27 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=rw%2BwaI7i6dUeH1iHE4d2fg%3D%3D",
-      "desc": "Zoning By-law Amendment application to permit a 10-storey mixed-use building, containing 18 dwelling units and 500 square metres of non-residential gross floor area. The proposal includes an on-site parkland dedication of 79 square metres."
-    },
-    {
-      "num": "111",
-      "street": "PEARS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.67325386282869,
-      "lng": -79.39660889399465,
-      "num_app": "16 259549 STE 27 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=rw%2BwaI7i6dUeH1iHE4d2fg%3D%3D",
-      "desc": "Zoning By-law Amendment application to permit a 10-storey mixed-use building, containing 18 dwelling units and 500 square metres of non-residential gross floor area. The proposal includes an on-site parkland dedication of 79 square metres."
-    },
-    {
-      "num": "18",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.63987533626751,
-      "lng": -79.39957639738385,
-      "num_app": "21 232793 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AoicNeaTAA2ahbAv%2B0Mnpg%3D%3D",
-      "desc": "Resubmission of the Zoning By-law Amendment to permit the redevelopment of the site with a 18-storey mixed-use building (60 metres including mechanical penthouse) containing retail and office space on the ground floor, two levels of office space, and 162 dwelling units above."
-    },
-    {
-      "num": "15",
-      "street": "POYNTZ",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.7573815958327,
-      "lng": -79.41148987078166,
-      "num_app": "25 252388 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BAg%2BmOfPdjjNfoH%2B4NBzMw%3D%3D",
-      "desc": "An Official Plan and Zoning By-law Amendment application has been made to the City for the lands municipally known as 15-25 Poyntz Avenue. The proposal is seeking to permit a 51-storey tall building, containing 604 residential units on the subject lands. The proposal has a total gross floor area of 38,462 square metres, of which 206 square metres is dedicated to non-residential uses, and a density of 20.9 times the area of the lands. The proposal includes 3 levels of below-grade parking, containing 80 vehicular parking spaces and 454 bicycle parking spaces. The proposal also includes an onsite parkland dedication, and a 104 square metre private owned public space (\"POPS\")."
-    },
-    {
-      "num": "330",
-      "street": "PROGRESS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.77197029535246,
-      "lng": -79.26873760846232,
-      "num_app": "26 117110 ESC 21 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=IdX0FtEXFOdZ7IXxgqOCQw%3D%3D",
-      "desc": "On behalf of City of Toronto, proposing development involves the reconfiguration of the parking lot off Progress Avenue for additional parking including addition of accessible parking spots and EV chargers in alignment with the City of Toronto¿s planning policies and requirements."
+      "lat": 43.65205458290815,
+      "lng": -79.36446171055657,
+      "num_app": "23 188919 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=pepmEzxUi%2FxAp2izmU68TQ%3D%3D",
+      "desc": "Site Plan Application for a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
     },
     {
       "num": "921-931",
@@ -54298,6 +53902,50 @@
       "num_app": "24 185131 ESC 22 PL",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2BPBvXknLVS5tlFc%2FzRfRnQ%3D%3D",
       "desc": "Application for Part Lot Control exemption  to allow for the division of the property and transfer of ownership into stratified parcels."
+    },
+    {
+      "num": "111",
+      "street": "PETER",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.645766706704,
+      "lng": -79.39278145779981,
+      "num_app": "24 243620 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=w%2BGFlAPqVmZH%2FNl2spHy6g%3D%3D",
+      "desc": "Zoning By-law Amendment for a new 52-story residential tower atop of the existing 9-story office building with ground-floor retail. This design includes 852 residential units, 24 of which will be affordable rentals, while maintaining the existing office building."
+    },
+    {
+      "num": "111",
+      "street": "PETER",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.645766706704,
+      "lng": -79.39278145779981,
+      "num_app": "24 243649 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gEWu9hs0K4KWqOe%2FPQiSZg%3D%3D",
+      "desc": "Site Plan Approval for a new 52-story residential tower atop of the existing 9-story office building with ground-floor retail. This design includes 852 residential units, 24 of which will be affordable rentals, while maintaining the existing office building."
+    },
+    {
+      "num": "963",
+      "street": "PHARMACY",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.73243165513818,
+      "lng": -79.30102181310757,
+      "num_app": "22 112137 ESC 21 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=e%2FiQp5yNaUIzZQ7mxLAeng%3D%3D",
+      "desc": "This Zoning By-law application contemplates the development of a mix of 4-storey stacked townhomes and 3-storey walk-up apartments, consisting of a total of 20 residential dwelling units. All units are proposed as rental. 31% of the proposed units are affordable housing."
+    },
+    {
+      "num": "967",
+      "street": "PHARMACY",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.73271386501069,
+      "lng": -79.30115191670201,
+      "num_app": "22 112137 ESC 21 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=e%2FiQp5yNaUIzZQ7mxLAeng%3D%3D",
+      "desc": "This Zoning By-law application contemplates the development of a mix of 4-storey stacked townhomes and 3-storey walk-up apartments, consisting of a total of 20 residential dwelling units. All units are proposed as rental. 31% of the proposed units are affordable housing."
     },
     {
       "num": "7",
@@ -54344,15 +53992,37 @@
       "desc": "Site Plan Control Application proposes the development of an 48-storey residential building. The building will provide a total of 505 residential units, being a mix of studio, 1-bedroom, 1-bedroom + den, 2-bedroom, 2-bedroom + den, and 3-bedroom units.  A paved access from Park Hill Road along the southern property line will be provided, leading to 3 levels of below-grade parking, providing a total of 93 parking spaces; as well as 289 bicycle parking spaces. The proposed development provides a total GFA of 34,123 square metres and a FSI of 16.72. Additionally, the proposed development provides 1,598 square metres of indoor amenity space and 422 square metres of outdoor amenity space."
     },
     {
-      "num": "3079",
-      "street": "PHARMACY",
-      "type": "AVE",
+      "num": "38",
+      "street": "PARK",
+      "type": "RD",
       "dir": "",
-      "lat": 43.79383491077449,
-      "lng": -79.32689263016928,
-      "num_app": "24 185127 ESC 22 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=a8v9pgs37W6CTdePsuB%2BZA%3D%3D",
-      "desc": "Application for Draft Plan of Common Elemenets Condomimium to permit common elements (Mechanical Room, Parking Area, Courtyard) within the back-to-back and standard townhomes development."
+      "lat": 43.67060586429761,
+      "lng": -79.38509246777843,
+      "num_app": "25 209063 STE 11 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1WMnDOV9JfMey1COIfN3Mg%3D%3D",
+      "desc": "Proposed 31-storey (107.9 metres) purpose-built rental building and the restoration and adaptive reuse of the heritage building at 50 Park Road, which is proposed to be integrated into the new development. The proposed development includes 289 purpose-built dwelling units, inclusive of 40 rental replacement units and 249 new market rental dwelling units."
+    },
+    {
+      "num": "50",
+      "street": "PARK",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.67092928862338,
+      "lng": -79.38490892558895,
+      "num_app": "25 209063 STE 11 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1WMnDOV9JfMey1COIfN3Mg%3D%3D",
+      "desc": "Proposed 31-storey (107.9 metres) purpose-built rental building and the restoration and adaptive reuse of the heritage building at 50 Park Road, which is proposed to be integrated into the new development. The proposed development includes 289 purpose-built dwelling units, inclusive of 40 rental replacement units and 249 new market rental dwelling units."
+    },
+    {
+      "num": "40",
+      "street": "PARK",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.670787404112595,
+      "lng": -79.38510119882812,
+      "num_app": "25 209063 STE 11 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1WMnDOV9JfMey1COIfN3Mg%3D%3D",
+      "desc": "Proposed 31-storey (107.9 metres) purpose-built rental building and the restoration and adaptive reuse of the heritage building at 50 Park Road, which is proposed to be integrated into the new development. The proposed development includes 289 purpose-built dwelling units, inclusive of 40 rental replacement units and 249 new market rental dwelling units."
     },
     {
       "num": "885",
@@ -54366,136 +54036,158 @@
       "desc": "Site Plan Placeholder Application for the Sammon Emergency Services Building (ESB) and Crossover as part of the Ontario Line Subway"
     },
     {
+      "num": "8",
+      "street": "PARMBELLE",
+      "type": "CRES",
+      "dir": "",
+      "lat": 43.75006712563452,
+      "lng": -79.34053604668367,
+      "num_app": "25 211052 NNY 16 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2BJKTbaySZv9rpodFrqo%2F%2BQ%3D%3D",
+      "desc": "Rezoning proposes four freehold townhouse dwellings on the Subject Property."
+    },
+    {
+      "num": "9",
+      "street": "PRICE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.67752581863522,
+      "lng": -79.39026360217179,
+      "num_app": "25 166443 STE 11 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0gqsYktSOIJeXBu4bseNlQ%3D%3D",
+      "desc": "Official Plan and Zoning By-law Amendment application to permit a 35-storey mixed-use building, containing 235 dwelling units and 1,645 square metres of non-residential gross floor area."
+    },
+    {
+      "num": "365",
+      "street": "PARLIAMENT",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.65885377198918,
+      "lng": -79.3666643250263,
+      "num_app": "25 111133 STE 13 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ciR%2BvPiHsO8xM4fyhYLAxw%3D%3D",
+      "desc": "Draft Plan of Condominium for a 10-storey midrise and a 25-storey mixed-use building containing 643 dwelling units."
+    },
+    {
+      "num": "5",
+      "street": "PARK HILL",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.69675134856713,
+      "lng": -79.43735937749241,
+      "num_app": "25 211872 NNY 08 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Mg4N3MyjTed5INwItvzHUA%3D%3D",
+      "desc": "Site Plan Control Application proposes the development of an 48-storey residential building. The building will provide a total of 505 residential units, being a mix of studio, 1-bedroom, 1-bedroom + den, 2-bedroom, 2-bedroom + den, and 3-bedroom units.  A paved access from Park Hill Road along the southern property line will be provided, leading to 3 levels of below-grade parking, providing a total of 93 parking spaces; as well as 289 bicycle parking spaces. The proposed development provides a total GFA of 34,123 square metres and a FSI of 16.72. Additionally, the proposed development provides 1,598 square metres of indoor amenity space and 422 square metres of outdoor amenity space."
+    },
+    {
+      "num": "19",
+      "street": "POYNTZ",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.7573421252135,
+      "lng": -79.41166423777587,
+      "num_app": "25 252388 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BAg%2BmOfPdjjNfoH%2B4NBzMw%3D%3D",
+      "desc": "An Official Plan and Zoning By-law Amendment application has been made to the City for the lands municipally known as 15-25 Poyntz Avenue. The proposal is seeking to permit a 51-storey tall building, containing 604 residential units on the subject lands. The proposal has a total gross floor area of 38,462 square metres, of which 206 square metres is dedicated to non-residential uses, and a density of 20.9 times the area of the lands. The proposal includes 3 levels of below-grade parking, containing 80 vehicular parking spaces and 454 bicycle parking spaces. The proposal also includes an onsite parkland dedication, and a 104 square metre private owned public space (\"POPS\")."
+    },
+    {
+      "num": "21",
+      "street": "POYNTZ",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.757319516799456,
+      "lng": -79.41177266137116,
+      "num_app": "25 252388 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BAg%2BmOfPdjjNfoH%2B4NBzMw%3D%3D",
+      "desc": "An Official Plan and Zoning By-law Amendment application has been made to the City for the lands municipally known as 15-25 Poyntz Avenue. The proposal is seeking to permit a 51-storey tall building, containing 604 residential units on the subject lands. The proposal has a total gross floor area of 38,462 square metres, of which 206 square metres is dedicated to non-residential uses, and a density of 20.9 times the area of the lands. The proposal includes 3 levels of below-grade parking, containing 80 vehicular parking spaces and 454 bicycle parking spaces. The proposal also includes an onsite parkland dedication, and a 104 square metre private owned public space (\"POPS\")."
+    },
+    {
+      "num": "23",
+      "street": "POYNTZ",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.75732157670729,
+      "lng": -79.41192258920525,
+      "num_app": "25 252388 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BAg%2BmOfPdjjNfoH%2B4NBzMw%3D%3D",
+      "desc": "An Official Plan and Zoning By-law Amendment application has been made to the City for the lands municipally known as 15-25 Poyntz Avenue. The proposal is seeking to permit a 51-storey tall building, containing 604 residential units on the subject lands. The proposal has a total gross floor area of 38,462 square metres, of which 206 square metres is dedicated to non-residential uses, and a density of 20.9 times the area of the lands. The proposal includes 3 levels of below-grade parking, containing 80 vehicular parking spaces and 454 bicycle parking spaces. The proposal also includes an onsite parkland dedication, and a 104 square metre private owned public space (\"POPS\")."
+    },
+    {
+      "num": "25",
+      "street": "POYNTZ",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.75727971123654,
+      "lng": -79.41206203791093,
+      "num_app": "25 252388 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BAg%2BmOfPdjjNfoH%2B4NBzMw%3D%3D",
+      "desc": "An Official Plan and Zoning By-law Amendment application has been made to the City for the lands municipally known as 15-25 Poyntz Avenue. The proposal is seeking to permit a 51-storey tall building, containing 604 residential units on the subject lands. The proposal has a total gross floor area of 38,462 square metres, of which 206 square metres is dedicated to non-residential uses, and a density of 20.9 times the area of the lands. The proposal includes 3 levels of below-grade parking, containing 80 vehicular parking spaces and 454 bicycle parking spaces. The proposal also includes an onsite parkland dedication, and a 104 square metre private owned public space (\"POPS\")."
+    },
+    {
+      "num": "27",
+      "street": "PARKCREST",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.733822017802616,
+      "lng": -79.2179754300158,
+      "num_app": "25 187032 ESC 20 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Oc9Knh%2BoR3Lqho5l1AKCIw%3D%3D",
+      "desc": "Site Plan Approval  to permit the construction of a 5-block townhouse development on the subject site, inclusive of 144 residential units."
+    },
+    {
       "num": "710",
       "street": "PROGRESS",
       "type": "AVE",
       "dir": "",
       "lat": 43.77645886510261,
       "lng": -79.2476775008178,
-      "num_app": "24 166177 ESC 24 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=oAbKFCT%2FmbuoDouib2U%2BzQ%3D%3D",
-      "desc": "Official Plan amendment and zoning by-law amendment to facilitate the development of two mixed-use towers (41 and 46-storeys) on a 8,885.58 square metre site."
+      "num_app": "25 124540 ESC 24 OZ",
+      "url": "",
+      "desc": ""
     },
     {
-      "num": "963",
+      "num": "3550",
       "street": "PHARMACY",
       "type": "AVE",
       "dir": "",
-      "lat": 43.73243165513818,
-      "lng": -79.30102181310757,
-      "num_app": "22 112137 ESC 21 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=e%2FiQp5yNaUIzZQ7mxLAeng%3D%3D",
-      "desc": "This Zoning By-law application contemplates the development of a mix of 4-storey stacked townhomes and 3-storey walk-up apartments, consisting of a total of 20 residential dwelling units. All units are proposed as rental. 31% of the proposed units are affordable housing."
+      "lat": 43.81342698211732,
+      "lng": -79.33784299848172,
+      "num_app": "26 106480 ESC 22 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AoJd9LazYTR%2BkszSxEQBqQ%3D%3D",
+      "desc": "SPA for Phase 2 of the Proposed Logistics Hub. Phase 2 involves a 23397.52m2 one storey industrial warehouse building with five accessory office spaces inside."
     },
     {
-      "num": "967",
+      "num": "860",
       "street": "PHARMACY",
       "type": "AVE",
       "dir": "",
-      "lat": 43.73271386501069,
-      "lng": -79.30115191670201,
-      "num_app": "22 112137 ESC 21 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=e%2FiQp5yNaUIzZQ7mxLAeng%3D%3D",
-      "desc": "This Zoning By-law application contemplates the development of a mix of 4-storey stacked townhomes and 3-storey walk-up apartments, consisting of a total of 20 residential dwelling units. All units are proposed as rental. 31% of the proposed units are affordable housing."
+      "lat": 43.72583615028046,
+      "lng": -79.29903942699507,
+      "num_app": "23 172397 ESC 21 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=b6E4%2BX6SlEzeGVDE7klWhQ%3D%3D",
+      "desc": "Draft Plan of Subdivision application for the lands at 860 Pharmacy Ave, 9-23 and 32-40 Craigton Dr, and 1 Rannock St (Starlight lands) to create three (3) development blocks, including one block for public parkland, and a new public street. This application is related to Official Plan Amendment Application No. 19 251045 ESC 21 OZ and Zoning By-law Amendment Application No. 23 172335 ESC 21 OZ."
     },
     {
-      "num": "111",
-      "street": "PETER",
-      "type": "ST",
+      "num": "1030",
+      "street": "PAPE",
+      "type": "AVE",
       "dir": "",
-      "lat": 43.645766706704,
-      "lng": -79.39278145779981,
-      "num_app": "24 243620 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=w%2BGFlAPqVmZH%2FNl2spHy6g%3D%3D",
-      "desc": "Zoning By-law Amendment for a new 52-story residential tower atop of the existing 9-story office building with ground-floor retail. This design includes 852 residential units, 24 of which will be affordable rentals, while maintaining the existing office building."
+      "lat": 43.687272395312135,
+      "lng": -79.34938401025339,
+      "num_app": "24 229459 STE 14 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9%2BZ1Wy7v7UDO%2BXuPJ6Uq7A%3D%3D",
+      "desc": "Site Plan Approval for the Cosburn Station as part of the Ontario Line Subway"
     },
     {
-      "num": "111",
-      "street": "PETER",
-      "type": "ST",
+      "num": "3079",
+      "street": "PHARMACY",
+      "type": "AVE",
       "dir": "",
-      "lat": 43.645766706704,
-      "lng": -79.39278145779981,
-      "num_app": "24 243649 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gEWu9hs0K4KWqOe%2FPQiSZg%3D%3D",
-      "desc": "Site Plan Approval for a new 52-story residential tower atop of the existing 9-story office building with ground-floor retail. This design includes 852 residential units, 24 of which will be affordable rentals, while maintaining the existing office building."
-    },
-    {
-      "num": "29",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.617861978071204,
-      "lng": -79.49308960332881,
-      "num_app": "24 174546 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jrISDdQRgilG35K9qEljhA%3D%3D",
-      "desc": "Proposed 40-storey, 123 metre, mixed-use building containing 413 residential units."
-    },
-    {
-      "num": "71",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.641622556893715,
-      "lng": -79.39964423677083,
-      "num_app": "24 174546 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jrISDdQRgilG35K9qEljhA%3D%3D",
-      "desc": "Proposed 40-storey, 123 metre, mixed-use building containing 413 residential units."
-    },
-    {
-      "num": "59",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.617834781418296,
-      "lng": -79.49434132557121,
-      "num_app": "24 174546 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jrISDdQRgilG35K9qEljhA%3D%3D",
-      "desc": "Proposed 40-storey, 123 metre, mixed-use building containing 413 residential units."
-    },
-    {
-      "num": "71",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.641622556893715,
-      "lng": -79.39964423677083,
-      "num_app": "24 175201 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WzXbUmrDm%2BbS5mB5NjMQMA%3D%3D",
-      "desc": "Proposed mixed-use building containing 1,058 units, 23-storey and 27-storey towers atop a nine-storey base building."
-    },
-    {
-      "num": "29",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.617861978071204,
-      "lng": -79.49308960332881,
-      "num_app": "24 175201 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WzXbUmrDm%2BbS5mB5NjMQMA%3D%3D",
-      "desc": "Proposed mixed-use building containing 1,058 units, 23-storey and 27-storey towers atop a nine-storey base building."
-    },
-    {
-      "num": "59",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.617834781418296,
-      "lng": -79.49434132557121,
-      "num_app": "24 175201 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WzXbUmrDm%2BbS5mB5NjMQMA%3D%3D",
-      "desc": "Proposed mixed-use building containing 1,058 units, 23-storey and 27-storey towers atop a nine-storey base building."
-    },
-    {
-      "num": "29",
-      "street": "PLEASANT",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.68503986917253,
-      "lng": -79.3925574281478,
-      "num_app": "24 119348 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=M290SXTrR1dfE2kvXL0kTA%3D%3D",
-      "desc": "Zoning By-law Amendment for a new 50-storey (162.30 metres excluding mechanical penthouse) residential building comprised of a tower and podium base."
+      "lat": 43.79383491077449,
+      "lng": -79.32689263016928,
+      "num_app": "24 185127 ESC 22 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=a8v9pgs37W6CTdePsuB%2BZA%3D%3D",
+      "desc": "Application for Draft Plan of Common Elemenets Condomimium to permit common elements (Mechanical Room, Parking Area, Courtyard) within the back-to-back and standard townhomes development."
     },
     {
       "num": "109",
@@ -54663,26 +54355,92 @@
       "desc": "The proposal is for six blocks of stacked, back-to-back townhouses containing 151 units"
     },
     {
-      "num": "860",
+      "num": "710",
+      "street": "PROGRESS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.77645886510261,
+      "lng": -79.2476775008178,
+      "num_app": "24 166177 ESC 24 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=oAbKFCT%2FmbuoDouib2U%2BzQ%3D%3D",
+      "desc": "Official Plan amendment and zoning by-law amendment to facilitate the development of two mixed-use towers (41 and 46-storeys) on a 8,885.58 square metre site."
+    },
+    {
+      "num": "2002",
       "street": "PHARMACY",
       "type": "AVE",
       "dir": "",
-      "lat": 43.72583615028046,
-      "lng": -79.29903942699507,
-      "num_app": "23 172397 ESC 21 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=b6E4%2BX6SlEzeGVDE7klWhQ%3D%3D",
-      "desc": "Draft Plan of Subdivision application for the lands at 860 Pharmacy Ave, 9-23 and 32-40 Craigton Dr, and 1 Rannock St (Starlight lands) to create three (3) development blocks, including one block for public parkland, and a new public street. This application is related to Official Plan Amendment Application No. 19 251045 ESC 21 OZ and Zoning By-law Amendment Application No. 23 172335 ESC 21 OZ."
+      "lat": 43.77450855895653,
+      "lng": -79.31845378637163,
+      "num_app": "23 183133 ESC 22 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9y9c0xvea6Z6IslAOGZw1A%3D%3D",
+      "desc": "The proposal consists of a 14-storey mixed use building with 158 dwelling units."
     },
     {
-      "num": "1030",
-      "street": "PAPE",
-      "type": "AVE",
+      "num": "29",
+      "street": "PORTLAND",
+      "type": "ST",
       "dir": "",
-      "lat": 43.687272395312135,
-      "lng": -79.34938401025339,
-      "num_app": "24 229459 STE 14 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9%2BZ1Wy7v7UDO%2BXuPJ6Uq7A%3D%3D",
-      "desc": "Site Plan Approval for the Cosburn Station as part of the Ontario Line Subway"
+      "lat": 43.617861978071204,
+      "lng": -79.49308960332881,
+      "num_app": "24 174546 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jrISDdQRgilG35K9qEljhA%3D%3D",
+      "desc": "Proposed 40-storey, 123 metre, mixed-use building containing 413 residential units."
+    },
+    {
+      "num": "71",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.641622556893715,
+      "lng": -79.39964423677083,
+      "num_app": "24 174546 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jrISDdQRgilG35K9qEljhA%3D%3D",
+      "desc": "Proposed 40-storey, 123 metre, mixed-use building containing 413 residential units."
+    },
+    {
+      "num": "59",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.617834781418296,
+      "lng": -79.49434132557121,
+      "num_app": "24 174546 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=jrISDdQRgilG35K9qEljhA%3D%3D",
+      "desc": "Proposed 40-storey, 123 metre, mixed-use building containing 413 residential units."
+    },
+    {
+      "num": "71",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.641622556893715,
+      "lng": -79.39964423677083,
+      "num_app": "24 175201 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WzXbUmrDm%2BbS5mB5NjMQMA%3D%3D",
+      "desc": "Proposed mixed-use building containing 1,058 units, 23-storey and 27-storey towers atop a nine-storey base building."
+    },
+    {
+      "num": "29",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.617861978071204,
+      "lng": -79.49308960332881,
+      "num_app": "24 175201 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WzXbUmrDm%2BbS5mB5NjMQMA%3D%3D",
+      "desc": "Proposed mixed-use building containing 1,058 units, 23-storey and 27-storey towers atop a nine-storey base building."
+    },
+    {
+      "num": "59",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.617834781418296,
+      "lng": -79.49434132557121,
+      "num_app": "24 175201 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WzXbUmrDm%2BbS5mB5NjMQMA%3D%3D",
+      "desc": "Proposed mixed-use building containing 1,058 units, 23-storey and 27-storey towers atop a nine-storey base building."
     },
     {
       "num": "33",
@@ -54707,92 +54465,15 @@
       "desc": "Zoning By-law Amendment for a new 50-storey (162.30 metres excluding mechanical penthouse) residential building comprised of a tower and podium base."
     },
     {
-      "num": "2002",
-      "street": "PHARMACY",
+      "num": "11",
+      "street": "PARKVIEW",
       "type": "AVE",
       "dir": "",
-      "lat": 43.77450855895653,
-      "lng": -79.31845378637163,
-      "num_app": "23 183133 ESC 22 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9y9c0xvea6Z6IslAOGZw1A%3D%3D",
-      "desc": "The proposal consists of a 14-storey mixed use building with 158 dwelling units."
-    },
-    {
-      "num": "134",
-      "street": "PARLIAMENT",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.65205458290815,
-      "lng": -79.36446171055657,
-      "num_app": "23 188919 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=pepmEzxUi%2FxAp2izmU68TQ%3D%3D",
-      "desc": "Site Plan Application for a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
-    },
-    {
-      "num": "135",
-      "street": "PLUNKETT",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.76029268389327,
-      "lng": -79.57028956103449,
-      "num_app": "23 203652 WET 07 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=mCqayA%2Bfn2%2FIL%2BGTSV3AVA%3D%3D",
-      "desc": "The proposal is for six blocks of stacked, back-to-back townhouses containing 151 units"
-    },
-    {
-      "num": "3550",
-      "street": "PHARMACY",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.81342698211732,
-      "lng": -79.33784299848172,
-      "num_app": "23 232890 ESC 22 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=e53ntI1tZPPTKE5QKsj2JA%3D%3D",
-      "desc": "The applicant proposes a logistics hub / warehouse.  The site area is 124,659.4 square metres.  The proposal is a phased development which would include one industrial warehouse with accessory office uses; total GFA is 41,824.60 square metres and height is 15.88 metres, at grade vehicular parking lot total of 639 spaces, 16 bicycle parking spaces, and 58 trailer parking spaces are proposed.   The subject lands were part of a consent application (File No.: B0009/22SC) that was granted."
-    },
-    {
-      "num": "860",
-      "street": "PHARMACY",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.72583615028046,
-      "lng": -79.29903942699507,
-      "num_app": "23 172335 ESC 21 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=mE%2B8r69uIaAVfWIoMBpYSg%3D%3D",
-      "desc": "Zoning By-law Amendment application to permit a mixed-use development with building heights that range from eight (8) to 31 storeys, new and re-aligned public streets, and 3,432 sq. m. of public parkland. A total of 1,042 residential units are proposed, including 248 rental replacement units, as well as 1,192 parking spaces. The existing eight (8) low-rise residential buildings would be demolished. This application is related to Official Plan Amendment Application No. 19 251045 ESC 21 OZ and Draft Plan of Subdivision Application No. 23 172397 ESC 21 OZ."
-    },
-    {
-      "num": "670",
-      "street": "PROGRESS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.77554887785988,
-      "lng": -79.25031295057494,
-      "num_app": "17 277456 ESC 38 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CmYNBr1TZis%2BsTQG10lIbw%3D%3D",
-      "desc": "Fifth Submission: To permit the redevelopment of the lands with seven tall, residential buildings ranging in height from 18 to 54 storeys with a total of 3,203 residential units. The proposed buildings would be spread out over 5 development blocks. A public park and a daycare are also proposed."
-    },
-    {
-      "num": "680",
-      "street": "PROGRESS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.77529752137038,
-      "lng": -79.24913856353923,
-      "num_app": "17 277456 ESC 38 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CmYNBr1TZis%2BsTQG10lIbw%3D%3D",
-      "desc": "Fifth Submission: To permit the redevelopment of the lands with seven tall, residential buildings ranging in height from 18 to 54 storeys with a total of 3,203 residential units. The proposed buildings would be spread out over 5 development blocks. A public park and a daycare are also proposed."
-    },
-    {
-      "num": "690",
-      "street": "PROGRESS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.77574692550623,
-      "lng": -79.24860607011362,
-      "num_app": "17 277456 ESC 38 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CmYNBr1TZis%2BsTQG10lIbw%3D%3D",
-      "desc": "Fifth Submission: To permit the redevelopment of the lands with seven tall, residential buildings ranging in height from 18 to 54 storeys with a total of 3,203 residential units. The proposed buildings would be spread out over 5 development blocks. A public park and a daycare are also proposed."
+      "lat": 43.768798461321076,
+      "lng": -79.41261433370033,
+      "num_app": "20 227227 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=orVAhBH9ST991WR8R0MESw%3D%3D",
+      "desc": "Official Plan and Zoning By Law Amendment application to permit a 32 storey residential building for a total of 329 propsoed dwelling units and 19,877 sqm of residential gross floor area and 250.50 of retail gross floor area."
     },
     {
       "num": "556",
@@ -54815,72 +54496,6 @@
       "num_app": "22 149111 WET 03 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TEfb6LsZbEF02OaNig0ypQ%3D%3D",
       "desc": "14-storey midrise with 619 residential units and retail at grade, and a 4-storey townhouse block with 6 units."
-    },
-    {
-      "num": "9",
-      "street": "PARK HILL",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.696912378136,
-      "lng": -79.43741674989137,
-      "num_app": "25 211860 NNY 08 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bgs45NVrL9MpUqEkgHCypQ%3D%3D",
-      "desc": "OPA & Rezoning Application proposes the development of an 48-storey residential building. The building will provide a total of 505 residential units, being a mix of studio, 1-bedroom, 1-bedroom + den, 2-bedroom, 2-bedroom + den, and 3-bedroom units.  A paved access from Park Hill Road along the southern property line will be provided, leading to 3 levels of below-grade parking, providing a total of 93 parking spaces; as well as 289 bicycle parking spaces. The proposed development provides a total GFA of 34,123 square metres and a FSI of 16.72. Additionally, the proposed development provides 1,598 square metres of indoor amenity space and 422 square metres of outdoor amenity space."
-    },
-    {
-      "num": "11",
-      "street": "PARK HILL",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.69702948342128,
-      "lng": -79.43749484944387,
-      "num_app": "25 211860 NNY 08 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bgs45NVrL9MpUqEkgHCypQ%3D%3D",
-      "desc": "OPA & Rezoning Application proposes the development of an 48-storey residential building. The building will provide a total of 505 residential units, being a mix of studio, 1-bedroom, 1-bedroom + den, 2-bedroom, 2-bedroom + den, and 3-bedroom units.  A paved access from Park Hill Road along the southern property line will be provided, leading to 3 levels of below-grade parking, providing a total of 93 parking spaces; as well as 289 bicycle parking spaces. The proposed development provides a total GFA of 34,123 square metres and a FSI of 16.72. Additionally, the proposed development provides 1,598 square metres of indoor amenity space and 422 square metres of outdoor amenity space."
-    },
-    {
-      "num": "15",
-      "street": "PARK HILL",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.697133325703284,
-      "lng": -79.43749981573575,
-      "num_app": "25 211860 NNY 08 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bgs45NVrL9MpUqEkgHCypQ%3D%3D",
-      "desc": "OPA & Rezoning Application proposes the development of an 48-storey residential building. The building will provide a total of 505 residential units, being a mix of studio, 1-bedroom, 1-bedroom + den, 2-bedroom, 2-bedroom + den, and 3-bedroom units.  A paved access from Park Hill Road along the southern property line will be provided, leading to 3 levels of below-grade parking, providing a total of 93 parking spaces; as well as 289 bicycle parking spaces. The proposed development provides a total GFA of 34,123 square metres and a FSI of 16.72. Additionally, the proposed development provides 1,598 square metres of indoor amenity space and 422 square metres of outdoor amenity space."
-    },
-    {
-      "num": "111",
-      "street": "PEARS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.67325386282869,
-      "lng": -79.39660889399465,
-      "num_app": "21 229987 STE 11 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=csyoD37hvzA3fhW7H1JQUg%3D%3D",
-      "desc": "Site Plan Approval for an 11-storey mixed-use building containing 18 dwelling units and 400 square metres of non-residential gross floor area."
-    },
-    {
-      "num": "109",
-      "street": "PEARS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.67330461537476,
-      "lng": -79.39657211126011,
-      "num_app": "21 229987 STE 11 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=csyoD37hvzA3fhW7H1JQUg%3D%3D",
-      "desc": "Site Plan Approval for an 11-storey mixed-use building containing 18 dwelling units and 400 square metres of non-residential gross floor area."
-    },
-    {
-      "num": "11",
-      "street": "PARKVIEW",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.768798461321076,
-      "lng": -79.41261433370033,
-      "num_app": "20 227227 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=orVAhBH9ST991WR8R0MESw%3D%3D",
-      "desc": "Official Plan and Zoning By Law Amendment application to permit a 32 storey residential building for a total of 329 propsoed dwelling units and 19,877 sqm of residential gross floor area and 250.50 of retail gross floor area."
     },
     {
       "num": "5",
@@ -54916,48 +54531,92 @@
       "desc": "Application to lift the Hold associated with By-law 1025-2024. Refer to the Rezoning Application file 22 230897 ESC 22 OZ for more details."
     },
     {
+      "num": "111",
+      "street": "PEARS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.67325386282869,
+      "lng": -79.39660889399465,
+      "num_app": "21 229987 STE 11 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=csyoD37hvzA3fhW7H1JQUg%3D%3D",
+      "desc": "Site Plan Approval for an 11-storey mixed-use building containing 18 dwelling units and 400 square metres of non-residential gross floor area."
+    },
+    {
+      "num": "109",
+      "street": "PEARS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.67330461537476,
+      "lng": -79.39657211126011,
+      "num_app": "21 229987 STE 11 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=csyoD37hvzA3fhW7H1JQUg%3D%3D",
+      "desc": "Site Plan Approval for an 11-storey mixed-use building containing 18 dwelling units and 400 square metres of non-residential gross floor area."
+    },
+    {
+      "num": "670",
+      "street": "PROGRESS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.77554887785988,
+      "lng": -79.25031295057494,
+      "num_app": "17 277456 ESC 38 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CmYNBr1TZis%2BsTQG10lIbw%3D%3D",
+      "desc": "Fifth Submission: To permit the redevelopment of the lands with seven tall, residential buildings ranging in height from 18 to 54 storeys with a total of 3,203 residential units. The proposed buildings would be spread out over 5 development blocks. A public park and a daycare are also proposed."
+    },
+    {
+      "num": "680",
+      "street": "PROGRESS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.77529752137038,
+      "lng": -79.24913856353923,
+      "num_app": "17 277456 ESC 38 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CmYNBr1TZis%2BsTQG10lIbw%3D%3D",
+      "desc": "Fifth Submission: To permit the redevelopment of the lands with seven tall, residential buildings ranging in height from 18 to 54 storeys with a total of 3,203 residential units. The proposed buildings would be spread out over 5 development blocks. A public park and a daycare are also proposed."
+    },
+    {
+      "num": "690",
+      "street": "PROGRESS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.77574692550623,
+      "lng": -79.24860607011362,
+      "num_app": "17 277456 ESC 38 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CmYNBr1TZis%2BsTQG10lIbw%3D%3D",
+      "desc": "Fifth Submission: To permit the redevelopment of the lands with seven tall, residential buildings ranging in height from 18 to 54 storeys with a total of 3,203 residential units. The proposed buildings would be spread out over 5 development blocks. A public park and a daycare are also proposed."
+    },
+    {
+      "num": "9",
+      "street": "PARK HILL",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.696912378136,
+      "lng": -79.43741674989137,
+      "num_app": "25 211860 NNY 08 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bgs45NVrL9MpUqEkgHCypQ%3D%3D",
+      "desc": "OPA & Rezoning Application proposes the development of an 48-storey residential building. The building will provide a total of 505 residential units, being a mix of studio, 1-bedroom, 1-bedroom + den, 2-bedroom, 2-bedroom + den, and 3-bedroom units.  A paved access from Park Hill Road along the southern property line will be provided, leading to 3 levels of below-grade parking, providing a total of 93 parking spaces; as well as 289 bicycle parking spaces. The proposed development provides a total GFA of 34,123 square metres and a FSI of 16.72. Additionally, the proposed development provides 1,598 square metres of indoor amenity space and 422 square metres of outdoor amenity space."
+    },
+    {
       "num": "11",
-      "street": "PLEASANT",
-      "type": "BLVD",
+      "street": "PARK HILL",
+      "type": "RD",
       "dir": "",
-      "lat": 43.68488921687159,
-      "lng": -79.39314702345006,
-      "num_app": "21 117518 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=i0FXrZleyQKUdAPIY40d9Q%3D%3D",
-      "desc": "Zoning By-law Amendment application to permit a 17-storey mixed use building."
+      "lat": 43.69702948342128,
+      "lng": -79.43749484944387,
+      "num_app": "25 211860 NNY 08 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bgs45NVrL9MpUqEkgHCypQ%3D%3D",
+      "desc": "OPA & Rezoning Application proposes the development of an 48-storey residential building. The building will provide a total of 505 residential units, being a mix of studio, 1-bedroom, 1-bedroom + den, 2-bedroom, 2-bedroom + den, and 3-bedroom units.  A paved access from Park Hill Road along the southern property line will be provided, leading to 3 levels of below-grade parking, providing a total of 93 parking spaces; as well as 289 bicycle parking spaces. The proposed development provides a total GFA of 34,123 square metres and a FSI of 16.72. Additionally, the proposed development provides 1,598 square metres of indoor amenity space and 422 square metres of outdoor amenity space."
     },
     {
-      "num": "8",
-      "street": "PRICE",
-      "type": "ST",
+      "num": "15",
+      "street": "PARK HILL",
+      "type": "RD",
       "dir": "",
-      "lat": 43.67797333417743,
-      "lng": -79.390388657655,
-      "num_app": "18 265043 STE 11 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Is2KSMiHguRNh2PoXk0txA%3D%3D",
-      "desc": "Site Plan Control application to permit a 21-storey (81.65 metre) mixed-use building with a total of 120 dwelling units, 6,336 square metres of non-residential floor area, and 160 vehicle parking spaces (118 residential spaces and 42 commercial spaces) within a below grade parking garage. Application also includes: on-site parkland dedication; privately owned publicly accessible spaces; reconfiguration of Scrivener Square; and retention of a block of heritage buildings (the Shops of Summerhill)."
-    },
-    {
-      "num": "10",
-      "street": "PRICE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.6780363613577,
-      "lng": -79.3902005856618,
-      "num_app": "18 265043 STE 11 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Is2KSMiHguRNh2PoXk0txA%3D%3D",
-      "desc": "Site Plan Control application to permit a 21-storey (81.65 metre) mixed-use building with a total of 120 dwelling units, 6,336 square metres of non-residential floor area, and 160 vehicle parking spaces (118 residential spaces and 42 commercial spaces) within a below grade parking garage. Application also includes: on-site parkland dedication; privately owned publicly accessible spaces; reconfiguration of Scrivener Square; and retention of a block of heritage buildings (the Shops of Summerhill)."
-    },
-    {
-      "num": "10 R",
-      "street": "PRICE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.67840416097705,
-      "lng": -79.39033528717214,
-      "num_app": "18 265043 STE 11 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Is2KSMiHguRNh2PoXk0txA%3D%3D",
-      "desc": "Site Plan Control application to permit a 21-storey (81.65 metre) mixed-use building with a total of 120 dwelling units, 6,336 square metres of non-residential floor area, and 160 vehicle parking spaces (118 residential spaces and 42 commercial spaces) within a below grade parking garage. Application also includes: on-site parkland dedication; privately owned publicly accessible spaces; reconfiguration of Scrivener Square; and retention of a block of heritage buildings (the Shops of Summerhill)."
+      "lat": 43.697133325703284,
+      "lng": -79.43749981573575,
+      "num_app": "25 211860 NNY 08 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bgs45NVrL9MpUqEkgHCypQ%3D%3D",
+      "desc": "OPA & Rezoning Application proposes the development of an 48-storey residential building. The building will provide a total of 505 residential units, being a mix of studio, 1-bedroom, 1-bedroom + den, 2-bedroom, 2-bedroom + den, and 3-bedroom units.  A paved access from Park Hill Road along the southern property line will be provided, leading to 3 levels of below-grade parking, providing a total of 93 parking spaces; as well as 289 bicycle parking spaces. The proposed development provides a total GFA of 34,123 square metres and a FSI of 16.72. Additionally, the proposed development provides 1,598 square metres of indoor amenity space and 422 square metres of outdoor amenity space."
     },
     {
       "num": "90",
@@ -54993,6 +54652,50 @@
       "desc": "Site Plan application for the redevelopment of the lands with a 33-storey residential apartment building with 384 rental units, including six (6) affordable rental housing units. The existing 19-storey residential apartment building with 188 rental units will be retained. Five (5) of the ten (10) existing three (3)-storey rental townhouses will be retained and five (5) will be demolished to accommodate the proposed development."
     },
     {
+      "num": "8",
+      "street": "PRICE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.67797333417743,
+      "lng": -79.390388657655,
+      "num_app": "18 265043 STE 11 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Is2KSMiHguRNh2PoXk0txA%3D%3D",
+      "desc": "Site Plan Control application to permit a 21-storey (81.65 metre) mixed-use building with a total of 120 dwelling units, 6,336 square metres of non-residential floor area, and 160 vehicle parking spaces (118 residential spaces and 42 commercial spaces) within a below grade parking garage. Application also includes: on-site parkland dedication; privately owned publicly accessible spaces; reconfiguration of Scrivener Square; and retention of a block of heritage buildings (the Shops of Summerhill)."
+    },
+    {
+      "num": "10",
+      "street": "PRICE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.6780363613577,
+      "lng": -79.3902005856618,
+      "num_app": "18 265043 STE 11 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Is2KSMiHguRNh2PoXk0txA%3D%3D",
+      "desc": "Site Plan Control application to permit a 21-storey (81.65 metre) mixed-use building with a total of 120 dwelling units, 6,336 square metres of non-residential floor area, and 160 vehicle parking spaces (118 residential spaces and 42 commercial spaces) within a below grade parking garage. Application also includes: on-site parkland dedication; privately owned publicly accessible spaces; reconfiguration of Scrivener Square; and retention of a block of heritage buildings (the Shops of Summerhill)."
+    },
+    {
+      "num": "10 R",
+      "street": "PRICE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.67840416097705,
+      "lng": -79.39033528717214,
+      "num_app": "18 265043 STE 11 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Is2KSMiHguRNh2PoXk0txA%3D%3D",
+      "desc": "Site Plan Control application to permit a 21-storey (81.65 metre) mixed-use building with a total of 120 dwelling units, 6,336 square metres of non-residential floor area, and 160 vehicle parking spaces (118 residential spaces and 42 commercial spaces) within a below grade parking garage. Application also includes: on-site parkland dedication; privately owned publicly accessible spaces; reconfiguration of Scrivener Square; and retention of a block of heritage buildings (the Shops of Summerhill)."
+    },
+    {
+      "num": "11",
+      "street": "PLEASANT",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.68488921687159,
+      "lng": -79.39314702345006,
+      "num_app": "21 117518 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=i0FXrZleyQKUdAPIY40d9Q%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit a 17-storey mixed use building."
+    },
+    {
       "num": "44",
       "street": "PRICE",
       "type": "ST",
@@ -55002,17 +54705,6 @@
       "num_app": "25 212659 STE 11 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZK8s8KkqO7f84tt6f6Pexw%3D%3D",
       "desc": "Site Plan Approval to permit the demolition, renovation and reconfiguration of the existing Toronto Lawn Tennis Club clubhouse and the semi-detached dwelling located at 43 and 45 Price Street in order to provide a new clubhouse with up-to-date facilities"
-    },
-    {
-      "num": "19",
-      "street": "POYNTZ",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.7573421252135,
-      "lng": -79.41166423777587,
-      "num_app": "25 252382 NNY 18 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9IAIx4mfHhi2Qw0yibCJ%2FA%3D%3D",
-      "desc": "Site Plan Control Application proposes the development of a 51-storey mixed-use building providing residential and commercial uses. The building will provide a total of 604 residential units, being a mix of 1-bedroom, 1-bedroom + den, 2-bedroom, and 3-bedroom units. The building will also provide retail units at grade. A paved access from Poyntz Ave along the east property line will be provided, leading to 3 levels of below-grade parking, providing a total of 80 parking spaces; as well as 454 bicycle parking spaces. The proposed development provides a total GFA of 38,387 square metres and a FSI of 17.7. Additionally, the proposed development provides 906 square metres of indoor amenity space and 906 square metres of outdoor amenity space."
     },
     {
       "num": "135",
@@ -55035,6 +54727,17 @@
       "num_app": "25 221763 WET 03 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Ql58JMnE1g8JEpiF5gHdxQ%3D%3D",
       "desc": "Proposed construction of the proposed Block C transitional housing facility on the property municipally known as 31 Windsor Street and 95 Portland Street."
+    },
+    {
+      "num": "19",
+      "street": "POYNTZ",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.7573421252135,
+      "lng": -79.41166423777587,
+      "num_app": "25 252382 NNY 18 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=9IAIx4mfHhi2Qw0yibCJ%2FA%3D%3D",
+      "desc": "Site Plan Control Application proposes the development of a 51-storey mixed-use building providing residential and commercial uses. The building will provide a total of 604 residential units, being a mix of 1-bedroom, 1-bedroom + den, 2-bedroom, and 3-bedroom units. The building will also provide retail units at grade. A paved access from Poyntz Ave along the east property line will be provided, leading to 3 levels of below-grade parking, providing a total of 80 parking spaces; as well as 454 bicycle parking spaces. The proposed development provides a total GFA of 38,387 square metres and a FSI of 17.7. Additionally, the proposed development provides 906 square metres of indoor amenity space and 906 square metres of outdoor amenity space."
     },
     {
       "num": "21",
@@ -55136,28 +54839,6 @@
       "desc": "Proposed moblie, wet ready-mix concrete facility."
     },
     {
-      "num": "157",
-      "street": "PRINCESS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.649596053679055,
-      "lng": -79.36717802551465,
-      "num_app": "16 232831 STE 28 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=svig9HTu2ZKX3T31MyvoFw%3D%3D",
-      "desc": "The proposed mixed use redevelopment consists of two residential towers with a unified base building with tower heights of 34 and 36 storeys.   The base building includes ground floor retail and second floor office space.."
-    },
-    {
-      "num": "40",
-      "street": "PAN AM",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.787361858375064,
-      "lng": -79.18992177843941,
-      "num_app": "21 125115 ESC 25 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Gfjvi3%2FKFdDRcZ0iFSeO3A%3D%3D",
-      "desc": "Development comprising of a 5-storey parking structure with a retail use and cafe on the ground floor."
-    },
-    {
       "num": "305",
       "street": "POYNTZ",
       "type": "AVE",
@@ -55202,6 +54883,28 @@
       "desc": "Redevelopment of site  with 6 new residential towers (21-27 storeys), 8-10 storey podiums with street related commercial on Sheppard Avenue West, extension of Bogert Avenue and a public park. Proposed demolition of seven of ten existing rental blocks and  8 detached dwellings. Proposed retention of 148 rental units and 269 rental replacement units. A 3-storey addition is proposed above the retained rental building. Two  20 unit stacked townhouse buildings are proposed on the two blocks that are currently detached dwellings. 1,840 parking spaces are proposed, with 80 surface and 1,760 below grade."
     },
     {
+      "num": "40",
+      "street": "PAN AM",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.787361858375064,
+      "lng": -79.18992177843941,
+      "num_app": "21 125115 ESC 25 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Gfjvi3%2FKFdDRcZ0iFSeO3A%3D%3D",
+      "desc": "Development comprising of a 5-storey parking structure with a retail use and cafe on the ground floor."
+    },
+    {
+      "num": "157",
+      "street": "PRINCESS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.649596053679055,
+      "lng": -79.36717802551465,
+      "num_app": "16 232831 STE 28 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=svig9HTu2ZKX3T31MyvoFw%3D%3D",
+      "desc": "The proposed mixed use redevelopment consists of two residential towers with a unified base building with tower heights of 34 and 36 storeys.   The base building includes ground floor retail and second floor office space.."
+    },
+    {
       "num": "670",
       "street": "PROGRESS",
       "type": "AVE",
@@ -55233,17 +54936,6 @@
       "num_app": "17 277479 ESC 38 SB",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=LQOiKgLqncOPUWKk%2B8NcFg%3D%3D",
       "desc": "Draft Plan of Subdivision proposing to create eight new blocks to facilitate the proposed residential development.  All relevant materials have been circulated jointly with Rezoning application File #: 17 277456 ESC 38 OZ."
-    },
-    {
-      "num": "650",
-      "street": "PARLIAMENT",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.667409110062515,
-      "lng": -79.37085936416757,
-      "num_app": "18 148195 STE 28 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=icRxtrCgnBgKN8UVV%2Brtcw%3D%3D",
-      "desc": "Official Plan and Zoning By-law Amendment applications to permit three new buildings on the lands, comprising a 58-storey mixed-use condominium building with 4,060 square metres of non-residential uses in the lower floors and 741 dwelling units, a 21-storey purpose built rental building with 287 dwelling units with 310 square metres of community space, and a 9-storey purpose built rental building with 81 dwelling units. The proposal also includes 18 replacement rental units, of which the exact location remains to be determined.   A 3,135 square metre parkland conveyance plus a 772 square metre Stratified Public Park Area and enhanced open spaces with a range of programming across the site are proposed.    A new public street, which would extend Rose Avenue through to the northern boundary of the site and a series of private streets across the site are proposed.     The proposal includes modifications to the layout and uses within the existing buildings to create new amenity and non-residential spaces, which would result in the loss of 18 existing rental dwelling units that would be replaced elsewhere within the site as determined though the development review. The remaining 2,251 rental dwelling units are proposed to be retained, along with 1,828 square metres of existing non-residential space. The existing and proposed buildings would result in 3,360 dwelling units with a gross floor area of 231,028 square metres, and 6,198 square metres of non-residential gross floor area, for a total gross floor area of 237,226 square metres across the site."
     },
     {
       "num": "135",
@@ -55345,6 +55037,17 @@
       "desc": "Official Plan and Zoning By-law Amendment application to permit the development of a residential/mixed-use building"
     },
     {
+      "num": "650",
+      "street": "PARLIAMENT",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.667409110062515,
+      "lng": -79.37085936416757,
+      "num_app": "18 148195 STE 28 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=icRxtrCgnBgKN8UVV%2Brtcw%3D%3D",
+      "desc": "Official Plan and Zoning By-law Amendment applications to permit three new buildings on the lands, comprising a 58-storey mixed-use condominium building with 4,060 square metres of non-residential uses in the lower floors and 741 dwelling units, a 21-storey purpose built rental building with 287 dwelling units with 310 square metres of community space, and a 9-storey purpose built rental building with 81 dwelling units. The proposal also includes 18 replacement rental units, of which the exact location remains to be determined.   A 3,135 square metre parkland conveyance plus a 772 square metre Stratified Public Park Area and enhanced open spaces with a range of programming across the site are proposed.    A new public street, which would extend Rose Avenue through to the northern boundary of the site and a series of private streets across the site are proposed.     The proposal includes modifications to the layout and uses within the existing buildings to create new amenity and non-residential spaces, which would result in the loss of 18 existing rental dwelling units that would be replaced elsewhere within the site as determined though the development review. The remaining 2,251 rental dwelling units are proposed to be retained, along with 1,828 square metres of existing non-residential space. The existing and proposed buildings would result in 3,360 dwelling units with a gross floor area of 231,028 square metres, and 6,198 square metres of non-residential gross floor area, for a total gross floor area of 237,226 square metres across the site."
+    },
+    {
       "num": "80",
       "street": "POWER",
       "type": "ST",
@@ -55389,6 +55092,28 @@
       "desc": "Site Plan Approval application for a 41-storey mixed use building with 427 residential units, 134 square metres of retail gross floor area (GFA) and 146 parking spaces in a 4-level underground garage."
     },
     {
+      "num": "680",
+      "street": "PROGRESS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.77529752137038,
+      "lng": -79.24913856353923,
+      "num_app": "19 257336 ESC 24 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DE8Tkk82SLXyW%2BKsXZO06w%3D%3D",
+      "desc": "Official Plan Amendment application to establish a site-specific parkland dedication rate for the subject lands, which are within Scarborough Centre.  The application is to be reviewed concurrently with the related Rezoning application for a mixed use development (File #: 17 277456 ESC 38 OZ) and Draft Plan of Subdivision application (File #: 17 277479 ESC 38 OZ)."
+    },
+    {
+      "num": "690",
+      "street": "PROGRESS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.77574692550623,
+      "lng": -79.24860607011362,
+      "num_app": "19 257336 ESC 24 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DE8Tkk82SLXyW%2BKsXZO06w%3D%3D",
+      "desc": "Official Plan Amendment application to establish a site-specific parkland dedication rate for the subject lands, which are within Scarborough Centre.  The application is to be reviewed concurrently with the related Rezoning application for a mixed use development (File #: 17 277456 ESC 38 OZ) and Draft Plan of Subdivision application (File #: 17 277479 ESC 38 OZ)."
+    },
+    {
       "num": "150",
       "street": "PEARL",
       "type": "ST",
@@ -55422,59 +55147,15 @@
       "desc": "Official Plan Amendment application to establish a site-specific parkland dedication rate for the subject lands, which are within Scarborough Centre.  The application is to be reviewed concurrently with the related Rezoning application for a mixed use development (File #: 17 277456 ESC 38 OZ) and Draft Plan of Subdivision application (File #: 17 277479 ESC 38 OZ)."
     },
     {
-      "num": "680",
-      "street": "PROGRESS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.77529752137038,
-      "lng": -79.24913856353923,
-      "num_app": "19 257336 ESC 24 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DE8Tkk82SLXyW%2BKsXZO06w%3D%3D",
-      "desc": "Official Plan Amendment application to establish a site-specific parkland dedication rate for the subject lands, which are within Scarborough Centre.  The application is to be reviewed concurrently with the related Rezoning application for a mixed use development (File #: 17 277456 ESC 38 OZ) and Draft Plan of Subdivision application (File #: 17 277479 ESC 38 OZ)."
-    },
-    {
-      "num": "690",
-      "street": "PROGRESS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.77574692550623,
-      "lng": -79.24860607011362,
-      "num_app": "19 257336 ESC 24 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DE8Tkk82SLXyW%2BKsXZO06w%3D%3D",
-      "desc": "Official Plan Amendment application to establish a site-specific parkland dedication rate for the subject lands, which are within Scarborough Centre.  The application is to be reviewed concurrently with the related Rezoning application for a mixed use development (File #: 17 277456 ESC 38 OZ) and Draft Plan of Subdivision application (File #: 17 277479 ESC 38 OZ)."
-    },
-    {
       "num": "8",
       "street": "PAILTON",
       "type": "CRES",
       "dir": "",
       "lat": 43.6958008578606,
       "lng": -79.39041312006374,
-      "num_app": "20 193619 STE 12 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Kx8hqOORKykGYxu6Qdpcqg%3D%3D",
-      "desc": "Proposal for a 35-storey mixed rental residential building, with retail at-grade along Pailton Cres, with approximately 437 units and 32130m2 of GFA."
-    },
-    {
-      "num": "941",
-      "street": "PROGRESS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.78306960488092,
-      "lng": -79.22722972270783,
-      "num_app": "20 144475 ESC 24 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=knKfeI%2FLNNBFaYRNratZdg%3D%3D",
-      "desc": "Expansion of existing A Block Building on the campus.  The proposed 6 storey (17 m) institutional building will connect to the existing 3 storey building.  The proposed addition consists of a total of 12,338 sq.m of gross floor area and will be comprised of a mixture of student classrooms and administrative offices.  A total of 31 bicycle parking spaces are proposed.  No new vehicular parking is proposed."
-    },
-    {
-      "num": "111",
-      "street": "PACIFIC",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.65495511501605,
-      "lng": -79.4649711571769,
-      "num_app": "20 206487 STE 04 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TcCpyGatdNae7ehlyRKX9g%3D%3D",
-      "desc": "This is a site plan application that proposes one block of 5 3-storey townhouse, one 32 storey building, one 25 storey building, to be developed and added to the lands currently occupied by three residential rental buildings."
+      "num_app": "20 193801 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=inWtplZHD06WiSyuj6%2BHwA%3D%3D",
+      "desc": "INACTIVE Application for Site Plan Approval of a proposed 35-storey mixed rental residential building, with retail at-grade along Pailton Cres, approximately 437 (previously 449 units) and 32.017.60m2 of GFA (previosuly 33,395m2 of GFA)"
     },
     {
       "num": "23",
@@ -55499,15 +55180,26 @@
       "desc": "Draft Plan of Subdivision in order to establish development blocks and new streets (a total of 10 blocks)."
     },
     {
-      "num": "8",
-      "street": "PAILTON",
-      "type": "CRES",
+      "num": "941",
+      "street": "PROGRESS",
+      "type": "AVE",
       "dir": "",
-      "lat": 43.6958008578606,
-      "lng": -79.39041312006374,
-      "num_app": "20 193801 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=inWtplZHD06WiSyuj6%2BHwA%3D%3D",
-      "desc": "INACTIVE Application for Site Plan Approval of a proposed 35-storey mixed rental residential building, with retail at-grade along Pailton Cres, approximately 437 (previously 449 units) and 32.017.60m2 of GFA (previosuly 33,395m2 of GFA)"
+      "lat": 43.78306960488092,
+      "lng": -79.22722972270783,
+      "num_app": "20 144475 ESC 24 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=knKfeI%2FLNNBFaYRNratZdg%3D%3D",
+      "desc": "Expansion of existing A Block Building on the campus.  The proposed 6 storey (17 m) institutional building will connect to the existing 3 storey building.  The proposed addition consists of a total of 12,338 sq.m of gross floor area and will be comprised of a mixture of student classrooms and administrative offices.  A total of 31 bicycle parking spaces are proposed.  No new vehicular parking is proposed."
+    },
+    {
+      "num": "111",
+      "street": "PACIFIC",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.65495511501605,
+      "lng": -79.4649711571769,
+      "num_app": "20 206487 STE 04 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TcCpyGatdNae7ehlyRKX9g%3D%3D",
+      "desc": "This is a site plan application that proposes one block of 5 3-storey townhouse, one 32 storey building, one 25 storey building, to be developed and added to the lands currently occupied by three residential rental buildings."
     },
     {
       "num": "31 R",
@@ -55519,6 +55211,17 @@
       "num_app": "19 263645 STE 10 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CFR%2FEhO5M4mi4IeLuMbl1g%3D%3D",
       "desc": "Proposal for a 50 storey (165.7 m) mixed-use building comprised of 590 residential dwelling units (38,338 m²) and 29000 m² of non-residential gross floor area.  A total of 687 parking spaces will be provided on the lot in a below grade parking garage."
+    },
+    {
+      "num": "8",
+      "street": "PAILTON",
+      "type": "CRES",
+      "dir": "",
+      "lat": 43.6958008578606,
+      "lng": -79.39041312006374,
+      "num_app": "20 193619 STE 12 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Kx8hqOORKykGYxu6Qdpcqg%3D%3D",
+      "desc": "Proposal for a 35-storey mixed rental residential building, with retail at-grade along Pailton Cres, with approximately 437 units and 32130m2 of GFA."
     },
     {
       "num": "128",
@@ -55554,48 +55257,15 @@
       "desc": "Site Plan Approval for a 39 storey mixed-use building having a non-residential gross floor area of 878 square metres, and a residential gross floor area of 21,338.84 square metres.  A total of 374 residential dwelling units are proposed."
     },
     {
-      "num": "66",
-      "street": "PACIFIC",
+      "num": "825",
+      "street": "PASSMORE",
       "type": "AVE",
       "dir": "",
-      "lat": 43.653443701786756,
-      "lng": -79.46490174321896,
-      "num_app": "20 210125 STE 04 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=vwtp0j9cS%2BEXP7U1sZVFqA%3D%3D",
-      "desc": "The proposed development would maintain the existing four rental buildings on the lands, while proposing to demolish two blocks of existing townhouses comprised of 20 total units, to accommodate three new rental buildings with 764 dwelling units at proposed building heights of 35, 11, and 30 stories."
-    },
-    {
-      "num": "102",
-      "street": "PACIFIC",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.654436566005245,
-      "lng": -79.46534054365843,
-      "num_app": "20 210125 STE 04 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=vwtp0j9cS%2BEXP7U1sZVFqA%3D%3D",
-      "desc": "The proposed development would maintain the existing four rental buildings on the lands, while proposing to demolish two blocks of existing townhouses comprised of 20 total units, to accommodate three new rental buildings with 764 dwelling units at proposed building heights of 35, 11, and 30 stories."
-    },
-    {
-      "num": "38",
-      "street": "PARDEE",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.63535918665884,
-      "lng": -79.42320883040237,
-      "num_app": "21 160624 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=XSPm8qpkyJ0fQsp2gOpbgQ%3D%3D",
-      "desc": "Zoning By-law Amendment application to facilitate the development of the site for two new 10 and 11-storey non-residential buildings on the lot, having a non-residential gross floor area of 30,757 square metres."
-    },
-    {
-      "num": "42",
-      "street": "PARDEE",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.635441464196184,
-      "lng": -79.42324206431064,
-      "num_app": "21 160624 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=XSPm8qpkyJ0fQsp2gOpbgQ%3D%3D",
-      "desc": "Zoning By-law Amendment application to facilitate the development of the site for two new 10 and 11-storey non-residential buildings on the lot, having a non-residential gross floor area of 30,757 square metres."
+      "lat": 43.82867916767654,
+      "lng": -79.2466498970497,
+      "num_app": "13 193884 ESC 23 SA",
+      "url": "",
+      "desc": "Proposed multi-building commercial development with office, industrial and recreational uses."
     },
     {
       "num": "25",
@@ -55620,15 +55290,48 @@
       "desc": ""
     },
     {
-      "num": "825",
-      "street": "PASSMORE",
+      "num": "38",
+      "street": "PARDEE",
       "type": "AVE",
       "dir": "",
-      "lat": 43.82867916767654,
-      "lng": -79.2466498970497,
-      "num_app": "13 193884 ESC 23 SA",
-      "url": "",
-      "desc": "Proposed multi-building commercial development with office, industrial and recreational uses."
+      "lat": 43.63535918665884,
+      "lng": -79.42320883040237,
+      "num_app": "21 160624 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=XSPm8qpkyJ0fQsp2gOpbgQ%3D%3D",
+      "desc": "Zoning By-law Amendment application to facilitate the development of the site for two new 10 and 11-storey non-residential buildings on the lot, having a non-residential gross floor area of 30,757 square metres."
+    },
+    {
+      "num": "42",
+      "street": "PARDEE",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.635441464196184,
+      "lng": -79.42324206431064,
+      "num_app": "21 160624 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=XSPm8qpkyJ0fQsp2gOpbgQ%3D%3D",
+      "desc": "Zoning By-law Amendment application to facilitate the development of the site for two new 10 and 11-storey non-residential buildings on the lot, having a non-residential gross floor area of 30,757 square metres."
+    },
+    {
+      "num": "66",
+      "street": "PACIFIC",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.653443701786756,
+      "lng": -79.46490174321896,
+      "num_app": "20 210125 STE 04 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=vwtp0j9cS%2BEXP7U1sZVFqA%3D%3D",
+      "desc": "The proposed development would maintain the existing four rental buildings on the lands, while proposing to demolish two blocks of existing townhouses comprised of 20 total units, to accommodate three new rental buildings with 764 dwelling units at proposed building heights of 35, 11, and 30 stories."
+    },
+    {
+      "num": "102",
+      "street": "PACIFIC",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.654436566005245,
+      "lng": -79.46534054365843,
+      "num_app": "20 210125 STE 04 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=vwtp0j9cS%2BEXP7U1sZVFqA%3D%3D",
+      "desc": "The proposed development would maintain the existing four rental buildings on the lands, while proposing to demolish two blocks of existing townhouses comprised of 20 total units, to accommodate three new rental buildings with 764 dwelling units at proposed building heights of 35, 11, and 30 stories."
     },
     {
       "num": "122",
@@ -55796,67 +55499,12 @@
       "desc": "Draft Plan of Subdivision in order to establish two mixed use development blocks (Blocks 1 and 2), two park blocks (Block 3 and 4) and a road widening (Block 5) for the extension of Newcastle Street."
     },
     {
-      "num": "273",
-      "street": "POPLAR PLAINS",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.68366099627529,
-      "lng": -79.40369976935324,
-      "num_app": "21 219409 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0McFjv8MVwuthydEeHIBQQ%3D%3D",
-      "desc": "Site Plan Approval for a 13-storey residential building having a gross floor area of 27,328.6 square metres.  A total of 164 dwelling units are proposed."
-    },
-    {
-      "num": "29",
-      "street": "PLEASANT",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.68503986917253,
-      "lng": -79.3925574281478,
-      "num_app": "21 201799 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zX2YWDngH%2BD8bGhF347bBw%3D%3D",
-      "desc": "Site Plan Approval for a 50-storey residential building."
-    },
-    {
-      "num": "33",
-      "street": "PLEASANT",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.685046840702825,
-      "lng": -79.39236126247457,
-      "num_app": "21 201799 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zX2YWDngH%2BD8bGhF347bBw%3D%3D",
-      "desc": "Site Plan Approval for a 50-storey residential building."
-    },
-    {
-      "num": "39",
-      "street": "PLEASANT",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.685058922406654,
-      "lng": -79.39219132158206,
-      "num_app": "21 201799 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zX2YWDngH%2BD8bGhF347bBw%3D%3D",
-      "desc": "Site Plan Approval for a 50-storey residential building."
-    },
-    {
-      "num": "31",
-      "street": "PLEASANT",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.68504933137993,
-      "lng": -79.3924635891336,
-      "num_app": "21 201799 STE 12 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zX2YWDngH%2BD8bGhF347bBw%3D%3D",
-      "desc": "Site Plan Approval for a 50-storey residential building."
-    },
-    {
-      "num": "138",
+      "num": "139",
       "street": "PILKINGTON",
       "type": "DR",
       "dir": "",
-      "lat": 43.70482493117401,
-      "lng": -79.27462217985047,
+      "lat": 43.70515403001558,
+      "lng": -79.27459077078845,
       "num_app": "21 180550 ESC 20 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
       "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
@@ -55939,6 +55587,72 @@
       "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
     },
     {
+      "num": "0",
+      "street": "PILKINGTON",
+      "type": "DR",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "0",
+      "street": "PILKINGTON",
+      "type": "DR",
+      "dir": "",
+      "lat": null,
+      "lng": null,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "134",
+      "street": "PILKINGTON",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.70484699009962,
+      "lng": -79.2744972618331,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "136",
+      "street": "PILKINGTON",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.70483399303034,
+      "lng": -79.27455701711268,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "137",
+      "street": "PILKINGTON",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.70517608175512,
+      "lng": -79.2744622289908,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "111",
+      "street": "PACIFIC",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.65495511501605,
+      "lng": -79.4649711571769,
+      "num_app": "21 227617 STE 04 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=O3widXn6sAOwp%2Fd%2Fpw3xLA%3D%3D",
+      "desc": "Draft Plan of Subdivision for two development blocks."
+    },
+    {
       "num": "147",
       "street": "PILKINGTON",
       "type": "DR",
@@ -55948,6 +55662,17 @@
       "num_app": "21 180550 ESC 20 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
       "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "95",
+      "street": "PIDGEON",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.715626710047346,
+      "lng": -79.27737752659687,
+      "num_app": "21 250558 ESC 20 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=hoeAB3ok9IKrLul7XsjWqw%3D%3D",
+      "desc": "The Draft Plan of Condominium application is intended to facilitate a common elements condominium development consisting of eight (8) 3-storey townhouse units and common elements including a shared sidewalk and private outdoor amenity area. The Draft Plan of Condominium is for the lands located in Block 3 of the lands municipally known as 95 Pidgeon Street (Plan 66M-2562)."
     },
     {
       "num": "148",
@@ -56005,50 +55730,6 @@
       "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
     },
     {
-      "num": "165",
-      "street": "PILKINGTON",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.70486847136351,
-      "lng": -79.27586309987726,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
-      "num": "167",
-      "street": "PILKINGTON",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.70485422676763,
-      "lng": -79.27595722927701,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
-      "num": "169",
-      "street": "PILKINGTON",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.704837343075646,
-      "lng": -79.27604593382007,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
-      "num": "139",
-      "street": "PILKINGTON",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.70515403001558,
-      "lng": -79.27459077078845,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
       "num": "153",
       "street": "PILKINGTON",
       "type": "DR",
@@ -56069,6 +55750,17 @@
       "num_app": "21 180550 ESC 20 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
       "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "18",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.63987533626751,
+      "lng": -79.39957639738385,
+      "num_app": "22 151499 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dUrwGtV2uj9E3M3uVyVQqA%3D%3D",
+      "desc": "Official Plan Amendment for a 23 storey mixed-use building, having a non-residential gross floor area of 2,640 square metres, and a residential gross floor area of 14,459.90 square metres.  A total of 182 residential dwelling units are proposed. (This proposal is being reviewed in conjunction with an application to Amend the Zoning By-law, File No. 21-232793 STE 10 OZ)"
     },
     {
       "num": "155",
@@ -56159,83 +55851,6 @@
       "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
     },
     {
-      "num": "0",
-      "street": "PILKINGTON",
-      "type": "DR",
-      "dir": "",
-      "lat": null,
-      "lng": null,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
-      "num": "0",
-      "street": "PILKINGTON",
-      "type": "DR",
-      "dir": "",
-      "lat": null,
-      "lng": null,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
-      "num": "134",
-      "street": "PILKINGTON",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.70484699009962,
-      "lng": -79.2744972618331,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
-      "num": "136",
-      "street": "PILKINGTON",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.70483399303034,
-      "lng": -79.27455701711268,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
-      "num": "137",
-      "street": "PILKINGTON",
-      "type": "DR",
-      "dir": "",
-      "lat": 43.70517608175512,
-      "lng": -79.2744622289908,
-      "num_app": "21 180550 ESC 20 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
-      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
-    },
-    {
-      "num": "111",
-      "street": "PACIFIC",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.65495511501605,
-      "lng": -79.4649711571769,
-      "num_app": "21 227617 STE 04 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=O3widXn6sAOwp%2Fd%2Fpw3xLA%3D%3D",
-      "desc": "Draft Plan of Subdivision for two development blocks."
-    },
-    {
-      "num": "18",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.63987533626751,
-      "lng": -79.39957639738385,
-      "num_app": "22 151499 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=dUrwGtV2uj9E3M3uVyVQqA%3D%3D",
-      "desc": "Official Plan Amendment for a 23 storey mixed-use building, having a non-residential gross floor area of 2,640 square metres, and a residential gross floor area of 14,459.90 square metres.  A total of 182 residential dwelling units are proposed. (This proposal is being reviewed in conjunction with an application to Amend the Zoning By-law, File No. 21-232793 STE 10 OZ)"
-    },
-    {
       "num": "247",
       "street": "PARK LAWN",
       "type": "RD",
@@ -56247,125 +55862,103 @@
       "desc": "Proposed rear addition to an exisiting place of worship."
     },
     {
-      "num": "95",
-      "street": "PIDGEON",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.715626710047346,
-      "lng": -79.27737752659687,
-      "num_app": "21 250558 ESC 20 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=hoeAB3ok9IKrLul7XsjWqw%3D%3D",
-      "desc": "The Draft Plan of Condominium application is intended to facilitate a common elements condominium development consisting of eight (8) 3-storey townhouse units and common elements including a shared sidewalk and private outdoor amenity area. The Draft Plan of Condominium is for the lands located in Block 3 of the lands municipally known as 95 Pidgeon Street (Plan 66M-2562)."
-    },
-    {
-      "num": "162",
-      "street": "PRINCESS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.64967380541397,
-      "lng": -79.36760258264572,
-      "num_app": "21 228810 STE 13 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ldNr%2BeF7fVxMnrk7JJhKDA%3D%3D",
-      "desc": "Draft Plan of Condominium for 488 units."
-    },
-    {
-      "num": "670",
-      "street": "PROGRESS",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.77554887785988,
-      "lng": -79.25031295057494,
-      "num_app": "21 252432 ESC 24 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=q2sbonmhUO1ZhUq%2FSiHLcQ%3D%3D",
-      "desc": "Two 40-storey residential building."
-    },
-    {
-      "num": "140",
-      "street": "PETWORTH",
-      "type": "CRES",
-      "dir": "",
-      "lat": 43.79943086863109,
-      "lng": -79.29047330367948,
-      "num_app": "22 150557 ESC 22 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=iTG%2Fc5GE3o3YKg5s%2BXISPA%3D%3D",
-      "desc": "Site Plan Approval (SPA)  Application  for the Finch-Kennedy SmartTrack Station."
-    },
-    {
-      "num": "31 R",
-      "street": "PARLIAMENT",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.647106438254916,
-      "lng": -79.36046719452258,
-      "num_app": "21 234399 STE 10 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DUXgVp8A52iXKmxGRTcQ%2Fg%3D%3D",
-      "desc": "Draft Plan of Subdivison for 1 block."
-    },
-    {
-      "num": "135",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.64423765827644,
-      "lng": -79.40078392655886,
-      "num_app": "21 234402 STE 10 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gaBFTNYnnz6RC%2FzDQs0YjA%3D%3D",
-      "desc": "*** Draft Plan of Condominium for 129 units in a 16-storey building."
-    },
-    {
-      "num": "137",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.644284535487344,
-      "lng": -79.40079170807786,
-      "num_app": "21 234402 STE 10 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gaBFTNYnnz6RC%2FzDQs0YjA%3D%3D",
-      "desc": "*** Draft Plan of Condominium for 129 units in a 16-storey building."
-    },
-    {
-      "num": "139",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.64432282270975,
-      "lng": -79.40080684181433,
-      "num_app": "21 234402 STE 10 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gaBFTNYnnz6RC%2FzDQs0YjA%3D%3D",
-      "desc": "*** Draft Plan of Condominium for 129 units in a 16-storey building."
-    },
-    {
-      "num": "141",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.64436272515222,
-      "lng": -79.40082654681396,
-      "num_app": "21 234402 STE 10 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gaBFTNYnnz6RC%2FzDQs0YjA%3D%3D",
-      "desc": "*** Draft Plan of Condominium for 129 units in a 16-storey building."
-    },
-    {
-      "num": "143",
-      "street": "PORTLAND",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.644406574708924,
-      "lng": -79.40084105167242,
-      "num_app": "21 234402 STE 10 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gaBFTNYnnz6RC%2FzDQs0YjA%3D%3D",
-      "desc": "*** Draft Plan of Condominium for 129 units in a 16-storey building."
-    },
-    {
-      "num": "23",
-      "street": "PARK LAWN",
+      "num": "273",
+      "street": "POPLAR PLAINS",
       "type": "RD",
       "dir": "",
-      "lat": 43.62163238985685,
-      "lng": -79.48302325512601,
-      "num_app": "22 131744 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ylPwpBOPrKmPFuKohe2CbQ%3D%3D",
-      "desc": "The proposed Phase 1 development"
+      "lat": 43.68366099627529,
+      "lng": -79.40369976935324,
+      "num_app": "21 219409 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0McFjv8MVwuthydEeHIBQQ%3D%3D",
+      "desc": "Site Plan Approval for a 13-storey residential building having a gross floor area of 27,328.6 square metres.  A total of 164 dwelling units are proposed."
+    },
+    {
+      "num": "165",
+      "street": "PILKINGTON",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.70486847136351,
+      "lng": -79.27586309987726,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "167",
+      "street": "PILKINGTON",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.70485422676763,
+      "lng": -79.27595722927701,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "169",
+      "street": "PILKINGTON",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.704837343075646,
+      "lng": -79.27604593382007,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
+    },
+    {
+      "num": "29",
+      "street": "PLEASANT",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.68503986917253,
+      "lng": -79.3925574281478,
+      "num_app": "21 201799 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zX2YWDngH%2BD8bGhF347bBw%3D%3D",
+      "desc": "Site Plan Approval for a 50-storey residential building."
+    },
+    {
+      "num": "33",
+      "street": "PLEASANT",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.685046840702825,
+      "lng": -79.39236126247457,
+      "num_app": "21 201799 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zX2YWDngH%2BD8bGhF347bBw%3D%3D",
+      "desc": "Site Plan Approval for a 50-storey residential building."
+    },
+    {
+      "num": "39",
+      "street": "PLEASANT",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.685058922406654,
+      "lng": -79.39219132158206,
+      "num_app": "21 201799 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zX2YWDngH%2BD8bGhF347bBw%3D%3D",
+      "desc": "Site Plan Approval for a 50-storey residential building."
+    },
+    {
+      "num": "31",
+      "street": "PLEASANT",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.68504933137993,
+      "lng": -79.3924635891336,
+      "num_app": "21 201799 STE 12 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=zX2YWDngH%2BD8bGhF347bBw%3D%3D",
+      "desc": "Site Plan Approval for a 50-storey residential building."
+    },
+    {
+      "num": "138",
+      "street": "PILKINGTON",
+      "type": "DR",
+      "dir": "",
+      "lat": 43.70482493117401,
+      "lng": -79.27462217985047,
+      "num_app": "21 180550 ESC 20 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7I841ukJQtwJWwwmfI8uxw%3D%3D",
+      "desc": "OLT settlement which contemplates a mixed residential/retail development of five buildings, ranging in height from 17-storeys (with a six-storey mid-rise component) to 49-storeys, with approximately 2,100 dwelling units including a unit mix of 15% two-bedroom units and 10% three-bedroom units. A total of approximately 130,260 sq m of Gross Floor Area (GFA) is proposed, inclusive of 985 sq m of non-residential GFA, resulting in a gross density of 4.95 Floor Space index (FSI). This will be supported by a series of new public streets connecting Warden Avenue and Pilkington Drive and a 2,015 sq m public park located towards the east side of the site.See related Subdivision Application 21 181162 ESC 20 SB."
     },
     {
       "num": "963-967",
@@ -56377,6 +55970,17 @@
       "num_app": "22 112137 ESC 21 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=e%2FiQp5yNaUIzZQ7mxLAeng%3D%3D",
       "desc": "This Zoning By-law application contemplates the development of a mix of 4-storey stacked townhomes and 3-storey walk-up apartments, consisting of a total of 20 residential dwelling units. All units are proposed as rental. 31% of the proposed units are affordable housing."
+    },
+    {
+      "num": "670",
+      "street": "PROGRESS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.77554887785988,
+      "lng": -79.25031295057494,
+      "num_app": "21 252432 ESC 24 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=q2sbonmhUO1ZhUq%2FSiHLcQ%3D%3D",
+      "desc": "Two 40-storey residential building."
     },
     {
       "num": "157",
@@ -56399,61 +56003,6 @@
       "num_app": "21 226321 STE 13 SB",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=JjjJlpahjuzvgtAUfGZ7Ag%3D%3D",
       "desc": "Draft Plan of Subdivision for 5 development blocks."
-    },
-    {
-      "num": "95",
-      "street": "PIDGEON",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.715626710047346,
-      "lng": -79.27737752659687,
-      "num_app": "21 250557 ESC 20 PL",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Y3ruoyIXFAgS5x%2FbGk0%2BkA%3D%3D",
-      "desc": "The Part Lot Control application is intended to facilitate twenty-six (26) 3-storey townhouse units. ( Part Lot Control for the lands located at Blocks 1-3, Plan 66M-2562, municipally known as 95 Pidgeon Street )"
-    },
-    {
-      "num": "29",
-      "street": "PLEASANT",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.68503986917253,
-      "lng": -79.3925574281478,
-      "num_app": "21 227802 STE 12 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=tx4S8F6L1%2FNZRwG5ug4quA%3D%3D",
-      "desc": "Draft Plan of Subdivision to create two development blocks."
-    },
-    {
-      "num": "33",
-      "street": "PLEASANT",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.685046840702825,
-      "lng": -79.39236126247457,
-      "num_app": "21 227802 STE 12 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=tx4S8F6L1%2FNZRwG5ug4quA%3D%3D",
-      "desc": "Draft Plan of Subdivision to create two development blocks."
-    },
-    {
-      "num": "39",
-      "street": "PLEASANT",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.685058922406654,
-      "lng": -79.39219132158206,
-      "num_app": "21 227802 STE 12 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=tx4S8F6L1%2FNZRwG5ug4quA%3D%3D",
-      "desc": "Draft Plan of Subdivision to create two development blocks."
-    },
-    {
-      "num": "31",
-      "street": "PLEASANT",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.68504933137993,
-      "lng": -79.3924635891336,
-      "num_app": "21 227802 STE 12 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=tx4S8F6L1%2FNZRwG5ug4quA%3D%3D",
-      "desc": "Draft Plan of Subdivision to create two development blocks."
     },
     {
       "num": "161",
@@ -56533,6 +56082,160 @@
       "desc": "Draft Plan of subdivision for 3 blocks."
     },
     {
+      "num": "140",
+      "street": "PETWORTH",
+      "type": "CRES",
+      "dir": "",
+      "lat": 43.79943086863109,
+      "lng": -79.29047330367948,
+      "num_app": "22 150557 ESC 22 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=iTG%2Fc5GE3o3YKg5s%2BXISPA%3D%3D",
+      "desc": "Site Plan Approval (SPA)  Application  for the Finch-Kennedy SmartTrack Station."
+    },
+    {
+      "num": "29",
+      "street": "PLEASANT",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.68503986917253,
+      "lng": -79.3925574281478,
+      "num_app": "21 227802 STE 12 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=tx4S8F6L1%2FNZRwG5ug4quA%3D%3D",
+      "desc": "Draft Plan of Subdivision to create two development blocks."
+    },
+    {
+      "num": "33",
+      "street": "PLEASANT",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.685046840702825,
+      "lng": -79.39236126247457,
+      "num_app": "21 227802 STE 12 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=tx4S8F6L1%2FNZRwG5ug4quA%3D%3D",
+      "desc": "Draft Plan of Subdivision to create two development blocks."
+    },
+    {
+      "num": "39",
+      "street": "PLEASANT",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.685058922406654,
+      "lng": -79.39219132158206,
+      "num_app": "21 227802 STE 12 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=tx4S8F6L1%2FNZRwG5ug4quA%3D%3D",
+      "desc": "Draft Plan of Subdivision to create two development blocks."
+    },
+    {
+      "num": "31",
+      "street": "PLEASANT",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.68504933137993,
+      "lng": -79.3924635891336,
+      "num_app": "21 227802 STE 12 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=tx4S8F6L1%2FNZRwG5ug4quA%3D%3D",
+      "desc": "Draft Plan of Subdivision to create two development blocks."
+    },
+    {
+      "num": "23",
+      "street": "PARK LAWN",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.62163238985685,
+      "lng": -79.48302325512601,
+      "num_app": "22 131744 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ylPwpBOPrKmPFuKohe2CbQ%3D%3D",
+      "desc": "The proposed Phase 1 development"
+    },
+    {
+      "num": "95",
+      "street": "PIDGEON",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.715626710047346,
+      "lng": -79.27737752659687,
+      "num_app": "21 250557 ESC 20 PL",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Y3ruoyIXFAgS5x%2FbGk0%2BkA%3D%3D",
+      "desc": "The Part Lot Control application is intended to facilitate twenty-six (26) 3-storey townhouse units. ( Part Lot Control for the lands located at Blocks 1-3, Plan 66M-2562, municipally known as 95 Pidgeon Street )"
+    },
+    {
+      "num": "162",
+      "street": "PRINCESS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.64967380541397,
+      "lng": -79.36760258264572,
+      "num_app": "21 228810 STE 13 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ldNr%2BeF7fVxMnrk7JJhKDA%3D%3D",
+      "desc": "Draft Plan of Condominium for 488 units."
+    },
+    {
+      "num": "31 R",
+      "street": "PARLIAMENT",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.647106438254916,
+      "lng": -79.36046719452258,
+      "num_app": "21 234399 STE 10 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DUXgVp8A52iXKmxGRTcQ%2Fg%3D%3D",
+      "desc": "Draft Plan of Subdivison for 1 block."
+    },
+    {
+      "num": "135",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.64423765827644,
+      "lng": -79.40078392655886,
+      "num_app": "21 234402 STE 10 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gaBFTNYnnz6RC%2FzDQs0YjA%3D%3D",
+      "desc": "*** Draft Plan of Condominium for 129 units in a 16-storey building."
+    },
+    {
+      "num": "137",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.644284535487344,
+      "lng": -79.40079170807786,
+      "num_app": "21 234402 STE 10 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gaBFTNYnnz6RC%2FzDQs0YjA%3D%3D",
+      "desc": "*** Draft Plan of Condominium for 129 units in a 16-storey building."
+    },
+    {
+      "num": "139",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.64432282270975,
+      "lng": -79.40080684181433,
+      "num_app": "21 234402 STE 10 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gaBFTNYnnz6RC%2FzDQs0YjA%3D%3D",
+      "desc": "*** Draft Plan of Condominium for 129 units in a 16-storey building."
+    },
+    {
+      "num": "141",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.64436272515222,
+      "lng": -79.40082654681396,
+      "num_app": "21 234402 STE 10 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gaBFTNYnnz6RC%2FzDQs0YjA%3D%3D",
+      "desc": "*** Draft Plan of Condominium for 129 units in a 16-storey building."
+    },
+    {
+      "num": "143",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.644406574708924,
+      "lng": -79.40084105167242,
+      "num_app": "21 234402 STE 10 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=gaBFTNYnnz6RC%2FzDQs0YjA%3D%3D",
+      "desc": "*** Draft Plan of Condominium for 129 units in a 16-storey building."
+    },
+    {
       "num": "1800",
       "street": "PHARMACY",
       "type": "AVE",
@@ -56542,6 +56245,303 @@
       "num_app": "22 137043 ESC 22 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=t45qi1%2FqWWzLjO5cTk8Hsg%3D%3D",
       "desc": "Development comprising of a 22 storey mixed-use building, containing 410 residential units, non-residential GFA of 1598 square metres, a  floor space index of 4.31 times the lot area, and 389 parking spaces."
+    },
+    {
+      "num": "23",
+      "street": "POYNTZ",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.75732157670729,
+      "lng": -79.41192258920525,
+      "num_app": "23 120855 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2B%2B7%2Bfq%2FG%2FYwdHdfc5fbcag%3D%3D",
+      "desc": "Official Plan & Zoning By-law Amendment for a 9-storey mixed-use building with 41 dwelling units and 4 surface parking spaces. The total GFA proposed would be 4,035 square metres with the FSI to be 3.50. The commercial spaces at grade and on the second floor are proposed to be 656.3 square metres."
+    },
+    {
+      "num": "6",
+      "street": "PAXTONIA",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.727317469423944,
+      "lng": -79.4820531140311,
+      "num_app": "23 129057 NNY 06 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1KjVQT8VAYTdd7g%2B5qTk7g%3D%3D",
+      "desc": "Application under site plan control to permit a 11-storey building containing 156 dwelling units and 388.82 square metres of at-grade commercial uses.   (See the associated application to amend the Official Plan and Zoning By-law, under no. 23 129052 NNY 06 OZ )"
+    },
+    {
+      "num": "6",
+      "street": "PAXTONIA",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.727317469423944,
+      "lng": -79.4820531140311,
+      "num_app": "23 129052 NNY 06 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=bywyfCBepqI0NBMJpZSmcA%3D%3D",
+      "desc": "Application to amend the Official Plan and Zoning By-law to permit a 11-storey building containing 156 dwelling units and 388.82 square metres of at-grade commercial uses."
+    },
+    {
+      "num": "505",
+      "street": "PARLIAMENT",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.662768050627854,
+      "lng": -79.36818501433947,
+      "num_app": "23 124360 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0WGhBxHhcGH3xcQPUBnWXw%3D%3D",
+      "desc": "Zoning By-law Amendment law to permit the development of site for a 10-storey mixed-use building (38.6 metres) with retail at-grade (278 square metres) and 60 dwelling units. The western (Parliament Street) elevation of the existing 1½ storey listed heritage building at 509 Parliament Street is proposed to be retained. The proposal has been revised and removed the property at 505 Parliament Street from the original development proposal."
+    },
+    {
+      "num": "11",
+      "street": "PLEASANT",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.79036350939953,
+      "lng": -79.41996189519897,
+      "num_app": "21 231690 NNY 18 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=J72TDiBNk0fLxnx2Bx6OxA%3D%3D",
+      "desc": "*** Draft Plan of Condominimum for 546 Units."
+    },
+    {
+      "num": "9",
+      "street": "PLEASANT",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.790342286529125,
+      "lng": -79.4197464897375,
+      "num_app": "21 231690 NNY 18 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=J72TDiBNk0fLxnx2Bx6OxA%3D%3D",
+      "desc": "*** Draft Plan of Condominimum for 546 Units."
+    },
+    {
+      "num": "25",
+      "street": "POYNTZ",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.75727971123654,
+      "lng": -79.41206203791093,
+      "num_app": "23 120855 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2B%2B7%2Bfq%2FG%2FYwdHdfc5fbcag%3D%3D",
+      "desc": "Official Plan & Zoning By-law Amendment for a 9-storey mixed-use building with 41 dwelling units and 4 surface parking spaces. The total GFA proposed would be 4,035 square metres with the FSI to be 3.50. The commercial spaces at grade and on the second floor are proposed to be 656.3 square metres."
+    },
+    {
+      "num": "27",
+      "street": "POYNTZ",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.757195236418774,
+      "lng": -79.41219336482575,
+      "num_app": "23 120855 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=%2B%2B7%2Bfq%2FG%2FYwdHdfc5fbcag%3D%3D",
+      "desc": "Official Plan & Zoning By-law Amendment for a 9-storey mixed-use building with 41 dwelling units and 4 surface parking spaces. The total GFA proposed would be 4,035 square metres with the FSI to be 3.50. The commercial spaces at grade and on the second floor are proposed to be 656.3 square metres."
+    },
+    {
+      "num": "72",
+      "street": "PERTH",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.65394229612243,
+      "lng": -79.44871704901922,
+      "num_app": "21 226455 STE 09 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=WBRRSvg2r561doTNFSmoxA%3D%3D",
+      "desc": "The revised Site Plan Control application now proposes an 18-storey residential building with 19,485 square metres of total gross floor area and 262 residential units, including 13 affordable housing units. The development will also include 134 square metres of public parkland."
+    },
+    {
+      "num": "18",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.63987533626751,
+      "lng": -79.39957639738385,
+      "num_app": "22 201238 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=e0ye69Ko8uE4%2FMRKwm6v9g%3D%3D",
+      "desc": "Proposal to permit the redevelopment of the site with a 22-storey mixed-use building, having a non-residential gross floor area of 2,770.5 square metres and a residential gross floor area of 13,765.5 square metres.  A total of 182 residential dwelling units are proposed. Related applications: 21 232793 STE 10 OZ; 21 232800 STE 10 SB; and 22 151499 STE 10 OZ."
+    },
+    {
+      "num": "130",
+      "street": "PARLIAMENT",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.65194821519666,
+      "lng": -79.36425862730233,
+      "num_app": "21 235796 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aurqBzzP9087maS5F7aQjQ%3D%3D",
+      "desc": "This application proposes a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
+    },
+    {
+      "num": "134",
+      "street": "PARLIAMENT",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.65205458290815,
+      "lng": -79.36446171055657,
+      "num_app": "21 235796 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aurqBzzP9087maS5F7aQjQ%3D%3D",
+      "desc": "This application proposes a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
+    },
+    {
+      "num": "15",
+      "street": "POYNTZ",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.7573815958327,
+      "lng": -79.41148987078166,
+      "num_app": "25 252388 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BAg%2BmOfPdjjNfoH%2B4NBzMw%3D%3D",
+      "desc": "An Official Plan and Zoning By-law Amendment application has been made to the City for the lands municipally known as 15-25 Poyntz Avenue. The proposal is seeking to permit a 51-storey tall building, containing 604 residential units on the subject lands. The proposal has a total gross floor area of 38,462 square metres, of which 206 square metres is dedicated to non-residential uses, and a density of 20.9 times the area of the lands. The proposal includes 3 levels of below-grade parking, containing 80 vehicular parking spaces and 454 bicycle parking spaces. The proposal also includes an onsite parkland dedication, and a 104 square metre private owned public space (\"POPS\")."
+    },
+    {
+      "num": "330",
+      "street": "PROGRESS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.77197029535246,
+      "lng": -79.26873760846232,
+      "num_app": "26 117110 ESC 21 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=IdX0FtEXFOdZ7IXxgqOCQw%3D%3D",
+      "desc": "On behalf of City of Toronto, proposing development involves the reconfiguration of the parking lot off Progress Avenue for additional parking including addition of accessible parking spots and EV chargers in alignment with the City of Toronto¿s planning policies and requirements."
+    },
+    {
+      "num": "18",
+      "street": "PORTLAND",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.63987533626751,
+      "lng": -79.39957639738385,
+      "num_app": "21 232793 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AoicNeaTAA2ahbAv%2B0Mnpg%3D%3D",
+      "desc": "Resubmission of the Zoning By-law Amendment to permit the redevelopment of the site with a 18-storey mixed-use building (60 metres including mechanical penthouse) containing retail and office space on the ground floor, two levels of office space, and 162 dwelling units above."
+    },
+    {
+      "num": "109",
+      "street": "PEARS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.67330461537476,
+      "lng": -79.39657211126011,
+      "num_app": "16 259549 STE 27 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=rw%2BwaI7i6dUeH1iHE4d2fg%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit a 10-storey mixed-use building, containing 18 dwelling units and 500 square metres of non-residential gross floor area. The proposal includes an on-site parkland dedication of 79 square metres."
+    },
+    {
+      "num": "111",
+      "street": "PEARS",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.67325386282869,
+      "lng": -79.39660889399465,
+      "num_app": "16 259549 STE 27 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=rw%2BwaI7i6dUeH1iHE4d2fg%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit a 10-storey mixed-use building, containing 18 dwelling units and 500 square metres of non-residential gross floor area. The proposal includes an on-site parkland dedication of 79 square metres."
+    },
+    {
+      "num": "9",
+      "street": "PRICE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.67752581863522,
+      "lng": -79.39026360217179,
+      "num_app": "22 139888 STE 11 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=3qJcoNF9wInjBOl1T27wPg%3D%3D",
+      "desc": "Site Plan Approval for a 19-storey mixed-use building having a non-residential gross floor area of 1569 square metres, and a residential gross floor area of 10,189 square metres.  143 residential dwelling units are proposed."
+    },
+    {
+      "num": "509",
+      "street": "PARLIAMENT",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.66293140434111,
+      "lng": -79.36818957940538,
+      "num_app": "23 124360 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0WGhBxHhcGH3xcQPUBnWXw%3D%3D",
+      "desc": "Zoning By-law Amendment law to permit the development of site for a 10-storey mixed-use building (38.6 metres) with retail at-grade (278 square metres) and 60 dwelling units. The western (Parliament Street) elevation of the existing 1½ storey listed heritage building at 509 Parliament Street is proposed to be retained. The proposal has been revised and removed the property at 505 Parliament Street from the original development proposal."
+    },
+    {
+      "num": "21",
+      "street": "PARK",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.588380165643684,
+      "lng": -79.53050521852778,
+      "num_app": "23 134668 WET 03 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=U2DNBK8JG96LLKjEv%2BZieA%3D%3D",
+      "desc": "The proposed Official Plan Amendment, Zoning By-law Amendment, Draft Plan of Subdivision and Rental Housing Demolition and Conversion applications would provide for the phased demolition of the five existing 7-storey rental apartment buildings on the subject site, and would allow for the construction of a total of five new residential apartment buildings with heights ranging from 12 to 30 storeys, including two rental buildings and three condominium buildings."
+    },
+    {
+      "num": "31",
+      "street": "PARK",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.58815983275745,
+      "lng": -79.53157588988955,
+      "num_app": "23 134668 WET 03 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=U2DNBK8JG96LLKjEv%2BZieA%3D%3D",
+      "desc": "The proposed Official Plan Amendment, Zoning By-law Amendment, Draft Plan of Subdivision and Rental Housing Demolition and Conversion applications would provide for the phased demolition of the five existing 7-storey rental apartment buildings on the subject site, and would allow for the construction of a total of five new residential apartment buildings with heights ranging from 12 to 30 storeys, including two rental buildings and three condominium buildings."
+    },
+    {
+      "num": "21",
+      "street": "PARK",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.588380165643684,
+      "lng": -79.53050521852778,
+      "num_app": "23 134682 WET 03 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=v7cjusrJEBoIES3BQtsAKQ%3D%3D",
+      "desc": "Draft Plan of Subdivision, 2 lots."
+    },
+    {
+      "num": "31",
+      "street": "PARK",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.58815983275745,
+      "lng": -79.53157588988955,
+      "num_app": "23 134682 WET 03 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=v7cjusrJEBoIES3BQtsAKQ%3D%3D",
+      "desc": "Draft Plan of Subdivision, 2 lots."
+    },
+    {
+      "num": "126",
+      "street": "PARLIAMENT",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.65185467622255,
+      "lng": -79.36423149034141,
+      "num_app": "23 188919 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=pepmEzxUi%2FxAp2izmU68TQ%3D%3D",
+      "desc": "Site Plan Application for a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
+    },
+    {
+      "num": "128",
+      "street": "PARLIAMENT",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.65189788680808,
+      "lng": -79.36423466579079,
+      "num_app": "23 188919 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=pepmEzxUi%2FxAp2izmU68TQ%3D%3D",
+      "desc": "Site Plan Application for a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
+    },
+    {
+      "num": "130",
+      "street": "PARLIAMENT",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.65194821519666,
+      "lng": -79.36425862730233,
+      "num_app": "23 188919 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=pepmEzxUi%2FxAp2izmU68TQ%3D%3D",
+      "desc": "Site Plan Application for a 46 storey (156.3 metres including mechanical penthouse) mixed-use building with 419 dwelling units and 328 square metres of commercial uses at grade."
+    },
+    {
+      "num": "2575",
+      "street": "PHARMACY",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.791850092882335,
+      "lng": -79.32498957684469,
+      "num_app": "22 230896 ESC 22 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=fUUjjI4NvSMiTWcjRn%2FHjg%3D%3D",
+      "desc": "Proposal to permit a 3-storey (or 19.5 metres inclusive of the mechanical penthouse) place of worship building with an ancillary day nursery, as well as a 25-storey (or 84.5metres inclusive of the mechanical penthouse) residential building at 2575 Pharmacy Avenue and part of 100 Sprucewood Court. Overall, the proposal would introduce a total gross floor area of 22,800 square metres and would contain 321 new dwelling units, 299 vehicular parking spaces, and 350 bicycle parking spaces."
     }
   ]
 }
