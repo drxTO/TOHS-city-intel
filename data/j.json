@@ -20250,237 +20250,6 @@
   ],
   "pdn": [
     {
-      "num": "156",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.64729055932411,
-      "lng": -79.39147548155461,
-      "num_app": "26 134340 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=T%2BefnY7GcuhpX1Fx9hYIIQ%3D%3D",
-      "desc": "Proposed change of use from office to a hotel occupancy with ground floor modifications."
-    },
-    {
-      "num": "115",
-      "street": "JARVIS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.650787055020565,
-      "lng": -79.37251093544944,
-      "num_app": "25 255087 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=NNL%2B5SYrzK7Tj9SE5A1CQA%3D%3D",
-      "desc": "Zoning By-law Amendment to permit a proposed 50-storey (164.5 metre) tall mixed-use building containing 596 residential units, 105 square metres of retail space at grade and 4 levels of underground parking for 142 vehicles. The proposed gross floor area is is 37,301 square metres and the floor space index is 18.1."
-    },
-    {
-      "num": "1771-1773",
-      "street": "JANE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.703560472907355,
-      "lng": -79.50442360303605,
-      "num_app": "26 127882 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=LuNiM0vM%2BK4SlXOeJgFWng%3D%3D",
-      "desc": "Proposed construction of two 12-storey mixed-use buildings in the north and south ends of the subject site. The 14-storey building, inclusive of its ground floor non-residential component, will be retained."
-    },
-    {
-      "num": "5",
-      "street": "JOPLING",
-      "type": "AVE",
-      "dir": "S",
-      "lat": 43.638297063915466,
-      "lng": -79.5391810947224,
-      "num_app": "23 138662 WET 03 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=uXpLr3tWjBKrXJKbGt47Pw%3D%3D",
-      "desc": "The Site Plan Control application is proposing a 39-storey residential building with 436 dwelling units, a total gross floor area of 25017 square metres, resulting in a floor space index of 17.3 times the lot area, 25 parking spaces are proposed in one level of underground garage, including 19 for Residential and 6 for visitor."
-    },
-    {
-      "num": "21",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.699060306575866,
-      "lng": -79.51723715628124,
-      "num_app": "22 218732 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AQFh%2FwqP%2FLjFE5YF5it0Lw%3D%3D",
-      "desc": "Proposal to construct a new 42 storey mixed-use building with commercial uses at grade."
-    },
-    {
-      "num": "1",
-      "street": "JEFFERSON",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.633606411266136,
-      "lng": -79.42067132679603,
-      "num_app": "23 154398 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=6j4WAj5FOzrBH4AhM4s3uQ%3D%3D",
-      "desc": "Ontario Line Exhibition Station"
-    },
-    {
-      "num": "13",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.69874688334168,
-      "lng": -79.51750919275975,
-      "num_app": "23 137642 WET 05 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
-      "desc": ""
-    },
-    {
-      "num": "15",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.64223677414042,
-      "lng": -79.38876534845329,
-      "num_app": "23 137642 WET 05 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
-      "desc": ""
-    },
-    {
-      "num": "17",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.698865359311675,
-      "lng": -79.51744874496394,
-      "num_app": "23 137642 WET 05 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
-      "desc": ""
-    },
-    {
-      "num": "17",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.642320408413,
-      "lng": -79.38880434987199,
-      "num_app": "23 137642 WET 05 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
-      "desc": ""
-    },
-    {
-      "num": "19",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.69891631993793,
-      "lng": -79.51742250731225,
-      "num_app": "23 137642 WET 05 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
-      "desc": ""
-    },
-    {
-      "num": "295",
-      "street": "JARVIS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.6567030590944,
-      "lng": -79.37498299008588,
-      "num_app": "22 229719 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1D6hQf1Sw0kpNNoD3JwNoQ%3D%3D",
-      "desc": "Proposal to facilitate the redevelopment of the site with a 60-storey residential building with a 9-storey podium along Jarvis Street. Overall, the proposal consists of a total of 44,530 square metres of gross floor area. The proposed building will contain a total of 618 dwelling units."
-    },
-    {
-      "num": "295",
-      "street": "JARVIS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.6567030590944,
-      "lng": -79.37498299008588,
-      "num_app": "22 229720 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=xw5l%2Fj79i30sVf9vOp273A%3D%3D",
-      "desc": "Proposal to facilitate the redevelopment of the site with a 36-storey residential building containing a total of 414 dwelling units (33 replacement rental units and 381 new units)."
-    },
-    {
-      "num": "561",
-      "street": "JARVIS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.666159298520185,
-      "lng": -79.37888159189265,
-      "num_app": "22 185924 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=xc%2BtfyvcCtvMzVys5AdOhg%3D%3D",
-      "desc": "Proposal to facilitate the redevelopment of the subject site (currently occupied by a 4-storey residential building and townhouses) with a 58-storey residential building. The building would consist of a 4- to 9-storey pedestrian scale podium element and an architecturally distinctive 49-storey tower element containing 818 residential dwelling units (including 31 rental replacement units). A total gross floor area of 43,300 square metres is proposed, comprised of 43,203.2 square metres of residential gross floor area and 96.8 square metres of retail gross floor area."
-    },
-    {
-      "num": "561",
-      "street": "JARVIS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.666159298520185,
-      "lng": -79.37888159189265,
-      "num_app": "22 185925 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qdEN58vxP4ApZS%2FcWsFTTg%3D%3D",
-      "desc": "Proposal to facilitate the redevelopment of the subject site (currently occupied by a 4-storey residential building and townhouses) with a 58-storey residential building. The building would consist of a 4- to 9-storey podium element and 49-storey tower element containing 680 residential dwelling units (including 31 rental replacement units). A total gross floor area of 42658 square metres is proposed, comprising 42986 square metres of residential gross floor area and 327 square metres of retail gross floor area, resulting in an overall density equivalent to 23.25 times the area of the subject site."
-    },
-    {
-      "num": "440",
-      "street": "JARVIS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.66336361984024,
-      "lng": -79.37875705726597,
-      "num_app": "25 187527 STE 13 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7aG2rMJO2xzTxH1l2FFmqg%3D%3D",
-      "desc": "Combined Official Plan & Zoning By-law Amendment for a 56-storey mixed-use building. The proposed building contains a total of 579 dwelling units, of which 36 are rental replacement units, and a total of approximately 4,739 square metres of institutional space for the Garry Hurvitz Centre for Community Mental Health at SickKids located in 440 Jarvis Street."
-    },
-    {
-      "num": "2090",
-      "street": "JANE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.71625556417951,
-      "lng": -79.50874220940572,
-      "num_app": "25 191688 WET 07 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZA5j0md8DOx37clOthczPQ%3D%3D",
-      "desc": "Proposed is 959.94m2 of Retail (Grocery) and 875.6m2 of Restaurant, occupying a total existing building area of 2018m2."
-    },
-    {
-      "num": "55",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.64395899510066,
-      "lng": -79.38913044784043,
-      "num_app": "25 148717 STE 10 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VTJukOq7qZHuY1BuWn%2BILA%3D%3D",
-      "desc": "Site Plan Approval for the relocation of Toronto Fire and Emergency Service Station 332 to the south side of Metro Hall."
-    },
-    {
-      "num": "21",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.699060306575866,
-      "lng": -79.51723715628124,
-      "num_app": "23 137642 WET 05 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
-      "desc": ""
-    },
-    {
-      "num": "8",
-      "street": "JANE OSLER",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.72253375323406,
-      "lng": -79.45809389893871,
-      "num_app": "22 191093 NNY 08 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0elBopUhS32WU4tUXmmusA%3D%3D",
-      "desc": "Proposal for mixed use development of two 29-storey high-rise buildings Building A  with 388 Units and Building B with 381 units and one 10-storey mid-rise Building C with 75 units, resulting in a total of 834 residential units. The total proposed residential floor area is 59,444 m2, and non-residential floor area is 1,365 m2."
-    },
-    {
-      "num": "8",
-      "street": "JANE OSLER",
-      "type": "BLVD",
-      "dir": "",
-      "lat": 43.72253375323406,
-      "lng": -79.45809389893871,
-      "num_app": "22 191094 NNY 08 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=8yLucyPiEiFXmFAqCarrWg%3D%3D",
-      "desc": "Official plan amendment and Rezoning to allow the development of two 29-storey high-rise buildings Building A  with 388 Units and Building B with 381 units and one 10-storey mid-rise Building C with 75 units, resulting in a total of 834 residential units. The total proposed residential floor area is 59,444 m2, and non-residential floor area is 1,365 m2."
-    },
-    {
       "num": "7",
       "street": "JOPLING",
       "type": "AVE",
@@ -20501,39 +20270,6 @@
       "num_app": "23 138662 WET 03 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=uXpLr3tWjBKrXJKbGt47Pw%3D%3D",
       "desc": "The Site Plan Control application is proposing a 39-storey residential building with 436 dwelling units, a total gross floor area of 25017 square metres, resulting in a floor space index of 17.3 times the lot area, 25 parking spaces are proposed in one level of underground garage, including 19 for Residential and 6 for visitor."
-    },
-    {
-      "num": "49",
-      "street": "JACKES",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.68316639631289,
-      "lng": -79.39060263733887,
-      "num_app": "21 230439 STE 11 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7uiUSdGc6DXTSVBMSlm46Q%3D%3D",
-      "desc": "Site plan approval for a  19-storey residential building. Related Zoning By-law Amendment application approved at the Ontario Land Tribunal on November 26, 2024, final order pending fulfillment of conditions."
-    },
-    {
-      "num": "43",
-      "street": "JUNCTION",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.665787422440935,
-      "lng": -79.46478171358264,
-      "num_app": "24 229283 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=UlPHs0tRI4WV%2FdVp43pCjg%3D%3D",
-      "desc": "This proposal for an Official Plan Amendment  to reduce the employment gross floor area and modify the affordable housing provisions required by SASP 782 to allow for the proposed development submitted through the Zoning By-law Amendment application (file no. 21 182017 WET 05 OZ) to proceed."
-    },
-    {
-      "num": "5",
-      "street": "JUNCTION",
-      "type": "RD",
-      "dir": "",
-      "lat": 43.66635912028366,
-      "lng": -79.46205654588846,
-      "num_app": "24 229283 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=UlPHs0tRI4WV%2FdVp43pCjg%3D%3D",
-      "desc": "This proposal for an Official Plan Amendment  to reduce the employment gross floor area and modify the affordable housing provisions required by SASP 782 to allow for the proposed development submitted through the Zoning By-law Amendment application (file no. 21 182017 WET 05 OZ) to proceed."
     },
     {
       "num": "160",
@@ -20558,61 +20294,6 @@
       "desc": "The proposal seeks to demolish all existing above grade structures on the subject property and construct six new channel gasoline retail pump islands with canopy, a new combination convenience store and quick serve restaurant with a drive-through."
     },
     {
-      "num": "1747-1755",
-      "street": "JANE",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.7028526598341,
-      "lng": -79.50423088822394,
-      "num_app": "26 127882 WET 05 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=LuNiM0vM%2BK4SlXOeJgFWng%3D%3D",
-      "desc": "Proposed construction of two 12-storey mixed-use buildings in the north and south ends of the subject site. The 14-storey building, inclusive of its ground floor non-residential component, will be retained."
-    },
-    {
-      "num": "209",
-      "street": "JARVIS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.65364114981676,
-      "lng": -79.37401000479151,
-      "num_app": "26 136937 STE 13 OZ",
-      "url": "",
-      "desc": "Proposed 32-storey mixed-use building, containing 315 rental dwelling units, 377.0 sq. m. of non-residential gross floor area and 22,153.0 sq.m of residential GFA, resulting in a Floor Space Index of approximately 13.2."
-    },
-    {
-      "num": "219",
-      "street": "JARVIS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.65396809050061,
-      "lng": -79.37410825228868,
-      "num_app": "26 136937 STE 13 OZ",
-      "url": "",
-      "desc": "Proposed 32-storey mixed-use building, containing 315 rental dwelling units, 377.0 sq. m. of non-residential gross floor area and 22,153.0 sq.m of residential GFA, resulting in a Floor Space Index of approximately 13.2."
-    },
-    {
-      "num": "207",
-      "street": "JARVIS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.6535867238552,
-      "lng": -79.37399059284094,
-      "num_app": "26 136937 STE 13 OZ",
-      "url": "",
-      "desc": "Proposed 32-storey mixed-use building, containing 315 rental dwelling units, 377.0 sq. m. of non-residential gross floor area and 22,153.0 sq.m of residential GFA, resulting in a Floor Space Index of approximately 13.2."
-    },
-    {
-      "num": "440",
-      "street": "JARVIS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.66336361984024,
-      "lng": -79.37875705726597,
-      "num_app": "25 228933 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=MDwUKJWQAa9zG6NjJqlQiA%3D%3D",
-      "desc": "Site Plan Approval for a 56-storey mixed-use building. The proposed building contains a total of 579 dwelling units, of which 36 are rental replacement units, and a total of approximately 4,739 square metres of institutional space for the Sick Kids Centre for Community Mental Health located in 440 Jarvis Street."
-    },
-    {
       "num": "11",
       "street": "JOHNSTON",
       "type": "AVE",
@@ -20624,37 +20305,81 @@
       "desc": "OPA & Rezoning Application proposes the development of a 48-storey mixed-use building providing residential and commercial use at grade. The building will provide a total of 479 residential units, being a mix of 1-bedroom, 2-bedroom, and 3-bedroom units. The building will also provide retail at grade. A paved access from Johston Ave along the east property line will be provided, leading to 2 levels of below-grade parking, providing a total of 51 parking spaces; as well as 208 bicycle parking spaces. The proposed development provides a total GFA of 37,521.90 square metres and a FSI of 20.80. Additionally, the proposed development provides 1,050.90 square metres of indoor amenity space and 525.90 square metres of outdoor amenity space."
     },
     {
-      "num": "17",
-      "street": "JOHNSTON",
-      "type": "AVE",
+      "num": "55",
+      "street": "JOHN",
+      "type": "ST",
       "dir": "",
-      "lat": 43.756522075346744,
-      "lng": -79.41149030571025,
-      "num_app": "26 114386 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5PzRPshrYA7Sxgn87hh4%2Fg%3D%3D",
-      "desc": "OPA & Rezoning Application proposes the development of a 48-storey mixed-use building providing residential and commercial use at grade. The building will provide a total of 479 residential units, being a mix of 1-bedroom, 2-bedroom, and 3-bedroom units. The building will also provide retail at grade. A paved access from Johston Ave along the east property line will be provided, leading to 2 levels of below-grade parking, providing a total of 51 parking spaces; as well as 208 bicycle parking spaces. The proposed development provides a total GFA of 37,521.90 square metres and a FSI of 20.80. Additionally, the proposed development provides 1,050.90 square metres of indoor amenity space and 525.90 square metres of outdoor amenity space."
+      "lat": 43.64395899510066,
+      "lng": -79.38913044784043,
+      "num_app": "25 148717 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=VTJukOq7qZHuY1BuWn%2BILA%3D%3D",
+      "desc": "Site Plan Approval for the relocation of Toronto Fire and Emergency Service Station 332 to the south side of Metro Hall."
     },
     {
-      "num": "21",
-      "street": "JOHNSTON",
-      "type": "AVE",
+      "num": "1771-1773",
+      "street": "JANE",
+      "type": "ST",
       "dir": "",
-      "lat": 43.75647845779376,
-      "lng": -79.41166810381858,
-      "num_app": "26 114386 NNY 18 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5PzRPshrYA7Sxgn87hh4%2Fg%3D%3D",
-      "desc": "OPA & Rezoning Application proposes the development of a 48-storey mixed-use building providing residential and commercial use at grade. The building will provide a total of 479 residential units, being a mix of 1-bedroom, 2-bedroom, and 3-bedroom units. The building will also provide retail at grade. A paved access from Johston Ave along the east property line will be provided, leading to 2 levels of below-grade parking, providing a total of 51 parking spaces; as well as 208 bicycle parking spaces. The proposed development provides a total GFA of 37,521.90 square metres and a FSI of 20.80. Additionally, the proposed development provides 1,050.90 square metres of indoor amenity space and 525.90 square metres of outdoor amenity space."
+      "lat": 43.703560472907355,
+      "lng": -79.50442360303605,
+      "num_app": "26 127882 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=LuNiM0vM%2BK4SlXOeJgFWng%3D%3D",
+      "desc": "Proposed construction of two 12-storey mixed-use buildings in the north and south ends of the subject site. The 14-storey building, inclusive of its ground floor non-residential component, will be retained."
     },
     {
-      "num": "217",
+      "num": "440",
       "street": "JARVIS",
       "type": "ST",
       "dir": "",
-      "lat": 43.65390506333683,
-      "lng": -79.37408441986148,
-      "num_app": "26 136937 STE 13 OZ",
-      "url": "",
-      "desc": "Proposed 32-storey mixed-use building, containing 315 rental dwelling units, 377.0 sq. m. of non-residential gross floor area and 22,153.0 sq.m of residential GFA, resulting in a Floor Space Index of approximately 13.2."
+      "lat": 43.66336361984024,
+      "lng": -79.37875705726597,
+      "num_app": "25 187527 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7aG2rMJO2xzTxH1l2FFmqg%3D%3D",
+      "desc": "Combined Official Plan & Zoning By-law Amendment for a 56-storey mixed-use building. The proposed building contains a total of 579 dwelling units, of which 36 are rental replacement units, and a total of approximately 4,739 square metres of institutional space for the Garry Hurvitz Centre for Community Mental Health at SickKids located in 440 Jarvis Street."
+    },
+    {
+      "num": "2090",
+      "street": "JANE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.71625556417951,
+      "lng": -79.50874220940572,
+      "num_app": "25 191688 WET 07 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=ZA5j0md8DOx37clOthczPQ%3D%3D",
+      "desc": "Proposed is 959.94m2 of Retail (Grocery) and 875.6m2 of Restaurant, occupying a total existing building area of 2018m2."
+    },
+    {
+      "num": "156",
+      "street": "JOHN",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.64729055932411,
+      "lng": -79.39147548155461,
+      "num_app": "26 134340 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=T%2BefnY7GcuhpX1Fx9hYIIQ%3D%3D",
+      "desc": "Proposed change of use from office to a hotel occupancy with ground floor modifications."
+    },
+    {
+      "num": "115",
+      "street": "JARVIS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.650787055020565,
+      "lng": -79.37251093544944,
+      "num_app": "25 255087 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=NNL%2B5SYrzK7Tj9SE5A1CQA%3D%3D",
+      "desc": "Zoning By-law Amendment to permit a proposed 50-storey (164.5 metre) tall mixed-use building containing 596 residential units, 105 square metres of retail space at grade and 4 levels of underground parking for 142 vehicles. The proposed gross floor area is is 37,301 square metres and the floor space index is 18.1."
+    },
+    {
+      "num": "132",
+      "street": "JOHN",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.64659803301502,
+      "lng": -79.39115205612276,
+      "num_app": "19 144266 STE 10 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=lggiXgAXOQNXtaNdubNH1A%3D%3D",
+      "desc": "Zoning By-law Amendment application to permit a mixed-use development including two buildings, 37 and 42 storeys in height (131.0 metres and 145.2 metres, respectively, including mechanical penthouses). Proposed uses include two levels of retail, seven levels of office space, a daycare, the replacement of the existing movie theatre, an on-site publicly accessible privately owned open space and 693 residential units. The total gross floor area proposed is 80,334m2, consisting of 49,983m2 of residential floor area, and 30,351m2 of non-residential floor area.  Two levels of below grade parking are proposed with 231 vehicle and 829 bicycle parking spaces. (Enacted as by-law 949-2022. Third-party appeal received.)"
     },
     {
       "num": "2775",
@@ -20677,17 +20402,6 @@
       "num_app": "24 251930 WET 07 CD",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=CaH2%2BJXT3TBVnJlpKb%2FGPg%3D%3D",
       "desc": ""
-    },
-    {
-      "num": "132",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.64659803301502,
-      "lng": -79.39115205612276,
-      "num_app": "19 144266 STE 10 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=lggiXgAXOQNXtaNdubNH1A%3D%3D",
-      "desc": "Zoning By-law Amendment application to permit a mixed-use development including two buildings, 37 and 42 storeys in height (131.0 metres and 145.2 metres, respectively, including mechanical penthouses). Proposed uses include two levels of retail, seven levels of office space, a daycare, the replacement of the existing movie theatre, an on-site publicly accessible privately owned open space and 693 residential units. The total gross floor area proposed is 80,334m2, consisting of 49,983m2 of residential floor area, and 30,351m2 of non-residential floor area.  Two levels of below grade parking are proposed with 231 vehicle and 829 bicycle parking spaces. (Enacted as by-law 949-2022. Third-party appeal received.)"
     },
     {
       "num": "55",
@@ -20767,6 +20481,17 @@
       "desc": "Proposal to demolish the existing Salvation Army thrift store and vehicle service garage building to accommodate a new Shoppers Drug Mart building (Retail B), with a GFA of approximately 1,579 sq. m."
     },
     {
+      "num": "2029",
+      "street": "JANE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.71344296105264,
+      "lng": -79.50698559008904,
+      "num_app": "15 182645 WET 12 SA",
+      "url": "",
+      "desc": "AMENDMENT TO EXISTING SITE PLAN AGREEMENT to modify existing drive-thru configuration and parking for an existing restaurant.  A reduction in parking on site is proposed."
+    },
+    {
       "num": "49",
       "street": "JUDSON",
       "type": "ST",
@@ -20800,15 +20525,15 @@
       "desc": "Proposed mix of residential townhouses and low-rise employment uses. The proposal includes three blocks of 4-storey residential townhouse units along the south side of Judson Street, containing a total of 72 units, and two blocks of 3-storey commercial condominium units on the southerly portion of the site, containing a total of 28 units."
     },
     {
-      "num": "2029",
-      "street": "JANE",
+      "num": "86",
+      "street": "JOHN",
       "type": "ST",
       "dir": "",
-      "lat": 43.71344296105264,
-      "lng": -79.50698559008904,
-      "num_app": "15 182645 WET 12 SA",
-      "url": "",
-      "desc": "AMENDMENT TO EXISTING SITE PLAN AGREEMENT to modify existing drive-thru configuration and parking for an existing restaurant.  A reduction in parking on site is proposed."
+      "lat": 43.64484736687336,
+      "lng": -79.39056221673525,
+      "num_app": "16 189275 STE 20 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Ns7SA1uzTKI6bFy%2BixxhEg%3D%3D",
+      "desc": "INACTIVE Site Plan Application for a 10-storey mixed-use building with a restaurant at grade and 14 residential units above. The development does not include any vehicular parking, but includes 2 short-term and 13 long-term bicycle parking spaces. Associated variances were approved by the Committee of Adjustment (File No. A0715/18TEY)."
     },
     {
       "num": "280",
@@ -20855,17 +20580,6 @@
       "desc": "Proposal for a 10-storey building fronting onto Jarvis Street connected to a 25-storey tower fronting onto Mutual Street. A total of 256 residential units are proposed. There are existing heritage buildings on site that are proposed to be shifted and inetgrated into the proposal."
     },
     {
-      "num": "86",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.64484736687336,
-      "lng": -79.39056221673525,
-      "num_app": "16 189275 STE 20 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Ns7SA1uzTKI6bFy%2BixxhEg%3D%3D",
-      "desc": "INACTIVE Site Plan Application for a 10-storey mixed-use building with a restaurant at grade and 14 residential units above. The development does not include any vehicular parking, but includes 2 short-term and 13 long-term bicycle parking spaces. Associated variances were approved by the Committee of Adjustment (File No. A0715/18TEY)."
-    },
-    {
       "num": "1683",
       "street": "JANE",
       "type": "ST",
@@ -20875,6 +20589,17 @@
       "num_app": "19 130611 WET 05 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=xyh4cSE4oFYk4DQ%2Fj%2FPChg%3D%3D",
       "desc": "Site Plan Control application to permit the construction of a gas station with a retail kiosk. The application proposes a partial demolition of the existing 2-storey building and construction of the retail kiosk with a gross floor area of 232 m². The gas station will provide four vehicle pumping fuel stations covered by a canopy. A total of six parking spaces will be provided."
+    },
+    {
+      "num": "702",
+      "street": "JANE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.66683080078621,
+      "lng": -79.49314974532217,
+      "num_app": "19 253732 WET 05 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Tt4ChvsyDelUYiCA8EvA6Q%3D%3D",
+      "desc": "INACTIVE To legalize an existing 1-storey brick structure into Place of Worship. The existing building was originally a Veterans Hall but later converted into a Place of Worship by Faith Mission Church."
     },
     {
       "num": "126",
@@ -20899,15 +20624,15 @@
       "desc": "Zoning By-law Amendment application to permit a mixed-use development including two buildings, 37 and 42 storeys in height (131.0 metres and 145.2 metres, respectively, including mechanical penthouses). Proposed uses include two levels of retail, seven levels of office space, a daycare, the replacement of the existing movie theatre, an on-site publicly accessible privately owned open space and 693 residential units. The total gross floor area proposed is 80,334m2, consisting of 49,983m2 of residential floor area, and 30,351m2 of non-residential floor area.  Two levels of below grade parking are proposed with 231 vehicle and 829 bicycle parking spaces. (Enacted as by-law 949-2022. Third-party appeal received.)"
     },
     {
-      "num": "702",
-      "street": "JANE",
+      "num": "225",
+      "street": "JARVIS",
       "type": "ST",
       "dir": "",
-      "lat": 43.66683080078621,
-      "lng": -79.49314974532217,
-      "num_app": "19 253732 WET 05 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=Tt4ChvsyDelUYiCA8EvA6Q%3D%3D",
-      "desc": "INACTIVE To legalize an existing 1-storey brick structure into Place of Worship. The existing building was originally a Veterans Hall but later converted into a Place of Worship by Faith Mission Church."
+      "lat": 43.65426789778023,
+      "lng": -79.37399942117266,
+      "num_app": "20 207326 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=YB5POemU41d6bPwHZccNuw%3D%3D",
+      "desc": "Proposal for a 49-storey mixed-use building comprised of 215 hotel suites, 580 residential dwelling units, and ground floor non-residential uses.  The total residential gross floor area is 42,780 square metres, and the total non-residential gross floor area is 13,095 square metres."
     },
     {
       "num": "202",
@@ -20919,17 +20644,6 @@
       "num_app": "20 198309 STE 13 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=TGzSdnGAqJVtLzNWncTJnA%3D%3D",
       "desc": "INACTIVE Site Plan Control application for a  44-storey (plus mechanical) development comprised of a 13-storey institutional base building (plus mechanical) which accommodates instructional space, research space, departmental offices, and student food services, with retail and institutional service use at grade, above which a 44-storey tower hosts a Ryerson University owned and operated student residence. The development totals 52,502 m2 of gross floor area, including 35,569 m2 of post-secondary institutional uses, 16,765 m2 of institutional student residence uses, and 168 m2 of retail uses. There are 2,848 m2 of indoor amenity uses.."
-    },
-    {
-      "num": "225",
-      "street": "JARVIS",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.65426789778023,
-      "lng": -79.37399942117266,
-      "num_app": "20 207326 STE 13 SA",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=YB5POemU41d6bPwHZccNuw%3D%3D",
-      "desc": "Proposal for a 49-storey mixed-use building comprised of 215 hotel suites, 580 residential dwelling units, and ground floor non-residential uses.  The total residential gross floor area is 42,780 square metres, and the total non-residential gross floor area is 13,095 square metres."
     },
     {
       "num": "692",
@@ -20954,26 +20668,15 @@
       "desc": "INACTIVE To legalize an existing 1-storey brick structure into Place of Worship. The existing building was originally a Veterans Hall but later converted into a Place of Worship by Faith Mission Church."
     },
     {
-      "num": "132",
-      "street": "JOHN",
-      "type": "ST",
+      "num": "49",
+      "street": "JACKES",
+      "type": "AVE",
       "dir": "",
-      "lat": 43.64659803301502,
-      "lng": -79.39115205612276,
-      "num_app": "21 184321 STE 10 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BbgQp70tXoJXc8mPE1rOjg%3D%3D",
-      "desc": ""
-    },
-    {
-      "num": "142",
-      "street": "JOHN",
-      "type": "ST",
-      "dir": "",
-      "lat": 43.64680593138643,
-      "lng": -79.39123862553998,
-      "num_app": "21 184321 STE 10 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BbgQp70tXoJXc8mPE1rOjg%3D%3D",
-      "desc": ""
+      "lat": 43.68316639631289,
+      "lng": -79.39060263733887,
+      "num_app": "20 226916 STE 11 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=nDTSDkpx54gG1QfbotD2gw%3D%3D",
+      "desc": "Official Plan and Zoning By-law Amendment application appealed to the Ontario Land Tribunal (Case No. OLT-21-001809). OLT approved (final order pending fulfillment of conditions) a 19-storey residential building. The Official Plan Amendment is required to permit a tall building on the site within the Yonge and St.Clair Secondary Plan."
     },
     {
       "num": "126",
@@ -20985,17 +20688,6 @@
       "num_app": "21 184321 STE 10 SB",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BbgQp70tXoJXc8mPE1rOjg%3D%3D",
       "desc": ""
-    },
-    {
-      "num": "49",
-      "street": "JACKES",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.68316639631289,
-      "lng": -79.39060263733887,
-      "num_app": "20 226916 STE 11 OZ",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=nDTSDkpx54gG1QfbotD2gw%3D%3D",
-      "desc": "Official Plan and Zoning By-law Amendment application appealed to the Ontario Land Tribunal (Case No. OLT-21-001809). OLT approved (final order pending fulfillment of conditions) a 19-storey residential building. The Official Plan Amendment is required to permit a tall building on the site within the Yonge and St.Clair Secondary Plan."
     },
     {
       "num": "43",
@@ -21064,6 +20756,28 @@
       "desc": "Proposed Zoning By-law amendment re-submission to allow the redevelopment of the site with a 40-storey mixed-use building with a total height of 132.5 metres. The application proposes commercial uses within the ground floor and 459 residential units above. The existing heritage buildings at 241 Richmond St W and 133 John St are proposed to be retained and integrated into the development.  Site access is proposed off Nelson St."
     },
     {
+      "num": "132",
+      "street": "JOHN",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.64659803301502,
+      "lng": -79.39115205612276,
+      "num_app": "21 184321 STE 10 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BbgQp70tXoJXc8mPE1rOjg%3D%3D",
+      "desc": ""
+    },
+    {
+      "num": "142",
+      "street": "JOHN",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.64680593138643,
+      "lng": -79.39123862553998,
+      "num_app": "21 184321 STE 10 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=BbgQp70tXoJXc8mPE1rOjg%3D%3D",
+      "desc": ""
+    },
+    {
       "num": "28",
       "street": "JOPLING",
       "type": "AVE",
@@ -21073,17 +20787,6 @@
       "num_app": "21 226413 WET 03 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=NHs3gPhKSazWfX8zYpThQA%3D%3D",
       "desc": "Site Plan Control application for a 41 storey mixed-use residential building, comprised of 521 residential units, 421 square metres of at-grade commercial space and a 300 square metre off-site parkland dedication."
-    },
-    {
-      "num": "49",
-      "street": "JACKES",
-      "type": "AVE",
-      "dir": "",
-      "lat": 43.68316639631289,
-      "lng": -79.39060263733887,
-      "num_app": "21 234392 STE 11 CD",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=3M9Z80PlEDE6ncPmn%2FYbvQ%3D%3D",
-      "desc": "*** Draft Plan of Condominium for 217 units."
     },
     {
       "num": "5000",
@@ -21106,6 +20809,17 @@
       "num_app": "22 140023 WET 07 OZ",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=DhRyGT4ki6RjajLIUMCg6A%3D%3D",
       "desc": "Zoning By-law Amendment (22 140023 WET 07 OZ) and Site Plan Control (22 140022 WET 07 SA) applications to facilitate an infill development. The applicant is proposing three new towers, measuring 35-storeys, 45-storeys, and 45-storeys. All three tower sit above an eight-storey podium. The proposed development, includes 1,621 new dwelling units, gross floor area of 109,193 square metres resulting in a density of 2.64 floor space index. The proposal would contain a total of 722 Parking spaces located within an underground garage. The three existing buildings on the subject site - two apartment buildings, measuring a 14 storeys and 17 storeys and a 2-storey comercial/amenity building - are proposed to be retained."
+    },
+    {
+      "num": "49",
+      "street": "JACKES",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.68316639631289,
+      "lng": -79.39060263733887,
+      "num_app": "21 234392 STE 11 CD",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=3M9Z80PlEDE6ncPmn%2FYbvQ%3D%3D",
+      "desc": "*** Draft Plan of Condominium for 217 units."
     },
     {
       "num": "133",
@@ -21216,6 +20930,292 @@
       "num_app": "22 139720 WET 03 SA",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=XTaALifT9mcd56ZkqN5sRg%3D%3D",
       "desc": "Site Plan Control application proposing a mixed-use development consisting of a 29- and 38- storey towers connected by a six-storey base building to be constructed in two phases. A development is comprised of 746 dwelling units, 461 square metres of commercial space and 478 square metres of community agency space. A total of 379 parking spaces, including two pick-up and drop-off parking spaces are also proposed"
+    },
+    {
+      "num": "8",
+      "street": "JANE OSLER",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.72253375323406,
+      "lng": -79.45809389893871,
+      "num_app": "22 191093 NNY 08 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=0elBopUhS32WU4tUXmmusA%3D%3D",
+      "desc": "Proposal for mixed use development of two 29-storey high-rise buildings Building A  with 388 Units and Building B with 381 units and one 10-storey mid-rise Building C with 75 units, resulting in a total of 834 residential units. The total proposed residential floor area is 59,444 m2, and non-residential floor area is 1,365 m2."
+    },
+    {
+      "num": "8",
+      "street": "JANE OSLER",
+      "type": "BLVD",
+      "dir": "",
+      "lat": 43.72253375323406,
+      "lng": -79.45809389893871,
+      "num_app": "22 191094 NNY 08 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=8yLucyPiEiFXmFAqCarrWg%3D%3D",
+      "desc": "Official plan amendment and Rezoning to allow the development of two 29-storey high-rise buildings Building A  with 388 Units and Building B with 381 units and one 10-storey mid-rise Building C with 75 units, resulting in a total of 834 residential units. The total proposed residential floor area is 59,444 m2, and non-residential floor area is 1,365 m2."
+    },
+    {
+      "num": "21",
+      "street": "JOHN",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.699060306575866,
+      "lng": -79.51723715628124,
+      "num_app": "23 137642 WET 05 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
+      "desc": ""
+    },
+    {
+      "num": "207",
+      "street": "JARVIS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.6535867238552,
+      "lng": -79.37399059284094,
+      "num_app": "26 136937 STE 13 OZ",
+      "url": "",
+      "desc": "Proposed 32-storey mixed-use building, containing 315 rental dwelling units, 377.0 sq. m. of non-residential gross floor area and 22,153.0 sq.m of residential GFA, resulting in a Floor Space Index of approximately 13.2."
+    },
+    {
+      "num": "17",
+      "street": "JOHNSTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.756522075346744,
+      "lng": -79.41149030571025,
+      "num_app": "26 114386 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5PzRPshrYA7Sxgn87hh4%2Fg%3D%3D",
+      "desc": "OPA & Rezoning Application proposes the development of a 48-storey mixed-use building providing residential and commercial use at grade. The building will provide a total of 479 residential units, being a mix of 1-bedroom, 2-bedroom, and 3-bedroom units. The building will also provide retail at grade. A paved access from Johston Ave along the east property line will be provided, leading to 2 levels of below-grade parking, providing a total of 51 parking spaces; as well as 208 bicycle parking spaces. The proposed development provides a total GFA of 37,521.90 square metres and a FSI of 20.80. Additionally, the proposed development provides 1,050.90 square metres of indoor amenity space and 525.90 square metres of outdoor amenity space."
+    },
+    {
+      "num": "21",
+      "street": "JOHNSTON",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.75647845779376,
+      "lng": -79.41166810381858,
+      "num_app": "26 114386 NNY 18 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=5PzRPshrYA7Sxgn87hh4%2Fg%3D%3D",
+      "desc": "OPA & Rezoning Application proposes the development of a 48-storey mixed-use building providing residential and commercial use at grade. The building will provide a total of 479 residential units, being a mix of 1-bedroom, 2-bedroom, and 3-bedroom units. The building will also provide retail at grade. A paved access from Johston Ave along the east property line will be provided, leading to 2 levels of below-grade parking, providing a total of 51 parking spaces; as well as 208 bicycle parking spaces. The proposed development provides a total GFA of 37,521.90 square metres and a FSI of 20.80. Additionally, the proposed development provides 1,050.90 square metres of indoor amenity space and 525.90 square metres of outdoor amenity space."
+    },
+    {
+      "num": "217",
+      "street": "JARVIS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.65390506333683,
+      "lng": -79.37408441986148,
+      "num_app": "26 136937 STE 13 OZ",
+      "url": "",
+      "desc": "Proposed 32-storey mixed-use building, containing 315 rental dwelling units, 377.0 sq. m. of non-residential gross floor area and 22,153.0 sq.m of residential GFA, resulting in a Floor Space Index of approximately 13.2."
+    },
+    {
+      "num": "1747-1755",
+      "street": "JANE",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.7028526598341,
+      "lng": -79.50423088822394,
+      "num_app": "26 127882 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=LuNiM0vM%2BK4SlXOeJgFWng%3D%3D",
+      "desc": "Proposed construction of two 12-storey mixed-use buildings in the north and south ends of the subject site. The 14-storey building, inclusive of its ground floor non-residential component, will be retained."
+    },
+    {
+      "num": "209",
+      "street": "JARVIS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.65364114981676,
+      "lng": -79.37401000479151,
+      "num_app": "26 136937 STE 13 OZ",
+      "url": "",
+      "desc": "Proposed 32-storey mixed-use building, containing 315 rental dwelling units, 377.0 sq. m. of non-residential gross floor area and 22,153.0 sq.m of residential GFA, resulting in a Floor Space Index of approximately 13.2."
+    },
+    {
+      "num": "219",
+      "street": "JARVIS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.65396809050061,
+      "lng": -79.37410825228868,
+      "num_app": "26 136937 STE 13 OZ",
+      "url": "",
+      "desc": "Proposed 32-storey mixed-use building, containing 315 rental dwelling units, 377.0 sq. m. of non-residential gross floor area and 22,153.0 sq.m of residential GFA, resulting in a Floor Space Index of approximately 13.2."
+    },
+    {
+      "num": "440",
+      "street": "JARVIS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.66336361984024,
+      "lng": -79.37875705726597,
+      "num_app": "25 228933 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=MDwUKJWQAa9zG6NjJqlQiA%3D%3D",
+      "desc": "Site Plan Approval for a 56-storey mixed-use building. The proposed building contains a total of 579 dwelling units, of which 36 are rental replacement units, and a total of approximately 4,739 square metres of institutional space for the Sick Kids Centre for Community Mental Health located in 440 Jarvis Street."
+    },
+    {
+      "num": "49",
+      "street": "JACKES",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.68316639631289,
+      "lng": -79.39060263733887,
+      "num_app": "21 230439 STE 11 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=7uiUSdGc6DXTSVBMSlm46Q%3D%3D",
+      "desc": "Site plan approval for a  19-storey residential building. Related Zoning By-law Amendment application approved at the Ontario Land Tribunal on November 26, 2024, final order pending fulfillment of conditions."
+    },
+    {
+      "num": "43",
+      "street": "JUNCTION",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.665787422440935,
+      "lng": -79.46478171358264,
+      "num_app": "24 229283 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=UlPHs0tRI4WV%2FdVp43pCjg%3D%3D",
+      "desc": "This proposal for an Official Plan Amendment  to reduce the employment gross floor area and modify the affordable housing provisions required by SASP 782 to allow for the proposed development submitted through the Zoning By-law Amendment application (file no. 21 182017 WET 05 OZ) to proceed."
+    },
+    {
+      "num": "5",
+      "street": "JUNCTION",
+      "type": "RD",
+      "dir": "",
+      "lat": 43.66635912028366,
+      "lng": -79.46205654588846,
+      "num_app": "24 229283 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=UlPHs0tRI4WV%2FdVp43pCjg%3D%3D",
+      "desc": "This proposal for an Official Plan Amendment  to reduce the employment gross floor area and modify the affordable housing provisions required by SASP 782 to allow for the proposed development submitted through the Zoning By-law Amendment application (file no. 21 182017 WET 05 OZ) to proceed."
+    },
+    {
+      "num": "561",
+      "street": "JARVIS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.666159298520185,
+      "lng": -79.37888159189265,
+      "num_app": "22 185924 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=xc%2BtfyvcCtvMzVys5AdOhg%3D%3D",
+      "desc": "Proposal to facilitate the redevelopment of the subject site (currently occupied by a 4-storey residential building and townhouses) with a 58-storey residential building. The building would consist of a 4- to 9-storey pedestrian scale podium element and an architecturally distinctive 49-storey tower element containing 818 residential dwelling units (including 31 rental replacement units). A total gross floor area of 43,300 square metres is proposed, comprised of 43,203.2 square metres of residential gross floor area and 96.8 square metres of retail gross floor area."
+    },
+    {
+      "num": "561",
+      "street": "JARVIS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.666159298520185,
+      "lng": -79.37888159189265,
+      "num_app": "22 185925 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qdEN58vxP4ApZS%2FcWsFTTg%3D%3D",
+      "desc": "Proposal to facilitate the redevelopment of the subject site (currently occupied by a 4-storey residential building and townhouses) with a 58-storey residential building. The building would consist of a 4- to 9-storey podium element and 49-storey tower element containing 680 residential dwelling units (including 31 rental replacement units). A total gross floor area of 42658 square metres is proposed, comprising 42986 square metres of residential gross floor area and 327 square metres of retail gross floor area, resulting in an overall density equivalent to 23.25 times the area of the subject site."
+    },
+    {
+      "num": "13",
+      "street": "JOHN",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.69874688334168,
+      "lng": -79.51750919275975,
+      "num_app": "23 137642 WET 05 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
+      "desc": ""
+    },
+    {
+      "num": "15",
+      "street": "JOHN",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.64223677414042,
+      "lng": -79.38876534845329,
+      "num_app": "23 137642 WET 05 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
+      "desc": ""
+    },
+    {
+      "num": "17",
+      "street": "JOHN",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.698865359311675,
+      "lng": -79.51744874496394,
+      "num_app": "23 137642 WET 05 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
+      "desc": ""
+    },
+    {
+      "num": "17",
+      "street": "JOHN",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.642320408413,
+      "lng": -79.38880434987199,
+      "num_app": "23 137642 WET 05 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
+      "desc": ""
+    },
+    {
+      "num": "19",
+      "street": "JOHN",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.69891631993793,
+      "lng": -79.51742250731225,
+      "num_app": "23 137642 WET 05 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=aSP%2FFmlQWHm%2FFeYiqbLuOw%3D%3D",
+      "desc": ""
+    },
+    {
+      "num": "5",
+      "street": "JOPLING",
+      "type": "AVE",
+      "dir": "S",
+      "lat": 43.638297063915466,
+      "lng": -79.5391810947224,
+      "num_app": "23 138662 WET 03 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=uXpLr3tWjBKrXJKbGt47Pw%3D%3D",
+      "desc": "The Site Plan Control application is proposing a 39-storey residential building with 436 dwelling units, a total gross floor area of 25017 square metres, resulting in a floor space index of 17.3 times the lot area, 25 parking spaces are proposed in one level of underground garage, including 19 for Residential and 6 for visitor."
+    },
+    {
+      "num": "21",
+      "street": "JOHN",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.699060306575866,
+      "lng": -79.51723715628124,
+      "num_app": "22 218732 WET 05 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=AQFh%2FwqP%2FLjFE5YF5it0Lw%3D%3D",
+      "desc": "Proposal to construct a new 42 storey mixed-use building with commercial uses at grade."
+    },
+    {
+      "num": "295",
+      "street": "JARVIS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.6567030590944,
+      "lng": -79.37498299008588,
+      "num_app": "22 229719 STE 13 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=1D6hQf1Sw0kpNNoD3JwNoQ%3D%3D",
+      "desc": "Proposal to facilitate the redevelopment of the site with a 60-storey residential building with a 9-storey podium along Jarvis Street. Overall, the proposal consists of a total of 44,530 square metres of gross floor area. The proposed building will contain a total of 618 dwelling units."
+    },
+    {
+      "num": "295",
+      "street": "JARVIS",
+      "type": "ST",
+      "dir": "",
+      "lat": 43.6567030590944,
+      "lng": -79.37498299008588,
+      "num_app": "22 229720 STE 13 OZ",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=xw5l%2Fj79i30sVf9vOp273A%3D%3D",
+      "desc": "Proposal to facilitate the redevelopment of the site with a 36-storey residential building containing a total of 414 dwelling units (33 replacement rental units and 381 new units)."
+    },
+    {
+      "num": "1",
+      "street": "JEFFERSON",
+      "type": "AVE",
+      "dir": "",
+      "lat": 43.633606411266136,
+      "lng": -79.42067132679603,
+      "num_app": "23 154398 STE 10 SA",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=6j4WAj5FOzrBH4AhM4s3uQ%3D%3D",
+      "desc": "Ontario Line Exhibition Station"
     }
   ]
 }
