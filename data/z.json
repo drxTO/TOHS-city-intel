@@ -204,6 +204,15 @@
       "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
     },
     {
+      "num": "94",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "26 150725 BLD",
+      "status": "Response Received",
+      "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
+    },
+    {
       "num": "10",
       "street": "ZAHARIAS",
       "type": "CRT",
@@ -211,15 +220,6 @@
       "permit": "23 196087 HVA",
       "status": "Inspection",
       "desc": "HVAC -  INTERIOR WALL REMOVALS ON MAIN FLOOR, HEIGHT INCREASE OF REAR MAIN FLOOR WINDOW, MUDROOM DOOR SHIFT ON MAIN FLOOR, BASEMENT INTERIOR WALL REMOVALS"
-    },
-    {
-      "num": "94",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "26 150725 BLD",
-      "status": "Examiner's Notice Sent",
-      "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
     },
     {
       "num": "105",
@@ -535,6 +535,15 @@
       "type": "ST",
       "dir": "",
       "postal": "M8Z",
+      "unit": "613",
+      "reg": "STR-2605-GMRLBT"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
       "unit": "504",
       "reg": "STR-2601-HZPYBZ"
     },
@@ -665,15 +674,6 @@
       "reg": "STR-2605-GPWFBT"
     },
     {
-      "num": "36",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "postal": "M8Z",
-      "unit": "613",
-      "reg": "STR-2605-GMRLBT"
-    },
-    {
       "num": "99",
       "street": "ZAPH",
       "type": "AVE",
@@ -719,28 +719,6 @@
       "desc": "Proposed Phase 1 Subdivision of the Lawrence Heights Redevelopment includes the provision of new pulbic streets, and a public park.  Cross Reference OPA/Rezoning file 10 140382 NNY 15 OZ and Rental Housing Demolition File 10 140409 NNY 00 RH."
     },
     {
-      "num": "15",
-      "street": "ZACHARY",
-      "type": "CRT",
-      "dir": "",
-      "lat": 43.72028451717529,
-      "lng": -79.44744775089698,
-      "num_app": "17 112623 NNY 15 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qK4ZGFuvGYgH%2FM7uoNYm8Q%3D%3D",
-      "desc": "Lawrence Heights Phase 1 - Toronto Community Housing Corporations.  Draft plan of subdivision application for the North East District of phase 1 of the Lawrence Heights revitalization.  The application proposes the creation of new public roads, private development blocks and a new public park.  Please also see applications 10 140382 NNY 15 OZ and 10 170538 NNY 15 SB."
-    },
-    {
-      "num": "45",
-      "street": "ZACHARY",
-      "type": "CRT",
-      "dir": "",
-      "lat": 43.720471638535074,
-      "lng": -79.4483209176331,
-      "num_app": "17 112623 NNY 15 SB",
-      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qK4ZGFuvGYgH%2FM7uoNYm8Q%3D%3D",
-      "desc": "Lawrence Heights Phase 1 - Toronto Community Housing Corporations.  Draft plan of subdivision application for the North East District of phase 1 of the Lawrence Heights revitalization.  The application proposes the creation of new public roads, private development blocks and a new public park.  Please also see applications 10 140382 NNY 15 OZ and 10 170538 NNY 15 SB."
-    },
-    {
       "num": "31-45",
       "street": "ZACHARY",
       "type": "CRT",
@@ -769,6 +747,28 @@
       "dir": "",
       "lat": 43.72022971595769,
       "lng": -79.44770020186698,
+      "num_app": "17 112623 NNY 15 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qK4ZGFuvGYgH%2FM7uoNYm8Q%3D%3D",
+      "desc": "Lawrence Heights Phase 1 - Toronto Community Housing Corporations.  Draft plan of subdivision application for the North East District of phase 1 of the Lawrence Heights revitalization.  The application proposes the creation of new public roads, private development blocks and a new public park.  Please also see applications 10 140382 NNY 15 OZ and 10 170538 NNY 15 SB."
+    },
+    {
+      "num": "15",
+      "street": "ZACHARY",
+      "type": "CRT",
+      "dir": "",
+      "lat": 43.72028451717529,
+      "lng": -79.44744775089698,
+      "num_app": "17 112623 NNY 15 SB",
+      "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qK4ZGFuvGYgH%2FM7uoNYm8Q%3D%3D",
+      "desc": "Lawrence Heights Phase 1 - Toronto Community Housing Corporations.  Draft plan of subdivision application for the North East District of phase 1 of the Lawrence Heights revitalization.  The application proposes the creation of new public roads, private development blocks and a new public park.  Please also see applications 10 140382 NNY 15 OZ and 10 170538 NNY 15 SB."
+    },
+    {
+      "num": "45",
+      "street": "ZACHARY",
+      "type": "CRT",
+      "dir": "",
+      "lat": 43.720471638535074,
+      "lng": -79.4483209176331,
       "num_app": "17 112623 NNY 15 SB",
       "url": "http://app.toronto.ca/AIC/index.do?folderRsn=qK4ZGFuvGYgH%2FM7uoNYm8Q%3D%3D",
       "desc": "Lawrence Heights Phase 1 - Toronto Community Housing Corporations.  Draft plan of subdivision application for the North East District of phase 1 of the Lawrence Heights revitalization.  The application proposes the creation of new public roads, private development blocks and a new public park.  Please also see applications 10 140382 NNY 15 OZ and 10 170538 NNY 15 SB."
