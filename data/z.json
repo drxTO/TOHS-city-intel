@@ -195,15 +195,6 @@
       "desc": "Plumbing  - Proposal to construct a new 35 storey residential condominium building (plus 2 stories of mechanical penthouse) complete with 459 dwelling units atop a 5 level below grade parking facility. rev. 01: Mechanical drawings describing revisions to the Pool drainage,reflecting amendments to satisfy the City Plumbing Inspector request"
     },
     {
-      "num": "94",
-      "street": "ZAPH",
-      "type": "AVE",
-      "dir": "",
-      "permit": "26 150725 BLD",
-      "status": "Response Received",
-      "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
-    },
-    {
       "num": "39",
       "street": "ZENITH",
       "type": "DR",
@@ -211,6 +202,15 @@
       "permit": "19 149046 HVA",
       "status": "Inspection",
       "desc": "HVAC - Proposal to construct a second storey addition and interior alterations to existing one storey single family dwelling."
+    },
+    {
+      "num": "94",
+      "street": "ZAPH",
+      "type": "AVE",
+      "dir": "",
+      "permit": "26 150725 BLD",
+      "status": "Response Received",
+      "desc": "Proposal to legalize an already finished basement as per OBC in order to register the basement as a second dwelling unit."
     },
     {
       "num": "10",
@@ -339,6 +339,15 @@
       "postal": "M8Z",
       "unit": "330",
       "reg": "STR-2401-JGRDVZ"
+    },
+    {
+      "num": "36",
+      "street": "ZORRA",
+      "type": "ST",
+      "dir": "",
+      "postal": "M8Z",
+      "unit": "1007",
+      "reg": "STR-2604-HSFSBY"
     },
     {
       "num": "36",
@@ -645,15 +654,6 @@
       "postal": "M8Z",
       "unit": "3410",
       "reg": "STR-2604-GZXHPV"
-    },
-    {
-      "num": "36",
-      "street": "ZORRA",
-      "type": "ST",
-      "dir": "",
-      "postal": "M8Z",
-      "unit": "1007",
-      "reg": "STR-2604-HSFSBY"
     },
     {
       "num": "36",
